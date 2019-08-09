@@ -1,0 +1,11 @@
+---
+---
+
+@import "{{ site.theme }}";
+.masthead {
+    height: 50vh;
+    background-image: url('/assets/images/header.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
