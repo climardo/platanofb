@@ -1,0 +1,8 @@
+.masthead {
+    height: 22vh;
+    background-image: url('/assets/images/header.jpg');
+    background-size: cover;
+    background-position: 50% 62%;
+    background-repeat: no-repeat;
+    overflow: hidden;
+}
