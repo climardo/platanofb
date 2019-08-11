@@ -6,3 +6,12 @@
     background-repeat: no-repeat;
     overflow: hidden;
 }
+
+.vertical-center {
+    display: flex;
+    align-items: center;
+}
+
+.logo-col {
+    max-width: 100px;
+}

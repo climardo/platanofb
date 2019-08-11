@@ -1,5 +1,6 @@
 - name: Submit lineup
   link: #
+  icon: <i class="fas fa-football-ball"></i>
 - name: Home
   link: /
 - name: Updates

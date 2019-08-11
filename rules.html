@@ -2,4 +2,31 @@
 layout: default
 title: Rules
 ---
-<h1>Rules</h1>
+<h1 class="display-2">Rules <i class="fas fa-gavel"></i></h1>
+<ul class="list unstyled">
+    <li>16-week season</li>
+    <li>$50 annual membership fee<br />
+        <span class="text-muted">Annual fees must be paid before 2019 NFL season kickoff</span>
+    </li>
+    <li>Each week, win money for placing:</li>
+    <ul>
+        <li>1st - $30</li>
+        <li>2nd - $16</li>
+        <li>3rd - $10</li>
+    </ul>
+    <li>Use only free resources for research</li>
+</ul>
+
+<h3>Notes</h3>
+<p>The commissioner will handle collecting membership fees and distributing prize money. Use the links below to learn about accepted P2P payment services</p>
+<div class="container">
+    <div class="row">
+        {% for item in site.data.payment %}
+        <div class="col-md-3 vertical-center p-1 logo-col">
+            <a href="{{ item.link }}" target="_blank">  
+            <img class="img-fluid" src="{{ item.logo }}" alt="{{ item.name }}" />
+            </a>
+        </div>
+        {% endfor %}
+    </div>
+</div>

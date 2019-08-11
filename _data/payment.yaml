@@ -1,0 +1,16 @@
+- name: Google Pay
+  logo: /assets/images/googlepay.png
+  link: https://pay.google.com/about/learn/
+  myinfo: 
+- name: Venmo
+  logo: /assets/images/venmo.png
+  link: https://venmo.com/about/product/
+  myinfo: <img class="img-fluid" src="/assets/images/myvenmo.png" alt="Venmo"
+- name: PayPal
+  logo: /assets/images/paypal.png
+  link: https://www.paypal.com/webapps/mpp/how-paypal-works/overview
+  myinfo: <a href="https://paypal.me/climardo" target="_blank">climardo</a>
+- name: Zelle
+  logo: /assets/images/zelle.png
+  link: https://www.zellepay.com/how-it-works
+  myinfo: user - climardo
