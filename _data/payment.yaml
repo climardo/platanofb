@@ -1,16 +1,20 @@
+- name: Apple Pay Cash
+  logo: /assets/images/applepay.svg
+  link: https://support.apple.com/en-us/HT207875
+  myinfo: <a href="/assets/images/carlos-limardo.vcf"><h1><i class="fas fa-address-card fa-2x custom-black"></i></h1>climardo@gmail.com</a>
 - name: Google Pay
-  logo: /assets/images/googlepay.png
+  logo: /assets/images/googlepay.svg
   link: https://pay.google.com/about/learn/
-  myinfo: 
-- name: Venmo
-  logo: /assets/images/venmo.png
-  link: https://venmo.com/about/product/
-  myinfo: <img class="img-fluid" src="/assets/images/myvenmo.png" alt="Venmo"
+  myinfo: <a href="/assets/images/carlos-limardo.vcf"><h1><i class="fas fa-address-card fa-2x custom-green"></i></h1>climardo@gmail.com</a>
 - name: PayPal
   logo: /assets/images/paypal.png
   link: https://www.paypal.com/webapps/mpp/how-paypal-works/overview
-  myinfo: <a href="https://paypal.me/climardo" target="_blank">climardo</a>
+  myinfo: <a href="https://paypal.me/climardo" target="_blank"><img class="img-fluid" src="/assets/images/mypaypal.jpg" alt="PayPal" /></a>
+- name: Venmo
+  logo: /assets/images/venmo.png
+  link: https://venmo.com/about/product/
+  myinfo: <a href="https://venmo.com/code?user_id=2296666946273280558" target="_blank"><img class="img-fluid" src="/assets/images/myvenmo.jpeg" alt="Venmo" /></a>
 - name: Zelle
   logo: /assets/images/zelle.png
   link: https://www.zellepay.com/how-it-works
-  myinfo: user - climardo
+  myinfo: <a href="/assets/images/carlos-limardo.vcf"><h1><i class="fas fa-address-card fa-2x custom-purple"></i></h1>climardo@gmail.com</a>

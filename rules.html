@@ -18,15 +18,19 @@ title: Rules
 </ul>
 
 <h3>Notes</h3>
-<p>The commissioner will handle collecting membership fees and distributing prize money. Use the links below to learn about accepted P2P payment services</p>
-<div class="container">
-    <div class="row">
-        {% for item in site.data.payment %}
-        <div class="col-md-3 vertical-center p-1 logo-col">
-            <a href="{{ item.link }}" target="_blank">  
-            <img class="img-fluid" src="{{ item.logo }}" alt="{{ item.name }}" />
-            </a>
+<p>The commissioner will handle collecting membership fees and distributing prize money. Use the links below to learn
+    about accepted P2P payment services</p>
+
+<div class="card-columns">
+    {% for item in site.data.payment %}
+    <div class="card p-1 text-center">
+        <a href="{{ item.link }}" target="_blank"><img class="card-img-top" src="{{ item.logo}}" alt="{{ item.name }}"></a>
+        <div class="card-body">
+            <p class="card-text">{{ item.myinfo }}</p>
+            <footer class="footer">
+                <small class="text-muted">{{ item.name }}</small>
+            </footer>
         </div>
-        {% endfor %}
     </div>
+    {% endfor %}
 </div>
