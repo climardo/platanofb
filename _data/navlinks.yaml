@@ -1,13 +1,12 @@
-- name: Submit lineup
-  link: #
-  icon: <i class="fas fa-football-ball"></i>
+- name: Submit lineup <i class="fas fa-football-ball"></i>
+  link: /
 - name: Home
   link: /
 - name: Updates
-  link: updates.html
+  link: /updates.html
 - name: Rules
-  link: rules.html
+  link: /rules.html
 - name: Resources
-  link: resources.html
+  link: /resources.html
 - name: Stats
-  link: stats.html
+  link: /stats.html

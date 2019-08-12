@@ -1,4 +1,4 @@
-incemental: true
+incremental: true
 defaults:
   - scope:
       path: "assets/img"

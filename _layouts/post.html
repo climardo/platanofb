@@ -4,28 +4,14 @@
 <head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 
-
-    <!-- Begin Jekyll SEO tag v2.5.0 -->
-    <title>Platano Football | 2019 DraftKings League</title>
-    <meta name="generator" content="Jekyll v3.8.5">
-    <meta property="og:title" content="platanofb">
-    <meta property="og:locale" content="en_US">
-    <meta name="description" content="Platano Football">
-    <meta property="og:description" content="Platano Football">
-    <link rel="canonical" href="/">
-    <meta property="og:url" content="/">
-    <meta property="og:site_name" content="platanofb">
-    <script type="application/ld+json">
-		{"name":"platanofb","description":"Platano Football","@type":"WebSite","url":platanofb.com/","headline":"platanofb","@context":"http://schema.org"}
-    </script>
-    {% include main.css.html %}
-    <!-- End Jekyll SEO tag -->
+    {% include favicon.html %}
+    {% include jekyll-seo-tag.html %}
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="/assets/css/main.css?v=0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
-        integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 </head>
 
 <body>
@@ -36,7 +22,7 @@
         <div class="row">
             <div class="col">
                 <h1>{{ page.title }}</h1>
-                <p class="lead">{{ page.date | date_to_string }} - {{ page.author }}</p>
+                <p class="lead text-muted">{{ page.author }} | {{ page.date | date_to_string }} </p>
                 {{ content }}
             </div>
         </div>
