@@ -17,7 +17,7 @@
   link: https://venmo.com/about/product/
   myinfo: <a href="https://venmo.com/code?user_id=2296666946273280558" target="_blank"><img class="img-fluid" src="/assets/images/myvenmo.svg" alt="Venmo" /></a>
 - name: Zelle
-  logo: /assets/images/zelle.png
+  logo: /assets/images/zelle.svg
   link: https://www.zellepay.com/how-it-works
   myinfo: <a href="/assets/images/carlos-limardo.vcf"><i class="fas fa-address-card fa-6x custom-purple"></i></a>
   contact: climardo@gmail.com
