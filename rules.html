@@ -21,16 +21,18 @@ title: Rules
 <p>The commissioner will handle collecting membership fees and distributing prize money. Use the links below to learn
     about accepted P2P payment services</p>
 
+<div class="container col-lg-8 ml-auto">
 <div class="card-columns">
     {% for item in site.data.payment %}
     <div class="card p-1 text-center">
-        <a href="{{ item.link }}" target="_blank"><img class="card-img-top" src="{{ item.logo}}" alt="{{ item.name }}"></a>
+        <a href="{{ item.link }}" target="_blank"><img class="card-img-top" src="{{ item.logo }}" alt="{{ item.name }}"></a>
         <div class="card-body">
+			{% if item.contact %}
+			<div class="card-subtitle">{{ item.contact }}</div>
+			{% endif %}
             <p class="card-text">{{ item.myinfo }}</p>
-            <footer class="footer">
-                <small class="text-muted">{{ item.name }}</small>
-            </footer>
         </div>
     </div>
     {% endfor %}
+</div>
 </div>
