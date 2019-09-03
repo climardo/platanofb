@@ -8,23 +8,23 @@ I'm sorry for the barrage of invites that have gone out over the past few days. 
 <div class="container">
     <div class="row">
         <div class="col-md border rounded p-2 m-1 text-center">
-            <a data-toggle="modal" data-target="#exampleModal"><img class="img-fluid" src="/assets/images/withdraw-1.jpg"/></a>
+            <img class="img-fluid" src="/assets/images/withdraw-1.jpg"/>
             <small>Open DraftKings app, select Upcoming, select the contest</small>
         </div>
         <div class="col-md border rounded p-2 m-1 text-center">
-            <a data-toggle="modal" data-target="#exampleModal"><img class="img-fluid" src="/assets/images/withdraw-2.jpg"/></a>
+            <img class="img-fluid" src="/assets/images/withdraw-2.jpg"/>
             <small>Select your entry</small>
         </div>
         <div class="col-md border rounded p-2 m-1 text-center">
-            <a data-toggle="modal" data-target="#exampleModal"><img class="img-fluid" src="/assets/images/withdraw-3.jpg"/></a>
+            <img class="img-fluid" src="/assets/images/withdraw-3.jpg"/>
             <small>Select the menu (&#8942;)</small>
         </div>
         <div class="col-md border rounded p-2 m-1 text-center">
-            <a data-toggle="modal" data-target="#exampleModal"><img class="img-fluid" src="/assets/images/withdraw-4.jpg"/></a>
+            <img class="img-fluid" src="/assets/images/withdraw-4.jpg"/>
             <small>Select Withdraw Entry</small>
         </div>
         <div class="col-md border rounded p-2 m-1 text-center">
-            <a data-toggle="modal" data-target="#exampleModal"><img class="img-fluid" src="/assets/images/withdraw-5.jpg"/></a>
+            <img class="img-fluid" src="/assets/images/withdraw-5.jpg"/>
             <small>Select Withdraw Entry again to confirm</small>
         </div>
     </div>
