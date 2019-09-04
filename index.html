@@ -2,15 +2,30 @@
 layout: default
 title: Home
 ---
+{% assign submit = site.data.navlinks[0] %}
 <div class="container">
     <div class="row justify-content-center">
-        <div class="col-md-8">
-            <h2 class="text-center">2019 NFL Season Kickoff in...</h2>
-            <div data-type="countdown" data-id="1419276" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%"><a href="//www.tickcounter.com/countdown/1419276/2019-nfl-season-kickoff" title="2019 NFL Season Kickoff">2019 NFL Season Kickoff</a><a href="//www.tickcounter.com/" title="Countdown">Countdown</a></div><script>(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js"; pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));</script>
+        <div class="col-md-6">
+				<div class="card text-white bg-dark rounded">
+					<div class="card-body text-center">
+						<h3 class="card-title">Week 1 starts in...</h3>
+						<div data-type="countdown" data-id="1420488" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%; margin-bottom: 1em">
+							<a href="//www.tickcounter.com/countdown/1420488/2019-nfl-season-kickoff" title="2019 NFL Season Kickoff">2019 NFL Season Kickoff</a>
+							<a href="//www.tickcounter.com/" title="Countdown">Countdown</a>
+						</div>
+						<script>
+							(function(d, s, id) { var js, pjs = d.getElementsByTagName(s)[0];
+							if (d.getElementById(id)) return; js = d.createElement(s);
+							js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js";
+							pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));
+						</script>
+						<a href="{{ submit.link }}" class="btn btn-lg" style="color: #FFFFFF; background: #9AC434;">{{ submit.name }}</a>
+					</div>
+				</div>
         </div>
     </div>
 </div>
-<div class="container">
+<div class="container pt-3">
     <div class="row mt-3">
         <div class="col-md-4 text-justify p-3">
             <h3 class="text-center">Are you ready?</h3>
