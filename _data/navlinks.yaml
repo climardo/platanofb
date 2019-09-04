@@ -3,10 +3,10 @@
 - name: Home
   link: /
 - name: Updates
-  link: /updates.html
+  link: /updates
 - name: Rules
-  link: /rules.html
+  link: /rules
 - name: Help
-  link: /help.html
+  link: /help
 - name: Stats
-  link: /stats.html
+  link: /stats
