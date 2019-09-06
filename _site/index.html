@@ -109,6 +109,11 @@
 
                 
 
+<script>
+function btnChg(color, btn) {
+    btn.style.background = color;
+}
+</script>
 <div class="container d-none">
     <div class="row justify-content-center">
         <div class="col-md-6">
@@ -125,7 +130,7 @@
                         js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js";
                         pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));
                     </script>
-                    <a href="https://www.draftkings.com/draft/contest/75607984" class="btn btn-lg" style="color: #FFFFFF; background: #9AC434;">Submit lineup <i class="fas fa-football-ball"></i></a>
+                    <a href="https://www.draftkings.com/draft/contest/75607984" class="btn btn-lg" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Submit lineup <i class="fas fa-football-ball"></i></a>
                 </div>
             </div>
         </div>
@@ -135,7 +140,7 @@
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center">
-            <a href="https://www.draftkings.com/contest/gamecenter/75607984" class="btn btn-lg" style="color: #FFFFFF; background: #9AC434;">Week 1 contest</a>
+            <a id="contest-button" href="https://www.draftkings.com/contest/gamecenter/75607984" class="btn btn-lg" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week 1 contest</a>
         </div>
     </div>
 </div>
