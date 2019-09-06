@@ -2,7 +2,7 @@
 layout: default
 title: Rules
 ---
-<div class="container col-md-9 ml-auto">
+<div class="container">
     <h1>Rules <i class="fas fa-gavel"></i></h1>
     <ul class="list unstyled">
         <li>16-week season</li>
@@ -23,17 +23,19 @@ title: Rules
     
     <h3>Money</h3>
     <p>The commissioner will handle collecting membership fees and distributing prize money. Use the links below to learn about accepted P2P payment services</p>
-    <div class="card-columns">
-        {% for item in site.data.payment %}
-        <div class="card p-1 text-center">
-            <a href="{{ item.link }}" target="_blank"><img class="card-img-top" src="{{ item.logo }}" alt="{{ item.name }}"></a>
-            <div class="card-body">
-                {% if item.contact %}
-                <div class="card-subtitle">{{ item.contact }}</div>
-                {% endif %}
-                <p class="card-text">{{ item.myinfo }}</p>
+    <div class="container col-md-8 ml-auto">
+        <div class="card-columns">
+            {% for item in site.data.payment %}
+            <div class="card p-1 text-center">
+                <a href="{{ item.link }}" target="_blank"><img class="card-img-top" src="{{ item.logo }}" alt="{{ item.name }}"></a>
+                <div class="card-body">
+                    {% if item.contact %}
+                    <div class="card-subtitle">{{ item.contact }}</div>
+                    {% endif %}
+                    <p class="card-text">{{ item.myinfo }}</p>
+                </div>
             </div>
+            {% endfor %}
         </div>
-        {% endfor %}
     </div>
 </div>
