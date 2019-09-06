@@ -3,12 +3,13 @@ layout: default
 title: Home
 ---
 {% assign submit = site.data.navlinks[0] %}
-{% assign contest = "https://www.draftkings.com/contest/gamecenter/75607984" %}
+
 <script>
 function btnChg(color, btn) {
     btn.style.background = color;
 }
 </script>
+
 <div class="container d-none">
     <div class="row justify-content-center">
         <div class="col-md-6">
@@ -32,13 +33,23 @@ function btnChg(color, btn) {
     </div>
 </div>
 
+
 <div class="container">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center">
-            <a id="contest-button" href="{{ contest }}" class="btn btn-lg" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week 1 contest</a>
+            <a id="contest-button" href="{{ submit.link }}" class="btn btn-lg btn-block" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week 1 contest <i class="fas fa-football-ball"></i></a>
         </div>
     </div>
 </div>
+
+<div class="container">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+                <a class="twitter-timeline" data-height="500" data-dnt="true" data-theme="dark" href="https://twitter.com/carloslimardo/lists/fantasy-football?ref_src=twsrc%5Etfw">A Twitter List by carloslimardo</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+        </div>
+    </div>
+</div>
+
 <div class="container">
     <div class="row">
         <div class="col-md-4 text-justify p-3">
