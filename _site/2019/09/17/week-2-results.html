@@ -95,7 +95,7 @@
     </div>
 </nav>
     <!-- Header -->
-<header class="masthead">
+<header class="masthead" id="site-header">
     <div class="container h-100">
         <div class="row h-100 align-items-center">
             <div class="col-12 text-center">
@@ -113,7 +113,16 @@
 
                 <h1>2019 Week 2 Results</h1>
                 <p class="lead text-muted">geru | 17 Sep 2019 </p>
-                <p>Congratulations to <a href="https://www.draftkings.com/contest/gamecenter/76052450">this week’s</a> winners:</p>
+                <script type="text/javascript">
+document.onload = setBg();
+function setBg() {
+    header = document.getElementById('site-header');
+    header.style.backgroundImage = "url('/assets/images/2019/brees.webp')";
+    header.style.backgroundPosition = "50% 30%";
+}
+</script>
+
+<p>Congratulations to <a href="https://www.draftkings.com/contest/gamecenter/76052450">this week’s</a> winners:</p>
 
 <ol>
     <li>XplicitK - 192.38 fpts $30</li>
