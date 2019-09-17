@@ -7,7 +7,7 @@ author: geru
 document.onload = setBg();
 function setBg() {
     header = document.getElementById('site-header');
-    header.style.backgroundImage = "url('/assets/images/2019/brees.webp')";
+    header.style.backgroundImage = "url('/assets/images/2019/brees.jpg')";
     header.style.backgroundPosition = "50% 30%";
 }
 </script>
