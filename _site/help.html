@@ -49,9 +49,8 @@
 </head>
 
 <body>
-
     <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top" onload="hideRedZone();">
     <div class="container">
         <a class="navbar-brand" href="/">
             <img src="/assets/images/favicon.png" width="30" height="30" class="d-inline-block align-top rounded" alt=""> Platano Football</a>
@@ -60,10 +59,10 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto" id="navlinks">
                 
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.draftkings.com/contest/gamecenter/76052450">Submit lineup <i class="fas fa-football-ball"></i></a>
+                    <a class="nav-link" href="https://www.draftkings.com/contest/gamecenter/76531512">Submit lineup <i class="fas fa-football-ball"></i></a>
                 </li>
                 
                 <li class="nav-item">
@@ -287,7 +286,44 @@
 
     <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+    <script>
+        function btnChg(color, btn) {
+    btn.style.background = color;
+}
 
+function setBg() {
+    header = document.getElementById('site-header');
+    header.style.backgroundImage = "url('')";
+    header.style.backgroundPosition = "";
+}
+
+if ('default' === 'post' && '' !== 'nil') {
+    document.addEventListener('load', setBg());
+}
+
+function hideCountdown() {
+    var d = new Date().getDay();
+    if (d > 4 || d < 2) {
+        document.getElementById("draft").classList.add("d-none");
+    } else {
+        document.getElementById("contest").classList.add("d-none");
+    }
+}
+
+if ('Help' === 'Home') {
+    document.addEventListener('load', hideCountdown());
+}
+
+function hideRedZone() {
+    var day = new Date().getDay();
+    links = document.getElementsByClassName("nav-item")
+    if (day !== 0) {
+        links[1].classList.add("d-none");
+    }
+}
+
+document.addEventListener('load', hideRedZone());
+    </script>
 </body>
 
 </html>

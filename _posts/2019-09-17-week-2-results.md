@@ -2,15 +2,9 @@
 title: 2019 Week 2 Results
 layout: post
 author: geru
+header_image: /assets/images/2019/brees.jpg
+header_pos: 50% 30%
 ---
-<script type="text/javascript">
-document.onload = setBg();
-function setBg() {
-    header = document.getElementById('site-header');
-    header.style.backgroundImage = "url('/assets/images/2019/brees.jpg')";
-    header.style.backgroundPosition = "50% 30%";
-}
-</script>
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/76052450) winners:
 
 {% include 2019-week-2.html %}

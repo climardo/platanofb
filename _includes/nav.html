@@ -1,5 +1,5 @@
 <!-- Navigation -->
-<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top">
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark static-top" onload="hideRedZone();">
     <div class="container">
         <a class="navbar-brand" href="/">
             <img src="/assets/images/favicon.png" width="30" height="30" class="d-inline-block align-top rounded" alt=""> Platano Football</a>
@@ -8,7 +8,7 @@
             <span class="navbar-toggler-icon"></span>
         </button>
         <div class="collapse navbar-collapse" id="navbarResponsive">
-            <ul class="navbar-nav ml-auto">
+            <ul class="navbar-nav ml-auto" id="navlinks">
                 {% for item in site.data.navlinks %}
                 <li class="nav-item{% if page.title == item.name %} active{% endif %}">
                     <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>

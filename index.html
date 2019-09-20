@@ -3,21 +3,18 @@ layout: default
 title: Home
 ---
 {% assign submit = site.data.navlinks[0] %}
+{% assign week = 3 %}
+{% assign countdown = 1449336 %}
+{% assign results = "2019-week-2.html" %}
 
-<script>
-function btnChg(color, btn) {
-    btn.style.background = color;
-}
-</script>
-
-<div class="container d-none">
+<div class="container" id="draft">
     <div class="row justify-content-center">
         <div class="col-md-6">
             <div class="card text-white bg-dark rounded">
                 <div class="card-body text-center">
-                    <h3 class="card-title">Week 3 starts in...</h3>
-                    <div data-type="countdown" data-id="1449336" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%; margin-bottom: 1em">
-                        <a href="https://www.tickcounter.com/countdown/1449336/2019-nfl-season-kickoff" title="2019 NFL Season Kickoff">2019 NFL Season Kickoff</a>
+                    <h3 class="card-title">Week {{ week }} starts in...</h3>
+                    <div data-type="countdown" data-id="{{ countdown }}" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%; margin-bottom: 1em">
+                        <a href="https://www.tickcounter.com/countdown/{{ countdown }}/2019-nfl-season-kickoff" title="2019 NFL Season Kickoff">2019 NFL Season Kickoff</a>
                         <a href="https://www.tickcounter.com/" title="Countdown">Countdown</a>
                     </div>
                     <script>
@@ -33,10 +30,10 @@ function btnChg(color, btn) {
     </div>
 </div>
 
-<div class="container">
+<div class="container" id="contest">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center">
-            <a id="contest-button" href="{{ submit.link }}" class="btn btn-lg btn-block" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week 2 contest <i class="fas fa-football-ball"></i></a>
+            <a id="contest-button" href="{{ submit.link }}" class="btn btn-lg btn-block" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ week }} contest <i class="fas fa-football-ball"></i></a>
         </div>
     </div>
 </div>
@@ -82,7 +79,7 @@ function btnChg(color, btn) {
                 <div class="card-body">
                     <a href="{{ site.posts[0].url }}" class="card-title"><h4>{{ site.posts[0].title }}</h4></a>
                     <p>Congratulations to this week's winners:</p>
-                    {% include 2019-week-2.html %}
+                    {% include {{ results }} %}
                     <a href="{{ site.posts[0].url }}" class="card-link small text-uppercase">Read more</a>
                 </div>
             </div>
