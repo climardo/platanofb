@@ -3,9 +3,11 @@ function btnChg(color, btn) {
 }
 
 function setBg() {
-    header = document.getElementById('site-header');
-    header.style.backgroundImage = "url('{{ page.header_image }}')";
-    header.style.backgroundPosition = "{{ page.header_pos }}";
+    if ('{{ page.header_image }}' !== '') {
+        header = document.getElementById('site-header');
+        header.style.backgroundImage = "url('{{ page.header_image }}')";
+        header.style.backgroundPosition = "{{ page.header_pos }}";
+    }
 }
 
 if ('{{ page.layout }}' === 'post' && '{{ page.header_image }}' !== 'nil') {

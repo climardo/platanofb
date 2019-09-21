@@ -292,9 +292,11 @@
 }
 
 function setBg() {
-    header = document.getElementById('site-header');
-    header.style.backgroundImage = "url('')";
-    header.style.backgroundPosition = "";
+    if ('' !== '') {
+        header = document.getElementById('site-header');
+        header.style.backgroundImage = "url('')";
+        header.style.backgroundPosition = "";
+    }
 }
 
 if ('default' === 'post' && '' !== 'nil') {

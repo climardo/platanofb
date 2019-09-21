@@ -169,9 +169,11 @@
 }
 
 function setBg() {
-    header = document.getElementById('site-header');
-    header.style.backgroundImage = "url('/assets/images/2019/brees.jpg')";
-    header.style.backgroundPosition = "50% 30%";
+    if ('/assets/images/2019/brees.jpg' !== '') {
+        header = document.getElementById('site-header');
+        header.style.backgroundImage = "url('/assets/images/2019/brees.jpg')";
+        header.style.backgroundPosition = "50% 30%";
+    }
 }
 
 if ('post' === 'post' && '/assets/images/2019/brees.jpg' !== 'nil') {
