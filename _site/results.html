@@ -62,7 +62,7 @@
             <ul class="navbar-nav ml-auto" id="navlinks">
                 
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.draftkings.com/contest/gamecenter/76531512">Submit lineup <i class="fas fa-football-ball"></i></a>
+                    <a class="nav-link" href="https://www.draftkings.com/draft/contest/76531512">Submit lineup <i class="fas fa-football-ball"></i></a>
                 </li>
                 
                 <li class="nav-item">
@@ -328,7 +328,7 @@
 
 function setBg() {
     if ('' !== '') {
-        header = document.getElementById('site-header');
+        let header = document.getElementById('site-header');
         header.style.backgroundImage = "url('')";
         header.style.backgroundPosition = "";
     }
@@ -342,6 +342,16 @@ function hideCountdown() {
     var d = new Date().getDay();
     if (d > 4 || d < 2) {
         document.getElementById("draft").classList.add("d-none");
+        let contestLinks = document.getElementsByClassName("contest-link");
+        for (var i = 0; i < contestLinks.length; i++) {
+            let origLink = contestLinks[i].getAttribute("href")
+            let newLink = origLink.replace("draft/contest", "contest/gamecenter");
+            contestLinks[i].setAttribute("href", newLink);
+        }
+        let contestMenuLink = document.getElementsByClassName("nav-link")[0]
+        let origMenuLink = contestMenuLink.getAttribute("href");
+        let newMenuLink = origMenuLink.replace("draft/contest", "contest/gamecenter");
+        contestMenuLink.setAttribute("href", newMenuLink);
     } else {
         document.getElementById("contest").classList.add("d-none");
     }
@@ -352,8 +362,8 @@ if ('Results' === 'Home') {
 }
 
 function hideRedZone() {
-    var day = new Date().getDay();
-    links = document.getElementsByClassName("nav-item")
+    let day = new Date().getDay();
+    let links = document.getElementsByClassName("nav-item")
     if (day !== 0) {
         links[1].classList.add("d-none");
     }

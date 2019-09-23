@@ -23,7 +23,7 @@ title: Home
                         js.id = id; js.src = "//www.tickcounter.com/static/js/loader.js";
                         pjs.parentNode.insertBefore(js, pjs); }(document, "script", "tickcounter-sdk"));
                     </script>
-                    <a href="{{ submit.link }}" class="btn btn-lg" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">{{ submit.name }}</a>
+                    <a href="{{ submit.link }}" class="btn btn-lg contest-link" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">{{ submit.name }}</a>
                 </div>
             </div>
         </div>
@@ -33,7 +33,7 @@ title: Home
 <div class="container" id="contest">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center">
-            <a id="contest-button" href="{{ submit.link }}" class="btn btn-lg btn-block" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ week }} contest <i class="fas fa-football-ball"></i></a>
+            <a href="{{ submit.link }}" class="btn btn-lg btn-block contest-link" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ week }} contest <i class="fas fa-football-ball"></i></a>
         </div>
     </div>
 </div>
