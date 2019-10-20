@@ -42,7 +42,7 @@ This week's Bye teams: Carolina, Cleveland, Pittsburgh, Tampa Bay.
 
 ##### Week 6 analysis
 <ul class="list-unstyled" id="pro-links">
-    <a href="https://www.youtube.com/playlist?list=PLRdw3IjKY2gmFkQRc5vhHWnZo9sV3m0AD" target="_blank"><li>Game Highlights (Week 5) | NFL 2019</li></a>
+    <a href="https://www.youtube.com/playlist?list=PLRdw3IjKY2gmFkQRc5vhHWnZo9sV3m0AD" target="_blank"><li>Game Highlights (Week 6) | NFL 2019</li></a>
     <a href="https://www.cbssports.com/fantasy/football/news/fantasy-football-week-6-stealing-signals-stats-waiver-targets-trade-candidates-for-every-game/" target="_blank"><li>Fantasy Football Week 6 Stealing Signals: Stats, waiver targets, trade candidates for every game</li></a>
     <a href="https://www.fantasypros.com/2019/10/takeaways-from-week-6-game-film-fantasy-football/" target="_blank"><li>Takeaways from Week 6 Game Film (Fantasy Football)</li></a>
 </ul>
