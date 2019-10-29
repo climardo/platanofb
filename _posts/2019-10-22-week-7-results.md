@@ -2,8 +2,8 @@
 title: 2019 Week 7 Results
 layout: post
 author: geru
-header_image: /assets/images/2019/week-6-header.jpg
-header_pos: 50% 20%
+header_image: /assets/images/2019/week-7-header.jpg
+header_pos: 50% 25%
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/77994627) winners:
 
