@@ -7,7 +7,7 @@ header_pos: 50% 25%
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/78922851) winners:
 
-{% include 2019-week-7.html %}
+{% include 2019-week-8.html %}
 
 There are now 5 members with over $40 in total winnings this season; you can check them out [here](https://platanofb.com/results). The winners this week separated themselves from the rest of the pack by at least 13 fpts and all drafted __Mike Evans__ (45.8 fpts $6,600). We are half way through with this season and there are 7 members who have not placed yet. Keep submitting those lineups and try considering something new, like opponent rank against a position or weather conditions. Also, take a look at the analysis links posted [each week](#week-7-analysis) and the resources listed on [Help <i class="far fa-question-circle" aria-hidden="true"></i>](https://platanofb.com/help). You've got 8 weeks to shape up. Win first place each week and that's $280! You will probably also be called out as a cheater, because no one is that lucky, but hey - give it a try! 
 
