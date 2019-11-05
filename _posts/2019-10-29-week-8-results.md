@@ -42,9 +42,9 @@ Week 9 Bye teams: Atlanta, Cincinnati, LA Rams, New Orleans
 </figure>
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">What a catch! 😱<br><br>Darius Slayton hauls in the pass from <a href="https://twitter.com/Daniel_Jones10?ref_src=twsrc%5Etfw">@Daniel_Jones10</a> for his 2nd TD of the day! <a href="https://twitter.com/Young_Slay2?ref_src=twsrc%5Etfw">@Young_Slay2</a> <a href="https://twitter.com/hashtag/GiantsPride?src=hash&amp;ref_src=twsrc%5Etfw">#GiantsPride</a> <a href="https://twitter.com/hashtag/NYGvsDET?src=hash&amp;ref_src=twsrc%5Etfw">#NYGvsDET</a><br><br>📺: FOX<br>📱: NFL app // Yahoo Sports app<br>Watch free on mobile: <a href="https://t.co/a16R5wPShJ">https://t.co/a16R5wPShJ</a> <a href="https://t.co/dVSlQOeqp1">pic.twitter.com/dVSlQOeqp1</a></p>&mdash; NFL (@NFL) <a href="https://twitter.com/NFL/status/1188517683832049669?ref_src=twsrc%5Etfw">October 27, 2019</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
-##### Week 7 analysis
+##### Week 8 analysis
 <ul class="list-unstyled" id="pro-links">
     <a href="https://www.youtube.com/watch?v=tLLp9xIcVQc" target="_blank"><li>Every Touchdown from Week 8 | NFL 2019 Highlights</li></a>
     <a href="https://profootballtalk.nbcsports.com/2019/10/29/pfts-week-nine-power-rankings-2/" target="_blank"><li>PFT’s Week Nine power rankings</li></a>
-    <a href="https://www.draftkings.com/playbook/nfl/2019-fantasy-football-cheat-sheet-nfl-week-9-picks-predictions-preview" target="_blank"><li>2019 Fantasy Football: Adam Levitan's Week 7 Cash Game Review</li></a>
+    <a href="https://www.draftkings.com/playbook/nfl/2019-fantasy-football-cheat-sheet-nfl-week-9-picks-predictions-preview" target="_blank"><li>2019 Fantasy Football Cheat Sheet: Nfl Week 9 Picks, Predictions, Preview</li></a>
 </ul>
