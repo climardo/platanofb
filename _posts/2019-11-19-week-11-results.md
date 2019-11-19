@@ -15,7 +15,7 @@ Only 5 more weeks left in our fantasy football season and there are still 6 memb
 
 Anyway, good luck to everyone this week. Commissioner Maduro, out!
 
-Week 12 Bye teams: Tennessee, NY Giants, Green Bay, Seattle
+Week 12 Bye teams: Kansas City, LA Chargers, Minnesota, Arizona
 
 ##### MVP (Most fpts)
 <figure class="figure">
