@@ -3,7 +3,7 @@ title: 2019 Week 15 Results
 layout: post
 author: geru
 header_image: /assets/images/2019/week-15-header.jpg
-header_pos: 20% 50%
+header_pos: 50% 20%
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/82704813) winners:
 
