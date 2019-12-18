@@ -9,7 +9,9 @@ Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/8
 
 {% include 2019-week-15.html %}
 
-Coming soon...
+Another win for __olivadotij__ who also regains first place for season total points, something that's tracked in [Google Sheets](https://docs.google.com/spreadsheets/d/1XT31vsZxNVIHBnjh06C5_ldHVaeb3wnXAmOGcfci79k/edit?usp=sharing). This win came behind a mountain of points from __Kenyan Drake__ (42.6 fpts $5,000) and unique pick __Jameis Winston__ (36.72 fpts $6,900). And __pshhidk__ gained 76.08 fpts Monday Night, thanks to __Drew Brees__ (31.28 fpts $6,900) and __Michael Thomas__ (33.8 fpts $8,700), which helped him slip past everyone else into third place. 
+
+Week 16 is the final week! I hope you've enjoyed playing this season and made a little money or talked smack along the way. This week's contest will run from Saturday night to Monday Night Football, so you have a few extra days to submit your lineup. Note, the early Saturday games are not included and there is no Thursday Night Football this week. Good luck to you all.
 
 ##### MVP (Most fpts)
 <figure class="figure">
