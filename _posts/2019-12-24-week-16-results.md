@@ -17,9 +17,9 @@ Merry Christmas and happy 2019 season to you all! Week 16 wraps up the year for 
 3. __XplicitK__ 2316.22 fpts
 
 ##### Top earners:
-1. olivadotij $100
-2. glopez28	$87
-3. climardo, rogdiaz $81
+1. __olivadotij__ $100
+2. __glopez28__	$87
+3. __climardo__, __rogdiaz__ $81
 
 * Everyone except for 3 members placed in the top 3 at some point this season. 
 * Week 10 was the highest scoring week for the league with 2785.86 total fpts
