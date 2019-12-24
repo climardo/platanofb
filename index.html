@@ -5,9 +5,9 @@ title: Home
 {% assign submit = site.data.navlinks[0] %}
 {% assign week = 16 %}
 {% assign countdown = 1649458 %}
-{% assign results = "2019-week-15.html" %}
+{% assign results = "2019-week-16.html" %}
 
-<div class="container" id="draft">
+<div class="container d-none" id="draft">
     <div class="row justify-content-center">
         <div class="col-md-6">
             <div class="card text-white bg-dark rounded">
@@ -30,7 +30,7 @@ title: Home
     </div>
 </div>
 
-<div class="container" id="contest">
+<div class="container d-none" id="contest">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center">
             <a href="{{ submit.link }}" class="btn btn-lg btn-block contest-link" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ week }} contest <i class="fas fa-football-ball"></i></a>
