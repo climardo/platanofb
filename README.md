@@ -15,3 +15,4 @@ Follow directions listed here: [Testing your GitHub Pages site locally with Jeky
 
 - [Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
 - [Jekyll Docs](https://jekyllrb.com/docs/step-by-step/01-setup/)
+- [Liquid template language](https://shopify.github.io/liquid/basics/introduction/)
