@@ -62,19 +62,15 @@
             <ul class="navbar-nav ml-auto" id="navlinks">
                 
                 <li class="nav-item">
-                    <a class="nav-link" href="https://www.draftkings.com/draft/contest/77994627">Submit lineup <i class="fas fa-football-ball"></i></a>
+                    <a class="nav-link" href="/updates">Updates</a>
                 </li>
                 
                 <li class="nav-item">
-                    <a class="nav-link" href="http://bfst.to/watch/nfl-red-zone.php">Red Zone <i class="fas fa-tv"></i></a>
+                    <a class="nav-link" href="http://bfst.to/watch/nfl-red-zone">Red Zone <i class="fas fa-tv"></i></a>
                 </li>
                 
                 <li class="nav-item">
                     <a class="nav-link" href="/">Home</a>
-                </li>
-                
-                <li class="nav-item">
-                    <a class="nav-link" href="/updates">Updates</a>
                 </li>
                 
                 <li class="nav-item active">
@@ -98,7 +94,7 @@
     <div class="container h-100">
         <div class="row h-100 align-items-center">
             <div class="col-12 text-center">
-                <h1 class="font-weight-bold text-white custom-shadow">2019 DraftKings League</h1>
+                <h1 class="font-weight-bold text-white custom-shadow">2020 DraftKings League</h1>
                 
             </div>
         </div>
@@ -117,6 +113,9 @@
         <li>$50 annual membership fee<br />
             <span class="text-muted">Annual fees must be paid before 2019 NFL season kickoff</span>
         </li>
+        <ul>
+            <li class="p-3 mb-2 bg-danger text-white">If the season is cancelled, members will receive a prorated refund of $3.125 per remaining week</li>
+        </ul>
         <li>Each week, win money for placing:</li>
         <ul>
             <li>1st - $30<br />
@@ -227,9 +226,9 @@ function hideCountdown() {
     }
 }
 
-if ('Rules' === 'Home') {
+/* if ('Rules' === 'Home') {
     document.addEventListener('load', hideCountdown());
-}
+} */
 
 function hideRedZone() {
     let day = new Date().getDay();
