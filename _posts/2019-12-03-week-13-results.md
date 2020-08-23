@@ -4,6 +4,8 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-13-header.jpg
 header_pos: 50% 50%
+excerpt: "Welcome to the winner's circle, arianna29! This week was full of interesting stats, here's a few:
+* Entering Week 13, the Patriots had allowed 4 passing touchdowns all season. They allowed 4 passing"
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/81677516) winners:
 

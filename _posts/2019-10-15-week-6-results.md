@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-6-header.jpg
 header_pos: 50% 20%
+excerpt: After taking a week off from the top, pshhidk returns to become the first two-time 1st place winner and he accomplished this with zero unique draft picks. JekellP made a 
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/77994627) winners:
 

@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-4-results.jpg
 header_pos: 50% 36%
+excerpt: Chris Godwin (44.2 fpts $6,000) made my job of listing the MVP, Sleeper and Draft Dodger this week easy. But it's players like this that also make playing fantasy football fun
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/77132994) winners:
 

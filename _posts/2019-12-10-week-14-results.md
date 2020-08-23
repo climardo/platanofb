@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-14-header.jpg
 header_pos: 33% 50%
+excerpt: "Now entering the winner's circle: LoLoGREEN! This week had some crazy high scoring games and everyone missed out on the highest scoring player: Drew Bress (43.06 fpts $5,900)"
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/82236369) winners:
 

@@ -2,6 +2,7 @@
 title: DraftKings invite confusion
 layout: post
 author: geru
+excerpt: I'm sorry for the barrage of invites that have gone out over the past few days. Use the Submit lineup link in the nav menu to make sure you're submitting to the correct contest
 ---
 I'm sorry for the barrage of invites that have gone out over the past few days. Use the [Submit lineup <i class="fas fa-football-ball"></i>](https://www.draftkings.com/draft/contest/75607984) link in the nav menu to make sure you're submitting to the correct contest. If you've submitted to another contest, please withdraw your entry so that those contests will stop automatically re-running each week. Here's how:
 

@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-5-results.jpg
 header_pos: 50% 30%
+excerpt: There was something in the water this week and players went crazy. As a result, we have our highest ever score this week of 213.84 fpts by Dash7, congratulations! Also
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/77494939) winners:
 

@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-12-header.jpg
 header_pos: 50% 50%
+excerpt: This week, olivadotij finally earned his first 1st place win of the season and glopez28 placed for the third consecutive week. Both members have placed four times and
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/81196189) winners:
 

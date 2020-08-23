@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/mike-evans-header.png
 header_pos: 50% 36%
+excerpt: I, climardo, took first place this week, but lacked creativity. None of the players that I drafted were unique picks, but only John Ross III (3.2 fpts $5,100) scored in the
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/76531512) winners:
 

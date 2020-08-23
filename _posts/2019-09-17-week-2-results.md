@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/brees.jpg
 header_pos: 50% 30%
+excerpt: If football is a game of inches, then fantasy football is a game of fractional fantasy points. This week, XplicitK took 1st place by a margin of just 0.2 fpts over Halvworld
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/76052450) winners:
 

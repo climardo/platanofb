@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-4-new-contest.png
 header_pos: 50% 40%
+excerpt: Got tired of waiting for DraftKings to automatically generate the contest for Week 4, so I created a new one. Use the Submit Lineup to submit your lineup
 ---
 Got tired of waiting for DraftKings to automatically generate the contest for Week 4, so I created a new one. Use the [Submit Lineup](https://www.draftkings.com/draft/contest/77132994) to submit your lineup. If you've submitted your lineup elsewhere, please withdraw it so that the contest will not automatically generate again. We may need to deal with DraftKings' auto-generated contest this week and next. Going forward, however, I will create contests manually because:
 

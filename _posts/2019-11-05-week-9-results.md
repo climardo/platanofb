@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-9-header.jpg
 header_pos: 50% 25%
+excerpt: "This week's recipe for the beans was finally right and earned ejmesa his first win of the season. Other winners include hlimardo7 with his third second-place finish and"
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/79573034) winners:
 

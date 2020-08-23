@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-11-header.jpg
 header_pos: 50% 50%
+excerpt: In the past five weeks, glopez28 has placed 1st, 2nd and 3rd in that order, although not consecutively, with the latter occurring this week. Impressive. Philip Rivers (19.12
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/80661195) winners:
 

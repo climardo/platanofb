@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-16-header.jpg
 header_pos: 50% 25%
+excerpt: Merry Christmas and happy 2019 season to you all! Week 16 wraps up the year for Platanofb.com. Here's a recap of the season
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/83207559) winners:
 

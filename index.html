@@ -71,8 +71,12 @@ title: Home
                 <div class="card-header">Latest post</div>
                 <div class="card-body">
                     <a href="{{ site.posts[0].url }}" class="card-title"><h4>{{ site.posts[0].title }}</h4></a>
+                    {% if site.posts[0].title contains "Results" %}
                     <p>Congratulations to this week's winners:</p>
                     {% include {{ results }} %}
+                    {% else %}
+                    <p>{{ site.posts[0].excerpt }} ...</p>
+                    {% endif %}
                     <a href="{{ site.posts[0].url }}" class="card-link small text-uppercase">Read more</a>
                 </div>
             </div>

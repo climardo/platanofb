@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-10-header.jpg
 header_pos: 50% 25%
+excerpt: "This week DarbyDiaz3's team scored the most points this league has ever seen: 221.72. He had no unique picks, but every draft choice, with the exception of David Montgomery"
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/80102460) winners:
 

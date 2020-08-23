@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-15-header.jpg
 header_pos: 50% 20%
+excerpt: Another win for olivadotij who also regains first place for season total points, something that's tracked in Google Sheets.
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/82704813) winners:
 

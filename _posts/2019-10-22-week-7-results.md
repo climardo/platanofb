@@ -4,6 +4,7 @@ layout: post
 author: geru
 header_image: /assets/images/2019/week-7-header.jpg
 header_pos: 50% 25%
+excerpt: glopez28 placed for the first time this season with the help of Aaaron Rodgers (46.76 fpts $6,400) and Marvin Jones (43.3 fpts $5,000), who also happened to be the top
 ---
 Congratulations to [this week's](https://www.draftkings.com/contest/gamecenter/77994627) winners:
 
