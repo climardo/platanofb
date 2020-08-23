@@ -2,8 +2,8 @@
     {
         "userName": "arianna29",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "Zelle",
+        "paymentStatus": true
     },
     {
         "userName": "climardo",
@@ -86,8 +86,8 @@
     {
         "userName": "rogdiaz",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "Venmo",
+        "paymentStatus": true
     },
     {
         "userName": "XplicitK",
