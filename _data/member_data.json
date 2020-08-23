@@ -2,103 +2,103 @@
     {
         "userName": "arianna29",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "climardo",
         "active": true,
-		"paymentSource": "Apple Pay",
+        "paymentSource": "Apple Pay",
         "paymentStatus": true
     },
     {
         "userName": "DarbyDiaz3",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "Dash7",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "ejmesa",
         "active": true,
-		"paymentSource": "Venmo",
+        "paymentSource": "Venmo",
         "paymentStatus": true
     },
     {
         "userName": "frank.corn",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "glopez28",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
-        "userName": "Halvworld*",
+        "userName": "Halvworld",
         "active": true,
-		"paymentSource": "Venmo",
+        "paymentSource": "Venmo",
         "paymentStatus": true
     },
     {
         "userName": "hlimardo",
         "active": true,
-		"paymentSource": "Google Pay",
+        "paymentSource": "Google Pay",
         "paymentStatus": true
     },
     {
-        "userName": "JekellP*",
+        "userName": "JekellP",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "jlopez0809",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "LoLoGREEN",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
-        "userName": "olivadotij*",
+        "userName": "olivadotij",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "pshhidk",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "rogdiaz",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     },
     {
         "userName": "XplicitK",
         "active": true,
-		"paymentSource": "PayPal",
+        "paymentSource": "PayPal",
         "paymentStatus": true
     },
     {
         "userName": "GabeM",
         "active": true,
-		"paymentSource": "",
+        "paymentSource": "",
         "paymentStatus": false
     }
 ]
