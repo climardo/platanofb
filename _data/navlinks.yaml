@@ -12,3 +12,5 @@
   link: /help
 - name: Results
   link: /results
+- name: Trashtalk <i class="fab fa-discord"></i>
+  link: /trashtalk
