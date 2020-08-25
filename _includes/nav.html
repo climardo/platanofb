@@ -10,7 +10,7 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto" id="navlinks">
                 {% for item in site.data.navlinks %}
-                <li class="nav-item{% if page.title == item.name %} active{% endif %}">
+                <li class="nav-item{% if item.name contains page.title %} active{% endif %}">
                     <a class="nav-link" href="{{ item.link }}">{{ item.name }}</a>
                 </li>
                 {% endfor %}

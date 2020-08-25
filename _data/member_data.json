@@ -32,8 +32,8 @@
     {
         "userName": "frank.corn",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "Google Pay",
+        "paymentStatus": true
     },
     {
         "userName": "glopez28",

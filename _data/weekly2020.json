@@ -1,0 +1,1447 @@
+[
+    {
+        "week": 16,
+        "contest_id": "83207559",
+        "members": [
+            {
+                "userName": "arianna29",
+                "rank": 1,
+                "fantasyPoints": 169.86
+            },
+            {
+                "userName": "glopez28",
+                "rank": 2,
+                "fantasyPoints": 153.46
+            },
+            {
+                "userName": "albythealbanian",
+                "rank": 3,
+                "fantasyPoints": 148.94
+            },
+            {
+                "userName": "climardo",
+                "rank": 4,
+                "fantasyPoints": 147.5
+            },
+            {
+                "userName": "olivadotij",
+                "rank": 5,
+                "fantasyPoints": 134.66
+            },
+            {
+                "userName": "jlopez0809",
+                "rank": 6,
+                "fantasyPoints": 133.52
+            },
+            {
+                "userName": "Halvworld",
+                "rank": 7,
+                "fantasyPoints": 127.06
+            },
+            {
+                "userName": "hlimardo",
+                "rank": 8,
+                "fantasyPoints": 121.12
+            },
+            {
+                "userName": "rogdiaz",
+                "rank": 9,
+                "fantasyPoints": 117.38
+            },
+            {
+                "userName": "DarbyDiaz3",
+                "rank": 10,
+                "fantasyPoints": 113.96
+            },
+            {
+                "userName": "frank.corn",
+                "rank": 11,
+                "fantasyPoints": 113.14
+            },
+            {
+                "userName": "ejmesa",
+                "rank": 12,
+                "fantasyPoints": 111.26
+            },
+            {
+                "userName": "JekellP",
+                "rank": 13,
+                "fantasyPoints": 109.56
+            },
+            {
+                "userName": "Dash7",
+                "rank": 14,
+                "fantasyPoints": 106.38
+            },
+            {
+                "userName": "XplicitK",
+                "rank": 15,
+                "fantasyPoints": 106.36
+            },
+            {
+                "userName": "LoLoGREEN",
+                "rank": 16,
+                "fantasyPoints": 101.3
+            },
+            {
+                "userName": "BrunoDiaz",
+                "rank": 17,
+                "fantasyPoints": 91.6
+            },
+            {
+                "userName": "pshhidk",
+                "rank": 18,
+                "fantasyPoints": 86.16
+            }
+        ],
+        "mvp": {
+            "draftedBy": [
+                "climardo",
+                "olivadotij"
+            ],
+            "playerId": 883302,
+            "firstName": "Saquon",
+            "lastName": "Barkley",
+            "teamId": 351,
+            "position": "RB",
+            "salary": 8300,
+            "fantasyPoints": 46.9,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 90
+                },
+                {
+                    "statId": 41,
+                    "total": 189
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 4
+                },
+                {
+                    "statId": 43,
+                    "total": 22
+                },
+                {
+                    "statId": 81,
+                    "total": 67
+                },
+                {
+                    "statId": 82,
+                    "total": 51
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 997,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 89
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5611350,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/883302.png",
+            "points": 46.9,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2019-12-22T18:00:00.0000000Z",
+            "weekNumber": 16,
+            "teamCity": "New York",
+            "teamName": "Giants",
+            "teamAbbreviation": "NYG",
+            "opposingTeamCity": "Washington",
+            "opposingTeamName": "Redskins",
+            "opposingTeamAbbreviation": "WAS",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 40.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 122.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 21
+                },
+                {
+                    "statId": 44,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 48,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 30
+                },
+                {
+                    "statId": 82,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 29.9667
+                },
+                {
+                    "statId": 91,
+                    "total": 29.9667
+                },
+                {
+                    "statId": 92,
+                    "total": 7666.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 997,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 33.6667
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 29.9667,
+            "fantasyPointsPerSalary": 0.005650602409638554,
+            "displayName": "Saquon Barkley"
+        },
+        "sleeper": {
+            "draftedBy": [],
+            "playerId": 338,
+            "firstName": "Colts",
+            "lastName": "",
+            "teamId": 338,
+            "position": "DST",
+            "salary": 3300,
+            "fantasyPoints": 30,
+            "stats": [
+                {
+                    "statId": 52,
+                    "total": 5
+                },
+                {
+                    "statId": 53,
+                    "total": 3
+                },
+                {
+                    "statId": 55,
+                    "total": 2
+                },
+                {
+                    "statId": 57,
+                    "total": 1
+                },
+                {
+                    "statId": 75,
+                    "total": 6
+                },
+                {
+                    "statId": 76,
+                    "total": 87
+                },
+                {
+                    "statId": 77,
+                    "total": 199
+                },
+                {
+                    "statId": 78,
+                    "total": 286
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 102,
+                    "total": 38
+                },
+                {
+                    "statId": 103,
+                    "total": 106
+                },
+                {
+                    "statId": 104,
+                    "total": 218
+                },
+                {
+                    "statId": 105,
+                    "total": 324
+                },
+                {
+                    "statId": 975,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerState": "offense",
+            "playerStates": [
+                "onField"
+            ],
+            "gameId": 5611266,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/338.png",
+            "points": 30,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2019-12-22T18:00:00.0000000Z",
+            "weekNumber": 16,
+            "teamCity": "Indianapolis",
+            "teamName": "Colts",
+            "teamAbbreviation": "IND",
+            "opposingTeamCity": "Carolina",
+            "opposingTeamName": "Panthers",
+            "opposingTeamAbbreviation": "CAR",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 52,
+                    "total": 2
+                },
+                {
+                    "statId": 53,
+                    "total": 2
+                },
+                {
+                    "statId": 54,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 55,
+                    "total": 1
+                },
+                {
+                    "statId": 57,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 61,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 62,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 75,
+                    "total": 26
+                },
+                {
+                    "statId": 76,
+                    "total": 93
+                },
+                {
+                    "statId": 77,
+                    "total": 324.3333
+                },
+                {
+                    "statId": 78,
+                    "total": 417.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 13.3333
+                },
+                {
+                    "statId": 91,
+                    "total": 13.3333
+                },
+                {
+                    "statId": 92,
+                    "total": 2566.6667
+                },
+                {
+                    "statId": 102,
+                    "total": 24.6667
+                },
+                {
+                    "statId": 103,
+                    "total": 169.3333
+                },
+                {
+                    "statId": 104,
+                    "total": 110
+                },
+                {
+                    "statId": 105,
+                    "total": 279.3333
+                },
+                {
+                    "statId": 975,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 977,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 979,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1003,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 13.3333,
+            "fantasyPointsPerSalary": 0.00909090909090909,
+            "displayName": "Colts"
+        },
+        "bust": {
+            "draftedBy": [
+                "pshhidk"
+            ],
+            "playerId": 733643,
+            "firstName": "Adam",
+            "lastName": "Thielen",
+            "teamId": 347,
+            "position": "WR",
+            "salary": 5700,
+            "fantasyPoints": 0.2,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 2
+                },
+                {
+                    "statId": 467,
+                    "total": 4
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5611434,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/733643.png",
+            "points": 0.2,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2019-12-24T01:15:00.0000000Z",
+            "weekNumber": 16,
+            "teamCity": "Minnesota",
+            "teamName": "Vikings",
+            "teamAbbreviation": "MIN",
+            "opposingTeamCity": "Green Bay",
+            "opposingTeamName": "Packers",
+            "opposingTeamAbbreviation": "GB",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 9
+                },
+                {
+                    "statId": 41,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 2.0667
+                },
+                {
+                    "statId": 91,
+                    "total": 2.0667
+                },
+                {
+                    "statId": 92,
+                    "total": 6700
+                },
+                {
+                    "statId": 467,
+                    "total": 2.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 2.0667,
+            "fantasyPointsPerSalary": 3.508771929824562e-05,
+            "displayName": "Adam Thielen"
+        },
+        "draft_dodger": {
+            "playerId": 742387,
+            "firstName": "Tyler",
+            "lastName": "Boyd",
+            "teamId": 327,
+            "position": "WR",
+            "salary": 5800,
+            "fantasyPoints": 36.8,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 128
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 15
+                },
+                {
+                    "statId": 82,
+                    "total": 34
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 28
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5611290,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/742387.png",
+            "points": 36.8,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2019-12-22T18:00:00.0000000Z",
+            "weekNumber": 16,
+            "teamCity": "Cincinnati",
+            "teamName": "Bengals",
+            "teamAbbreviation": "CIN",
+            "opposingTeamCity": "Miami",
+            "opposingTeamName": "Dolphins",
+            "opposingTeamAbbreviation": "MIA",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 76.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 5.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 18.5333
+                },
+                {
+                    "statId": 91,
+                    "total": 18.5333
+                },
+                {
+                    "statId": 92,
+                    "total": 5733.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 9.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1011,
+                    "total": 9.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 18.5333,
+            "fantasyPointsPerSalary": 0.006344827586206896,
+            "displayName": "Tyler Boyd"
+        }
+    },
+    {
+        "week": 15,
+        "contest_id": "82704813",
+        "members": [
+            {
+                "userName": "olivadotij",
+                "rank": 1,
+                "fantasyPoints": 207.62
+            },
+            {
+                "userName": "climardo",
+                "rank": 2,
+                "fantasyPoints": 190.06
+            },
+            {
+                "userName": "pshhidk",
+                "rank": 3,
+                "fantasyPoints": 185.58
+            },
+            {
+                "userName": "XplicitK",
+                "rank": 4,
+                "fantasyPoints": 177.2
+            },
+            {
+                "userName": "arianna29",
+                "rank": 5,
+                "fantasyPoints": 177.1
+            },
+            {
+                "userName": "glopez28",
+                "rank": 6,
+                "fantasyPoints": 174.96
+            },
+            {
+                "userName": "DarbyDiaz3",
+                "rank": 7,
+                "fantasyPoints": 163.36
+            },
+            {
+                "userName": "LoLoGREEN",
+                "rank": 8,
+                "fantasyPoints": 155.12
+            },
+            {
+                "userName": "JekellP",
+                "rank": 9,
+                "fantasyPoints": 153.8
+            },
+            {
+                "userName": "BrunoDiaz",
+                "rank": 10,
+                "fantasyPoints": 146.78
+            },
+            {
+                "userName": "albythealbanian",
+                "rank": 11,
+                "fantasyPoints": 137.58
+            },
+            {
+                "userName": "frank.corn",
+                "rank": 12,
+                "fantasyPoints": 132.46
+            },
+            {
+                "userName": "Halvworld",
+                "rank": 13,
+                "fantasyPoints": 129.76
+            },
+            {
+                "userName": "jlopez0809",
+                "rank": 14,
+                "fantasyPoints": 128.1
+            },
+            {
+                "userName": "rogdiaz",
+                "rank": 15,
+                "fantasyPoints": 126.32
+            },
+            {
+                "userName": "Dash7",
+                "rank": 16,
+                "fantasyPoints": 120.42
+            },
+            {
+                "userName": "ejmesa",
+                "rank": 17,
+                "fantasyPoints": 107.6
+            },
+            {
+                "userName": "hlimardo",
+                "rank": 18,
+                "fantasyPoints": 93.26
+            }
+        ],
+        "mvp": {
+            "draftedBy": [
+                "olivadotij",
+                "XplicitK",
+                "JekellP"
+            ],
+            "playerId": 694588,
+            "firstName": "Kenyan",
+            "lastName": "Drake",
+            "teamId": 355,
+            "position": "RB",
+            "salary": 5000,
+            "fantasyPoints": 42.6,
+            "stats": [
+                {
+                    "statId": 38,
+                    "total": 4
+                },
+                {
+                    "statId": 40,
+                    "total": 9
+                },
+                {
+                    "statId": 41,
+                    "total": 137
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 22
+                },
+                {
+                    "statId": 81,
+                    "total": 21
+                },
+                {
+                    "statId": 82,
+                    "total": 9
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 37
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5611020,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/694588.png",
+            "points": 42.6,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2019-12-15T21:05:00.0000000Z",
+            "weekNumber": 15,
+            "teamCity": "Arizona",
+            "teamName": "Cardinals",
+            "teamAbbreviation": "ARI",
+            "opposingTeamCity": "Cleveland",
+            "opposingTeamName": "Browns",
+            "opposingTeamAbbreviation": "CLE",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 19.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 68.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 13.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 14
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 19.8
+                },
+                {
+                    "statId": 91,
+                    "total": 19.8
+                },
+                {
+                    "statId": 92,
+                    "total": 5266.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 982,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 12.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 19.8,
+            "fantasyPointsPerSalary": 0.00852,
+            "displayName": "Kenyan Drake"
+        },
+        "sleeper": {
+            "draftedBy": [],
+            "playerId": 347,
+            "firstName": "Vikings",
+            "lastName": "",
+            "teamId": 347,
+            "position": "DST",
+            "salary": 3100,
+            "fantasyPoints": 27,
+            "stats": [
+                {
+                    "statId": 52,
+                    "total": 3
+                },
+                {
+                    "statId": 53,
+                    "total": 3
+                },
+                {
+                    "statId": 54,
+                    "total": 4
+                },
+                {
+                    "statId": 55,
+                    "total": 1
+                },
+                {
+                    "statId": 58,
+                    "total": 1
+                },
+                {
+                    "statId": 75,
+                    "total": 10
+                },
+                {
+                    "statId": 76,
+                    "total": 62
+                },
+                {
+                    "statId": 77,
+                    "total": 283
+                },
+                {
+                    "statId": 78,
+                    "total": 345
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 102,
+                    "total": 33
+                },
+                {
+                    "statId": 103,
+                    "total": 207
+                },
+                {
+                    "statId": 104,
+                    "total": 137
+                },
+                {
+                    "statId": 105,
+                    "total": 344
+                },
+                {
+                    "statId": 976,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerState": "offense",
+            "playerStates": [
+                "onField"
+            ],
+            "gameId": 5611104,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/347.png",
+            "points": 27,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2019-12-15T21:05:00.0000000Z",
+            "weekNumber": 15,
+            "teamCity": "Minnesota",
+            "teamName": "Vikings",
+            "teamAbbreviation": "MIN",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Chargers",
+            "opposingTeamAbbreviation": "LAC",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 52,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 53,
+                    "total": 2
+                },
+                {
+                    "statId": 54,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 55,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 58,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 62,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 75,
+                    "total": 18
+                },
+                {
+                    "statId": 76,
+                    "total": 116.6667
+                },
+                {
+                    "statId": 77,
+                    "total": 223.3333
+                },
+                {
+                    "statId": 78,
+                    "total": 340
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 16
+                },
+                {
+                    "statId": 91,
+                    "total": 16
+                },
+                {
+                    "statId": 92,
+                    "total": 3200
+                },
+                {
+                    "statId": 102,
+                    "total": 25.6667
+                },
+                {
+                    "statId": 103,
+                    "total": 239
+                },
+                {
+                    "statId": 104,
+                    "total": 111.6667
+                },
+                {
+                    "statId": 105,
+                    "total": 350.6667
+                },
+                {
+                    "statId": 975,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 976,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 977,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1003,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 16,
+            "fantasyPointsPerSalary": 0.008709677419354838,
+            "displayName": "Vikings"
+        },
+        "bust": {
+            "draftedBy": [],
+            "playerId": 460830,
+            "firstName": "Cole",
+            "lastName": "Beasley",
+            "teamId": 324,
+            "position": "WR",
+            "salary": 5700,
+            "fantasyPoints": 1.6,
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": 6
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 82,
+                    "total": 6
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5610972,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/460830.png",
+            "points": 1.6,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2019-12-16T01:20:00.0000000Z",
+            "weekNumber": 15,
+            "teamCity": "Buffalo",
+            "teamName": "Bills",
+            "teamAbbreviation": "BUF",
+            "opposingTeamCity": "Pittsburgh",
+            "opposingTeamName": "Steelers",
+            "opposingTeamAbbreviation": "PIT",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 48.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 51,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 16.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 14.1667
+                },
+                {
+                    "statId": 91,
+                    "total": 14.1667
+                },
+                {
+                    "statId": 92,
+                    "total": 5166.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 6.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 14.1667,
+            "fantasyPointsPerSalary": 0.00028070175438596495,
+            "displayName": "Cole Beasley"
+        },
+        "draft_dodger": {
+            "playerId": 694588,
+            "firstName": "Kenyan",
+            "lastName": "Drake",
+            "teamId": 355,
+            "position": "RB",
+            "salary": 5000,
+            "fantasyPoints": 42.6,
+            "stats": [
+                {
+                    "statId": 38,
+                    "total": 4
+                },
+                {
+                    "statId": 40,
+                    "total": 9
+                },
+                {
+                    "statId": 41,
+                    "total": 137
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 22
+                },
+                {
+                    "statId": 81,
+                    "total": 21
+                },
+                {
+                    "statId": 82,
+                    "total": 9
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 37
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5611020,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/694588.png",
+            "points": 42.6,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2019-12-15T21:05:00.0000000Z",
+            "weekNumber": 15,
+            "teamCity": "Arizona",
+            "teamName": "Cardinals",
+            "teamAbbreviation": "ARI",
+            "opposingTeamCity": "Cleveland",
+            "opposingTeamName": "Browns",
+            "opposingTeamAbbreviation": "CLE",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 19.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 68.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 13.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 14
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 19.8
+                },
+                {
+                    "statId": 91,
+                    "total": 19.8
+                },
+                {
+                    "statId": 92,
+                    "total": 5266.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 982,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 12.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 19.8,
+            "fantasyPointsPerSalary": 0.00852,
+            "displayName": "Kenyan Drake"
+        }
+    }
+]
