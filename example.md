@@ -3,7 +3,7 @@ title: 2019 Week 15 Results
 year: 2019
 week: 15
 layout: post
-author: geru
+author: climardo
 header_image: /assets/images/2019/week-15-header.jpg
 header_pos: 50% 50%
 ---
@@ -15,11 +15,8 @@ header_pos: 50% 50%
 First paragraph
 
 ##### Week {{ page.week }} winners
-<ol>
-{%- for member in weekly.members limit:3 -%}
-<li class="text-bold">{{member.userName}} <small class="text-muted">{{member.fantasyPoints}} fpts</small></li>
-{%- endfor -%}
-</ol>
+{% for member in weekly.members limit:3 %}
+1. **{{member.userName}}** <small class="text-muted">{{member.fantasyPoints}} fpts</small>{% endfor %}
 
 Second paragraph
 

@@ -1,6 +1,9 @@
 # About this project
 This project is using [GitHub Pages](https://pages.github.com/) to host a website for a daily fantasy football league.
 
+# example.md
+`/example.md` is a template that can be used with a JSON file generated using [dkextract](https://github.com/climardo/dkextract).
+
 # Test project locally
 Follow directions listed here: [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/github/working-with-github-pages/testing-your-github-pages-site-locally-with-jekyll)
 
