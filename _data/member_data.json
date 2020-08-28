@@ -14,8 +14,8 @@
     {
         "userName": "DarbyDiaz3",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "Apple Pay",
+        "paymentStatus": true
     },
     {
         "userName": "Dash7",
