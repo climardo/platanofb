@@ -74,8 +74,8 @@
     {
         "userName": "olivadotij",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "Venmo",
+        "paymentStatus": true
     },
     {
         "userName": "pshhidk",
