@@ -80,8 +80,8 @@
     {
         "userName": "pshhidk",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "Apple Pay",
+        "paymentStatus": true
     },
     {
         "userName": "rogdiaz",
