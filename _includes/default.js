@@ -35,7 +35,7 @@ function hideCountdown() {
 
 /* if ('{{ page.title }}' === 'Home') {
     document.addEventListener('load', hideCountdown());
-} */
+}  */
 
 function hideRedZone() {
     let day = new Date().getDay();

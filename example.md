@@ -1,10 +1,10 @@
 ---
-title: 2019 Week 15 Results
-year: 2019
-week: 15
+title: 2020 Week 1 Results
+year: 2020
+week: 1
 layout: post
 author: climardo
-header_image: /assets/images/2019/week-15-header.jpg
+header_image: /assets/images/2020/week-1-header.jpg
 header_pos: 50% 50%
 ---
 {%- for item in site.data.weekly2020 -%}

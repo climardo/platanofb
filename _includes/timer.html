@@ -1,0 +1,63 @@
+<!-- Timer -->
+<div class="container" id="draft">
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card text-white bg-dark rounded">
+                <div class="card-body text-center">
+                    <h3 class="card-title">Week {{ include.week }} starts in...</h3>
+                    <div id="timer" class="container">
+                        <div class="row h1 text-center font-weight-bold">
+                            <div id="days" class="col"></div>
+                            <div id="hours" class="col"></div>
+                            <div id="mins" class="col"></div>
+                            <div id="secs" class="col" style="color:#F46C22;"></div>
+                        </div>
+                        <div class="row h2 text-center small">
+                            <div class="col">DAYS</div>
+                            <div class="col">HOURS</div>
+                            <div class="col">MINS</div>
+                            <div class="col">SECS</div>
+                        </div>
+                    </div>
+                    <a target="_blank" href="https://www.draftkings.com/draft/contest/91091093" class="btn btn-lg contest-link"
+                        role="button" style="color: #FFFFFF; background: #9AC434;"
+                        onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Submit lineup <i
+                            class="fas fa-football-ball" aria-hidden="true"></i></a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<script>
+    // The data/time we want to countdown to
+    var countDownDate = new Date("{{ include.contest_start }}").getTime();
+
+    // Run myfunc every second
+    var myfunc = setInterval(function () {
+
+        var now = new Date().getTime();
+        var timeleft = countDownDate - now;
+
+        // Calculating the days, hours, minutes and seconds left
+        var days = Math.floor(timeleft / (1000 * 60 * 60 * 24));
+        var hours = Math.floor((timeleft % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+        var minutes = Math.floor((timeleft % (1000 * 60 * 60)) / (1000 * 60));
+        var seconds = Math.floor((timeleft % (1000 * 60)) / 1000);
+
+        // Result is output to the specific element
+        document.getElementById("days").innerHTML = days
+        document.getElementById("hours").innerHTML = hours
+        document.getElementById("mins").innerHTML = minutes
+        document.getElementById("secs").innerHTML = seconds
+
+        // Display the message when countdown is over
+        if (timeleft < 0) {
+            clearInterval(myfunc);
+            document.getElementById("days").innerHTML = ""
+            document.getElementById("hours").innerHTML = ""
+            document.getElementById("mins").innerHTML = ""
+            document.getElementById("secs").innerHTML = ""
+            document.getElementById("end").innerHTML = "TIME UP!!";
+        }
+    }, 1000);
+</script>

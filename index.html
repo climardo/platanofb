@@ -1,20 +1,23 @@
 ---
 layout: default
 title: Home
+week: 1
 ---
 {% assign submit = site.data.navlinks[0] %}
-{% assign week = 16 %}
-{% assign countdown = 1649458 %}
-{% assign results = "2019-week-16.html" %}
-
-<div class="container d-none" id="draft">
+{%- for item in site.data.weekly2020 -%}
+    {%- if item.week == page.week -%}
+        {%- assign weekly = item -%}
+    {%- endif -%}
+{%- endfor -%}
+{% include timer.html week=page.week contest_start=weekly.contest_start %}
+<!-- <div class="container d-none" id="draft">
     <div class="row justify-content-center">
         <div class="col-md-6">
             <div class="card text-white bg-dark rounded">
                 <div class="card-body text-center">
-                    <h3 class="card-title">Week {{ week }} starts in...</h3>
+                    <h3 class="card-title">Week {{ week }} starts in... </h3>
                     <div data-type="countdown" data-id="{{ countdown }}" class="tickcounter" style="width: 100%; position: relative; padding-bottom: 25%; margin-bottom: 1em">
-                        <a href="https://www.tickcounter.com/countdown/{{ countdown }}/2019-nfl-season-kickoff" title="Platanofb.com 2019 Week {{ week }}">Platanofb.com 2019 Week {{ week }}</a>
+                        <a href="https://www.tickcounter.com/countdown/{{ countdown }}/2019-nfl-season-kickoff" title="Platanofb.com 2019 Week {{ week }}">Platanofb.com 2020 Week {{ week }}</a>
                         <a href="https://www.tickcounter.com/" title="Countdown">Countdown</a>
                     </div>
                     <script>
@@ -28,12 +31,12 @@ title: Home
             </div>
         </div>
     </div>
-</div>
+</div> -->
 
 <div class="container d-none" id="contest">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center">
-            <a href="{{ submit.link }}" class="btn btn-lg btn-block contest-link" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ week }} contest <i class="fas fa-football-ball"></i></a>
+            <a href="{{ submit.link }}" class="btn btn-lg btn-block contest-link" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ page.week }} contest <i class="fas fa-football-ball"></i></a>
         </div>
     </div>
 </div>
@@ -71,12 +74,7 @@ title: Home
                 <div class="card-header">Latest post</div>
                 <div class="card-body">
                     <a href="{{ site.posts[0].url }}" class="card-title"><h4>{{ site.posts[0].title }}</h4></a>
-                    {% if site.posts[0].title contains "Results" %}
-                    <p>Congratulations to this week's winners:</p>
-                    {% include {{ results }} %}
-                    {% else %}
                     <p>{{ site.posts[0].excerpt }} ...</p>
-                    {% endif %}
                     <a href="{{ site.posts[0].url }}" class="card-link small text-uppercase">Read more</a>
                 </div>
             </div>
