@@ -96,9 +96,9 @@
         "paymentStatus": true
     },
     {
-        "userName": "GabeM",
+        "userName": "g_mendoza",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "Venmo",
+        "paymentStatus": true
     }
 ]
