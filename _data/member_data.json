@@ -38,8 +38,8 @@
     {
         "userName": "glopez28",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "PayPal",
+        "paymentStatus": true
     },
     {
         "userName": "Halvworld",
