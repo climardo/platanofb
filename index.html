@@ -9,7 +9,7 @@ week: 1
         {%- assign weekly = item -%}
     {%- endif -%}
 {%- endfor -%}
-{% include timer.html week=page.week contest_start=weekly.contest_start %}
+{% include timer.html week=page.week contest_start=weekly.contest_start contest_id=weekly.contest_id%}
 <!-- <div class="container d-none" id="draft">
     <div class="row justify-content-center">
         <div class="col-md-6">
@@ -33,7 +33,7 @@ week: 1
     </div>
 </div> -->
 
-<div class="container d-none" id="contest">
+<div class="container" id="contest">
     <div class="row justify-content-center">
         <div class="col-md-6 text-center">
             <a href="{{ submit.link }}" class="btn btn-lg btn-block contest-link" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ page.week }} contest <i class="fas fa-football-ball"></i></a>

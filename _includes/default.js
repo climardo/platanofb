@@ -28,20 +28,23 @@ function hideCountdown() {
         let origMenuLink = contestMenuLink.getAttribute("href");
         let newMenuLink = origMenuLink.replace("draft/contest", "contest/gamecenter");
         contestMenuLink.setAttribute("href", newMenuLink);
+        contestMenuLink.innerHTML = "Weekly contest <i class='fas fa-football-ball'></i>"
     } else {
         document.getElementById("contest").classList.add("d-none");
     }
 }
 
-/* if ('{{ page.title }}' === 'Home') {
-    document.addEventListener('load', hideCountdown());
-}  */
+document.addEventListener('load', hideCountdown());
 
 function hideRedZone() {
     let day = new Date().getDay();
     let links = document.getElementsByClassName("nav-item")
     if (day !== 0) {
-        links[1].classList.add("d-none");
+        for (i = 0; i < links.length; i++) {
+            if (links[i].innerHTML.indexOf("Red Zone") !== -1) {
+                links[i].classList.add("d-none");
+            }
+        }
     }
 }
 

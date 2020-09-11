@@ -12,14 +12,14 @@
                             <div id="mins" class="col"></div>
                             <div id="secs" class="col" style="color:#F46C22;"></div>
                         </div>
-                        <div class="row h2 text-center small">
+                        <div class="row h2 text-center small" id="timer_columns">
                             <div class="col">DAYS</div>
                             <div class="col">HOURS</div>
                             <div class="col">MINS</div>
                             <div class="col">SECS</div>
                         </div>
                     </div>
-                    <a target="_blank" href="https://www.draftkings.com/draft/contest/91091093" class="btn btn-lg contest-link"
+                    <a target="_blank" href="https://www.draftkings.com/draft/contest/{( include.contest_id )}" class="btn btn-lg contest-link"
                         role="button" style="color: #FFFFFF; background: #9AC434;"
                         onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Submit lineup <i
                             class="fas fa-football-ball" aria-hidden="true"></i></a>
@@ -49,15 +49,12 @@
         document.getElementById("hours").innerHTML = hours
         document.getElementById("mins").innerHTML = minutes
         document.getElementById("secs").innerHTML = seconds
-
+        
         // Display the message when countdown is over
         if (timeleft < 0) {
             clearInterval(myfunc);
-            document.getElementById("days").innerHTML = ""
-            document.getElementById("hours").innerHTML = ""
-            document.getElementById("mins").innerHTML = ""
-            document.getElementById("secs").innerHTML = ""
-            document.getElementById("end").innerHTML = "TIME UP!!";
+            document.getElementById("draft").classList.add("d-none");
+            document.getElementById("contest").classList.remove("d-none");
         }
     }, 1000);
 </script>

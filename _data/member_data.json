@@ -68,8 +68,8 @@
     {
         "userName": "LoLoGREEN",
         "active": true,
-        "paymentSource": "",
-        "paymentStatus": false
+        "paymentSource": "Venmo",
+        "paymentStatus": true
     },
     {
         "userName": "olivadotij",
