@@ -17,14 +17,26 @@ if ('{{ page.layout }}' === 'post' && '{{ page.header_image }}' !== 'nil') {
 function hideCountdown() {
     var d = new Date().getDay();
     if (d > 4 || d < 2) {
-        document.getElementById("draft").classList.add("d-none");
-        let contestLinks = document.getElementsByClassName("contest-link");
-        for (var i = 0; i < contestLinks.length; i++) {
-            let origLink = contestLinks[i].getAttribute("href")
-            let newLink = origLink.replace("draft/contest", "contest/gamecenter");
-            contestLinks[i].setAttribute("href", newLink);
+        try {
+            document.getElementById("draft").classList.add("d-none");
+            let contestLinks = document.getElementsByClassName("contest-link");
+            for (var i = 0; i < contestLinks.length; i++) {
+                let origLink = contestLinks[i].getAttribute("href");
+                let newLink = origLink.replace("draft/contest", "contest/gamecenter");
+                contestLinks[i].setAttribute("href", newLink);
+            }
         }
-        let contestMenuLink = document.getElementsByClassName("nav-link")[0]
+        catch (err) {
+            console.log('This is not the home page')
+        }
+        let links = document.getElementsByClassName("nav-link")
+
+        for (i = 0; i < links.length; i++) {
+            if (links[i].innerHTML.indexOf("Submit lineup") !== -1) {
+                var contestMenuLink = links[i];
+            }
+        }
+        // let contestMenuLink = document.getElementsByClassName("nav-link")[0]
         let origMenuLink = contestMenuLink.getAttribute("href");
         let newMenuLink = origMenuLink.replace("draft/contest", "contest/gamecenter");
         contestMenuLink.setAttribute("href", newMenuLink);
