@@ -42,7 +42,12 @@ function hideCountdown() {
         contestMenuLink.setAttribute("href", newMenuLink);
         contestMenuLink.innerHTML = "Weekly contest <i class='fas fa-football-ball'></i>"
     } else {
-        document.getElementById("contest").classList.add("d-none");
+        try {
+            document.getElementById("contest").classList.add("d-none");
+        }
+        catch (err) {
+            console.log('Nothing to hide')
+        }
     }
 }
 
