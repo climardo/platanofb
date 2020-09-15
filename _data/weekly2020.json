@@ -2,6 +2,116 @@
     {
         "week": 1,
         "contest_id": "91091093",
-        "contest_start": "Sep 10, 2020 20:20:00"
+        "contest_start": "Sep 10, 2020 20:20:00",
+        "members": [
+            {
+                "userName": "DarbyDiaz3",
+                "rank": 1,
+                "fantasyPoints": 153,
+                "winningValue": 30
+
+            },
+            {
+                "userName": "rogdiaz",
+                "rank": 2,
+                "fantasyPoints": 146.5,
+                "winningValue": 15
+            },
+            {
+                "userName": "Halvworld",
+                "rank": 3,
+                "fantasyPoints": 145.12,
+                "winningValue": 8
+            },
+            {
+                "userName": "olivadotij",
+                "rank": 4,
+                "fantasyPoints": 136.6,
+                "winningValue": 0
+            },
+            {
+                "userName": "glopez28",
+                "rank": 5,
+                "fantasyPoints": 134.28,
+                "winningValue": 0
+            },
+            {
+                "userName": "climardo",
+                "rank": 6,
+                "fantasyPoints": 128.84,
+                "winningValue": 0
+            },
+            {
+                "userName": "LoLoGREEN",
+                "rank": 7,
+                "fantasyPoints": 123.7,
+                "winningValue": 0
+            },
+            {
+                "userName": "jlopez0809",
+                "rank": 8,
+                "fantasyPoints": 119.96,
+                "winningValue": 0
+            },
+            {
+                "userName": "arianna29",
+                "rank": 9,
+                "fantasyPoints": 118.3,
+                "winningValue": 0
+            },
+            {
+                "userName": "g_mendoza",
+                "rank": 10,
+                "fantasyPoints": 117.84,
+                "winningValue": 0
+            },
+            {
+                "userName": "JekellP",
+                "rank": 11,
+                "fantasyPoints": 111.72,
+                "winningValue": 0
+            },
+            {
+                "userName": "XplicitK",
+                "rank": 12,
+                "fantasyPoints": 110.74,
+                "winningValue": 0
+            },
+            {
+                "userName": "hlimardo",
+                "rank": 13,
+                "fantasyPoints": 109.04,
+                "winningValue": 0
+            },
+            {
+                "userName": "Dash7",
+                "rank": 14,
+                "fantasyPoints": 108.9,
+                "winningValue": 0
+            },
+            {
+                "userName": "frank.corn",
+                "rank": 15,
+                "fantasyPoints": 108.44,
+                "winningValue": 0
+            },
+            {
+                "userName": "pshhidk",
+                "rank": 15,
+                "fantasyPoints": 108.44,
+                "winningValue": 0
+            },
+            {
+                "userName": "ejmesa",
+                "rank": 17,
+                "fantasyPoints": 102.86,
+                "winningValue": 0
+            }
+        ]
+    },
+    {
+        "week": 2,
+        "contest_id": "92071738",
+        "contest_start": "Sep 17, 2020 20:20:00"
     }
 ]
