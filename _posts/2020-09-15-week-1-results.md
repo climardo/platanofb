@@ -9,7 +9,7 @@ header_pos: 50% 50%
 ---
 It feels so good to finally be back. Week 1 is now officially in the books. Everyone in the league scored over 100 fpts, and 6 members scored above the average of 122.6 fpts - good job, everyone! 
 
-##### Week 1 winners
+##### Week 1 winners <small class="text-muted">[Contest details](https://www.draftkings.com/draft/contest/92641854)</small>
 1. **DarbyDiaz3** <small class="text-muted">153.00 fpts</small>
 2. **rogdiaz** <small class="text-muted">146.50 fpts</small>
 3. **Halvworld** <small class="text-muted">145.12 fpts</small>

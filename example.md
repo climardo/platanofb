@@ -14,7 +14,7 @@ header_pos: 50% 50%
 {%- endfor -%}
 First paragraph
 
-##### Week {{ page.week }} winners
+##### Week {{ page.week }} winners <small class="text-muted">[Contest details](https://www.draftkings.com/draft/contest/{{weekly.contest_id}})</small>
 {% for member in weekly.members limit:3 %}
 1. **{{member.userName}}** <small class="text-muted">{{member.fantasyPoints}} fpts</small>{% endfor %}
 
