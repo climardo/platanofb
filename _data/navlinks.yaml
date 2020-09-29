@@ -1,16 +1,24 @@
 - name: Submit lineup <i class="fas fa-football-ball"></i>
-  link: https://www.draftkings.com/draft/contest/92641854
+  link: https://www.draftkings.com/draft/contest/93205580
+  id: contestid
 - name: Updates
   link: /updates
+  id: updates
 - name: Red Zone <i class="fas fa-tv"></i>
   link: http://bfst.to/watch/nfl-red-zone
+  id: redzone
 - name: Home
   link: /
+  id: home
 - name: Rules
   link: /rules
+  id: rules
 - name: Help
   link: /help
+  id: help
 - name: Results
   link: /results
+  id: results
 - name: Trashtalk <i class="fab fa-discord"></i>
   link: /trashtalk
+  id: trashtalk

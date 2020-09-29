@@ -30,13 +30,8 @@ function hideCountdown() {
             console.log('This is not the home page')
         }
         let links = document.getElementsByClassName("nav-link")
-
-        for (i = 0; i < links.length; i++) {
-            if (links[i].innerHTML.indexOf("Submit lineup") !== -1) {
-                var contestMenuLink = links[i];
-            }
-        }
-        // let contestMenuLink = document.getElementsByClassName("nav-link")[0]
+        let contestMenuLink = document.getElementById("submit")
+        
         let origMenuLink = contestMenuLink.getAttribute("href");
         let newMenuLink = origMenuLink.replace("draft/contest", "contest/gamecenter");
         contestMenuLink.setAttribute("href", newMenuLink);
@@ -55,14 +50,8 @@ document.addEventListener('load', hideCountdown());
 
 function hideRedZone() {
     let day = new Date().getDay();
-    let links = document.getElementsByClassName("nav-item")
-    if (day !== 0) {
-        for (i = 0; i < links.length; i++) {
-            if (links[i].innerHTML.indexOf("Red Zone") !== -1) {
-                links[i].classList.add("d-none");
-            }
-        }
-    }
+    let redZoneLink = document.getElementById("redzone")
+    redZoneLink.classList.add("d-none")
 }
 
 document.addEventListener('load', hideRedZone());
