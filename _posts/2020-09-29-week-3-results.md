@@ -51,4 +51,4 @@ The second-highest scoring player, **Patrick Mahomes** (43 fpts $7,400) and this
 ##### Weekly analysis <small class="text-muted">Recap and advice</small>
 - [DraftKings Picks Week 4: NFL DFS lineup advice for daily fantasy football tournaments](https://www.sportingnews.com/us/fantasy/list/draftkings-picks-week-4-nfl-dfs-lineup-advice-daily-fantasy-football-tournaments/naf3gdl47p0f14zjpn6t1my5k/2)
 - [Fantasy Football Picks, Fades: DraftKings NFL DFS Salary Risers and Fallers Ahead of Week 4](https://dknation.draftkings.com/playbook/2020/9/28/21492654/fantasy-football-picks-fades-draftkings-nfl-dfs-salary-week-4-jared-goff-rams-carlos-hyde-seahawks    )
-- [Top 15 Plays of Week 3 | 2020 NFL Highlights](https://www.youtube.com/watch?v=SFpFRzKhR0A)
+- [Top 15 Plays of Week 3](https://www.youtube.com/watch?v=SFpFRzKhR0A)
