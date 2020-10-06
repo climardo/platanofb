@@ -1,5 +1,5 @@
 - name: Submit lineup <i class="fas fa-football-ball"></i>
-  link: https://www.draftkings.com/draft/contest/93205580
+  link: https://www.draftkings.com/draft/contest/93745891 
   id: contestid
 - name: Updates
   link: /updates
@@ -19,6 +19,3 @@
 - name: Results
   link: /results
   id: results
-- name: Trashtalk <i class="fab fa-discord"></i>
-  link: /trashtalk
-  id: trashtalk

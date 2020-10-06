@@ -9,7 +9,6 @@
                 "rank": 1,
                 "fantasyPoints": 153,
                 "winningValue": 30
-
             },
             {
                 "userName": "rogdiaz",
@@ -113,92 +112,110 @@
         "week": 2,
         "contest_id": "92071738",
         "contest_start": "Sep 17, 2020 20:20:00",
-        "members": [{
-            "userName": "LoLoGREEN",
-            "rank": 1,
-            "fantasyPoints": 174.7,
-            "winningValue": 30
-        }, {
-            "userName": "DarbyDiaz3",
-            "rank": 2,
-            "fantasyPoints": 174.3,
-            "winningValue": 15
-        }, {
-            "userName": "Halvworld",
-            "rank": 3,
-            "fantasyPoints": 159.2,
-            "winningValue": 8
-        }, {
-            "userName": "XplicitK",
-            "rank": 4,
-            "fantasyPoints": 152.48,
-            "winningValue": 0
-        }, {
-            "userName": "climardo",
-            "rank": 5,
-            "fantasyPoints": 151.1,
-            "winningValue": 0
-        }, {
-            "userName": "rogdiaz",
-            "rank": 6,
-            "fantasyPoints": 148.32,
-            "winningValue": 0
-        }, {
-            "userName": "Dash7",
-            "rank": 7,
-            "fantasyPoints": 137.4,
-            "winningValue": 0
-        }, {
-            "userName": "glopez28",
-            "rank": 8,
-            "fantasyPoints": 136.18,
-            "winningValue": 0
-        }, {
-            "userName": "pshhidk",
-            "rank": 9,
-            "fantasyPoints": 126.5,
-            "winningValue": 0
-        }, {
-            "userName": "g_mendoza",
-            "rank": 10,
-            "fantasyPoints": 125.5,
-            "winningValue": 0
-        }, {
-            "userName": "jlopez0809",
-            "rank": 11,
-            "fantasyPoints": 123.3,
-            "winningValue": 0
-        }, {
-            "userName": "ejmesa",
-            "rank": 12,
-            "fantasyPoints": 115.4,
-            "winningValue": 0
-        }, {
-            "userName": "hlimardo",
-            "rank": 13,
-            "fantasyPoints": 115.02,
-            "winningValue": 0
-        }, {
-            "userName": "olivadotij",
-            "rank": 14,
-            "fantasyPoints": 112.22,
-            "winningValue": 0
-        }, {
-            "userName": "arianna29",
-            "rank": 15,
-            "fantasyPoints": 107.4,
-            "winningValue": 0
-        }, {
-            "userName": "frank.corn",
-            "rank": 16,
-            "fantasyPoints": 104.74,
-            "winningValue": 0
-        }, {
-            "userName": "JekellP",
-            "rank": 17,
-            "fantasyPoints": 83.9,
-            "winningValue": 0
-        }],
+        "members": [
+            {
+                "userName": "LoLoGREEN",
+                "rank": 1,
+                "fantasyPoints": 174.7,
+                "winningValue": 30
+            },
+            {
+                "userName": "DarbyDiaz3",
+                "rank": 2,
+                "fantasyPoints": 174.3,
+                "winningValue": 15
+            },
+            {
+                "userName": "Halvworld",
+                "rank": 3,
+                "fantasyPoints": 159.2,
+                "winningValue": 8
+            },
+            {
+                "userName": "XplicitK",
+                "rank": 4,
+                "fantasyPoints": 152.48,
+                "winningValue": 0
+            },
+            {
+                "userName": "climardo",
+                "rank": 5,
+                "fantasyPoints": 151.1,
+                "winningValue": 0
+            },
+            {
+                "userName": "rogdiaz",
+                "rank": 6,
+                "fantasyPoints": 148.32,
+                "winningValue": 0
+            },
+            {
+                "userName": "Dash7",
+                "rank": 7,
+                "fantasyPoints": 137.4,
+                "winningValue": 0
+            },
+            {
+                "userName": "glopez28",
+                "rank": 8,
+                "fantasyPoints": 136.18,
+                "winningValue": 0
+            },
+            {
+                "userName": "pshhidk",
+                "rank": 9,
+                "fantasyPoints": 126.5,
+                "winningValue": 0
+            },
+            {
+                "userName": "g_mendoza",
+                "rank": 10,
+                "fantasyPoints": 125.5,
+                "winningValue": 0
+            },
+            {
+                "userName": "jlopez0809",
+                "rank": 11,
+                "fantasyPoints": 123.3,
+                "winningValue": 0
+            },
+            {
+                "userName": "ejmesa",
+                "rank": 12,
+                "fantasyPoints": 115.4,
+                "winningValue": 0
+            },
+            {
+                "userName": "hlimardo",
+                "rank": 13,
+                "fantasyPoints": 115.02,
+                "winningValue": 0
+            },
+            {
+                "userName": "olivadotij",
+                "rank": 14,
+                "fantasyPoints": 112.22,
+                "winningValue": 0
+            },
+            {
+                "userName": "arianna29",
+                "rank": 15,
+                "fantasyPoints": 107.4,
+                "winningValue": 0
+            },
+            {
+                "userName": "frank.corn",
+                "rank": 16,
+                "fantasyPoints": 104.74,
+                "winningValue": 0
+            },
+            {
+                "userName": "JekellP",
+                "rank": 17,
+                "fantasyPoints": 83.9,
+                "winningValue": 0
+            }
+        ],
         "mvp": {
             "playerId": 741314,
             "playerDkId": 19636,
@@ -208,64 +225,84 @@
             "position": "RB",
             "salary": 7100,
             "fantasyPoints": 48.6,
-            "stats": [{
-                "statId": 37,
-                "total": 1
-            }, {
-                "statId": 38,
-                "total": 2
-            }, {
-                "statId": 40,
-                "total": 68
-            }, {
-                "statId": 41,
-                "total": 168
-            }, {
-                "statId": 44,
-                "total": 4
-            }, {
-                "statId": 48,
-                "total": 1
-            }, {
-                "statId": 467,
-                "total": 8
-            }, {
-                "statId": 43,
-                "total": 18
-            }, {
-                "statId": 81,
-                "total": 75
-            }, {
-                "statId": 82,
-                "total": 30
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 982,
-                "total": 1
-            }, {
-                "statId": 984,
-                "total": 1
-            }, {
-                "statId": 988,
-                "total": 1
-            }, {
-                "statId": 997,
-                "total": 1
-            }, {
-                "statId": 998,
-                "total": 1
-            }, {
-                "statId": 1010,
-                "total": 68
-            }, {
-                "statId": 1217,
-                "total": 1
-            }, {
-                "statId": 1218,
-                "total": 1
-            }],
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 68
+                },
+                {
+                    "statId": 41,
+                    "total": 168
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 8
+                },
+                {
+                    "statId": 43,
+                    "total": 18
+                },
+                {
+                    "statId": 81,
+                    "total": 75
+                },
+                {
+                    "statId": 82,
+                    "total": 30
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 997,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 68
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
             "valueIcon": "fire",
             "attributes": {},
             "playerStates": [],
@@ -282,80 +319,106 @@
             "opposingTeamCity": "Detroit",
             "opposingTeamName": "Lions",
             "opposingTeamAbbreviation": "DET",
-            "fantasyStatsPerGame": [{
-                "statId": 37,
-                "total": 0.5
-            }, {
-                "statId": 38,
-                "total": 1.5
-            }, {
-                "statId": 40,
-                "total": 39
-            }, {
-                "statId": 41,
-                "total": 117
-            }, {
-                "statId": 43,
-                "total": 17
-            }, {
-                "statId": 44,
-                "total": 4
-            }, {
-                "statId": 48,
-                "total": 0.5
-            }, {
-                "statId": 74,
-                "total": 0.5
-            }, {
-                "statId": 81,
-                "total": 45
-            }, {
-                "statId": 82,
-                "total": 18
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 90,
-                "total": 33.1
-            }, {
-                "statId": 91,
-                "total": 33.1
-            }, {
-                "statId": 92,
-                "total": 7000
-            }, {
-                "statId": 467,
-                "total": 7
-            }, {
-                "statId": 982,
-                "total": 1
-            }, {
-                "statId": 984,
-                "total": 0.5
-            }, {
-                "statId": 988,
-                "total": 0.5
-            }, {
-                "statId": 997,
-                "total": 0.5
-            }, {
-                "statId": 998,
-                "total": 0.5
-            }, {
-                "statId": 1010,
-                "total": 34
-            }, {
-                "statId": 1217,
-                "total": 1
-            }, {
-                "statId": 1218,
-                "total": 0.5
-            }],
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.5
+                },
+                {
+                    "statId": 38,
+                    "total": 1.5
+                },
+                {
+                    "statId": 40,
+                    "total": 39
+                },
+                {
+                    "statId": 41,
+                    "total": 117
+                },
+                {
+                    "statId": 43,
+                    "total": 17
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 48,
+                    "total": 0.5
+                },
+                {
+                    "statId": 74,
+                    "total": 0.5
+                },
+                {
+                    "statId": 81,
+                    "total": 45
+                },
+                {
+                    "statId": 82,
+                    "total": 18
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 33.1
+                },
+                {
+                    "statId": 91,
+                    "total": 33.1
+                },
+                {
+                    "statId": 92,
+                    "total": 7000
+                },
+                {
+                    "statId": 467,
+                    "total": 7
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 0.5
+                },
+                {
+                    "statId": 988,
+                    "total": 0.5
+                },
+                {
+                    "statId": 997,
+                    "total": 0.5
+                },
+                {
+                    "statId": 998,
+                    "total": 0.5
+                },
+                {
+                    "statId": 1010,
+                    "total": 34
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.5
+                }
+            ],
             "fantasyStatsNumGames": 2,
             "fantasyPointsPerGame": 33.1,
             "displayName": "Aaron Jones",
-            "draftedBy": ["rogdiaz"],
+            "draftedBy": [
+                "rogdiaz"
+            ],
             "fantasyPointsPerSalary": 0.006845070422535212
         },
         "sleeper": {
@@ -367,31 +430,40 @@
             "position": "TE",
             "salary": 2600,
             "fantasyPoints": 24,
-            "stats": [{
-                "statId": 37,
-                "total": 2
-            }, {
-                "statId": 40,
-                "total": 50
-            }, {
-                "statId": 44,
-                "total": 7
-            }, {
-                "statId": 467,
-                "total": 8
-            }, {
-                "statId": 82,
-                "total": 18
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 983,
-                "total": 1
-            }, {
-                "statId": 1218,
-                "total": 1
-            }],
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 50
+                },
+                {
+                    "statId": 44,
+                    "total": 7
+                },
+                {
+                    "statId": 467,
+                    "total": 8
+                },
+                {
+                    "statId": 82,
+                    "total": 18
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
             "valueIcon": "fire",
             "attributes": {},
             "playerStates": [],
@@ -408,45 +480,59 @@
             "opposingTeamCity": "New York",
             "opposingTeamName": "Jets",
             "opposingTeamAbbreviation": "NYJ",
-            "fantasyStatsPerGame": [{
-                "statId": 37,
-                "total": 1
-            }, {
-                "statId": 40,
-                "total": 31
-            }, {
-                "statId": 44,
-                "total": 4.5
-            }, {
-                "statId": 82,
-                "total": 14
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 90,
-                "total": 13.6
-            }, {
-                "statId": 91,
-                "total": 13.6
-            }, {
-                "statId": 92,
-                "total": 2800
-            }, {
-                "statId": 467,
-                "total": 5
-            }, {
-                "statId": 983,
-                "total": 0.5
-            }, {
-                "statId": 1218,
-                "total": 0.5
-            }],
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 31
+                },
+                {
+                    "statId": 44,
+                    "total": 4.5
+                },
+                {
+                    "statId": 82,
+                    "total": 14
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 13.6
+                },
+                {
+                    "statId": 91,
+                    "total": 13.6
+                },
+                {
+                    "statId": 92,
+                    "total": 2800
+                },
+                {
+                    "statId": 467,
+                    "total": 5
+                },
+                {
+                    "statId": 983,
+                    "total": 0.5
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.5
+                }
+            ],
             "fantasyStatsNumGames": 2,
             "fantasyPointsPerGame": 13.6,
             "displayName": "Jordan Reed",
             "fantasyPointsPerSalary": 0.009230769230769232,
-            "draftedBy": ["jlopez0809"]
+            "draftedBy": [
+                "jlopez0809"
+            ]
         },
         "bust": {
             "playerId": 403308,
@@ -457,25 +543,32 @@
             "position": "QB",
             "salary": 5900,
             "fantasyPoints": 1.52,
-            "stats": [{
-                "statId": 39,
-                "total": 113
-            }, {
-                "statId": 46,
-                "total": 3
-            }, {
-                "statId": 42,
-                "total": 11
-            }, {
-                "statId": 71,
-                "total": 26
-            }, {
-                "statId": 83,
-                "total": 24
-            }, {
-                "statId": 84,
-                "total": 1
-            }],
+            "stats": [
+                {
+                    "statId": 39,
+                    "total": 113
+                },
+                {
+                    "statId": 46,
+                    "total": 3
+                },
+                {
+                    "statId": 42,
+                    "total": 11
+                },
+                {
+                    "statId": 71,
+                    "total": 26
+                },
+                {
+                    "statId": 83,
+                    "total": 24
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
             "valueIcon": "ice",
             "attributes": {},
             "playerStates": [],
@@ -492,52 +585,68 @@
             "opposingTeamCity": "Indianapolis",
             "opposingTeamName": "Colts",
             "opposingTeamAbbreviation": "IND",
-            "fantasyStatsPerGame": [{
-                "statId": 36,
-                "total": 1
-            }, {
-                "statId": 39,
-                "total": 186
-            }, {
-                "statId": 41,
-                "total": 17
-            }, {
-                "statId": 42,
-                "total": 15
-            }, {
-                "statId": 43,
-                "total": 2
-            }, {
-                "statId": 46,
-                "total": 2
-            }, {
-                "statId": 70,
-                "total": 0.5
-            }, {
-                "statId": 71,
-                "total": 25.5
-            }, {
-                "statId": 81,
-                "total": 8
-            }, {
-                "statId": 83,
-                "total": 30.5
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 90,
-                "total": 12.14
-            }, {
-                "statId": 91,
-                "total": 12.14
-            }, {
-                "statId": 92,
-                "total": 5800
-            }, {
-                "statId": 1216,
-                "total": 0.5
-            }],
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 186
+                },
+                {
+                    "statId": 41,
+                    "total": 17
+                },
+                {
+                    "statId": 42,
+                    "total": 15
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 46,
+                    "total": 2
+                },
+                {
+                    "statId": 70,
+                    "total": 0.5
+                },
+                {
+                    "statId": 71,
+                    "total": 25.5
+                },
+                {
+                    "statId": 81,
+                    "total": 8
+                },
+                {
+                    "statId": 83,
+                    "total": 30.5
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 12.14
+                },
+                {
+                    "statId": 91,
+                    "total": 12.14
+                },
+                {
+                    "statId": 92,
+                    "total": 5800
+                },
+                {
+                    "statId": 1216,
+                    "total": 0.5
+                }
+            ],
             "fantasyStatsNumGames": 2,
             "fantasyPointsPerGame": 12.14,
             "displayName": "Kirk Cousins",
@@ -553,58 +662,76 @@
             "position": "QB",
             "salary": 6400,
             "fantasyPoints": 38.58,
-            "stats": [{
-                "statId": 36,
-                "total": 1
-            }, {
-                "statId": 38,
-                "total": 2
-            }, {
-                "statId": 39,
-                "total": 397
-            }, {
-                "statId": 41,
-                "total": 47
-            }, {
-                "statId": 46,
-                "total": 1
-            }, {
-                "statId": 47,
-                "total": 1
-            }, {
-                "statId": 42,
-                "total": 30
-            }, {
-                "statId": 43,
-                "total": 11
-            }, {
-                "statId": 71,
-                "total": 44
-            }, {
-                "statId": 81,
-                "total": 13
-            }, {
-                "statId": 83,
-                "total": 49
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 981,
-                "total": 1
-            }, {
-                "statId": 986,
-                "total": 1
-            }, {
-                "statId": 992,
-                "total": 1
-            }, {
-                "statId": 1012,
-                "total": 97
-            }, {
-                "statId": 1216,
-                "total": 1
-            }],
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 39,
+                    "total": 397
+                },
+                {
+                    "statId": 41,
+                    "total": 47
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 30
+                },
+                {
+                    "statId": 43,
+                    "total": 11
+                },
+                {
+                    "statId": 71,
+                    "total": 44
+                },
+                {
+                    "statId": 81,
+                    "total": 13
+                },
+                {
+                    "statId": 83,
+                    "total": 49
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 986,
+                    "total": 1
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 97
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
             "valueIcon": "fire",
             "attributes": {},
             "playerStates": [],
@@ -621,73 +748,96 @@
             "opposingTeamCity": "Seattle",
             "opposingTeamName": "Seahawks",
             "opposingTeamAbbreviation": "SEA",
-            "fantasyStatsPerGame": [{
-                "statId": 36,
-                "total": 0.5
-            }, {
-                "statId": 38,
-                "total": 2
-            }, {
-                "statId": 39,
-                "total": 276
-            }, {
-                "statId": 41,
-                "total": 61
-            }, {
-                "statId": 42,
-                "total": 22.5
-            }, {
-                "statId": 43,
-                "total": 13
-            }, {
-                "statId": 46,
-                "total": 0.5
-            }, {
-                "statId": 47,
-                "total": 0.5
-            }, {
-                "statId": 71,
-                "total": 31.5
-            }, {
-                "statId": 81,
-                "total": 12.5
-            }, {
-                "statId": 83,
-                "total": 37
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 90,
-                "total": 32.14
-            }, {
-                "statId": 91,
-                "total": 32.14
-            }, {
-                "statId": 92,
-                "total": 3050
-            }, {
-                "statId": 981,
-                "total": 0.5
-            }, {
-                "statId": 982,
-                "total": 0.5
-            }, {
-                "statId": 986,
-                "total": 0.5
-            }, {
-                "statId": 992,
-                "total": 0.5
-            }, {
-                "statId": 1012,
-                "total": 48.5
-            }, {
-                "statId": 1216,
-                "total": 1
-            }, {
-                "statId": 1217,
-                "total": 0.5
-            }],
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 0.5
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 39,
+                    "total": 276
+                },
+                {
+                    "statId": 41,
+                    "total": 61
+                },
+                {
+                    "statId": 42,
+                    "total": 22.5
+                },
+                {
+                    "statId": 43,
+                    "total": 13
+                },
+                {
+                    "statId": 46,
+                    "total": 0.5
+                },
+                {
+                    "statId": 47,
+                    "total": 0.5
+                },
+                {
+                    "statId": 71,
+                    "total": 31.5
+                },
+                {
+                    "statId": 81,
+                    "total": 12.5
+                },
+                {
+                    "statId": 83,
+                    "total": 37
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 32.14
+                },
+                {
+                    "statId": 91,
+                    "total": 32.14
+                },
+                {
+                    "statId": 92,
+                    "total": 3050
+                },
+                {
+                    "statId": 981,
+                    "total": 0.5
+                },
+                {
+                    "statId": 982,
+                    "total": 0.5
+                },
+                {
+                    "statId": 986,
+                    "total": 0.5
+                },
+                {
+                    "statId": 992,
+                    "total": 0.5
+                },
+                {
+                    "statId": 1012,
+                    "total": 48.5
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.5
+                }
+            ],
             "fantasyStatsNumGames": 2,
             "fantasyPointsPerGame": 32.14,
             "displayName": "Cam Newton",
@@ -698,92 +848,110 @@
         "week": 3,
         "contest_id": 92641854,
         "contest_start": "Sep 24, 2020 20:20:00",
-        "members": [{
-            "userName": "DarbyDiaz3",
-            "rank": 1,
-            "fantasyPoints": 168.88,
-            "winningValue": 30
-        }, {
-            "userName": "arianna29",
-            "rank": 2,
-            "fantasyPoints": 163.5,
-            "winningValue": 15
-        }, {
-            "userName": "hlimardo",
-            "rank": 3,
-            "fantasyPoints": 156.1,
-            "winningValue": 8
-        }, {
-            "userName": "glopez28",
-            "rank": 4,
-            "fantasyPoints": 149.2,
-            "winningValue": 0
-        }, {
-            "userName": "g_mendoza",
-            "rank": 5,
-            "fantasyPoints": 148.9,
-            "winningValue": 0
-        }, {
-            "userName": "LoLoGREEN",
-            "rank": 6,
-            "fantasyPoints": 142.98,
-            "winningValue": 0
-        }, {
-            "userName": "climardo",
-            "rank": 7,
-            "fantasyPoints": 138.98,
-            "winningValue": 0
-        }, {
-            "userName": "frank.corn",
-            "rank": 8,
-            "fantasyPoints": 135.68,
-            "winningValue": 0
-        }, {
-            "userName": "jlopez0809",
-            "rank": 9,
-            "fantasyPoints": 132.1,
-            "winningValue": 0
-        }, {
-            "userName": "JekellP",
-            "rank": 10,
-            "fantasyPoints": 128.64,
-            "winningValue": 0
-        }, {
-            "userName": "Halvworld",
-            "rank": 11,
-            "fantasyPoints": 121.42,
-            "winningValue": 0
-        }, {
-            "userName": "olivadotij",
-            "rank": 12,
-            "fantasyPoints": 120.22,
-            "winningValue": 0
-        }, {
-            "userName": "rogdiaz",
-            "rank": 13,
-            "fantasyPoints": 116.8,
-            "winningValue": 0
-        }, {
-            "userName": "XplicitK",
-            "rank": 14,
-            "fantasyPoints": 115.52,
-            "winningValue": 0
-        }, {
-            "userName": "Dash7",
-            "rank": 15,
-            "fantasyPoints": 102.3,
-            "winningValue": 0
-        }, {
-            "userName": "pshhidk",
-            "rank": 16,
-            "fantasyPoints": 98.72,
-            "winningValue": 0
-        }, {
-            "userName": "ejmesa",
-            "rank": 17,
-            "fantasyPoints": 85.78,
-            "winningValue": 0
-        }],
+        "members": [
+            {
+                "userName": "DarbyDiaz3",
+                "rank": 1,
+                "fantasyPoints": 168.88,
+                "winningValue": 30
+            },
+            {
+                "userName": "arianna29",
+                "rank": 2,
+                "fantasyPoints": 163.5,
+                "winningValue": 15
+            },
+            {
+                "userName": "hlimardo",
+                "rank": 3,
+                "fantasyPoints": 156.1,
+                "winningValue": 8
+            },
+            {
+                "userName": "glopez28",
+                "rank": 4,
+                "fantasyPoints": 149.2,
+                "winningValue": 0
+            },
+            {
+                "userName": "g_mendoza",
+                "rank": 5,
+                "fantasyPoints": 148.9,
+                "winningValue": 0
+            },
+            {
+                "userName": "LoLoGREEN",
+                "rank": 6,
+                "fantasyPoints": 142.98,
+                "winningValue": 0
+            },
+            {
+                "userName": "climardo",
+                "rank": 7,
+                "fantasyPoints": 138.98,
+                "winningValue": 0
+            },
+            {
+                "userName": "frank.corn",
+                "rank": 8,
+                "fantasyPoints": 135.68,
+                "winningValue": 0
+            },
+            {
+                "userName": "jlopez0809",
+                "rank": 9,
+                "fantasyPoints": 132.1,
+                "winningValue": 0
+            },
+            {
+                "userName": "JekellP",
+                "rank": 10,
+                "fantasyPoints": 128.64,
+                "winningValue": 0
+            },
+            {
+                "userName": "Halvworld",
+                "rank": 11,
+                "fantasyPoints": 121.42,
+                "winningValue": 0
+            },
+            {
+                "userName": "olivadotij",
+                "rank": 12,
+                "fantasyPoints": 120.22,
+                "winningValue": 0
+            },
+            {
+                "userName": "rogdiaz",
+                "rank": 13,
+                "fantasyPoints": 116.8,
+                "winningValue": 0
+            },
+            {
+                "userName": "XplicitK",
+                "rank": 14,
+                "fantasyPoints": 115.52,
+                "winningValue": 0
+            },
+            {
+                "userName": "Dash7",
+                "rank": 15,
+                "fantasyPoints": 102.3,
+                "winningValue": 0
+            },
+            {
+                "userName": "pshhidk",
+                "rank": 16,
+                "fantasyPoints": 98.72,
+                "winningValue": 0
+            },
+            {
+                "userName": "ejmesa",
+                "rank": 17,
+                "fantasyPoints": 85.78,
+                "winningValue": 0
+            }
+        ],
         "mvp": {
             "playerId": 750846,
             "playerDkId": 18573,
@@ -793,58 +961,76 @@
             "position": "RB",
             "salary": 7900,
             "fantasyPoints": 47.7,
-            "stats": [{
-                "statId": 37,
-                "total": 2
-            }, {
-                "statId": 40,
-                "total": 139
-            }, {
-                "statId": 41,
-                "total": 58
-            }, {
-                "statId": 44,
-                "total": 13
-            }, {
-                "statId": 49,
-                "total": 1
-            }, {
-                "statId": 467,
-                "total": 14
-            }, {
-                "statId": 43,
-                "total": 6
-            }, {
-                "statId": 81,
-                "total": 49
-            }, {
-                "statId": 82,
-                "total": 52
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 983,
-                "total": 1
-            }, {
-                "statId": 984,
-                "total": 1
-            }, {
-                "statId": 996,
-                "total": 1
-            }, {
-                "statId": 999,
-                "total": 1
-            }, {
-                "statId": 1011,
-                "total": 39
-            }, {
-                "statId": 1217,
-                "total": 1
-            }, {
-                "statId": 1218,
-                "total": 1
-            }],
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 139
+                },
+                {
+                    "statId": 41,
+                    "total": 58
+                },
+                {
+                    "statId": 44,
+                    "total": 13
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 14
+                },
+                {
+                    "statId": 43,
+                    "total": 6
+                },
+                {
+                    "statId": 81,
+                    "total": 49
+                },
+                {
+                    "statId": 82,
+                    "total": 52
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 996,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 39
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
             "valueIcon": "fire",
             "attributes": {},
             "playerStates": [],
@@ -861,80 +1047,107 @@
             "opposingTeamCity": "Green Bay",
             "opposingTeamName": "Packers",
             "opposingTeamAbbreviation": "GB",
-            "fantasyStatsPerGame": [{
-                "statId": 37,
-                "total": 1
-            }, {
-                "statId": 38,
-                "total": 1
-            }, {
-                "statId": 40,
-                "total": 95
-            }, {
-                "statId": 41,
-                "total": 51
-            }, {
-                "statId": 43,
-                "total": 10.3333
-            }, {
-                "statId": 44,
-                "total": 9
-            }, {
-                "statId": 49,
-                "total": 0.3333
-            }, {
-                "statId": 81,
-                "total": 25.3333
-            }, {
-                "statId": 82,
-                "total": 36.6667
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 90,
-                "total": 36.6
-            }, {
-                "statId": 91,
-                "total": 36.6
-            }, {
-                "statId": 92,
-                "total": 7866.6667
-            }, {
-                "statId": 467,
-                "total": 10.3333
-            }, {
-                "statId": 983,
-                "total": 1
-            }, {
-                "statId": 984,
-                "total": 0.6667
-            }, {
-                "statId": 995,
-                "total": 0.3333
-            }, {
-                "statId": 996,
-                "total": 0.3333
-            }, {
-                "statId": 998,
-                "total": 0.6667
-            }, {
-                "statId": 999,
-                "total": 0.3333
-            }, {
-                "statId": 1011,
-                "total": 13
-            }, {
-                "statId": 1217,
-                "total": 0.6667
-            }, {
-                "statId": 1218,
-                "total": 1
-            }],
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 95
+                },
+                {
+                    "statId": 41,
+                    "total": 51
+                },
+                {
+                    "statId": 43,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 25.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 36.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 36.6
+                },
+                {
+                    "statId": 91,
+                    "total": 36.6
+                },
+                {
+                    "statId": 92,
+                    "total": 7866.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 996,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 13
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
             "fantasyStatsNumGames": 3,
             "fantasyPointsPerGame": 36.6,
             "displayName": "Alvin Kamara",
-            "draftedBy": ["DarbyDiaz3", "g_mendoza"],
+            "draftedBy": [
+                "DarbyDiaz3",
+                "g_mendoza"
+            ],
             "fantasyPointsPerSalary": 0.006037974683544304
         },
         "sleeper": {
@@ -946,29 +1159,41 @@
             "position": "WR",
             "salary": 3000,
             "fantasyPoints": 30.7,
-            "stats": [{
-                "statId": 37
-            }, {
-                "statId": 40
-            }, {
-                "statId": 44
-            }, {
-                "statId": 49
-            }, {
-                "statId": 467
-            }, {
-                "statId": 82
-            }, {
-                "statId": 84
-            }, {
-                "statId": 983
-            }, {
-                "statId": 999
-            }, {
-                "statId": 1011
-            }, {
-                "statId": 1218
-            }],
+            "stats": [
+                {
+                    "statId": 37
+                },
+                {
+                    "statId": 40
+                },
+                {
+                    "statId": 44
+                },
+                {
+                    "statId": 49
+                },
+                {
+                    "statId": 467
+                },
+                {
+                    "statId": 82
+                },
+                {
+                    "statId": 84
+                },
+                {
+                    "statId": 983
+                },
+                {
+                    "statId": 999
+                },
+                {
+                    "statId": 1011
+                },
+                {
+                    "statId": 1218
+                }
+            ],
             "valueIcon": "fire",
             "attributes": {},
             "playerStates": [],
@@ -985,49 +1210,64 @@
             "opposingTeamCity": "Seattle",
             "opposingTeamName": "Seahawks",
             "opposingTeamAbbreviation": "SEA",
-            "fantasyStatsPerGame": [{
-                "statId": 37,
-                "total": 0.6667
-            }, {
-                "statId": 40,
-                "total": 35.6667
-            }, {
-                "statId": 44,
-                "total": 1.6667
-            }, {
-                "statId": 49,
-                "total": 0.3333
-            }, {
-                "statId": 82,
-                "total": 14
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 90,
-                "total": 10.2333
-            }, {
-                "statId": 91,
-                "total": 10.2333
-            }, {
-                "statId": 92,
-                "total": 3000
-            }, {
-                "statId": 467,
-                "total": 2.3333
-            }, {
-                "statId": 983,
-                "total": 0.3333
-            }, {
-                "statId": 999,
-                "total": 0.3333
-            }, {
-                "statId": 1011,
-                "total": 2.3333
-            }, {
-                "statId": 1218,
-                "total": 0.3333
-            }],
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 35.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 14
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 10.2333
+                },
+                {
+                    "statId": 91,
+                    "total": 10.2333
+                },
+                {
+                    "statId": 92,
+                    "total": 3000
+                },
+                {
+                    "statId": 467,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
             "fantasyStatsNumGames": 3,
             "fantasyPointsPerGame": 10.2333,
             "displayName": "Cedrick Wilson",
@@ -1043,19 +1283,26 @@
             "position": "QB",
             "salary": 5000,
             "fantasyPoints": 0.68,
-            "stats": [{
-                "statId": 39
-            }, {
-                "statId": 42
-            }, {
-                "statId": 43
-            }, {
-                "statId": 71
-            }, {
-                "statId": 83
-            }, {
-                "statId": 84
-            }],
+            "stats": [
+                {
+                    "statId": 39
+                },
+                {
+                    "statId": 42
+                },
+                {
+                    "statId": 43
+                },
+                {
+                    "statId": 71
+                },
+                {
+                    "statId": 83
+                },
+                {
+                    "statId": 84
+                }
+            ],
             "valueIcon": "ice",
             "attributes": {},
             "playerStates": [],
@@ -1072,34 +1319,44 @@
             "opposingTeamCity": "New York",
             "opposingTeamName": "Jets",
             "opposingTeamAbbreviation": "NYJ",
-            "fantasyStatsPerGame": [{
-                "statId": 39,
-                "total": 8.5
-            }, {
-                "statId": 42,
-                "total": 1
-            }, {
-                "statId": 43,
-                "total": 1
-            }, {
-                "statId": 71,
-                "total": 2
-            }, {
-                "statId": 83,
-                "total": 6.5
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 90,
-                "total": 0.34
-            }, {
-                "statId": 91,
-                "total": 0.34
-            }, {
-                "statId": 92,
-                "total": 5050
-            }],
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 39,
+                    "total": 8.5
+                },
+                {
+                    "statId": 42,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 71,
+                    "total": 2
+                },
+                {
+                    "statId": 83,
+                    "total": 6.5
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 0.34
+                },
+                {
+                    "statId": 91,
+                    "total": 0.34
+                },
+                {
+                    "statId": 92,
+                    "total": 5050
+                }
+            ],
             "fantasyStatsNumGames": 2,
             "fantasyPointsPerGame": 0.34,
             "displayName": "Jacoby Brissett",
@@ -1115,39 +1372,56 @@
             "position": "QB",
             "salary": 7400,
             "fantasyPoints": 43,
-            "stats": [{
-                "statId": 36
-            }, {
-                "statId": 38
-            }, {
-                "statId": 39
-            }, {
-                "statId": 41
-            }, {
-                "statId": 47
-            }, {
-                "statId": 42
-            }, {
-                "statId": 43
-            }, {
-                "statId": 71
-            }, {
-                "statId": 81
-            }, {
-                "statId": 83
-            }, {
-                "statId": 84
-            }, {
-                "statId": 981
-            }, {
-                "statId": 986
-            }, {
-                "statId": 992
-            }, {
-                "statId": 1012
-            }, {
-                "statId": 1216
-            }],
+            "stats": [
+                {
+                    "statId": 36
+                },
+                {
+                    "statId": 38
+                },
+                {
+                    "statId": 39
+                },
+                {
+                    "statId": 41
+                },
+                {
+                    "statId": 47
+                },
+                {
+                    "statId": 42
+                },
+                {
+                    "statId": 43
+                },
+                {
+                    "statId": 71
+                },
+                {
+                    "statId": 81
+                },
+                {
+                    "statId": 83
+                },
+                {
+                    "statId": 84
+                },
+                {
+                    "statId": 981
+                },
+                {
+                    "statId": 986
+                },
+                {
+                    "statId": 992
+                },
+                {
+                    "statId": 1012
+                },
+                {
+                    "statId": 1216
+                }
+            ],
             "valueIcon": "fire",
             "attributes": {},
             "playerStates": [],
@@ -1164,76 +1438,100 @@
             "opposingTeamCity": "Baltimore",
             "opposingTeamName": "Ravens",
             "opposingTeamAbbreviation": "BAL",
-            "fantasyStatsPerGame": [{
-                "statId": 36,
-                "total": 3
-            }, {
-                "statId": 38,
-                "total": 0.3333
-            }, {
-                "statId": 39,
-                "total": 299.3333
-            }, {
-                "statId": 41,
-                "total": 26.6667
-            }, {
-                "statId": 42,
-                "total": 27.3333
-            }, {
-                "statId": 43,
-                "total": 3.3333
-            }, {
-                "statId": 47,
-                "total": 0.6667
-            }, {
-                "statId": 70,
-                "total": 0.3333
-            }, {
-                "statId": 71,
-                "total": 40.3333
-            }, {
-                "statId": 81,
-                "total": 11
-            }, {
-                "statId": 83,
-                "total": 40.6667
-            }, {
-                "statId": 84,
-                "total": 1
-            }, {
-                "statId": 90,
-                "total": 31.3067
-            }, {
-                "statId": 91,
-                "total": 31.3067
-            }, {
-                "statId": 92,
-                "total": 7366.6667
-            }, {
-                "statId": 981,
-                "total": 1
-            }, {
-                "statId": 985,
-                "total": 0.3333
-            }, {
-                "statId": 986,
-                "total": 0.3333
-            }, {
-                "statId": 992,
-                "total": 0.6667
-            }, {
-                "statId": 995,
-                "total": 0.3333
-            }, {
-                "statId": 1012,
-                "total": 29
-            }, {
-                "statId": 1216,
-                "total": 1
-            }, {
-                "statId": 1217,
-                "total": 0.3333
-            }],
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 3
+                },
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 299.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 26.6667
+                },
+                {
+                    "statId": 42,
+                    "total": 27.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 70,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 40.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 11
+                },
+                {
+                    "statId": 83,
+                    "total": 40.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 31.3067
+                },
+                {
+                    "statId": 91,
+                    "total": 31.3067
+                },
+                {
+                    "statId": 92,
+                    "total": 7366.6667
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 985,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 986,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 992,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 29
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
             "fantasyStatsNumGames": 3,
             "fantasyPointsPerGame": 31.3067,
             "displayName": "Patrick Mahomes",
@@ -1243,6 +1541,709 @@
     {
         "week": 4,
         "contest_id": 93205580,
-        "contest_start": "Oct 1, 2020 20:20:00"
+        "contest_start": "Oct 01, 2020 20:20:00",
+        "members": [
+            {
+                "userName": "rogdiaz",
+                "rank": 1,
+                "fantasyPoints": 172.26,
+                "winningValue": 30
+            },
+            {
+                "userName": "XplicitK",
+                "rank": 2,
+                "fantasyPoints": 170.38,
+                "winningValue": 15
+            },
+            {
+                "userName": "DarbyDiaz3",
+                "rank": 3,
+                "fantasyPoints": 160.3,
+                "winningValue": 8
+            },
+            {
+                "userName": "climardo",
+                "rank": 4,
+                "fantasyPoints": 148.38,
+                "winningValue": 0
+            },
+            {
+                "userName": "olivadotij",
+                "rank": 5,
+                "fantasyPoints": 143.78,
+                "winningValue": 0
+            },
+            {
+                "userName": "ejmesa",
+                "rank": 6,
+                "fantasyPoints": 143.6,
+                "winningValue": 0
+            },
+            {
+                "userName": "glopez28",
+                "rank": 7,
+                "fantasyPoints": 142.98,
+                "winningValue": 0
+            },
+            {
+                "userName": "Halvworld",
+                "rank": 8,
+                "fantasyPoints": 136.58,
+                "winningValue": 0
+            },
+            {
+                "userName": "g_mendoza",
+                "rank": 8,
+                "fantasyPoints": 136.58,
+                "winningValue": 0
+            },
+            {
+                "userName": "JekellP",
+                "rank": 10,
+                "fantasyPoints": 134.58,
+                "winningValue": 0
+            },
+            {
+                "userName": "Dash7",
+                "rank": 11,
+                "fantasyPoints": 133.54,
+                "winningValue": 0
+            },
+            {
+                "userName": "hlimardo",
+                "rank": 12,
+                "fantasyPoints": 126.1,
+                "winningValue": 0
+            },
+            {
+                "userName": "arianna29",
+                "rank": 13,
+                "fantasyPoints": 124.5,
+                "winningValue": 0
+            },
+            {
+                "userName": "jlopez0809",
+                "rank": 14,
+                "fantasyPoints": 120.32,
+                "winningValue": 0
+            },
+            {
+                "userName": "frank.corn",
+                "rank": 15,
+                "fantasyPoints": 109.58,
+                "winningValue": 0
+            },
+            {
+                "userName": "pshhidk",
+                "rank": 16,
+                "fantasyPoints": 80.2,
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "playerId": 820727,
+            "playerDkId": 13893,
+            "firstName": "Joe",
+            "lastName": "Mixon",
+            "teamId": 327,
+            "position": "RB",
+            "salary": 5800,
+            "fantasyPoints": 45.1,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 30
+                },
+                {
+                    "statId": 41,
+                    "total": 151
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 43,
+                    "total": 25
+                },
+                {
+                    "statId": 81,
+                    "total": 34
+                },
+                {
+                    "statId": 82,
+                    "total": 14
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 51
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5675579,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/820727.png",
+            "points": 45.1,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2020-10-04T17:00:00.0000000Z",
+            "weekNumber": 4,
+            "teamCity": "Cincinnati",
+            "teamName": "Bengals",
+            "teamAbbreviation": "CIN",
+            "opposingTeamCity": "Jacksonville",
+            "opposingTeamName": "Jaguars",
+            "opposingTeamAbbreviation": "JAX",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 28.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 82
+                },
+                {
+                    "statId": 43,
+                    "total": 19.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 18
+                },
+                {
+                    "statId": 82,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 22.0667
+                },
+                {
+                    "statId": 91,
+                    "total": 22.0667
+                },
+                {
+                    "statId": 92,
+                    "total": 5933.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 17
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 22.0667,
+            "displayName": "Joe Mixon",
+            "draftedBy": [],
+            "fantasyPointsPerSalary": 0.007775862068965518
+        },
+        "sleeper": {
+            "playerId": 660151,
+            "playerDkId": 19800,
+            "firstName": "Robert",
+            "lastName": "Tonyan",
+            "teamId": 335,
+            "position": "TE",
+            "salary": 3400,
+            "fantasyPoints": 33.8,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 98
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 82,
+                    "total": 27
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5673502,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/660151.png",
+            "points": 33.8,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2020-10-06T01:00:00.0000000Z",
+            "weekNumber": 4,
+            "teamCity": "Green Bay",
+            "teamName": "Packers",
+            "teamAbbreviation": "GB",
+            "opposingTeamCity": "Atlanta",
+            "opposingTeamName": "Falcons",
+            "opposingTeamAbbreviation": "ATL",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 57.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 19
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 20.1
+                },
+                {
+                    "statId": 91,
+                    "total": 20.1
+                },
+                {
+                    "statId": 92,
+                    "total": 2966.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 20.1,
+            "displayName": "Robert Tonyan",
+            "fantasyPointsPerSalary": 0.009941176470588235,
+            "draftedBy": []
+        },
+        "bust": {
+            "playerId": 592538,
+            "playerDkId": 13532,
+            "firstName": "Jeff",
+            "lastName": "Driskel",
+            "teamId": 332,
+            "position": "QB",
+            "salary": 5500,
+            "fantasyPoints": 0.9,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 9
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 9
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5673508,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/592538.png",
+            "points": 0.9,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2020-10-02T00:20:00.0000000Z",
+            "weekNumber": 4,
+            "teamCity": "Denver",
+            "teamName": "Broncos",
+            "teamAbbreviation": "DEN",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Jets",
+            "opposingTeamAbbreviation": "NYJ",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 144
+                },
+                {
+                    "statId": 41,
+                    "total": 9.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 11.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 46,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 70,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 7
+                },
+                {
+                    "statId": 83,
+                    "total": 24.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 10.6933
+                },
+                {
+                    "statId": 91,
+                    "total": 10.6933
+                },
+                {
+                    "statId": 92,
+                    "total": 4966.6667
+                },
+                {
+                    "statId": 992,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1216,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 10.6933,
+            "displayName": "Jeff Driskel",
+            "fantasyPointsPerSalary": 0.00016363636363636363,
+            "draftedBy": []
+        },
+        "draft_dodger": {
+            "playerId": 820727,
+            "playerDkId": 13893,
+            "firstName": "Joe",
+            "lastName": "Mixon",
+            "teamId": 327,
+            "position": "RB",
+            "salary": 5800,
+            "fantasyPoints": 45.1,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 30
+                },
+                {
+                    "statId": 41,
+                    "total": 151
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 43,
+                    "total": 25
+                },
+                {
+                    "statId": 81,
+                    "total": 34
+                },
+                {
+                    "statId": 82,
+                    "total": 14
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 51
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5675579,
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/820727.png",
+            "points": 45.1,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2020-10-04T17:00:00.0000000Z",
+            "weekNumber": 4,
+            "teamCity": "Cincinnati",
+            "teamName": "Bengals",
+            "teamAbbreviation": "CIN",
+            "opposingTeamCity": "Jacksonville",
+            "opposingTeamName": "Jaguars",
+            "opposingTeamAbbreviation": "JAX",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 28.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 82
+                },
+                {
+                    "statId": 43,
+                    "total": 19.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 18
+                },
+                {
+                    "statId": 82,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 22.0667
+                },
+                {
+                    "statId": 91,
+                    "total": 22.0667
+                },
+                {
+                    "statId": 92,
+                    "total": 5933.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 17
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 22.0667,
+            "displayName": "Joe Mixon",
+            "draftedBy": [],
+            "fantasyPointsPerSalary": 0.007775862068965518
+        }
+    },
+    {
+        "week": 5,
+        "contest_id": 93745891,
+        "contest_start": "Oct 08, 2020 20:20:00"
     }
 ]
