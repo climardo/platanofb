@@ -1,0 +1,22 @@
+<div class="container">
+	<h3>2020 Contests</h3>
+{% for week in site.data.weekly2020 %}
+    {% if week.members %}
+        {% assign oddeven = week.week | modulo:2 %}
+        {% if oddeven == 1 %}
+            <div class="row">
+        {% endif %}
+                <div class="col">
+                    <h5><a href="https://www.draftkings.com/contest/gamecenter/{{week.contest_id}}" target="_blank">Week {{ week.week }}</a></h5>
+                    <ol>
+                        {% for member in week.members limit:3 %}
+                        <li><b>{{ member.userName }}</b> <small class="text-muted">{{ member.fantasyPoints }} fpts</small></li>
+                        {% endfor %}
+                    </ol>
+                </div>
+        {% if oddeven == 0 %}
+            </div>
+        {% endif %}
+    {% endif %}
+{% endfor %}
+</div>
