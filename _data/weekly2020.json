@@ -2242,8 +2242,742 @@
         }
     },
     {
-        "week": 5,
-        "contest_id": 93745891,
-        "contest_start": "Oct 08, 2020 20:20:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Diontae Johnson",
+            "draftedBy": [
+                "g_mendoza",
+                "frank.corn"
+            ],
+            "fantasyPoints": 0.8,
+            "fantasyPointsPerGame": 8.3,
+            "fantasyPointsPerSalary": 0.00014285714285714287,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 30
+                },
+                {
+                    "statId": 41,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 3
+                },
+                {
+                    "statId": 81,
+                    "total": 3
+                },
+                {
+                    "statId": 82,
+                    "total": 8.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 8.3
+                },
+                {
+                    "statId": 91,
+                    "total": 8.3
+                },
+                {
+                    "statId": 92,
+                    "total": 5166.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 5.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Diontae",
+            "gameId": 5673826,
+            "gameStartTime": "2020-10-11T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/891115.png",
+            "lastName": "Johnson",
+            "opposingTeamAbbreviation": "PHI",
+            "opposingTeamCity": "Philadelphia",
+            "opposingTeamName": "Eagles",
+            "playerDkId": 18611,
+            "playerId": 891115,
+            "playerStates": [],
+            "points": 0.8,
+            "position": "WR",
+            "salary": 5600,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": -2
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 1
+                },
+                {
+                    "statId": 82,
+                    "total": -2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "PIT",
+            "teamCity": "Pittsburgh",
+            "teamId": 356,
+            "teamName": "Steelers",
+            "valueIcon": "ice",
+            "weekNumber": 5
+        },
+        "contest_id": "93745891",
+        "contest_start": "Oct 08, 2020 20:20:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Chase Claypool",
+            "draftedBy": [],
+            "fantasyPoints": 45.6,
+            "fantasyPointsPerGame": 22.2667,
+            "fantasyPointsPerSalary": 0.011121951219512196,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 74
+                },
+                {
+                    "statId": 41,
+                    "total": 2
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 44,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 1
+                },
+                {
+                    "statId": 82,
+                    "total": 47.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 22.2667
+                },
+                {
+                    "statId": 91,
+                    "total": 22.2667
+                },
+                {
+                    "statId": 92,
+                    "total": 3600
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1081,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Chase",
+            "gameId": 5673826,
+            "gameStartTime": "2020-10-11T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/946094.png",
+            "lastName": "Claypool",
+            "opposingTeamAbbreviation": "PHI",
+            "opposingTeamCity": "Philadelphia",
+            "opposingTeamName": "Eagles",
+            "playerDkId": 477184,
+            "playerId": 946094,
+            "playerStates": [],
+            "points": 45.6,
+            "position": "WR",
+            "salary": 4100,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 110
+                },
+                {
+                    "statId": 41,
+                    "total": 6
+                },
+                {
+                    "statId": 44,
+                    "total": 7
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 11
+                },
+                {
+                    "statId": 43,
+                    "total": 3
+                },
+                {
+                    "statId": 81,
+                    "total": 3
+                },
+                {
+                    "statId": 82,
+                    "total": 35
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 10
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "PIT",
+            "teamCity": "Pittsburgh",
+            "teamId": 356,
+            "teamName": "Steelers",
+            "valueIcon": "fire",
+            "weekNumber": 5
+        },
+        "members": [
+            {
+                "fantasyPoints": 166.3,
+                "rank": 1,
+                "userName": "rogdiaz",
+                "winningValue": 30
+            },
+            {
+                "fantasyPoints": 166.22,
+                "rank": 2,
+                "userName": "XplicitK",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 145.92,
+                "rank": 3,
+                "userName": "ejmesa",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 142.68,
+                "rank": 4,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 136.82,
+                "rank": 5,
+                "userName": "g_mendoza",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 135.92,
+                "rank": 6,
+                "userName": "glopez28",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 129.22,
+                "rank": 7,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 124.52,
+                "rank": 8,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 124.48,
+                "rank": 9,
+                "userName": "arianna29",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 118.12,
+                "rank": 10,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 116.38,
+                "rank": 11,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 106.68,
+                "rank": 12,
+                "userName": "Halvworld",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 106.3,
+                "rank": 13,
+                "userName": "Dash7",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 104,
+                "rank": 14,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 102.12,
+                "rank": 15,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 94.84,
+                "rank": 16,
+                "userName": "pshhidk",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Chase Claypool",
+            "draftedBy": [],
+            "fantasyPoints": 45.6,
+            "fantasyPointsPerGame": 22.2667,
+            "fantasyPointsPerSalary": 0.011121951219512196,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 74
+                },
+                {
+                    "statId": 41,
+                    "total": 2
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 44,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 1
+                },
+                {
+                    "statId": 82,
+                    "total": 47.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 22.2667
+                },
+                {
+                    "statId": 91,
+                    "total": 22.2667
+                },
+                {
+                    "statId": 92,
+                    "total": 3600
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1081,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Chase",
+            "gameId": 5673826,
+            "gameStartTime": "2020-10-11T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/946094.png",
+            "lastName": "Claypool",
+            "opposingTeamAbbreviation": "PHI",
+            "opposingTeamCity": "Philadelphia",
+            "opposingTeamName": "Eagles",
+            "playerDkId": 477184,
+            "playerId": 946094,
+            "playerStates": [],
+            "points": 45.6,
+            "position": "WR",
+            "salary": 4100,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 110
+                },
+                {
+                    "statId": 41,
+                    "total": 6
+                },
+                {
+                    "statId": 44,
+                    "total": 7
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 11
+                },
+                {
+                    "statId": 43,
+                    "total": 3
+                },
+                {
+                    "statId": 81,
+                    "total": 3
+                },
+                {
+                    "statId": 82,
+                    "total": 35
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 10
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "PIT",
+            "teamCity": "Pittsburgh",
+            "teamId": 356,
+            "teamName": "Steelers",
+            "valueIcon": "fire",
+            "weekNumber": 5
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Travis Fulgham",
+            "draftedBy": [],
+            "fantasyPoints": 34.2,
+            "fantasyPointsPerGame": 23.95,
+            "fantasyPointsPerSalary": 0.0114,
+            "fantasyStatsNumGames": 2,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 104.5
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 49,
+                    "total": 0.5
+                },
+                {
+                    "statId": 82,
+                    "total": 36.5
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 23.95
+                },
+                {
+                    "statId": 91,
+                    "total": 23.95
+                },
+                {
+                    "statId": 92,
+                    "total": 1500
+                },
+                {
+                    "statId": 467,
+                    "total": 8
+                },
+                {
+                    "statId": 983,
+                    "total": 0.5
+                },
+                {
+                    "statId": 990,
+                    "total": 0.5
+                },
+                {
+                    "statId": 998,
+                    "total": 0.5
+                },
+                {
+                    "statId": 999,
+                    "total": 0.5
+                },
+                {
+                    "statId": 1011,
+                    "total": 26
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "firstName": "Travis",
+            "gameId": 5673826,
+            "gameStartTime": "2020-10-11T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/839325.png",
+            "lastName": "Fulgham",
+            "opposingTeamAbbreviation": "PIT",
+            "opposingTeamCity": "Pittsburgh",
+            "opposingTeamName": "Steelers",
+            "playerDkId": 19239,
+            "playerId": 839325,
+            "playerStates": [],
+            "points": 34.2,
+            "position": "WR",
+            "salary": 3000,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 152
+                },
+                {
+                    "statId": 44,
+                    "total": 10
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 13
+                },
+                {
+                    "statId": 82,
+                    "total": 31
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 52
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "PHI",
+            "teamCity": "Philadelphia",
+            "teamId": 354,
+            "teamName": "Eagles",
+            "valueIcon": "fire",
+            "weekNumber": 5
+        },
+        "week": 5
+    },
+    {
+        "week": 6,
+        "contest_id": "",
+        "contest_start": "Oct 15, 2020 20:20:00"
     }
 ]
