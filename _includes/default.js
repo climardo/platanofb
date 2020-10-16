@@ -15,8 +15,9 @@ if ('{{ page.layout }}' === 'post' && '{{ page.header_image }}' !== 'nil') {
 }
 
 function hideCountdown() {
-    var d = new Date().getDay();
-    if (d > 4 || d < 2) {
+    var d = new Date();
+    var day = new Date().getDay();
+    if (d > countDownDate || day < 2) {
         try {
             document.getElementById("draft").classList.add("d-none");
             let contestLinks = document.getElementsByClassName("contest-link");
