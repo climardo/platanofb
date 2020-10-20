@@ -2976,8 +2976,677 @@
         "week": 5
     },
     {
-        "week": 6,
+        "bust": {
+            "attributes": {},
+            "displayName": "Tua Tagovailoa",
+            "draftedBy": [],
+            "fantasyPoints": 0.36,
+            "fantasyPointsPerGame": 0.18,
+            "fantasyPointsPerSalary": 6.666666666666667e-05,
+            "fantasyStatsNumGames": 2,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 39,
+                    "total": 4.5
+                },
+                {
+                    "statId": 42,
+                    "total": 1
+                },
+                {
+                    "statId": 71,
+                    "total": 1
+                },
+                {
+                    "statId": 83,
+                    "total": 3.5
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 0.18
+                },
+                {
+                    "statId": 91,
+                    "total": 0.18
+                },
+                {
+                    "statId": 92,
+                    "total": 5300
+                }
+            ],
+            "firstName": "Tua",
+            "gameId": 5674072,
+            "gameStartTime": "2020-10-18T20:05:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/973947.png",
+            "lastName": "Tagovailoa",
+            "opposingTeamAbbreviation": "NYJ",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Jets",
+            "playerDkId": 468529,
+            "playerId": 973947,
+            "playerStates": [],
+            "points": 0.36,
+            "position": "QB",
+            "salary": 5400,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 39,
+                    "total": 9
+                },
+                {
+                    "statId": 42,
+                    "total": 2
+                },
+                {
+                    "statId": 71,
+                    "total": 2
+                },
+                {
+                    "statId": 83,
+                    "total": 7
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIA",
+            "teamCity": "Miami",
+            "teamId": 345,
+            "teamName": "Dolphins",
+            "valueIcon": "ice",
+            "weekNumber": 6
+        },
         "contest_id": "94285227",
-        "contest_start": "Oct 18, 2020 13:00:00"
+        "contest_start": "Oct 18, 2020 13:00:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Julio Jones",
+            "fantasyPoints": 36.7,
+            "fantasyPointsPerGame": 16.1,
+            "fantasyPointsPerSalary": 0.005477611940298508,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 64.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 26
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 16.1
+                },
+                {
+                    "statId": 91,
+                    "total": 16.1
+                },
+                {
+                    "statId": 92,
+                    "total": 6666.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 12.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Julio",
+            "gameId": 5674126,
+            "gameStartTime": "2020-10-18T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/456614.png",
+            "lastName": "Jones",
+            "opposingTeamAbbreviation": "MIN",
+            "opposingTeamCity": "Minnesota",
+            "opposingTeamName": "Vikings",
+            "playerDkId": 11143,
+            "playerId": 456614,
+            "playerStates": [],
+            "points": 36.7,
+            "position": "WR",
+            "salary": 6700,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 137
+                },
+                {
+                    "statId": 44,
+                    "total": 8
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 10
+                },
+                {
+                    "statId": 82,
+                    "total": 40
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 37
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "ATL",
+            "teamCity": "Atlanta",
+            "teamId": 323,
+            "teamName": "Falcons",
+            "valueIcon": "fire",
+            "weekNumber": 6
+        },
+        "members": [
+            {
+                "fantasyPoints": 154.32,
+                "rank": 1,
+                "userName": "XplicitK",
+                "winningValue": 30
+            },
+            {
+                "fantasyPoints": 153.32,
+                "rank": 2,
+                "userName": "arianna29",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 145.54,
+                "rank": 3,
+                "userName": "rogdiaz",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 142.42,
+                "rank": 4,
+                "userName": "LoLoGREEN",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 139.94,
+                "rank": 5,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 136.28,
+                "rank": 6,
+                "userName": "g_mendoza",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 130.62,
+                "rank": 7,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 128.82,
+                "rank": 8,
+                "userName": "glopez28",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 126.5,
+                "rank": 9,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 117.42,
+                "rank": 10,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 112.02,
+                "rank": 11,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 104.3,
+                "rank": 12,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 99.42,
+                "rank": 13,
+                "userName": "Halvworld",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 94.58,
+                "rank": 14,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 93.62,
+                "rank": 15,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 84.94,
+                "rank": 16,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 84.04,
+                "rank": 17,
+                "userName": "Dash7",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Derrick Henry",
+            "draftedBy": [
+                "arianna29",
+                "LoLoGREEN",
+                "g_mendoza",
+                "jlopez0809"
+            ],
+            "fantasyPoints": 43.4,
+            "fantasyPointsPerGame": 30.9,
+            "fantasyPointsPerSalary": 0.005945205479452055,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 23
+                },
+                {
+                    "statId": 41,
+                    "total": 129.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 22.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 48,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 40.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 21.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 30.9
+                },
+                {
+                    "statId": 91,
+                    "total": 30.9
+                },
+                {
+                    "statId": 92,
+                    "total": 7466.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 989,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 997,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 43.6667
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Derrick",
+            "gameId": 5674210,
+            "gameStartTime": "2020-10-18T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/732145.png",
+            "lastName": "Henry",
+            "opposingTeamAbbreviation": "HOU",
+            "opposingTeamCity": "Houston",
+            "opposingTeamName": "Texans",
+            "playerDkId": 19898,
+            "playerId": 732145,
+            "playerStates": [],
+            "points": 43.4,
+            "position": "RB",
+            "salary": 7300,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 52
+                },
+                {
+                    "statId": 41,
+                    "total": 212
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 5
+                },
+                {
+                    "statId": 43,
+                    "total": 22
+                },
+                {
+                    "statId": 81,
+                    "total": 94
+                },
+                {
+                    "statId": 82,
+                    "total": 53
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 989,
+                    "total": 1
+                },
+                {
+                    "statId": 997,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 112
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "TEN",
+            "teamCity": "Tennessee",
+            "teamId": 336,
+            "teamName": "Titans",
+            "valueIcon": "fire",
+            "weekNumber": 6
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Anthony Firkser",
+            "draftedBy": [],
+            "fantasyPoints": 28.3,
+            "fantasyPointsPerGame": 11.0667,
+            "fantasyPointsPerSalary": 0.01132,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 44
+                },
+                {
+                    "statId": 44,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 19
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 11.0667
+                },
+                {
+                    "statId": 91,
+                    "total": 11.0667
+                },
+                {
+                    "statId": 92,
+                    "total": 2500
+                },
+                {
+                    "statId": 467,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Anthony",
+            "gameId": 5674210,
+            "gameStartTime": "2020-10-18T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/767297.png",
+            "lastName": "Firkser",
+            "opposingTeamAbbreviation": "HOU",
+            "opposingTeamCity": "Houston",
+            "opposingTeamName": "Texans",
+            "playerDkId": 19882,
+            "playerId": 767297,
+            "playerStates": [],
+            "points": 28.3,
+            "position": "TE",
+            "salary": 2500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 113
+                },
+                {
+                    "statId": 44,
+                    "total": 8
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 9
+                },
+                {
+                    "statId": 82,
+                    "total": 45
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 13
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "TEN",
+            "teamCity": "Tennessee",
+            "teamId": 336,
+            "teamName": "Titans",
+            "valueIcon": "fire",
+            "weekNumber": 6
+        },
+        "week": 6
+    },
+    {
+        "week": 7,
+        "contest_id": 94770938,
+        "contest_start": "Oct 22, 2020 20:20:00"
     }
 ]
