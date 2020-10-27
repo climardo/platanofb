@@ -3645,8 +3645,695 @@
         "week": 6
     },
     {
-        "week": 7,
-        "contest_id": 94770938,
-        "contest_start": "Oct 22, 2020 20:20:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "CeeDee Lamb",
+            "draftedBy": [],
+            "fantasyPoints": 0.1,
+            "fantasyPointsPerGame": 12.3,
+            "fantasyPointsPerSalary": 1.5384615384615384e-05,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 62.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 17.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 12.3
+                },
+                {
+                    "statId": 91,
+                    "total": 12.3
+                },
+                {
+                    "statId": 92,
+                    "total": 6333.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 9
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1011,
+                    "total": 8
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "CeeDee",
+            "gameId": 5674486,
+            "gameStartTime": "2020-10-25T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1062020.png",
+            "lastName": "Lamb",
+            "opposingTeamAbbreviation": "WAS",
+            "opposingTeamCity": "Washington",
+            "opposingTeamName": "Football Team",
+            "playerDkId": 485450,
+            "playerId": 1062020,
+            "playerStates": [],
+            "points": 0.1,
+            "position": "WR",
+            "salary": 6500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 5
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 1
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "DAL",
+            "teamCity": "Dallas",
+            "teamId": 331,
+            "teamName": "Cowboys",
+            "valueIcon": "ice",
+            "weekNumber": 7
+        },
+        "contest_id": "94770938",
+        "contest_start": "Oct 22, 2020 20:20:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Tyler Lockett",
+            "draftedBy": [],
+            "fantasyPoints": 56,
+            "fantasyPointsPerGame": 23.4333,
+            "fantasyPointsPerSalary": 0.008484848484848486,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 94.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 7
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 31.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 23.4333
+                },
+                {
+                    "statId": 91,
+                    "total": 23.4333
+                },
+                {
+                    "statId": 92,
+                    "total": 6766.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 991,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 33.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Tyler",
+            "gameId": 5675375,
+            "gameStartTime": "2020-10-26T00:20:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/605242.png",
+            "lastName": "Lockett",
+            "opposingTeamAbbreviation": "ARI",
+            "opposingTeamCity": "Arizona",
+            "opposingTeamName": "Cardinals",
+            "playerDkId": 19905,
+            "playerId": 605242,
+            "playerStates": [],
+            "points": 56,
+            "position": "WR",
+            "salary": 6600,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 200
+                },
+                {
+                    "statId": 44,
+                    "total": 15
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 20
+                },
+                {
+                    "statId": 82,
+                    "total": 47
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 991,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 100
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "SEA",
+            "teamCity": "Seattle",
+            "teamId": 361,
+            "teamName": "Seahawks",
+            "valueIcon": "fire",
+            "weekNumber": 7
+        },
+        "members": [
+            {
+                "fantasyPoints": 179.86,
+                "rank": 1,
+                "userName": "frank.corn",
+                "winningValue": 30
+            },
+            {
+                "fantasyPoints": 151.74,
+                "rank": 2,
+                "userName": "arianna29",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 145.88,
+                "rank": 3,
+                "userName": "g_mendoza",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 143.48,
+                "rank": 4,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 139.38,
+                "rank": 5,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 131.08,
+                "rank": 6,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 123.86,
+                "rank": 7,
+                "userName": "Halvworld",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 123.14,
+                "rank": 8,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 118.26,
+                "rank": 9,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 115.92,
+                "rank": 10,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 115.8,
+                "rank": 11,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 114.46,
+                "rank": 12,
+                "userName": "LoLoGREEN",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 114.3,
+                "rank": 13,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 110.9,
+                "rank": 14,
+                "userName": "XplicitK",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 107.98,
+                "rank": 15,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 99.22,
+                "rank": 16,
+                "userName": "Dash7",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Tyler Lockett",
+            "draftedBy": [],
+            "fantasyPoints": 56,
+            "fantasyPointsPerGame": 23.4333,
+            "fantasyPointsPerSalary": 0.008484848484848486,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 94.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 7
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 31.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 23.4333
+                },
+                {
+                    "statId": 91,
+                    "total": 23.4333
+                },
+                {
+                    "statId": 92,
+                    "total": 6766.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 991,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 33.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Tyler",
+            "gameId": 5675375,
+            "gameStartTime": "2020-10-26T00:20:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/605242.png",
+            "lastName": "Lockett",
+            "opposingTeamAbbreviation": "ARI",
+            "opposingTeamCity": "Arizona",
+            "opposingTeamName": "Cardinals",
+            "playerDkId": 19905,
+            "playerId": 605242,
+            "playerStates": [],
+            "points": 56,
+            "position": "WR",
+            "salary": 6600,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 200
+                },
+                {
+                    "statId": 44,
+                    "total": 15
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 20
+                },
+                {
+                    "statId": 82,
+                    "total": 47
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 991,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 100
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "SEA",
+            "teamCity": "Seattle",
+            "teamId": 361,
+            "teamName": "Seahawks",
+            "valueIcon": "fire",
+            "weekNumber": 7
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Jeff Wilson Jr.",
+            "draftedBy": [],
+            "fantasyPoints": 35,
+            "fantasyPointsPerGame": 13.5333,
+            "fantasyPointsPerSalary": 0.00875,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 7
+                },
+                {
+                    "statId": 41,
+                    "total": 48.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 8
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 6.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 13.5333
+                },
+                {
+                    "statId": 91,
+                    "total": 13.5333
+                },
+                {
+                    "statId": 92,
+                    "total": 4600
+                },
+                {
+                    "statId": 467,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 4
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Jeff",
+            "gameId": 5673358,
+            "gameStartTime": "2020-10-25T20:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/834195.png",
+            "lastName": "Wilson Jr.",
+            "opposingTeamAbbreviation": "NE",
+            "opposingTeamCity": "New England",
+            "opposingTeamName": "Patriots",
+            "playerDkId": 19751,
+            "playerId": 834195,
+            "playerStates": [],
+            "points": 35,
+            "position": "RB",
+            "salary": 4000,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 38,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 8
+                },
+                {
+                    "statId": 41,
+                    "total": 112
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 2
+                },
+                {
+                    "statId": 43,
+                    "total": 17
+                },
+                {
+                    "statId": 81,
+                    "total": 17
+                },
+                {
+                    "statId": 82,
+                    "total": 7
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 12
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "SF",
+            "teamCity": "San Francisco",
+            "teamId": 359,
+            "teamName": "49ers",
+            "valueIcon": "fire",
+            "weekNumber": 7
+        },
+        "week": 7
+    },
+    {
+        "week": 8,
+        "contest_id": 95268277,
+        "contest_start": "Oct 29, 2020 20:20:00"
     }
 ]
