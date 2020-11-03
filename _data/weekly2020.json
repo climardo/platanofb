@@ -4332,8 +4332,818 @@
         "week": 7
     },
     {
-        "week": 8,
-        "contest_id": 95268277,
-        "contest_start": "Oct 29, 2020 20:20:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Mitchell Trubisky",
+            "draftedBy": [],
+            "fantasyPoints": 0.3,
+            "fantasyPointsPerGame": 9.3733,
+            "fantasyPointsPerSalary": 5.769230769230769e-05,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 106
+                },
+                {
+                    "statId": 41,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 71,
+                    "total": 16.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 20
+                },
+                {
+                    "statId": 83,
+                    "total": 15.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 9.3733
+                },
+                {
+                    "statId": 91,
+                    "total": 9.3733
+                },
+                {
+                    "statId": 92,
+                    "total": 5466.6667
+                },
+                {
+                    "statId": 996,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1216,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Mitchell",
+            "gameId": 5673688,
+            "gameStartTime": "2020-11-01T21:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/728169.png",
+            "lastName": "Trubisky",
+            "opposingTeamAbbreviation": "NO",
+            "opposingTeamCity": "New Orleans",
+            "opposingTeamName": "Saints",
+            "playerDkId": 13158,
+            "playerId": 728169,
+            "playerStates": [],
+            "points": 0.3,
+            "position": "QB",
+            "salary": 5200,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 3
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "CHI",
+            "teamCity": "Chicago",
+            "teamId": 326,
+            "teamName": "Bears",
+            "valueIcon": "ice",
+            "weekNumber": 8
+        },
+        "contest_id": "95268277",
+        "contest_start": "Oct 29, 2020 20:20:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Dalvin Cook",
+            "draftedBy": [],
+            "fantasyPoints": 51.6,
+            "fantasyPointsPerGame": 34.3667,
+            "fantasyPointsPerSalary": 0.00688,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 34.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 119.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 24.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 3
+                },
+                {
+                    "statId": 48,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 20.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 34.3667
+                },
+                {
+                    "statId": 91,
+                    "total": 34.3667
+                },
+                {
+                    "statId": 92,
+                    "total": 7566.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 984,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 31
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Dalvin",
+            "gameId": 5673526,
+            "gameStartTime": "2020-11-01T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/824080.png",
+            "lastName": "Cook",
+            "opposingTeamAbbreviation": "GB",
+            "opposingTeamCity": "Green Bay",
+            "opposingTeamName": "Packers",
+            "playerDkId": 17070,
+            "playerId": 824080,
+            "playerStates": [],
+            "points": 51.6,
+            "position": "RB",
+            "salary": 7500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 63
+                },
+                {
+                    "statId": 41,
+                    "total": 163
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 30
+                },
+                {
+                    "statId": 81,
+                    "total": 37
+                },
+                {
+                    "statId": 82,
+                    "total": 50
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 63
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIN",
+            "teamCity": "Minnesota",
+            "teamId": 347,
+            "teamName": "Vikings",
+            "valueIcon": "fire",
+            "weekNumber": 8
+        },
+        "members": [
+            {
+                "fantasyPoints": 147.56,
+                "rank": 1,
+                "userName": "g_mendoza",
+                "winningValue": 30
+            },
+            {
+                "fantasyPoints": 138.96,
+                "rank": 2,
+                "userName": "pshhidk",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 138.04,
+                "rank": 3,
+                "userName": "climardo",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 135.62,
+                "rank": 4,
+                "userName": "glopez28",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 126.48,
+                "rank": 5,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 121.86,
+                "rank": 6,
+                "userName": "XplicitK",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 120.38,
+                "rank": 7,
+                "userName": "arianna29",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 115.94,
+                "rank": 8,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 111.24,
+                "rank": 9,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 108.08,
+                "rank": 10,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 106.94,
+                "rank": 11,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 105.94,
+                "rank": 12,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 102.66,
+                "rank": 13,
+                "userName": "Dash7",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 101.02,
+                "rank": 14,
+                "userName": "Halvworld",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 96.78,
+                "rank": 15,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 89.36,
+                "rank": 16,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Dalvin Cook",
+            "draftedBy": [],
+            "fantasyPoints": 51.6,
+            "fantasyPointsPerGame": 34.3667,
+            "fantasyPointsPerSalary": 0.00688,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 34.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 119.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 24.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 3
+                },
+                {
+                    "statId": 48,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 20.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 34.3667
+                },
+                {
+                    "statId": 91,
+                    "total": 34.3667
+                },
+                {
+                    "statId": 92,
+                    "total": 7566.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 984,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 31
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Dalvin",
+            "gameId": 5673526,
+            "gameStartTime": "2020-11-01T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/824080.png",
+            "lastName": "Cook",
+            "opposingTeamAbbreviation": "GB",
+            "opposingTeamCity": "Green Bay",
+            "opposingTeamName": "Packers",
+            "playerDkId": 17070,
+            "playerId": 824080,
+            "playerStates": [],
+            "points": 51.6,
+            "position": "RB",
+            "salary": 7500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 63
+                },
+                {
+                    "statId": 41,
+                    "total": 163
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 30
+                },
+                {
+                    "statId": 81,
+                    "total": 37
+                },
+                {
+                    "statId": 82,
+                    "total": 50
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 63
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIN",
+            "teamCity": "Minnesota",
+            "teamId": 347,
+            "teamName": "Vikings",
+            "valueIcon": "fire",
+            "weekNumber": 8
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Dolphins",
+            "draftedBy": [],
+            "fantasyPoints": 23,
+            "fantasyPointsPerGame": 16.6667,
+            "fantasyPointsPerSalary": 0.009583333333333333,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 52,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 53,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 54,
+                    "total": 1
+                },
+                {
+                    "statId": 55,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 56,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 59,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 75,
+                    "total": 11.3333
+                },
+                {
+                    "statId": 76,
+                    "total": 125.6667
+                },
+                {
+                    "statId": 77,
+                    "total": 237.3333
+                },
+                {
+                    "statId": 78,
+                    "total": 363
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 16.6667
+                },
+                {
+                    "statId": 91,
+                    "total": 16.6667
+                },
+                {
+                    "statId": 92,
+                    "total": 2566.6667
+                },
+                {
+                    "statId": 102,
+                    "total": 29.6667
+                },
+                {
+                    "statId": 103,
+                    "total": 214.3333
+                },
+                {
+                    "statId": 104,
+                    "total": 86.3333
+                },
+                {
+                    "statId": 105,
+                    "total": 300.6667
+                },
+                {
+                    "statId": 976,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 978,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1001,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Dolphins",
+            "gameId": 5675531,
+            "gameStartTime": "2020-11-01T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/345.png",
+            "lastName": "",
+            "opposingTeamAbbreviation": "LAR",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Rams",
+            "playerDkId": 18401,
+            "playerId": 345,
+            "playerState": "offense",
+            "playerStates": [
+                "onField"
+            ],
+            "points": 23,
+            "position": "DST",
+            "salary": 2400,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 52,
+                    "total": 2
+                },
+                {
+                    "statId": 53,
+                    "total": 2
+                },
+                {
+                    "statId": 54,
+                    "total": 2
+                },
+                {
+                    "statId": 55,
+                    "total": 2
+                },
+                {
+                    "statId": 59,
+                    "total": 1
+                },
+                {
+                    "statId": 75,
+                    "total": 17
+                },
+                {
+                    "statId": 76,
+                    "total": 131
+                },
+                {
+                    "statId": 77,
+                    "total": 355
+                },
+                {
+                    "statId": 78,
+                    "total": 486
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 102,
+                    "total": 22
+                },
+                {
+                    "statId": 103,
+                    "total": 93
+                },
+                {
+                    "statId": 104,
+                    "total": 55
+                },
+                {
+                    "statId": 105,
+                    "total": 148
+                },
+                {
+                    "statId": 978,
+                    "total": 1
+                },
+                {
+                    "statId": 1001,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIA",
+            "teamCity": "Miami",
+            "teamId": 345,
+            "teamName": "Dolphins",
+            "valueIcon": "fire",
+            "weekNumber": 8
+        },
+        "week": 8
+    },
+    {
+        "week": 9,
+        "contest_id": 95731685,
+        "contest_start": "Nov 05, 2020 20:20:00"
     }
 ]
