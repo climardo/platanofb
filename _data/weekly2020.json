@@ -5142,8 +5142,796 @@
         "week": 8
     },
     {
-        "week": 9,
-        "contest_id": 95890723,
-        "contest_start": "Nov 05, 2020 20:20:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Jameis Winston",
+            "draftedBy": [],
+            "fantasyPoints": 0.18,
+            "fantasyPointsPerGame": 0.18,
+            "fantasyPointsPerSalary": 3.6e-05,
+            "fantasyStatsNumGames": 1,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 39,
+                    "total": 12
+                },
+                {
+                    "statId": 41,
+                    "total": -3
+                },
+                {
+                    "statId": 42,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 3
+                },
+                {
+                    "statId": 71,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": -1
+                },
+                {
+                    "statId": 83,
+                    "total": 12
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 0.18
+                },
+                {
+                    "statId": 91,
+                    "total": 0.18
+                },
+                {
+                    "statId": 92,
+                    "total": 5000
+                }
+            ],
+            "firstName": "Jameis",
+            "gameId": 5673898,
+            "gameStartTime": "2020-11-09T01:20:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/691536.png",
+            "lastName": "Winston",
+            "opposingTeamAbbreviation": "TB",
+            "opposingTeamCity": "Tampa Bay",
+            "opposingTeamName": "Buccaneers",
+            "playerDkId": 20214,
+            "playerId": 691536,
+            "playerStates": [],
+            "points": 0.18,
+            "position": "QB",
+            "salary": 5000,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 39,
+                    "total": 12
+                },
+                {
+                    "statId": 41,
+                    "total": -3
+                },
+                {
+                    "statId": 42,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 3
+                },
+                {
+                    "statId": 71,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": -1
+                },
+                {
+                    "statId": 83,
+                    "total": 12
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "NO",
+            "teamCity": "New Orleans",
+            "teamId": 350,
+            "teamName": "Saints",
+            "valueIcon": "ice",
+            "weekNumber": 9
+        },
+        "contest_id": "95890723",
+        "contest_start": "Nov 05, 2020 20:20:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Kyler Murray",
+            "fantasyPoints": 41.92,
+            "fantasyPointsPerGame": 37.3133,
+            "fantasyPointsPerSalary": 0.005374358974358975,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 2.6667
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 277
+                },
+                {
+                    "statId": 41,
+                    "total": 82.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 11.6667
+                },
+                {
+                    "statId": 46,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 32.6667
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 20.6667
+                },
+                {
+                    "statId": 83,
+                    "total": 59
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 37.3133
+                },
+                {
+                    "statId": 91,
+                    "total": 37.3133
+                },
+                {
+                    "statId": 92,
+                    "total": 7566.6667
+                },
+                {
+                    "statId": 981,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 985,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 986,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 992,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 994,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 2
+                },
+                {
+                    "statId": 1012,
+                    "total": 20
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "firstName": "Kyler",
+            "gameId": 5673700,
+            "gameStartTime": "2020-11-08T21:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/879799.png",
+            "lastName": "Murray",
+            "opposingTeamAbbreviation": "MIA",
+            "opposingTeamCity": "Miami",
+            "opposingTeamName": "Dolphins",
+            "playerDkId": 17976,
+            "playerId": 879799,
+            "playerStates": [],
+            "points": 41.92,
+            "position": "QB",
+            "salary": 7800,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 3
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 283
+                },
+                {
+                    "statId": 41,
+                    "total": 106
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 50,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 21
+                },
+                {
+                    "statId": 43,
+                    "total": 11
+                },
+                {
+                    "statId": 71,
+                    "total": 26
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 28
+                },
+                {
+                    "statId": 83,
+                    "total": 56
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 985,
+                    "total": 1
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 6
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "ARI",
+            "teamCity": "Arizona",
+            "teamId": 355,
+            "teamName": "Cardinals",
+            "valueIcon": "fire",
+            "weekNumber": 9
+        },
+        "members": [
+            {
+                "fantasyPoints": 158.64,
+                "rank": 1,
+                "userName": "Halvworld",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 150.9,
+                "rank": 2,
+                "userName": "g_mendoza",
+                "winningValue": 30
+            },
+            {
+                "fantasyPoints": 145.4,
+                "rank": 3,
+                "userName": "frank.corn",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 142.6,
+                "rank": 4,
+                "userName": "arianna29",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 132.7,
+                "rank": 5,
+                "userName": "glopez28",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 131.44,
+                "rank": 6,
+                "userName": "XplicitK",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 123.64,
+                "rank": 7,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 122.84,
+                "rank": 8,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 122.24,
+                "rank": 9,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 114.8,
+                "rank": 10,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 109.9,
+                "rank": 11,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 102.14,
+                "rank": 12,
+                "userName": "Dash7",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 96.34,
+                "rank": 13,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 85.84,
+                "rank": 14,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 77.74,
+                "rank": 15,
+                "userName": "JekellP",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Dalvin Cook",
+            "draftedBy": [
+                "g_mendoza",
+                "frank.corn",
+                "arianna29"
+            ],
+            "fantasyPoints": 42.2,
+            "fantasyPointsPerGame": 37.9,
+            "fantasyPointsPerSalary": 0.005146341463414634,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 44.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 144.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 23
+                },
+                {
+                    "statId": 44,
+                    "total": 3
+                },
+                {
+                    "statId": 48,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 39
+                },
+                {
+                    "statId": 82,
+                    "total": 29.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 37.9
+                },
+                {
+                    "statId": 91,
+                    "total": 37.9
+                },
+                {
+                    "statId": 92,
+                    "total": 7766.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 984,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 989,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 997,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 56.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Dalvin",
+            "gameId": 5673790,
+            "gameStartTime": "2020-11-08T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/824080.png",
+            "lastName": "Cook",
+            "opposingTeamAbbreviation": "DET",
+            "opposingTeamCity": "Detroit",
+            "opposingTeamName": "Lions",
+            "playerDkId": 17070,
+            "playerId": 824080,
+            "playerStates": [],
+            "points": 42.2,
+            "position": "RB",
+            "salary": 8200,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 46
+                },
+                {
+                    "statId": 41,
+                    "total": 206
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 2
+                },
+                {
+                    "statId": 43,
+                    "total": 22
+                },
+                {
+                    "statId": 81,
+                    "total": 70
+                },
+                {
+                    "statId": 82,
+                    "total": 29
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 989,
+                    "total": 1
+                },
+                {
+                    "statId": 997,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 106
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIN",
+            "teamCity": "Minnesota",
+            "teamId": 347,
+            "teamName": "Vikings",
+            "valueIcon": "fire",
+            "weekNumber": 9
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Richie James",
+            "draftedBy": [],
+            "fantasyPoints": 36.4,
+            "fantasyPointsPerGame": 12.1333,
+            "fantasyPointsPerSalary": 0.012133333333333333,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 61.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 3
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 15.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 12.1333
+                },
+                {
+                    "statId": 91,
+                    "total": 12.1333
+                },
+                {
+                    "statId": 92,
+                    "total": 3000
+                },
+                {
+                    "statId": 467,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 28
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Richie",
+            "gameId": 5673754,
+            "gameStartTime": "2020-11-06T01:20:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/822644.png",
+            "lastName": "James",
+            "opposingTeamAbbreviation": "GB",
+            "opposingTeamCity": "Green Bay",
+            "opposingTeamName": "Packers",
+            "playerDkId": 19550,
+            "playerId": 822644,
+            "playerStates": [],
+            "points": 36.4,
+            "position": "WR",
+            "salary": 3000,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 184
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 13
+                },
+                {
+                    "statId": 82,
+                    "total": 47
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 84
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "SF",
+            "teamCity": "San Francisco",
+            "teamId": 359,
+            "teamName": "49ers",
+            "valueIcon": "fire",
+            "weekNumber": 9
+        },
+        "week": 9
+    },
+    {
+        "week": 10,
+        "contest_id": 96198165,
+        "contest_start": "Nov 12, 2020 20:20:00"
     }
 ]
