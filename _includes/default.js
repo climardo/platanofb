@@ -17,8 +17,8 @@ if ('{{ page.layout }}' === 'post' && '{{ page.header_image }}' !== 'nil') {
 function hideCountdown() {
     var d = new Date();
     var day = new Date().getDay();
-    if (d > countDownDate || day < 2) {
-        try {
+    try {
+        if (d > countDownDate || day < 2) {
             document.getElementById("draft").classList.add("d-none");
             let contestLinks = document.getElementsByClassName("contest-link");
             for (var i = 0; i < contestLinks.length; i++) {
@@ -26,24 +26,23 @@ function hideCountdown() {
                 let newLink = origLink.replace("draft/contest", "contest/gamecenter");
                 contestLinks[i].setAttribute("href", newLink);
             }
+            let links = document.getElementsByClassName("nav-link")
+            let contestMenuLink = document.getElementById("submit")
+
+            let origMenuLink = contestMenuLink.getAttribute("href");
+            let newMenuLink = origMenuLink.replace("draft/contest", "contest/gamecenter");
+            contestMenuLink.setAttribute("href", newMenuLink);
+            contestMenuLink.innerHTML = "Weekly contest <i class='fas fa-football-ball'></i>"
+        } else {
+            try {
+                document.getElementById("contest").classList.add("d-none");
+            }
+            catch (err) {
+                console.log('Nothing to hide')
+            }
         }
-        catch (err) {
-            console.log('This is not the home page')
-        }
-        let links = document.getElementsByClassName("nav-link")
-        let contestMenuLink = document.getElementById("submit")
-        
-        let origMenuLink = contestMenuLink.getAttribute("href");
-        let newMenuLink = origMenuLink.replace("draft/contest", "contest/gamecenter");
-        contestMenuLink.setAttribute("href", newMenuLink);
-        contestMenuLink.innerHTML = "Weekly contest <i class='fas fa-football-ball'></i>"
-    } else {
-        try {
-            document.getElementById("contest").classList.add("d-none");
-        }
-        catch (err) {
-            console.log('Nothing to hide')
-        }
+    } catch (err) {
+        console.log('This is not the homepage')
     }
 }
 
