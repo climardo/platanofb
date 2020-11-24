@@ -1,1 +1,2 @@
 incremental: true
+force_polling: true
