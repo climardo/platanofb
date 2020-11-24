@@ -44,8 +44,9 @@ We have just five weeks left and still have five members who have not yet placed
 <figure class="figure">
     <img class="img-fluid" src="/assets/images/{{page.year}}/week-{{page.week}}-{{weekly.draft_dodger.displayName | replace: ' ', '-' | escape | downcase }}.png" width="364px" alt="{{weekly.draft_dodger.displayName}}"/>
 </figure>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Poetry in motion. <a href="https://twitter.com/robertwoods?ref_src=twsrc%5Etfw">@robertwoods</a> x <a href="https://twitter.com/hashtag/LAvsTB?src=hash&amp;ref_src=twsrc%5Etfw">#LAvsTB</a> <a href="https://t.co/oFtrxmTQPr">pic.twitter.com/oFtrxmTQPr</a></p>&mdash; Los Angeles Rams (@RamsNFL) <a href="https://twitter.com/RamsNFL/status/1331064638776242177?ref_src=twsrc%5Etfw">November 24, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 ##### Weekly analysis <small class="text-muted">Recap and advice</small>
-- [Link1](#)
-- [Link2](#)
-- [Link3](#)
+- [Player Highlights (Week 11) \| NFL 2020](https://www.youtube.com/playlist?list=PLRdw3IjKY2gkdScGNZb4UMCNJxU9OKXID)
+- [DraftKings Fantasy Football DFS Trends and Early NFL Predictions for Week 12](https://dknation.draftkings.com/playbook/2020/11/23/21612042/draftkings-fantasy-football-dfs-trends-early-nfl-predictions-week-12-damiere-byrd-tua-tagovailoa)
+- [Week 11 Fantasy Football Recap: Taysom Hill starts, Joe Burrow carted off](https://sports.yahoo.com/week-11-fantasy-football-recap-taysom-hill-starts-joe-burrow-carted-off-082139234.html)
