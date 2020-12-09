@@ -8027,8 +8027,765 @@
         "week": 12
     },
     {
-        "week": 13,
-        "contest_id": 97709495,
-        "contest_start": "Dec 06, 2020 13:00:00"
+        "bust": {
+          "attributes": {}, 
+          "displayName": "Boston Scott", 
+          "draftedBy": [], 
+          "fantasyPoints": 0.9, 
+          "fantasyPointsPerGame": 6.2, 
+          "fantasyPointsPerSalary": 0.00015000000000000001, 
+          "fantasyStatsNumGames": 3, 
+          "fantasyStatsPerGame": [
+            {
+              "statId": 40, 
+              "total": 22
+            }, 
+            {
+              "statId": 41, 
+              "total": 13.3333
+            }, 
+            {
+              "statId": 43, 
+              "total": 3
+            }, 
+            {
+              "statId": 44, 
+              "total": 2.6667
+            }, 
+            {
+              "statId": 81, 
+              "total": 6.6667
+            }, 
+            {
+              "statId": 82, 
+              "total": 10.3333
+            }, 
+            {
+              "statId": 84, 
+              "total": 1
+            }, 
+            {
+              "statId": 90, 
+              "total": 6.2
+            }, 
+            {
+              "statId": 91, 
+              "total": 6.2
+            }, 
+            {
+              "statId": 92, 
+              "total": 5533.3333
+            }, 
+            {
+              "statId": 467, 
+              "total": 3.6667
+            }, 
+            {
+              "statId": 983, 
+              "total": 0.3333
+            }
+          ], 
+          "firstName": "Boston", 
+          "gameId": 5673574, 
+          "gameStartTime": "2020-12-06T21:25:00.0000000Z", 
+          "gameStatus": "liveOrFinal", 
+          "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/749635.png", 
+          "lastName": "Scott", 
+          "opposingTeamAbbreviation": "GB", 
+          "opposingTeamCity": "Green Bay", 
+          "opposingTeamName": "Packers", 
+          "playerDkId": 17361, 
+          "playerId": 749635, 
+          "playerStates": [], 
+          "points": 0.9, 
+          "position": "RB", 
+          "salary": 6000, 
+          "sport": "nfl", 
+          "stats": [
+            {
+              "statId": 41, 
+              "total": 9
+            }, 
+            {
+              "statId": 467, 
+              "total": 2
+            }, 
+            {
+              "statId": 43, 
+              "total": 2
+            }, 
+            {
+              "statId": 81, 
+              "total": 6
+            }, 
+            {
+              "statId": 84, 
+              "total": 1
+            }
+          ], 
+          "teamAbbreviation": "PHI", 
+          "teamCity": "Philadelphia", 
+          "teamId": 354, 
+          "teamName": "Eagles", 
+          "valueIcon": "ice", 
+          "weekNumber": 13
+        }, 
+        "contest_id": "97709495", 
+        "contest_start": "Dec 06, 2020 13:00:00", 
+        "draft_dodger": {
+          "attributes": {}, 
+          "displayName": "Baker Mayfield", 
+          "fantasyPoints": 33.46, 
+          "fantasyPointsPerGame": 28.6133, 
+          "fantasyPointsPerSalary": 0.004802816901408451, 
+          "fantasyStatsNumGames": 3, 
+          "fantasyStatsPerGame": [
+            {
+              "statId": 36, 
+              "total": 2
+            }, 
+            {
+              "statId": 37, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 38, 
+              "total": 0.6667
+            }, 
+            {
+              "statId": 39, 
+              "total": 285.3333
+            }, 
+            {
+              "statId": 40, 
+              "total": 4
+            }, 
+            {
+              "statId": 41, 
+              "total": 28
+            }, 
+            {
+              "statId": 42, 
+              "total": 27
+            }, 
+            {
+              "statId": 43, 
+              "total": 7.6667
+            }, 
+            {
+              "statId": 44, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 46, 
+              "total": 1
+            }, 
+            {
+              "statId": 47, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 50, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 71, 
+              "total": 37
+            }, 
+            {
+              "statId": 74, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 81, 
+              "total": 11
+            }, 
+            {
+              "statId": 82, 
+              "total": 4
+            }, 
+            {
+              "statId": 83, 
+              "total": 38
+            }, 
+            {
+              "statId": 84, 
+              "total": 1
+            }, 
+            {
+              "statId": 90, 
+              "total": 28.6133
+            }, 
+            {
+              "statId": 91, 
+              "total": 28.6133
+            }, 
+            {
+              "statId": 92, 
+              "total": 7366.6667
+            }, 
+            {
+              "statId": 467, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 981, 
+              "total": 0.6667
+            }, 
+            {
+              "statId": 986, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 987, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 992, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 1012, 
+              "total": 38.3333
+            }, 
+            {
+              "statId": 1216, 
+              "total": 1
+            }
+          ], 
+          "firstName": "Baker", 
+          "gameId": 5675597, 
+          "gameStartTime": "2020-12-08T01:15:00.0000000Z", 
+          "gameStatus": "liveOrFinal", 
+          "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/868199.png", 
+          "lastName": "Mayfield", 
+          "opposingTeamAbbreviation": "SF", 
+          "opposingTeamCity": "San Francisco", 
+          "opposingTeamName": "49ers", 
+          "playerDkId": 11370, 
+          "playerId": 868199, 
+          "playerStates": [], 
+          "points": 34.1, 
+          "position": "QB", 
+          "salary": 7100, 
+          "sport": "nfl", 
+          "stats": [
+            {
+              "statId": 36, 
+              "total": 4
+            }, 
+            {
+              "statId": 39, 
+              "total": 375
+            }, 
+            {
+              "statId": 41, 
+              "total": 11
+            }, 
+            {
+              "statId": 47, 
+              "total": 1
+            }, 
+            {
+              "statId": 50, 
+              "total": 1
+            }, 
+            {
+              "statId": 42, 
+              "total": 32
+            }, 
+            {
+              "statId": 43, 
+              "total": 6
+            }, 
+            {
+              "statId": 71, 
+              "total": 40
+            }, 
+            {
+              "statId": 74, 
+              "total": 2
+            }, 
+            {
+              "statId": 81, 
+              "total": 6
+            }, 
+            {
+              "statId": 83, 
+              "total": 35
+            }, 
+            {
+              "statId": 84, 
+              "total": 1
+            }, 
+            {
+              "statId": 981, 
+              "total": 1
+            }, 
+            {
+              "statId": 986, 
+              "total": 1
+            }, 
+            {
+              "statId": 1012, 
+              "total": 75
+            }, 
+            {
+              "statId": 1216, 
+              "total": 1
+            }
+          ], 
+          "teamAbbreviation": "BUF", 
+          "teamCity": "Buffalo", 
+          "teamId": 324, 
+          "teamName": "Bills", 
+          "valueIcon": "fire", 
+          "weekNumber": 13
+        }, 
+        "members": [
+          {
+            "fantasyPoints": 178.46, 
+            "rank": 1, 
+            "userName": "DarbyDiaz3", 
+            "winningValue": 30
+          }, 
+          {
+            "fantasyPoints": 174.74, 
+            "rank": 2, 
+            "userName": "Dash7", 
+            "winningValue": 15
+          }, 
+          {
+            "fantasyPoints": 164.1, 
+            "rank": 3, 
+            "userName": "JekellP", 
+            "winningValue": 8
+          }, 
+          {
+            "fantasyPoints": 157.5, 
+            "rank": 4, 
+            "userName": "arianna29", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 152.8, 
+            "rank": 5, 
+            "userName": "olivadotij", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 148.68, 
+            "rank": 6, 
+            "userName": "XplicitK", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 143.58, 
+            "rank": 7, 
+            "userName": "rogdiaz", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 141.04, 
+            "rank": 8, 
+            "userName": "ejmesa", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 135.5, 
+            "rank": 9, 
+            "userName": "pshhidk", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 134.26, 
+            "rank": 10, 
+            "userName": "climardo", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 131.4, 
+            "rank": 11, 
+            "userName": "frank.corn", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 130.14, 
+            "rank": 12, 
+            "userName": "LoLoGREEN", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 118.9, 
+            "rank": 13, 
+            "userName": "Halvworld", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 118.18, 
+            "rank": 14, 
+            "userName": "g_mendoza", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 109.7, 
+            "rank": 15, 
+            "userName": "glopez28", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 99.96, 
+            "rank": 16, 
+            "userName": "hlimardo", 
+            "winningValue": 0
+          }, 
+          {
+            "fantasyPoints": 99.16, 
+            "rank": 17, 
+            "userName": "jlopez0809", 
+            "winningValue": 0
+          }
+        ], 
+        "mvp": {
+          "attributes": {}, 
+          "displayName": "Darren Waller", 
+          "draftedBy": [
+            "DarbyDiaz3"
+          ], 
+          "fantasyPoints": 48, 
+          "fantasyPointsPerGame": 25.3667, 
+          "fantasyPointsPerSalary": 0.007868852459016393, 
+          "fantasyStatsNumGames": 3, 
+          "fantasyStatsPerGame": [
+            {
+              "statId": 37, 
+              "total": 1
+            }, 
+            {
+              "statId": 40, 
+              "total": 103.6667
+            }, 
+            {
+              "statId": 44, 
+              "total": 8
+            }, 
+            {
+              "statId": 49, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 82, 
+              "total": 25
+            }, 
+            {
+              "statId": 84, 
+              "total": 1
+            }, 
+            {
+              "statId": 90, 
+              "total": 25.3667
+            }, 
+            {
+              "statId": 91, 
+              "total": 25.3667
+            }, 
+            {
+              "statId": 92, 
+              "total": 5900
+            }, 
+            {
+              "statId": 467, 
+              "total": 10.3333
+            }, 
+            {
+              "statId": 983, 
+              "total": 0.6667
+            }, 
+            {
+              "statId": 990, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 991, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 998, 
+              "total": 0.6667
+            }, 
+            {
+              "statId": 1011, 
+              "total": 33.3333
+            }, 
+            {
+              "statId": 1218, 
+              "total": 0.6667
+            }
+          ], 
+          "firstName": "Darren", 
+          "gameId": 5673610, 
+          "gameStartTime": "2020-12-06T18:00:00.0000000Z", 
+          "gameStatus": "liveOrFinal", 
+          "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/600191.png", 
+          "lastName": "Waller", 
+          "opposingTeamAbbreviation": "NYJ", 
+          "opposingTeamCity": "New York", 
+          "opposingTeamName": "Jets", 
+          "playerDkId": 13162, 
+          "playerId": 600191, 
+          "playerStates": [], 
+          "points": 48, 
+          "position": "TE", 
+          "salary": 6100, 
+          "sport": "nfl", 
+          "stats": [
+            {
+              "statId": 37, 
+              "total": 2
+            }, 
+            {
+              "statId": 40, 
+              "total": 200
+            }, 
+            {
+              "statId": 44, 
+              "total": 13
+            }, 
+            {
+              "statId": 49, 
+              "total": 1
+            }, 
+            {
+              "statId": 467, 
+              "total": 17
+            }, 
+            {
+              "statId": 82, 
+              "total": 38
+            }, 
+            {
+              "statId": 84, 
+              "total": 1
+            }, 
+            {
+              "statId": 983, 
+              "total": 1
+            }, 
+            {
+              "statId": 990, 
+              "total": 1
+            }, 
+            {
+              "statId": 991, 
+              "total": 1
+            }, 
+            {
+              "statId": 998, 
+              "total": 1
+            }, 
+            {
+              "statId": 1011, 
+              "total": 100
+            }, 
+            {
+              "statId": 1218, 
+              "total": 1
+            }
+          ], 
+          "teamAbbreviation": "LV", 
+          "teamCity": "Las Vegas", 
+          "teamId": 341, 
+          "teamName": "Raiders", 
+          "valueIcon": "fire", 
+          "weekNumber": 13
+        }, 
+        "sleeper": {
+          "attributes": {}, 
+          "displayName": "Patriots", 
+          "draftedBy": [], 
+          "fantasyPoints": 31, 
+          "fantasyPointsPerGame": 12, 
+          "fantasyPointsPerSalary": 0.012916666666666667, 
+          "fantasyStatsNumGames": 3, 
+          "fantasyStatsPerGame": [
+            {
+              "statId": 52, 
+              "total": 1.6667
+            }, 
+            {
+              "statId": 53, 
+              "total": 1
+            }, 
+            {
+              "statId": 55, 
+              "total": 0.6667
+            }, 
+            {
+              "statId": 56, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 59, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 60, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 64, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 75, 
+              "total": 14.6667
+            }, 
+            {
+              "statId": 76, 
+              "total": 87.6667
+            }, 
+            {
+              "statId": 77, 
+              "total": 241
+            }, 
+            {
+              "statId": 78, 
+              "total": 328.6667
+            }, 
+            {
+              "statId": 84, 
+              "total": 1
+            }, 
+            {
+              "statId": 90, 
+              "total": 12
+            }, 
+            {
+              "statId": 91, 
+              "total": 12
+            }, 
+            {
+              "statId": 92, 
+              "total": 2633.3333
+            }, 
+            {
+              "statId": 102, 
+              "total": 28.3333
+            }, 
+            {
+              "statId": 103, 
+              "total": 193
+            }, 
+            {
+              "statId": 104, 
+              "total": 120.3333
+            }, 
+            {
+              "statId": 105, 
+              "total": 313.3333
+            }, 
+            {
+              "statId": 975, 
+              "total": 0.3333
+            }, 
+            {
+              "statId": 976, 
+              "total": 0.6667
+            }, 
+            {
+              "statId": 1001, 
+              "total": 0.3333
+            }
+          ], 
+          "firstName": "Patriots", 
+          "gameId": 5675543, 
+          "gameStartTime": "2020-12-06T21:25:00.0000000Z", 
+          "gameStatus": "liveOrFinal", 
+          "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/348.png", 
+          "lastName": "", 
+          "opposingTeamAbbreviation": "LAC", 
+          "opposingTeamCity": "Los Angeles", 
+          "opposingTeamName": "Chargers", 
+          "playerDkId": 18415, 
+          "playerId": 348, 
+          "playerState": "offense", 
+          "playerStates": [
+            "onField"
+          ], 
+          "points": 31, 
+          "position": "DST", 
+          "salary": 2400, 
+          "sport": "nfl", 
+          "stats": [
+            {
+              "statId": 52, 
+              "total": 3
+            }, 
+            {
+              "statId": 53, 
+              "total": 2
+            }, 
+            {
+              "statId": 55, 
+              "total": 2
+            }, 
+            {
+              "statId": 56, 
+              "total": 1
+            }, 
+            {
+              "statId": 64, 
+              "total": 1
+            }, 
+            {
+              "statId": 76, 
+              "total": 70
+            }, 
+            {
+              "statId": 77, 
+              "total": 209
+            }, 
+            {
+              "statId": 78, 
+              "total": 279
+            }, 
+            {
+              "statId": 84, 
+              "total": 1
+            }, 
+            {
+              "statId": 102, 
+              "total": 45
+            }, 
+            {
+              "statId": 103, 
+              "total": 130
+            }, 
+            {
+              "statId": 104, 
+              "total": 165
+            }, 
+            {
+              "statId": 105, 
+              "total": 295
+            }, 
+            {
+              "statId": 975, 
+              "total": 1
+            }
+          ], 
+          "teamAbbreviation": "NE", 
+          "teamCity": "New England", 
+          "teamId": 348, 
+          "teamName": "Patriots", 
+          "valueIcon": "fire", 
+          "weekNumber": 13
+        }, 
+        "week": 13
+      },
+      {
+        "week": 14,
+        "contest_id": 98215873,
+        "contest_start": "Dec 13, 2020 13:00:00"
     }
 ]
