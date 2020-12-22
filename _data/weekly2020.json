@@ -9593,8 +9593,723 @@
         "week": 14
     },
     {
-        "week": 15,
-        "contest_id": 98672245,
-        "contest_start": "Dec 17, 2020 20:20:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Keenan Allen",
+            "draftedBy": [],
+            "fantasyPoints": 2.6,
+            "fantasyPointsPerGame": 10.8667,
+            "fantasyPointsPerSalary": 0.0003333333333333333,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 39
+                },
+                {
+                    "statId": 41,
+                    "total": -0.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 81,
+                    "total": -0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 17
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 10.8667
+                },
+                {
+                    "statId": 91,
+                    "total": 10.8667
+                },
+                {
+                    "statId": 92,
+                    "total": 7866.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 8.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Keenan",
+            "gameId": 5673808,
+            "gameStartTime": "2020-12-18T01:20:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/557210.png",
+            "lastName": "Allen",
+            "opposingTeamAbbreviation": "LV",
+            "opposingTeamCity": "Las Vegas",
+            "opposingTeamName": "Raiders",
+            "playerDkId": 19006,
+            "playerId": 557210,
+            "playerStates": [],
+            "points": 2.6,
+            "position": "WR",
+            "salary": 7800,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": 17
+                },
+                {
+                    "statId": 41,
+                    "total": -1
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": -1
+                },
+                {
+                    "statId": 82,
+                    "total": 17
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "LAC",
+            "teamCity": "Los Angeles",
+            "teamId": 357,
+            "teamName": "Chargers",
+            "valueIcon": "ice",
+            "weekNumber": 15
+        },
+        "contest_id": "98672245",
+        "contest_start": "Dec 17, 2020 20:20:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Calvin Ridley",
+            "fantasyPoints": 35.3,
+            "fantasyPointsPerGame": 27.8333,
+            "fantasyPointsPerSalary": 0.004304878048780487,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 131.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 7.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 82,
+                    "total": 34.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 27.8333
+                },
+                {
+                    "statId": 91,
+                    "total": 27.8333
+                },
+                {
+                    "statId": 92,
+                    "total": 7633.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 31.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "firstName": "Calvin",
+            "gameId": 5673712,
+            "gameStartTime": "2020-12-20T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/884013.png",
+            "lastName": "Ridley",
+            "opposingTeamAbbreviation": "TB",
+            "opposingTeamCity": "Tampa Bay",
+            "opposingTeamName": "Buccaneers",
+            "playerDkId": 11244,
+            "playerId": 884013,
+            "playerStates": [],
+            "points": 35.3,
+            "position": "WR",
+            "salary": 8200,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 163
+                },
+                {
+                    "statId": 44,
+                    "total": 10
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 14
+                },
+                {
+                    "statId": 82,
+                    "total": 33
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 63
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "ATL",
+            "teamCity": "Atlanta",
+            "teamId": 323,
+            "teamName": "Falcons",
+            "valueIcon": "fire",
+            "weekNumber": 15
+        },
+        "members": [
+            {
+                "fantasyPoints": 194.94,
+                "rank": 1,
+                "userName": "LoLoGREEN",
+                "winningValue": 30
+            },
+            {
+                "fantasyPoints": 161.96,
+                "rank": 2,
+                "userName": "XplicitK",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 156.52,
+                "rank": 3,
+                "userName": "hlimardo",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 155.32,
+                "rank": 4,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 151.12,
+                "rank": 5,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 150.32,
+                "rank": 6,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 147.94,
+                "rank": 7,
+                "userName": "arianna29",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 143.4,
+                "rank": 8,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 141.92,
+                "rank": 9,
+                "userName": "g_mendoza",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 141.6,
+                "rank": 10,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 135.42,
+                "rank": 11,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 135.26,
+                "rank": 12,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 128,
+                "rank": 13,
+                "userName": "glopez28",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 125.88,
+                "rank": 14,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 119.36,
+                "rank": 15,
+                "userName": "Halvworld",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 108.16,
+                "rank": 16,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 97.52,
+                "rank": 17,
+                "userName": "Dash7",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Jalen Hurts",
+            "draftedBy": [
+                "hlimardo",
+                "DarbyDiaz3"
+            ],
+            "fantasyPoints": 40.82,
+            "fantasyPointsPerGame": 24.7867,
+            "fantasyPointsPerSalary": 0.00691864406779661,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 204.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 66
+                },
+                {
+                    "statId": 42,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 11.3333
+                },
+                {
+                    "statId": 46,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 28.6667
+                },
+                {
+                    "statId": 74,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 18
+                },
+                {
+                    "statId": 83,
+                    "total": 38.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 24.7867
+                },
+                {
+                    "statId": 91,
+                    "total": 24.7867
+                },
+                {
+                    "statId": 92,
+                    "total": 5433.3333
+                },
+                {
+                    "statId": 981,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 985,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 992,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 2
+                },
+                {
+                    "statId": 1012,
+                    "total": 12.6667
+                },
+                {
+                    "statId": 1216,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Jalen",
+            "gameId": 5674024,
+            "gameStartTime": "2020-12-20T21:05:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/913271.png",
+            "lastName": "Hurts",
+            "opposingTeamAbbreviation": "ARI",
+            "opposingTeamCity": "Arizona",
+            "opposingTeamName": "Cardinals",
+            "playerDkId": 479300,
+            "playerId": 913271,
+            "playerStates": [],
+            "points": 40.82,
+            "position": "QB",
+            "salary": 5900,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 3
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 338
+                },
+                {
+                    "statId": 41,
+                    "total": 63
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 24
+                },
+                {
+                    "statId": 43,
+                    "total": 11
+                },
+                {
+                    "statId": 71,
+                    "total": 44
+                },
+                {
+                    "statId": 74,
+                    "total": 3
+                },
+                {
+                    "statId": 81,
+                    "total": 17
+                },
+                {
+                    "statId": 83,
+                    "total": 42
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 985,
+                    "total": 1
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 38
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "PHI",
+            "teamCity": "Philadelphia",
+            "teamId": 354,
+            "teamName": "Eagles",
+            "valueIcon": "fire",
+            "weekNumber": 15
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Zach Pascal",
+            "draftedBy": [],
+            "fantasyPoints": 24.9,
+            "fantasyPointsPerGame": 10.2333,
+            "fantasyPointsPerSalary": 0.00778125,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 39
+                },
+                {
+                    "statId": 44,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 10.2333
+                },
+                {
+                    "statId": 91,
+                    "total": 10.2333
+                },
+                {
+                    "statId": 92,
+                    "total": 3333.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Zach",
+            "gameId": 5673910,
+            "gameStartTime": "2020-12-20T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/658447.png",
+            "lastName": "Pascal",
+            "opposingTeamAbbreviation": "HOU",
+            "opposingTeamCity": "Houston",
+            "opposingTeamName": "Texans",
+            "playerDkId": 11148,
+            "playerId": 658447,
+            "playerStates": [],
+            "points": 24.9,
+            "position": "WR",
+            "salary": 3200,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 79
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 82,
+                    "total": 26
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "IND",
+            "teamCity": "Indianapolis",
+            "teamId": 338,
+            "teamName": "Colts",
+            "valueIcon": "fire",
+            "weekNumber": 15
+        },
+        "week": 15
+    },
+    {
+        "week": 16,
+        "contest_id": 99180562,
+        "contest_start": "Dec 25, 2020 16:30:00"
     }
 ]
