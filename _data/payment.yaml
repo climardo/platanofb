@@ -23,9 +23,9 @@
   contact: <span class="custom-purple">climardo@gmail.com</a>
 - name: Bitcoin
   logo: /assets/images/bitcoin.svg
-  link: 'bitcoin:3GxJbZB5xzHNFY8FQPT9jrvpYmhabQqLo3'
+  link: https://help.coinbase.com/en/coinbase/trading-and-funding/sending-or-receiving-cryptocurrency/how-do-i-send-digital-currency-to-another-wallet.html
   myinfo: <a href="bitcoin:3GxJbZB5xzHNFY8FQPT9jrvpYmhabQqLo3" target="_blank" class="text-wrap">3GxJbZB5xzHNFY8FQPT9jrvpYmhabQqLo3</a>
 - name: Ethereum
   logo: /assets/images/ethereum.svg
-  link: 'ethereum:0x60f658D64B4d919ec9A350eB5508Fd9fE29A3624'
+  link: https://help.coinbase.com/en/coinbase/trading-and-funding/sending-or-receiving-cryptocurrency/how-do-i-send-digital-currency-to-another-wallet.html
   myinfo: <a href="ethereum:0x60f658D64B4d919ec9A350eB5508Fd9fE29A3624" target="_blank" class="text-wrap">0x60f658D64B4d919ec9A350eB5508Fd9fE29A3624</a>
