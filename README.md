@@ -9,9 +9,9 @@ Follow directions listed here: [Testing your GitHub Pages site locally with Jeky
 
 1. Clone this repository: `git clone git@github.com:climardo/platanofb.git`.
 2. Install [Jekyll](https://jekyllrb.com/docs/installation/). On Debian:
-
-    sudo apt-get install ruby-full build-essential
-
+```
+sudo apt-get install ruby-full build-essential
+```
 3. Install [Bundler](https://bundler.io/).
 4. Install [Nokogiri](https://nokogiri.org/tutorials/installing_nokogiri.html) dependencies.
 5. Execute `bundle install` in the repository directory.
