@@ -1,13 +1,13 @@
 ---
-title: 2020 Week 1 Results
-year: 2020
+title: 2021 Week 1 Results
+year: 2021
 week: 1
 layout: post
 author: climardo
-header_image: /assets/images/2020/week-1-header.jpg
+header_image: /assets/images/2021/week-1-header.jpg
 header_pos: 50% 50%
 ---
-{%- for item in site.data.weekly2020 -%}
+{%- for item in site.data.weekly2021 -%}
     {%- if item.week == page.week -%}
         {%- assign weekly = item -%}
     {%- endif -%}
