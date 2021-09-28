@@ -1,1254 +1,1802 @@
 [
-    {
-        "week": 1,
-        "contest_id": 112859547,
-        "contest_start": "Sep 09, 2021 20:20:00",
-        "members": [
-            {
-                "userName": "JekellP",
-                "rank": 1,
-                "fantasyPoints": 160.28,
-                "winningValue": 30
-            },
-            {
-                "userName": "ejmesa",
-                "rank": 2,
-                "fantasyPoints": 156.98,
-                "winningValue": 12
-            },
-            {
-                "userName": "XplicitK",
-                "rank": 3,
-                "fantasyPoints": 154.66,
-                "winningValue": 8
-            },
-            {
-                "userName": "hlimardo",
-                "rank": 4,
-                "fantasyPoints": 148.42,
-                "winningValue": 0
-            },
-            {
-                "userName": "g_mendoza",
-                "rank": 5,
-                "fantasyPoints": 144.76,
-                "winningValue": 0
-            },
-            {
-                "userName": "pshhidk",
-                "rank": 6,
-                "fantasyPoints": 141.54,
-                "winningValue": 0
-            },
-            {
-                "userName": "olivadotij",
-                "rank": 7,
-                "fantasyPoints": 140.08,
-                "winningValue": 0
-            },
-            {
-                "userName": "climardo",
-                "rank": 8,
-                "fantasyPoints": 137.66,
-                "winningValue": 0
-            },
-            {
-                "userName": "geedee3",
-                "rank": 9,
-                "fantasyPoints": 137.48,
-                "winningValue": 0
-            },
-            {
-                "userName": "Halvworld",
-                "rank": 10,
-                "fantasyPoints": 135.28,
-                "winningValue": 0
-            },
-            {
-                "userName": "arianna29",
-                "rank": 11,
-                "fantasyPoints": 130.74,
-                "winningValue": 0
-            },
-            {
-                "userName": "LoLoGREEN",
-                "rank": 12,
-                "fantasyPoints": 126.92,
-                "winningValue": 0
-            },
-            {
-                "userName": "DarbyDiaz3",
-                "rank": 13,
-                "fantasyPoints": 119,
-                "winningValue": 0
-            },
-            {
-                "userName": "rogdiaz",
-                "rank": 14,
-                "fantasyPoints": 117.74,
-                "winningValue": 0
-            },
-            {
-                "userName": "jlopez0809",
-                "rank": 15,
-                "fantasyPoints": 109.66,
-                "winningValue": 0
-            },
-            {
-                "userName": "glopez28",
-                "rank": 16,
-                "fantasyPoints": 107.3,
-                "winningValue": 0
-            },
-            {
-                "userName": "Dash7",
-                "rank": 17,
-                "fantasyPoints": 83.86,
-                "winningValue": 0
-            },
-            {
-                "userName": "frank.corn",
-                "rank": 18,
-                "fantasyPoints": 80.56,
-                "winningValue": 0
-            }
-        ],
-        "mvp": {
-            "playerId": 650914,
-            "playerDkId": 15091,
-            "firstName": "Amari",
-            "lastName": "Cooper",
-            "teamId": 331,
-            "position": "WR",
-            "salary": 5900,
-            "fantasyPoints": 41.9,
-            "stats": [
-                {
-                    "statId": 37,
-                    "total": 2
-                },
-                {
-                    "statId": 40,
-                    "total": 139
-                },
-                {
-                    "statId": 44,
-                    "total": 13
-                },
-                {
-                    "statId": 49,
-                    "total": 1
-                },
-                {
-                    "statId": 467,
-                    "total": 16
-                },
-                {
-                    "statId": 82,
-                    "total": 28
-                },
-                {
-                    "statId": 84,
-                    "total": 1
-                },
-                {
-                    "statId": 983,
-                    "total": 1
-                },
-                {
-                    "statId": 998,
-                    "total": 1
-                },
-                {
-                    "statId": 1011,
-                    "total": 39
-                },
-                {
-                    "statId": 1218,
-                    "total": 1
-                }
-            ],
-            "valueIcon": "fire",
-            "attributes": {},
-            "playerStates": [],
-            "gameId": 5745127,
-            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/650914.png",
-            "points": 41.9,
-            "sport": "nfl",
-            "gameStatus": "liveOrFinal",
-            "gameStartTime": "2021-09-10T00:20:00.0000000Z",
-            "weekNumber": 1,
-            "teamCity": "Dallas",
-            "teamName": "Cowboys",
-            "teamAbbreviation": "DAL",
-            "opposingTeamCity": "Tampa Bay",
-            "opposingTeamName": "Buccaneers",
-            "opposingTeamAbbreviation": "TB",
-            "fantasyStatsPerGame": [
-                {
-                    "statId": 40,
-                    "total": 57.3333
-                },
-                {
-                    "statId": 41,
-                    "total": -2.3333
-                },
-                {
-                    "statId": 43,
-                    "total": 0.6667
-                },
-                {
-                    "statId": 44,
-                    "total": 4
-                },
-                {
-                    "statId": 49,
-                    "total": 0.3333
-                },
-                {
-                    "statId": 81,
-                    "total": 1.3333
-                },
-                {
-                    "statId": 82,
-                    "total": 29
-                },
-                {
-                    "statId": 84,
-                    "total": 1
-                },
-                {
-                    "statId": 90,
-                    "total": 10.5
-                },
-                {
-                    "statId": 91,
-                    "total": 10.5
-                },
-                {
-                    "statId": 92,
-                    "total": 5966.6667
-                },
-                {
-                    "statId": 467,
-                    "total": 6
-                },
-                {
-                    "statId": 983,
-                    "total": 0.3333
-                },
-                {
-                    "statId": 1000,
-                    "total": 0.3333
-                },
-                {
-                    "statId": 1011,
-                    "total": 7
-                },
-                {
-                    "statId": 1218,
-                    "total": 0.3333
-                }
-            ],
-            "fantasyStatsNumGames": 3,
-            "fantasyPointsPerGame": 10.5,
-            "displayName": "Amari Cooper",
-            "draftedBy": [
-                "JekellP",
-                "ejmesa",
-                "XplicitK",
-                "pshhidk"
-            ],
-            "fantasyPointsPerSalary": 0.007101694915254237
-        },
-        "sleeper": {
-            "playerId": 381091,
-            "playerDkId": 107522,
-            "firstName": "Rob",
-            "lastName": "Gronkowski",
-            "teamId": 362,
-            "position": "TE",
-            "salary": 3200,
-            "fantasyPoints": 29,
-            "stats": [
-                {
-                    "statId": 37,
-                    "total": 2
-                },
-                {
-                    "statId": 40,
-                    "total": 90
-                },
-                {
-                    "statId": 44,
-                    "total": 8
-                },
-                {
-                    "statId": 467,
-                    "total": 8
-                },
-                {
-                    "statId": 82,
-                    "total": 20
-                },
-                {
-                    "statId": 84,
-                    "total": 1
-                },
-                {
-                    "statId": 983,
-                    "total": 1
-                },
-                {
-                    "statId": 998,
-                    "total": 1
-                },
-                {
-                    "statId": 1218,
-                    "total": 1
-                }
-            ],
-            "valueIcon": "fire",
-            "attributes": {},
-            "playerStates": [],
-            "gameId": 5745127,
-            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/381091.png",
-            "points": 29,
-            "sport": "nfl",
-            "gameStatus": "liveOrFinal",
-            "gameStartTime": "2021-09-10T00:20:00.0000000Z",
-            "weekNumber": 1,
-            "teamCity": "Tampa Bay",
-            "teamName": "Buccaneers",
-            "teamAbbreviation": "TB",
-            "opposingTeamCity": "Dallas",
-            "opposingTeamName": "Cowboys",
-            "opposingTeamAbbreviation": "DAL",
-            "fantasyStatsPerGame": [
-                {
-                    "statId": 37,
-                    "total": 2
-                },
-                {
-                    "statId": 40,
-                    "total": 90
-                },
-                {
-                    "statId": 44,
-                    "total": 8
-                },
-                {
-                    "statId": 82,
-                    "total": 20
-                },
-                {
-                    "statId": 84,
-                    "total": 1
-                },
-                {
-                    "statId": 90,
-                    "total": 29
-                },
-                {
-                    "statId": 91,
-                    "total": 29
-                },
-                {
-                    "statId": 92,
-                    "total": 3900
-                },
-                {
-                    "statId": 467,
-                    "total": 8
-                },
-                {
-                    "statId": 983,
-                    "total": 1
-                },
-                {
-                    "statId": 998,
-                    "total": 1
-                },
-                {
-                    "statId": 1218,
-                    "total": 1
-                }
-            ],
-            "fantasyStatsNumGames": 1,
-            "fantasyPointsPerGame": 29,
-            "displayName": "Rob Gronkowski",
-            "fantasyPointsPerSalary": 0.0090625,
-            "draftedBy": []
-        },
-        "bust": {
-            "playerId": 608353,
-            "playerDkId": 19363,
-            "firstName": "J.D.",
-            "lastName": "McKissic",
-            "teamId": 363,
-            "position": "RB",
-            "salary": 5100,
-            "fantasyPoints": 0.8,
-            "stats": [
-                {
-                    "statId": 41,
-                    "total": 8
-                },
-                {
-                    "statId": 467,
-                    "total": 1
-                },
-                {
-                    "statId": 43,
-                    "total": 1
-                },
-                {
-                    "statId": 81,
-                    "total": 8
-                },
-                {
-                    "statId": 84,
-                    "total": 1
-                }
-            ],
-            "valueIcon": "ice",
-            "attributes": {},
-            "playerStates": [],
-            "gameId": 5745169,
-            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/608353.png",
-            "points": 0.8,
-            "sport": "nfl",
-            "gameStatus": "liveOrFinal",
-            "gameStartTime": "2021-09-12T17:00:00.0000000Z",
-            "weekNumber": 1,
-            "teamCity": "Washington",
-            "teamName": "Football Team",
-            "teamAbbreviation": "WAS",
-            "opposingTeamCity": "Los Angeles",
-            "opposingTeamName": "Chargers",
-            "opposingTeamAbbreviation": "LAC",
-            "fantasyStatsPerGame": [],
-            "fantasyStatsNumGames": 0,
-            "fantasyPointsPerGame": 0,
-            "displayName": "J.D. McKissic",
-            "fantasyPointsPerSalary": 0.00015686274509803922,
-            "draftedBy": []
-        },
-        "draft_dodger": {
-            "playerId": 835749,
-            "playerDkId": 19664,
-            "firstName": "Deebo",
-            "lastName": "Samuel",
-            "teamId": 359,
-            "position": "WR",
-            "salary": 4800,
-            "fantasyPoints": 35.9,
-            "stats": [
-                {
-                    "statId": 37,
-                    "total": 1
-                },
-                {
-                    "statId": 40,
-                    "total": 189
-                },
-                {
-                    "statId": 44,
-                    "total": 9
-                },
-                {
-                    "statId": 49,
-                    "total": 1
-                },
-                {
-                    "statId": 50,
-                    "total": 1
-                },
-                {
-                    "statId": 467,
-                    "total": 12
-                },
-                {
-                    "statId": 74,
-                    "total": 1
-                },
-                {
-                    "statId": 82,
-                    "total": 79
-                },
-                {
-                    "statId": 84,
-                    "total": 1
-                },
-                {
-                    "statId": 983,
-                    "total": 1
-                },
-                {
-                    "statId": 990,
-                    "total": 1
-                },
-                {
-                    "statId": 1000,
-                    "total": 1
-                },
-                {
-                    "statId": 1011,
-                    "total": 89
-                },
-                {
-                    "statId": 1218,
-                    "total": 1
-                }
-            ],
-            "valueIcon": "fire",
-            "attributes": {},
-            "playerStates": [],
-            "gameId": 5745151,
-            "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/835749.png",
-            "points": 35.9,
-            "sport": "nfl",
-            "gameStatus": "liveOrFinal",
-            "gameStartTime": "2021-09-12T17:00:00.0000000Z",
-            "weekNumber": 1,
-            "teamCity": "San Francisco",
-            "teamName": "49ers",
-            "teamAbbreviation": "SF",
-            "opposingTeamCity": "Detroit",
-            "opposingTeamName": "Lions",
-            "opposingTeamAbbreviation": "DET",
-            "fantasyStatsPerGame": [],
-            "fantasyStatsNumGames": 0,
-            "fantasyPointsPerGame": 0,
-            "displayName": "Deebo Samuel",
-            "fantasyPointsPerSalary": 0.007479166666666666
-        }
-    },
-    {
-        "bust": {
-          "attributes": {}, 
-          "displayName": "Tua Tagovailoa", 
-          "draftedBy": [], 
-          "fantasyPoints": 0.52, 
-          "fantasyPointsPerGame": 8.85, 
-          "fantasyPointsPerSalary": 9.454545454545455e-05, 
-          "fantasyStatsNumGames": 2, 
-          "fantasyStatsPerGame": [
-            {
-              "statId": 36, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 38, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 39, 
-              "total": 107.5
-            }, 
-            {
-              "statId": 41, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 42, 
-              "total": 8.5
-            }, 
-            {
-              "statId": 43, 
-              "total": 2
-            }, 
-            {
-              "statId": 46, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 71, 
-              "total": 15.5
-            }, 
-            {
-              "statId": 81, 
-              "total": 1.5
-            }, 
-            {
-              "statId": 83, 
-              "total": 24.5
-            }, 
-            {
-              "statId": 84, 
-              "total": 1
-            }, 
-            {
-              "statId": 90, 
-              "total": 8.85
-            }, 
-            {
-              "statId": 91, 
-              "total": 8.85
-            }, 
-            {
-              "statId": 92, 
-              "total": 5450
-            }, 
-            {
-              "statId": 1216, 
-              "total": 0.5
-            }
-          ], 
-          "firstName": "Tua", 
-          "gameId": 5745290, 
-          "gameStartTime": "2021-09-19T17:00:00.0000000Z", 
-          "gameStatus": "liveOrFinal", 
-          "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/973947.png", 
-          "lastName": "Tagovailoa", 
-          "opposingTeamAbbreviation": "BUF", 
-          "opposingTeamCity": "Buffalo", 
-          "opposingTeamName": "Bills", 
-          "playerDkId": 468529, 
-          "playerId": 973947, 
-          "playerStates": [], 
-          "points": 0.52, 
-          "position": "QB", 
-          "salary": 5500, 
-          "sport": "nfl", 
-          "stats": [
-            {
-              "statId": 39, 
-              "total": 13
-            }, 
-            {
-              "statId": 42, 
-              "total": 1
-            }, 
-            {
-              "statId": 71, 
-              "total": 4
-            }, 
-            {
-              "statId": 83, 
-              "total": 13
-            }, 
-            {
-              "statId": 84, 
-              "total": 1
-            }
-          ], 
-          "teamAbbreviation": "MIA", 
-          "teamCity": "Miami", 
-          "teamId": 345, 
-          "teamName": "Dolphins", 
-          "valueIcon": "ice", 
-          "weekNumber": 2
-        }, 
-        "contest_id": "113479108", 
-        "contest_start": "Sep 16, 2021 20:20:00", 
-        "draft_dodger": {
-          "attributes": {}, 
-          "displayName": "Aaron Jones", 
-          "fantasyPoints": 41.5, 
-          "fantasyPointsPerGame": 22.85, 
-          "fantasyPointsPerSalary": 0.006102941176470588, 
-          "fantasyStatsNumGames": 2, 
-          "fantasyStatsPerGame": [
-            {
-              "statId": 37, 
-              "total": 1.5
-            }, 
-            {
-              "statId": 38, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 40, 
-              "total": 30.5
-            }, 
-            {
-              "statId": 41, 
-              "total": 38
-            }, 
-            {
-              "statId": 43, 
-              "total": 11
-            }, 
-            {
-              "statId": 44, 
-              "total": 4
-            }, 
-            {
-              "statId": 81, 
-              "total": 6
-            }, 
-            {
-              "statId": 82, 
-              "total": 10
-            }, 
-            {
-              "statId": 84, 
-              "total": 1
-            }, 
-            {
-              "statId": 90, 
-              "total": 22.85
-            }, 
-            {
-              "statId": 91, 
-              "total": 22.85
-            }, 
-            {
-              "statId": 92, 
-              "total": 6800
-            }, 
-            {
-              "statId": 467, 
-              "total": 4
-            }, 
-            {
-              "statId": 982, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 983, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 1217, 
-              "total": 0.5
-            }
-          ], 
-          "firstName": "Aaron", 
-          "gameId": 5745674, 
-          "gameStartTime": "2021-09-21T00:15:00.0000000Z", 
-          "gameStatus": "liveOrFinal", 
-          "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/741314.png", 
-          "lastName": "Jones", 
-          "opposingTeamAbbreviation": "DET", 
-          "opposingTeamCity": "Detroit", 
-          "opposingTeamName": "Lions", 
-          "playerDkId": 19636, 
-          "playerId": 741314, 
-          "playerStates": [], 
-          "points": 41.5, 
-          "position": "RB", 
-          "salary": 6800, 
-          "sport": "nfl", 
-          "stats": [
-            {
-              "statId": 37, 
-              "total": 3
-            }, 
-            {
-              "statId": 38, 
-              "total": 1
-            }, 
-            {
-              "statId": 40, 
-              "total": 48
-            }, 
-            {
-              "statId": 41, 
-              "total": 67
-            }, 
-            {
-              "statId": 44, 
-              "total": 6
-            }, 
-            {
-              "statId": 467, 
-              "total": 6
-            }, 
-            {
-              "statId": 43, 
-              "total": 17
-            }, 
-            {
-              "statId": 81, 
-              "total": 9
-            }, 
-            {
-              "statId": 82, 
-              "total": 13
-            }, 
-            {
-              "statId": 84, 
-              "total": 1
-            }, 
-            {
-              "statId": 982, 
-              "total": 1
-            }, 
-            {
-              "statId": 983, 
-              "total": 1
-            }, 
-            {
-              "statId": 1217, 
-              "total": 1
-            }
-          ], 
-          "teamAbbreviation": "GB", 
-          "teamCity": "Green Bay", 
-          "teamId": 335, 
-          "teamName": "Packers", 
-          "valueIcon": "fire", 
-          "weekNumber": 2
-        }, 
-        "members": [
-          {
-            "fantasyPoints": 191.82, 
-            "rank": 1, 
-            "userName": "Dash7", 
-            "winningValue": 30
-          }, 
-          {
-            "fantasyPoints": 172.42, 
-            "rank": 2, 
-            "userName": "geedee3", 
-            "winningValue": 15
-          }, 
-          {
-            "fantasyPoints": 172.1, 
-            "rank": 3, 
-            "userName": "pshhidk", 
-            "winningValue": 8
-          }, 
-          {
-            "fantasyPoints": 169.9, 
-            "rank": 4, 
-            "userName": "frank.corn", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 165.62, 
-            "rank": 5, 
-            "userName": "JekellP", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 152.64, 
-            "rank": 6, 
-            "userName": "g_mendoza", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 144.12, 
-            "rank": 7, 
-            "userName": "ejmesa", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 141.62, 
-            "rank": 8, 
-            "userName": "Halvworld", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 133.52, 
-            "rank": 9, 
-            "userName": "climardo", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 129.22, 
-            "rank": 10, 
-            "userName": "rogdiaz", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 125.52, 
-            "rank": 11, 
-            "userName": "arianna29", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 124.38, 
-            "rank": 12, 
-            "userName": "hlimardo", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 124.14, 
-            "rank": 13, 
-            "userName": "glopez28", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 109.02, 
-            "rank": 14, 
-            "userName": "XplicitK", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 94.22, 
-            "rank": 15, 
-            "userName": "DarbyDiaz3", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 94.12, 
-            "rank": 16, 
-            "userName": "olivadotij", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 92.42, 
-            "rank": 17, 
-            "userName": "jlopez0809", 
-            "winningValue": 0
-          }, 
-          {
-            "fantasyPoints": 76.52, 
-            "rank": 18, 
-            "userName": "LoLoGREEN", 
-            "winningValue": 0
-          }
-        ], 
-        "mvp": {
-          "attributes": {}, 
-          "displayName": "Derrick Henry", 
-          "draftedBy": [
-            "frank.corn", 
-            "ejmesa", 
-            "Halvworld"
-          ], 
-          "fantasyPoints": 50.7, 
-          "fantasyPointsPerGame": 30.7, 
-          "fantasyPointsPerSalary": 0.006108433734939759, 
-          "fantasyStatsNumGames": 2, 
-          "fantasyStatsPerGame": [
-            {
-              "statId": 38, 
-              "total": 1.5
-            }, 
-            {
-              "statId": 40, 
-              "total": 37
-            }, 
-            {
-              "statId": 41, 
-              "total": 120
-            }, 
-            {
-              "statId": 43, 
-              "total": 26
-            }, 
-            {
-              "statId": 44, 
-              "total": 4.5
-            }, 
-            {
-              "statId": 48, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 81, 
-              "total": 39.5
-            }, 
-            {
-              "statId": 82, 
-              "total": 11.5
-            }, 
-            {
-              "statId": 84, 
-              "total": 1
-            }, 
-            {
-              "statId": 90, 
-              "total": 30.7
-            }, 
-            {
-              "statId": 91, 
-              "total": 30.7
-            }, 
-            {
-              "statId": 92, 
-              "total": 8550
-            }, 
-            {
-              "statId": 467, 
-              "total": 5
-            }, 
-            {
-              "statId": 982, 
-              "total": 1
-            }, 
-            {
-              "statId": 983, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 984, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 988, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 997, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 1010, 
-              "total": 41
-            }, 
-            {
-              "statId": 1217, 
-              "total": 1
-            }, 
-            {
-              "statId": 1218, 
-              "total": 0.5
-            }
-          ], 
-          "firstName": "Derrick", 
-          "gameId": 5745584, 
-          "gameStartTime": "2021-09-19T20:25:00.0000000Z", 
-          "gameStatus": "liveOrFinal", 
-          "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/732145.png", 
-          "lastName": "Henry", 
-          "opposingTeamAbbreviation": "SEA", 
-          "opposingTeamCity": "Seattle", 
-          "opposingTeamName": "Seahawks", 
-          "playerDkId": 19898, 
-          "playerId": 732145, 
-          "playerStates": [], 
-          "points": 50.7, 
-          "position": "RB", 
-          "salary": 8300, 
-          "sport": "nfl", 
-          "stats": [
-            {
-              "statId": 38, 
-              "total": 3
-            }, 
-            {
-              "statId": 40, 
-              "total": 55
-            }, 
-            {
-              "statId": 41, 
-              "total": 182
-            }, 
-            {
-              "statId": 44, 
-              "total": 6
-            }, 
-            {
-              "statId": 48, 
-              "total": 1
-            }, 
-            {
-              "statId": 467, 
-              "total": 6
-            }, 
-            {
-              "statId": 43, 
-              "total": 35
-            }, 
-            {
-              "statId": 81, 
-              "total": 60
-            }, 
-            {
-              "statId": 82, 
-              "total": 15
-            }, 
-            {
-              "statId": 84, 
-              "total": 1
-            }, 
-            {
-              "statId": 982, 
-              "total": 1
-            }, 
-            {
-              "statId": 983, 
-              "total": 1
-            }, 
-            {
-              "statId": 984, 
-              "total": 1
-            }, 
-            {
-              "statId": 988, 
-              "total": 1
-            }, 
-            {
-              "statId": 997, 
-              "total": 1
-            }, 
-            {
-              "statId": 1010, 
-              "total": 82
-            }, 
-            {
-              "statId": 1217, 
-              "total": 1
-            }, 
-            {
-              "statId": 1218, 
-              "total": 1
-            }
-          ], 
-          "teamAbbreviation": "TEN", 
-          "teamCity": "Tennessee", 
-          "teamId": 336, 
-          "teamName": "Titans", 
-          "valueIcon": "fire", 
-          "weekNumber": 2
-        }, 
-        "sleeper": {
-          "attributes": {}, 
-          "displayName": "Rondale Moore", 
-          "draftedBy": [], 
-          "fantasyPoints": 27.4, 
-          "fantasyPointsPerGame": 19.1, 
-          "fantasyPointsPerSalary": 0.006849999999999999, 
-          "fantasyStatsNumGames": 2, 
-          "fantasyStatsPerGame": [
-            {
-              "statId": 37, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 40, 
-              "total": 91
-            }, 
-            {
-              "statId": 44, 
-              "total": 5.5
-            }, 
-            {
-              "statId": 49, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 74, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 82, 
-              "total": 53
-            }, 
-            {
-              "statId": 84, 
-              "total": 1
-            }, 
-            {
-              "statId": 90, 
-              "total": 19.1
-            }, 
-            {
-              "statId": 91, 
-              "total": 19.1
-            }, 
-            {
-              "statId": 92, 
-              "total": 3500
-            }, 
-            {
-              "statId": 467, 
-              "total": 6.5
-            }, 
-            {
-              "statId": 983, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 998, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 1000, 
-              "total": 0.5
-            }, 
-            {
-              "statId": 1011, 
-              "total": 7
-            }, 
-            {
-              "statId": 1218, 
-              "total": 1
-            }
-          ], 
-          "firstName": "Rondale", 
-          "gameId": 5745548, 
-          "gameStartTime": "2021-09-19T20:05:00.0000000Z", 
-          "gameStatus": "liveOrFinal", 
-          "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1130270.png", 
-          "lastName": "Moore", 
-          "opposingTeamAbbreviation": "MIN", 
-          "opposingTeamCity": "Minnesota", 
-          "opposingTeamName": "Vikings", 
-          "playerDkId": 560607, 
-          "playerId": 1130270, 
-          "playerStates": [], 
-          "points": 27.4, 
-          "position": "WR", 
-          "salary": 4000, 
-          "sport": "nfl", 
-          "stats": [
-            {
-              "statId": 37, 
-              "total": 1
-            }, 
-            {
-              "statId": 40, 
-              "total": 114
-            }, 
-            {
-              "statId": 44, 
-              "total": 7
-            }, 
-            {
-              "statId": 49, 
-              "total": 1
-            }, 
-            {
-              "statId": 467, 
-              "total": 8
-            }, 
-            {
-              "statId": 74, 
-              "total": 1
-            }, 
-            {
-              "statId": 82, 
-              "total": 77
-            }, 
-            {
-              "statId": 84, 
-              "total": 1
-            }, 
-            {
-              "statId": 983, 
-              "total": 1
-            }, 
-            {
-              "statId": 1000, 
-              "total": 1
-            }, 
-            {
-              "statId": 1011, 
-              "total": 14
-            }, 
-            {
-              "statId": 1218, 
-              "total": 1
-            }
-          ], 
-          "teamAbbreviation": "ARI", 
-          "teamCity": "Arizona", 
-          "teamId": 355, 
-          "teamName": "Cardinals", 
-          "valueIcon": "fire", 
-          "weekNumber": 2
-        }, 
-        "week": 2
+  {
+    "week": 1,
+    "contest_id": 112859547,
+    "contest_start": "Sep 09, 2021 20:20:00",
+    "members": [
+      {
+        "userName": "JekellP",
+        "rank": 1,
+        "fantasyPoints": 160.28,
+        "winningValue": 30
       },
       {
-        "week": 3,
-        "contest_id": "114006548",
-        "contest_start": "Sep 23, 2021 20:20:00"
+        "userName": "ejmesa",
+        "rank": 2,
+        "fantasyPoints": 156.98,
+        "winningValue": 12
+      },
+      {
+        "userName": "XplicitK",
+        "rank": 3,
+        "fantasyPoints": 154.66,
+        "winningValue": 8
+      },
+      {
+        "userName": "hlimardo",
+        "rank": 4,
+        "fantasyPoints": 148.42,
+        "winningValue": 0
+      },
+      {
+        "userName": "g_mendoza",
+        "rank": 5,
+        "fantasyPoints": 144.76,
+        "winningValue": 0
+      },
+      {
+        "userName": "pshhidk",
+        "rank": 6,
+        "fantasyPoints": 141.54,
+        "winningValue": 0
+      },
+      {
+        "userName": "olivadotij",
+        "rank": 7,
+        "fantasyPoints": 140.08,
+        "winningValue": 0
+      },
+      {
+        "userName": "climardo",
+        "rank": 8,
+        "fantasyPoints": 137.66,
+        "winningValue": 0
+      },
+      {
+        "userName": "geedee3",
+        "rank": 9,
+        "fantasyPoints": 137.48,
+        "winningValue": 0
+      },
+      {
+        "userName": "Halvworld",
+        "rank": 10,
+        "fantasyPoints": 135.28,
+        "winningValue": 0
+      },
+      {
+        "userName": "arianna29",
+        "rank": 11,
+        "fantasyPoints": 130.74,
+        "winningValue": 0
+      },
+      {
+        "userName": "LoLoGREEN",
+        "rank": 12,
+        "fantasyPoints": 126.92,
+        "winningValue": 0
+      },
+      {
+        "userName": "DarbyDiaz3",
+        "rank": 13,
+        "fantasyPoints": 119,
+        "winningValue": 0
+      },
+      {
+        "userName": "rogdiaz",
+        "rank": 14,
+        "fantasyPoints": 117.74,
+        "winningValue": 0
+      },
+      {
+        "userName": "jlopez0809",
+        "rank": 15,
+        "fantasyPoints": 109.66,
+        "winningValue": 0
+      },
+      {
+        "userName": "glopez28",
+        "rank": 16,
+        "fantasyPoints": 107.3,
+        "winningValue": 0
+      },
+      {
+        "userName": "Dash7",
+        "rank": 17,
+        "fantasyPoints": 83.86,
+        "winningValue": 0
+      },
+      {
+        "userName": "frank.corn",
+        "rank": 18,
+        "fantasyPoints": 80.56,
+        "winningValue": 0
+      }
+    ],
+    "mvp": {
+      "playerId": 650914,
+      "playerDkId": 15091,
+      "firstName": "Amari",
+      "lastName": "Cooper",
+      "teamId": 331,
+      "position": "WR",
+      "salary": 5900,
+      "fantasyPoints": 41.9,
+      "stats": [
+        {
+          "statId": 37,
+          "total": 2
+        },
+        {
+          "statId": 40,
+          "total": 139
+        },
+        {
+          "statId": 44,
+          "total": 13
+        },
+        {
+          "statId": 49,
+          "total": 1
+        },
+        {
+          "statId": 467,
+          "total": 16
+        },
+        {
+          "statId": 82,
+          "total": 28
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 983,
+          "total": 1
+        },
+        {
+          "statId": 998,
+          "total": 1
+        },
+        {
+          "statId": 1011,
+          "total": 39
+        },
+        {
+          "statId": 1218,
+          "total": 1
+        }
+      ],
+      "valueIcon": "fire",
+      "attributes": {},
+      "playerStates": [],
+      "gameId": 5745127,
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/650914.png",
+      "points": 41.9,
+      "sport": "nfl",
+      "gameStatus": "liveOrFinal",
+      "gameStartTime": "2021-09-10T00:20:00.0000000Z",
+      "weekNumber": 1,
+      "teamCity": "Dallas",
+      "teamName": "Cowboys",
+      "teamAbbreviation": "DAL",
+      "opposingTeamCity": "Tampa Bay",
+      "opposingTeamName": "Buccaneers",
+      "opposingTeamAbbreviation": "TB",
+      "fantasyStatsPerGame": [
+        {
+          "statId": 40,
+          "total": 57.3333
+        },
+        {
+          "statId": 41,
+          "total": -2.3333
+        },
+        {
+          "statId": 43,
+          "total": 0.6667
+        },
+        {
+          "statId": 44,
+          "total": 4
+        },
+        {
+          "statId": 49,
+          "total": 0.3333
+        },
+        {
+          "statId": 81,
+          "total": 1.3333
+        },
+        {
+          "statId": 82,
+          "total": 29
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 90,
+          "total": 10.5
+        },
+        {
+          "statId": 91,
+          "total": 10.5
+        },
+        {
+          "statId": 92,
+          "total": 5966.6667
+        },
+        {
+          "statId": 467,
+          "total": 6
+        },
+        {
+          "statId": 983,
+          "total": 0.3333
+        },
+        {
+          "statId": 1000,
+          "total": 0.3333
+        },
+        {
+          "statId": 1011,
+          "total": 7
+        },
+        {
+          "statId": 1218,
+          "total": 0.3333
+        }
+      ],
+      "fantasyStatsNumGames": 3,
+      "fantasyPointsPerGame": 10.5,
+      "displayName": "Amari Cooper",
+      "draftedBy": [
+        "JekellP",
+        "ejmesa",
+        "XplicitK",
+        "pshhidk"
+      ],
+      "fantasyPointsPerSalary": 0.007101694915254237
+    },
+    "sleeper": {
+      "playerId": 381091,
+      "playerDkId": 107522,
+      "firstName": "Rob",
+      "lastName": "Gronkowski",
+      "teamId": 362,
+      "position": "TE",
+      "salary": 3200,
+      "fantasyPoints": 29,
+      "stats": [
+        {
+          "statId": 37,
+          "total": 2
+        },
+        {
+          "statId": 40,
+          "total": 90
+        },
+        {
+          "statId": 44,
+          "total": 8
+        },
+        {
+          "statId": 467,
+          "total": 8
+        },
+        {
+          "statId": 82,
+          "total": 20
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 983,
+          "total": 1
+        },
+        {
+          "statId": 998,
+          "total": 1
+        },
+        {
+          "statId": 1218,
+          "total": 1
+        }
+      ],
+      "valueIcon": "fire",
+      "attributes": {},
+      "playerStates": [],
+      "gameId": 5745127,
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/381091.png",
+      "points": 29,
+      "sport": "nfl",
+      "gameStatus": "liveOrFinal",
+      "gameStartTime": "2021-09-10T00:20:00.0000000Z",
+      "weekNumber": 1,
+      "teamCity": "Tampa Bay",
+      "teamName": "Buccaneers",
+      "teamAbbreviation": "TB",
+      "opposingTeamCity": "Dallas",
+      "opposingTeamName": "Cowboys",
+      "opposingTeamAbbreviation": "DAL",
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37,
+          "total": 2
+        },
+        {
+          "statId": 40,
+          "total": 90
+        },
+        {
+          "statId": 44,
+          "total": 8
+        },
+        {
+          "statId": 82,
+          "total": 20
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 90,
+          "total": 29
+        },
+        {
+          "statId": 91,
+          "total": 29
+        },
+        {
+          "statId": 92,
+          "total": 3900
+        },
+        {
+          "statId": 467,
+          "total": 8
+        },
+        {
+          "statId": 983,
+          "total": 1
+        },
+        {
+          "statId": 998,
+          "total": 1
+        },
+        {
+          "statId": 1218,
+          "total": 1
+        }
+      ],
+      "fantasyStatsNumGames": 1,
+      "fantasyPointsPerGame": 29,
+      "displayName": "Rob Gronkowski",
+      "fantasyPointsPerSalary": 0.0090625,
+      "draftedBy": []
+    },
+    "bust": {
+      "playerId": 608353,
+      "playerDkId": 19363,
+      "firstName": "J.D.",
+      "lastName": "McKissic",
+      "teamId": 363,
+      "position": "RB",
+      "salary": 5100,
+      "fantasyPoints": 0.8,
+      "stats": [
+        {
+          "statId": 41,
+          "total": 8
+        },
+        {
+          "statId": 467,
+          "total": 1
+        },
+        {
+          "statId": 43,
+          "total": 1
+        },
+        {
+          "statId": 81,
+          "total": 8
+        },
+        {
+          "statId": 84,
+          "total": 1
+        }
+      ],
+      "valueIcon": "ice",
+      "attributes": {},
+      "playerStates": [],
+      "gameId": 5745169,
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/608353.png",
+      "points": 0.8,
+      "sport": "nfl",
+      "gameStatus": "liveOrFinal",
+      "gameStartTime": "2021-09-12T17:00:00.0000000Z",
+      "weekNumber": 1,
+      "teamCity": "Washington",
+      "teamName": "Football Team",
+      "teamAbbreviation": "WAS",
+      "opposingTeamCity": "Los Angeles",
+      "opposingTeamName": "Chargers",
+      "opposingTeamAbbreviation": "LAC",
+      "fantasyStatsPerGame": [],
+      "fantasyStatsNumGames": 0,
+      "fantasyPointsPerGame": 0,
+      "displayName": "J.D. McKissic",
+      "fantasyPointsPerSalary": 0.00015686274509803922,
+      "draftedBy": []
+    },
+    "draft_dodger": {
+      "playerId": 835749,
+      "playerDkId": 19664,
+      "firstName": "Deebo",
+      "lastName": "Samuel",
+      "teamId": 359,
+      "position": "WR",
+      "salary": 4800,
+      "fantasyPoints": 35.9,
+      "stats": [
+        {
+          "statId": 37,
+          "total": 1
+        },
+        {
+          "statId": 40,
+          "total": 189
+        },
+        {
+          "statId": 44,
+          "total": 9
+        },
+        {
+          "statId": 49,
+          "total": 1
+        },
+        {
+          "statId": 50,
+          "total": 1
+        },
+        {
+          "statId": 467,
+          "total": 12
+        },
+        {
+          "statId": 74,
+          "total": 1
+        },
+        {
+          "statId": 82,
+          "total": 79
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 983,
+          "total": 1
+        },
+        {
+          "statId": 990,
+          "total": 1
+        },
+        {
+          "statId": 1000,
+          "total": 1
+        },
+        {
+          "statId": 1011,
+          "total": 89
+        },
+        {
+          "statId": 1218,
+          "total": 1
+        }
+      ],
+      "valueIcon": "fire",
+      "attributes": {},
+      "playerStates": [],
+      "gameId": 5745151,
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/835749.png",
+      "points": 35.9,
+      "sport": "nfl",
+      "gameStatus": "liveOrFinal",
+      "gameStartTime": "2021-09-12T17:00:00.0000000Z",
+      "weekNumber": 1,
+      "teamCity": "San Francisco",
+      "teamName": "49ers",
+      "teamAbbreviation": "SF",
+      "opposingTeamCity": "Detroit",
+      "opposingTeamName": "Lions",
+      "opposingTeamAbbreviation": "DET",
+      "fantasyStatsPerGame": [],
+      "fantasyStatsNumGames": 0,
+      "fantasyPointsPerGame": 0,
+      "displayName": "Deebo Samuel",
+      "fantasyPointsPerSalary": 0.007479166666666666
     }
+  },
+  {
+    "bust": {
+      "attributes": {},
+      "displayName": "Tua Tagovailoa",
+      "draftedBy": [],
+      "fantasyPoints": 0.52,
+      "fantasyPointsPerGame": 8.85,
+      "fantasyPointsPerSalary": 9.454545454545455e-05,
+      "fantasyStatsNumGames": 2,
+      "fantasyStatsPerGame": [
+        {
+          "statId": 36,
+          "total": 0.5
+        },
+        {
+          "statId": 38,
+          "total": 0.5
+        },
+        {
+          "statId": 39,
+          "total": 107.5
+        },
+        {
+          "statId": 41,
+          "total": 0.5
+        },
+        {
+          "statId": 42,
+          "total": 8.5
+        },
+        {
+          "statId": 43,
+          "total": 2
+        },
+        {
+          "statId": 46,
+          "total": 0.5
+        },
+        {
+          "statId": 71,
+          "total": 15.5
+        },
+        {
+          "statId": 81,
+          "total": 1.5
+        },
+        {
+          "statId": 83,
+          "total": 24.5
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 90,
+          "total": 8.85
+        },
+        {
+          "statId": 91,
+          "total": 8.85
+        },
+        {
+          "statId": 92,
+          "total": 5450
+        },
+        {
+          "statId": 1216,
+          "total": 0.5
+        }
+      ],
+      "firstName": "Tua",
+      "gameId": 5745290,
+      "gameStartTime": "2021-09-19T17:00:00.0000000Z",
+      "gameStatus": "liveOrFinal",
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/973947.png",
+      "lastName": "Tagovailoa",
+      "opposingTeamAbbreviation": "BUF",
+      "opposingTeamCity": "Buffalo",
+      "opposingTeamName": "Bills",
+      "playerDkId": 468529,
+      "playerId": 973947,
+      "playerStates": [],
+      "points": 0.52,
+      "position": "QB",
+      "salary": 5500,
+      "sport": "nfl",
+      "stats": [
+        {
+          "statId": 39,
+          "total": 13
+        },
+        {
+          "statId": 42,
+          "total": 1
+        },
+        {
+          "statId": 71,
+          "total": 4
+        },
+        {
+          "statId": 83,
+          "total": 13
+        },
+        {
+          "statId": 84,
+          "total": 1
+        }
+      ],
+      "teamAbbreviation": "MIA",
+      "teamCity": "Miami",
+      "teamId": 345,
+      "teamName": "Dolphins",
+      "valueIcon": "ice",
+      "weekNumber": 2
+    },
+    "contest_id": "113479108",
+    "contest_start": "Sep 16, 2021 20:20:00",
+    "draft_dodger": {
+      "attributes": {},
+      "displayName": "Aaron Jones",
+      "fantasyPoints": 41.5,
+      "fantasyPointsPerGame": 22.85,
+      "fantasyPointsPerSalary": 0.006102941176470588,
+      "fantasyStatsNumGames": 2,
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37,
+          "total": 1.5
+        },
+        {
+          "statId": 38,
+          "total": 0.5
+        },
+        {
+          "statId": 40,
+          "total": 30.5
+        },
+        {
+          "statId": 41,
+          "total": 38
+        },
+        {
+          "statId": 43,
+          "total": 11
+        },
+        {
+          "statId": 44,
+          "total": 4
+        },
+        {
+          "statId": 81,
+          "total": 6
+        },
+        {
+          "statId": 82,
+          "total": 10
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 90,
+          "total": 22.85
+        },
+        {
+          "statId": 91,
+          "total": 22.85
+        },
+        {
+          "statId": 92,
+          "total": 6800
+        },
+        {
+          "statId": 467,
+          "total": 4
+        },
+        {
+          "statId": 982,
+          "total": 0.5
+        },
+        {
+          "statId": 983,
+          "total": 0.5
+        },
+        {
+          "statId": 1217,
+          "total": 0.5
+        }
+      ],
+      "firstName": "Aaron",
+      "gameId": 5745674,
+      "gameStartTime": "2021-09-21T00:15:00.0000000Z",
+      "gameStatus": "liveOrFinal",
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/741314.png",
+      "lastName": "Jones",
+      "opposingTeamAbbreviation": "DET",
+      "opposingTeamCity": "Detroit",
+      "opposingTeamName": "Lions",
+      "playerDkId": 19636,
+      "playerId": 741314,
+      "playerStates": [],
+      "points": 41.5,
+      "position": "RB",
+      "salary": 6800,
+      "sport": "nfl",
+      "stats": [
+        {
+          "statId": 37,
+          "total": 3
+        },
+        {
+          "statId": 38,
+          "total": 1
+        },
+        {
+          "statId": 40,
+          "total": 48
+        },
+        {
+          "statId": 41,
+          "total": 67
+        },
+        {
+          "statId": 44,
+          "total": 6
+        },
+        {
+          "statId": 467,
+          "total": 6
+        },
+        {
+          "statId": 43,
+          "total": 17
+        },
+        {
+          "statId": 81,
+          "total": 9
+        },
+        {
+          "statId": 82,
+          "total": 13
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 982,
+          "total": 1
+        },
+        {
+          "statId": 983,
+          "total": 1
+        },
+        {
+          "statId": 1217,
+          "total": 1
+        }
+      ],
+      "teamAbbreviation": "GB",
+      "teamCity": "Green Bay",
+      "teamId": 335,
+      "teamName": "Packers",
+      "valueIcon": "fire",
+      "weekNumber": 2
+    },
+    "members": [
+      {
+        "fantasyPoints": 191.82,
+        "rank": 1,
+        "userName": "Dash7",
+        "winningValue": 30
+      },
+      {
+        "fantasyPoints": 172.42,
+        "rank": 2,
+        "userName": "geedee3",
+        "winningValue": 15
+      },
+      {
+        "fantasyPoints": 172.1,
+        "rank": 3,
+        "userName": "pshhidk",
+        "winningValue": 8
+      },
+      {
+        "fantasyPoints": 169.9,
+        "rank": 4,
+        "userName": "frank.corn",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 165.62,
+        "rank": 5,
+        "userName": "JekellP",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 152.64,
+        "rank": 6,
+        "userName": "g_mendoza",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 144.12,
+        "rank": 7,
+        "userName": "ejmesa",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 141.62,
+        "rank": 8,
+        "userName": "Halvworld",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 133.52,
+        "rank": 9,
+        "userName": "climardo",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 129.22,
+        "rank": 10,
+        "userName": "rogdiaz",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 125.52,
+        "rank": 11,
+        "userName": "arianna29",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 124.38,
+        "rank": 12,
+        "userName": "hlimardo",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 124.14,
+        "rank": 13,
+        "userName": "glopez28",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 109.02,
+        "rank": 14,
+        "userName": "XplicitK",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 94.22,
+        "rank": 15,
+        "userName": "DarbyDiaz3",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 94.12,
+        "rank": 16,
+        "userName": "olivadotij",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 92.42,
+        "rank": 17,
+        "userName": "jlopez0809",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 76.52,
+        "rank": 18,
+        "userName": "LoLoGREEN",
+        "winningValue": 0
+      }
+    ],
+    "mvp": {
+      "attributes": {},
+      "displayName": "Derrick Henry",
+      "draftedBy": [
+        "frank.corn",
+        "ejmesa",
+        "Halvworld"
+      ],
+      "fantasyPoints": 50.7,
+      "fantasyPointsPerGame": 30.7,
+      "fantasyPointsPerSalary": 0.006108433734939759,
+      "fantasyStatsNumGames": 2,
+      "fantasyStatsPerGame": [
+        {
+          "statId": 38,
+          "total": 1.5
+        },
+        {
+          "statId": 40,
+          "total": 37
+        },
+        {
+          "statId": 41,
+          "total": 120
+        },
+        {
+          "statId": 43,
+          "total": 26
+        },
+        {
+          "statId": 44,
+          "total": 4.5
+        },
+        {
+          "statId": 48,
+          "total": 0.5
+        },
+        {
+          "statId": 81,
+          "total": 39.5
+        },
+        {
+          "statId": 82,
+          "total": 11.5
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 90,
+          "total": 30.7
+        },
+        {
+          "statId": 91,
+          "total": 30.7
+        },
+        {
+          "statId": 92,
+          "total": 8550
+        },
+        {
+          "statId": 467,
+          "total": 5
+        },
+        {
+          "statId": 982,
+          "total": 1
+        },
+        {
+          "statId": 983,
+          "total": 0.5
+        },
+        {
+          "statId": 984,
+          "total": 0.5
+        },
+        {
+          "statId": 988,
+          "total": 0.5
+        },
+        {
+          "statId": 997,
+          "total": 0.5
+        },
+        {
+          "statId": 1010,
+          "total": 41
+        },
+        {
+          "statId": 1217,
+          "total": 1
+        },
+        {
+          "statId": 1218,
+          "total": 0.5
+        }
+      ],
+      "firstName": "Derrick",
+      "gameId": 5745584,
+      "gameStartTime": "2021-09-19T20:25:00.0000000Z",
+      "gameStatus": "liveOrFinal",
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/732145.png",
+      "lastName": "Henry",
+      "opposingTeamAbbreviation": "SEA",
+      "opposingTeamCity": "Seattle",
+      "opposingTeamName": "Seahawks",
+      "playerDkId": 19898,
+      "playerId": 732145,
+      "playerStates": [],
+      "points": 50.7,
+      "position": "RB",
+      "salary": 8300,
+      "sport": "nfl",
+      "stats": [
+        {
+          "statId": 38,
+          "total": 3
+        },
+        {
+          "statId": 40,
+          "total": 55
+        },
+        {
+          "statId": 41,
+          "total": 182
+        },
+        {
+          "statId": 44,
+          "total": 6
+        },
+        {
+          "statId": 48,
+          "total": 1
+        },
+        {
+          "statId": 467,
+          "total": 6
+        },
+        {
+          "statId": 43,
+          "total": 35
+        },
+        {
+          "statId": 81,
+          "total": 60
+        },
+        {
+          "statId": 82,
+          "total": 15
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 982,
+          "total": 1
+        },
+        {
+          "statId": 983,
+          "total": 1
+        },
+        {
+          "statId": 984,
+          "total": 1
+        },
+        {
+          "statId": 988,
+          "total": 1
+        },
+        {
+          "statId": 997,
+          "total": 1
+        },
+        {
+          "statId": 1010,
+          "total": 82
+        },
+        {
+          "statId": 1217,
+          "total": 1
+        },
+        {
+          "statId": 1218,
+          "total": 1
+        }
+      ],
+      "teamAbbreviation": "TEN",
+      "teamCity": "Tennessee",
+      "teamId": 336,
+      "teamName": "Titans",
+      "valueIcon": "fire",
+      "weekNumber": 2
+    },
+    "sleeper": {
+      "attributes": {},
+      "displayName": "Rondale Moore",
+      "draftedBy": [],
+      "fantasyPoints": 27.4,
+      "fantasyPointsPerGame": 19.1,
+      "fantasyPointsPerSalary": 0.006849999999999999,
+      "fantasyStatsNumGames": 2,
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37,
+          "total": 0.5
+        },
+        {
+          "statId": 40,
+          "total": 91
+        },
+        {
+          "statId": 44,
+          "total": 5.5
+        },
+        {
+          "statId": 49,
+          "total": 0.5
+        },
+        {
+          "statId": 74,
+          "total": 0.5
+        },
+        {
+          "statId": 82,
+          "total": 53
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 90,
+          "total": 19.1
+        },
+        {
+          "statId": 91,
+          "total": 19.1
+        },
+        {
+          "statId": 92,
+          "total": 3500
+        },
+        {
+          "statId": 467,
+          "total": 6.5
+        },
+        {
+          "statId": 983,
+          "total": 0.5
+        },
+        {
+          "statId": 998,
+          "total": 0.5
+        },
+        {
+          "statId": 1000,
+          "total": 0.5
+        },
+        {
+          "statId": 1011,
+          "total": 7
+        },
+        {
+          "statId": 1218,
+          "total": 1
+        }
+      ],
+      "firstName": "Rondale",
+      "gameId": 5745548,
+      "gameStartTime": "2021-09-19T20:05:00.0000000Z",
+      "gameStatus": "liveOrFinal",
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1130270.png",
+      "lastName": "Moore",
+      "opposingTeamAbbreviation": "MIN",
+      "opposingTeamCity": "Minnesota",
+      "opposingTeamName": "Vikings",
+      "playerDkId": 560607,
+      "playerId": 1130270,
+      "playerStates": [],
+      "points": 27.4,
+      "position": "WR",
+      "salary": 4000,
+      "sport": "nfl",
+      "stats": [
+        {
+          "statId": 37,
+          "total": 1
+        },
+        {
+          "statId": 40,
+          "total": 114
+        },
+        {
+          "statId": 44,
+          "total": 7
+        },
+        {
+          "statId": 49,
+          "total": 1
+        },
+        {
+          "statId": 467,
+          "total": 8
+        },
+        {
+          "statId": 74,
+          "total": 1
+        },
+        {
+          "statId": 82,
+          "total": 77
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 983,
+          "total": 1
+        },
+        {
+          "statId": 1000,
+          "total": 1
+        },
+        {
+          "statId": 1011,
+          "total": 14
+        },
+        {
+          "statId": 1218,
+          "total": 1
+        }
+      ],
+      "teamAbbreviation": "ARI",
+      "teamCity": "Arizona",
+      "teamId": 355,
+      "teamName": "Cardinals",
+      "valueIcon": "fire",
+      "weekNumber": 2
+    },
+    "week": 2
+  },
+  {
+    "bust": {
+      "attributes": {},
+      "displayName": "A.J. Brown",
+      "draftedBy": [
+        "DarbyDiaz3",
+        "climardo"
+      ],
+      "fantasyPoints": 0.3,
+      "fantasyPointsPerGame": 7.5,
+      "fantasyPointsPerSalary": 4.615384615384615e-05,
+      "fantasyStatsNumGames": 3,
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37,
+          "total": 0.3333
+        },
+        {
+          "statId": 40,
+          "total": 30.6667
+        },
+        {
+          "statId": 41,
+          "total": 1
+        },
+        {
+          "statId": 43,
+          "total": 0.3333
+        },
+        {
+          "statId": 44,
+          "total": 2.3333
+        },
+        {
+          "statId": 81,
+          "total": 1
+        },
+        {
+          "statId": 82,
+          "total": 11.3333
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 90,
+          "total": 7.5
+        },
+        {
+          "statId": 91,
+          "total": 7.5
+        },
+        {
+          "statId": 92,
+          "total": 6833.3333
+        },
+        {
+          "statId": 467,
+          "total": 6.3333
+        },
+        {
+          "statId": 1080,
+          "total": 1
+        }
+      ],
+      "firstName": "A.J.",
+      "gameId": 5745728,
+      "gameStartTime": "2021-09-26T17:00:00.0000000Z",
+      "gameStatus": "liveOrFinal",
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/944826.png",
+      "lastName": "Brown",
+      "opposingTeamAbbreviation": "IND",
+      "opposingTeamCity": "Indianapolis",
+      "opposingTeamName": "Colts",
+      "playerDkId": 19839,
+      "playerId": 944826,
+      "playerStates": [],
+      "points": 0.3,
+      "position": "WR",
+      "salary": 6500,
+      "sport": "nfl",
+      "stats": [
+        {
+          "statId": 41,
+          "total": 3
+        },
+        {
+          "statId": 467,
+          "total": 2
+        },
+        {
+          "statId": 43,
+          "total": 1
+        },
+        {
+          "statId": 81,
+          "total": 3
+        },
+        {
+          "statId": 84,
+          "total": 1
+        }
+      ],
+      "teamAbbreviation": "TEN",
+      "teamCity": "Tennessee",
+      "teamId": 336,
+      "teamName": "Titans",
+      "valueIcon": "ice",
+      "weekNumber": 3
+    },
+    "contest_id": "114006548",
+    "contest_start": "Sep 23, 2021 20:20:00",
+    "draft_dodger": {
+      "attributes": {},
+      "displayName": "Josh Allen",
+      "draftedBy": [],
+      "fantasyPoints": 40.22,
+      "fantasyPointsPerGame": 0,
+      "fantasyPointsPerSalary": 0.005745714285714285,
+      "fantasyStatsNumGames": 0,
+      "fantasyStatsPerGame": [],
+      "firstName": "Josh",
+      "gameId": 5745296,
+      "gameStartTime": "2021-09-26T17:00:00.0000000Z",
+      "gameStatus": "liveOrFinal",
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/868199.png",
+      "lastName": "Allen",
+      "opposingTeamAbbreviation": "WAS",
+      "opposingTeamCity": "Washington",
+      "opposingTeamName": "Football Team",
+      "playerDkId": 11370,
+      "playerId": 868199,
+      "playerStates": [],
+      "points": 40.22,
+      "position": "QB",
+      "salary": 7000,
+      "sport": "nfl",
+      "stats": [
+        {
+          "statId": 36,
+          "total": 4
+        },
+        {
+          "statId": 38,
+          "total": 1
+        },
+        {
+          "statId": 39,
+          "total": 358
+        },
+        {
+          "statId": 41,
+          "total": 9
+        },
+        {
+          "statId": 47,
+          "total": 1
+        },
+        {
+          "statId": 42,
+          "total": 32
+        },
+        {
+          "statId": 43,
+          "total": 4
+        },
+        {
+          "statId": 71,
+          "total": 43
+        },
+        {
+          "statId": 81,
+          "total": 4
+        },
+        {
+          "statId": 83,
+          "total": 41
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 981,
+          "total": 1
+        },
+        {
+          "statId": 986,
+          "total": 1
+        },
+        {
+          "statId": 992,
+          "total": 1
+        },
+        {
+          "statId": 1012,
+          "total": 58
+        },
+        {
+          "statId": 1216,
+          "total": 1
+        }
+      ],
+      "teamAbbreviation": "BUF",
+      "teamCity": "Buffalo",
+      "teamId": 324,
+      "teamName": "Bills",
+      "valueIcon": "fire",
+      "weekNumber": 3
+    },
+    "members": [
+      {
+        "fantasyPoints": 157.62,
+        "rank": 1,
+        "userName": "rogdiaz",
+        "winningValue": 30
+      },
+      {
+        "fantasyPoints": 135.98,
+        "rank": 2,
+        "userName": "LoLoGREEN",
+        "winningValue": 15
+      },
+      {
+        "fantasyPoints": 127.24,
+        "rank": 3,
+        "userName": "geedee3",
+        "winningValue": 8
+      },
+      {
+        "fantasyPoints": 126.88,
+        "rank": 4,
+        "userName": "DarbyDiaz3",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 122.92,
+        "rank": 5,
+        "userName": "frank.corn",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 120.7,
+        "rank": 6,
+        "userName": "XplicitK",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 116.44,
+        "rank": 7,
+        "userName": "g_mendoza",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 115.4,
+        "rank": 8,
+        "userName": "pshhidk",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 110.54,
+        "rank": 9,
+        "userName": "Dash7",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 108.54,
+        "rank": 10,
+        "userName": "Halvworld",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 101.94,
+        "rank": 11,
+        "userName": "JekellP",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 101.22,
+        "rank": 12,
+        "userName": "arianna29",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 100.86,
+        "rank": 13,
+        "userName": "jlopez0809",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 98.04,
+        "rank": 14,
+        "userName": "glopez28",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 90.62,
+        "rank": 15,
+        "userName": "climardo",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 89.34,
+        "rank": 16,
+        "userName": "olivadotij",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 86.44,
+        "rank": 17,
+        "userName": "ejmesa",
+        "winningValue": 0
+      },
+      {
+        "fantasyPoints": 81.94,
+        "rank": 18,
+        "userName": "hlimardo",
+        "winningValue": 0
+      }
+    ],
+    "mvp": {
+      "attributes": {},
+      "displayName": "Josh Allen",
+      "draftedBy": [],
+      "fantasyPoints": 40.22,
+      "fantasyPointsPerGame": 0,
+      "fantasyPointsPerSalary": 0.005745714285714285,
+      "fantasyStatsNumGames": 0,
+      "fantasyStatsPerGame": [],
+      "firstName": "Josh",
+      "gameId": 5745296,
+      "gameStartTime": "2021-09-26T17:00:00.0000000Z",
+      "gameStatus": "liveOrFinal",
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/868199.png",
+      "lastName": "Allen",
+      "opposingTeamAbbreviation": "WAS",
+      "opposingTeamCity": "Washington",
+      "opposingTeamName": "Football Team",
+      "playerDkId": 11370,
+      "playerId": 868199,
+      "playerStates": [],
+      "points": 40.22,
+      "position": "QB",
+      "salary": 7000,
+      "sport": "nfl",
+      "stats": [
+        {
+          "statId": 36,
+          "total": 4
+        },
+        {
+          "statId": 38,
+          "total": 1
+        },
+        {
+          "statId": 39,
+          "total": 358
+        },
+        {
+          "statId": 41,
+          "total": 9
+        },
+        {
+          "statId": 47,
+          "total": 1
+        },
+        {
+          "statId": 42,
+          "total": 32
+        },
+        {
+          "statId": 43,
+          "total": 4
+        },
+        {
+          "statId": 71,
+          "total": 43
+        },
+        {
+          "statId": 81,
+          "total": 4
+        },
+        {
+          "statId": 83,
+          "total": 41
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 981,
+          "total": 1
+        },
+        {
+          "statId": 986,
+          "total": 1
+        },
+        {
+          "statId": 992,
+          "total": 1
+        },
+        {
+          "statId": 1012,
+          "total": 58
+        },
+        {
+          "statId": 1216,
+          "total": 1
+        }
+      ],
+      "teamAbbreviation": "BUF",
+      "teamCity": "Buffalo",
+      "teamId": 324,
+      "teamName": "Bills",
+      "valueIcon": "fire",
+      "weekNumber": 3
+    },
+    "sleeper": {
+      "attributes": {},
+      "displayName": "DeSean Jackson",
+      "draftedBy": [],
+      "fantasyPoints": 24,
+      "fantasyPointsPerGame": 9.3667,
+      "fantasyPointsPerSalary": 0.008,
+      "fantasyStatsNumGames": 3,
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37,
+          "total": 0.3333
+        },
+        {
+          "statId": 40,
+          "total": 47
+        },
+        {
+          "statId": 44,
+          "total": 1.6667
+        },
+        {
+          "statId": 49,
+          "total": 0.3333
+        },
+        {
+          "statId": 82,
+          "total": 31
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 90,
+          "total": 9.3667
+        },
+        {
+          "statId": 91,
+          "total": 9.3667
+        },
+        {
+          "statId": 92,
+          "total": 3166.6667
+        },
+        {
+          "statId": 467,
+          "total": 2.3333
+        },
+        {
+          "statId": 1000,
+          "total": 0.3333
+        },
+        {
+          "statId": 1011,
+          "total": 6.6667
+        },
+        {
+          "statId": 1218,
+          "total": 0.3333
+        }
+      ],
+      "firstName": "DeSean",
+      "gameId": 5745938,
+      "gameStartTime": "2021-09-26T20:25:00.0000000Z",
+      "gameStatus": "liveOrFinal",
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/300173.png",
+      "lastName": "Jackson",
+      "opposingTeamAbbreviation": "TB",
+      "opposingTeamCity": "Tampa Bay",
+      "opposingTeamName": "Buccaneers",
+      "playerDkId": 17131,
+      "playerId": 300173,
+      "playerStates": [],
+      "points": 24,
+      "position": "WR",
+      "salary": 3000,
+      "sport": "nfl",
+      "stats": [
+        {
+          "statId": 37,
+          "total": 1
+        },
+        {
+          "statId": 40,
+          "total": 120
+        },
+        {
+          "statId": 44,
+          "total": 3
+        },
+        {
+          "statId": 49,
+          "total": 1
+        },
+        {
+          "statId": 467,
+          "total": 5
+        },
+        {
+          "statId": 82,
+          "total": 75
+        },
+        {
+          "statId": 84,
+          "total": 1
+        },
+        {
+          "statId": 1000,
+          "total": 1
+        },
+        {
+          "statId": 1011,
+          "total": 20
+        },
+        {
+          "statId": 1218,
+          "total": 1
+        }
+      ],
+      "teamAbbreviation": "LAR",
+      "teamCity": "Los Angeles",
+      "teamId": 343,
+      "teamName": "Rams",
+      "valueIcon": "fire",
+      "weekNumber": 3
+    },
+    "week": 3
+  },
+  {
+    "week": 4,
+    "contest_id": "114523123",
+    "contest_start": "Sep 30, 2021 20:20:00"
+  }
 ]
