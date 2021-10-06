@@ -1795,8 +1795,680 @@
     "week": 3
   },
   {
-    "week": 4,
-    "contest_id": "114523123",
-    "contest_start": "Sep 30, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Sony Michel", 
+      "draftedBy": [], 
+      "fantasyPoints": 0.1, 
+      "fantasyPointsPerGame": 5.2, 
+      "fantasyPointsPerSalary": 1.923076923076923e-05, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 40, 
+          "total": 4
+        }, 
+        {
+          "statId": 41, 
+          "total": 41.3333
+        }, 
+        {
+          "statId": 43, 
+          "total": 11
+        }, 
+        {
+          "statId": 44, 
+          "total": 1
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 11.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 2
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 5.2
+        }, 
+        {
+          "statId": 91, 
+          "total": 5.2
+        }, 
+        {
+          "statId": 92, 
+          "total": 5033.3333
+        }, 
+        {
+          "statId": 467, 
+          "total": 1.3333
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Sony", 
+      "gameId": 5746184, 
+      "gameStartTime": "2021-10-03T20:05:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/823041.png", 
+      "lastName": "Michel", 
+      "opposingTeamAbbreviation": "ARI", 
+      "opposingTeamCity": "Arizona", 
+      "opposingTeamName": "Cardinals", 
+      "playerDkId": 17958, 
+      "playerId": 823041, 
+      "playerStates": [], 
+      "points": 0.1, 
+      "position": "RB", 
+      "salary": 5200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41
+        }, 
+        {
+          "statId": 50
+        }, 
+        {
+          "statId": 43
+        }, 
+        {
+          "statId": 74
+        }, 
+        {
+          "statId": 81
+        }, 
+        {
+          "statId": 84
+        }
+      ], 
+      "teamAbbreviation": "LAR", 
+      "teamCity": "Los Angeles", 
+      "teamId": 343, 
+      "teamName": "Rams", 
+      "valueIcon": "ice", 
+      "weekNumber": 4
+    }, 
+    "contest_id": "114523123", 
+    "contest_start": "Sep 30, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "Tyreek Hill", 
+      "draftedBy": [], 
+      "fantasyPoints": 50.6, 
+      "fantasyPointsPerGame": 22.4, 
+      "fantasyPointsPerSalary": 0.006325, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 85.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 8.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 6.3333
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 8.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 23
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 22.4
+        }, 
+        {
+          "statId": 91, 
+          "total": 22.4
+        }, 
+        {
+          "statId": 92, 
+          "total": 8266.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 7.6667
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 990, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 28.6667
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.6667
+        }
+      ], 
+      "firstName": "Tyreek", 
+      "gameId": 5746046, 
+      "gameStartTime": "2021-10-03T17:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/823156.png", 
+      "lastName": "Hill", 
+      "opposingTeamAbbreviation": "PHI", 
+      "opposingTeamCity": "Philadelphia", 
+      "opposingTeamName": "Eagles", 
+      "playerDkId": 11477, 
+      "playerId": 823156, 
+      "playerStates": [], 
+      "points": 50.6, 
+      "position": "WR", 
+      "salary": 8000, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 3
+        }, 
+        {
+          "statId": 40, 
+          "total": 186
+        }, 
+        {
+          "statId": 44, 
+          "total": 11
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 12
+        }, 
+        {
+          "statId": 82, 
+          "total": 44
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 990, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 86
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "KC", 
+      "teamCity": "Kansas City", 
+      "teamId": 339, 
+      "teamName": "Chiefs", 
+      "valueIcon": "fire", 
+      "weekNumber": 4
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 184.72, 
+        "rank": 1, 
+        "userName": "g_mendoza", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 163.2, 
+        "rank": 2, 
+        "userName": "XplicitK", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 160.2, 
+        "rank": 3, 
+        "userName": "frank.corn", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 150.88, 
+        "rank": 4, 
+        "userName": "arianna29", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 149.94, 
+        "rank": 5, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 148.08, 
+        "rank": 6, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 140.94, 
+        "rank": 7, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 139.4, 
+        "rank": 8, 
+        "userName": "LoLoGREEN", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 135.02, 
+        "rank": 9, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 134.72, 
+        "rank": 10, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 131.12, 
+        "rank": 11, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 121.42, 
+        "rank": 12, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 115.42, 
+        "rank": 13, 
+        "userName": "jlopez0809", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 114.02, 
+        "rank": 14, 
+        "userName": "Dash7", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 112.82, 
+        "rank": 15, 
+        "userName": "rogdiaz", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 93.98, 
+        "rank": 16, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 93.22, 
+        "rank": 17, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 81.4, 
+        "rank": 18, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "Tyreek Hill", 
+      "draftedBy": [], 
+      "fantasyPoints": 50.6, 
+      "fantasyPointsPerGame": 22.4, 
+      "fantasyPointsPerSalary": 0.006325, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 85.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 8.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 6.3333
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 8.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 23
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 22.4
+        }, 
+        {
+          "statId": 91, 
+          "total": 22.4
+        }, 
+        {
+          "statId": 92, 
+          "total": 8266.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 7.6667
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 990, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 28.6667
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.6667
+        }
+      ], 
+      "firstName": "Tyreek", 
+      "gameId": 5746046, 
+      "gameStartTime": "2021-10-03T17:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/823156.png", 
+      "lastName": "Hill", 
+      "opposingTeamAbbreviation": "PHI", 
+      "opposingTeamCity": "Philadelphia", 
+      "opposingTeamName": "Eagles", 
+      "playerDkId": 11477, 
+      "playerId": 823156, 
+      "playerStates": [], 
+      "points": 50.6, 
+      "position": "WR", 
+      "salary": 8000, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 3
+        }, 
+        {
+          "statId": 40, 
+          "total": 186
+        }, 
+        {
+          "statId": 44, 
+          "total": 11
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 12
+        }, 
+        {
+          "statId": 82, 
+          "total": 44
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 990, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 86
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "KC", 
+      "teamCity": "Kansas City", 
+      "teamId": 339, 
+      "teamName": "Chiefs", 
+      "valueIcon": "fire", 
+      "weekNumber": 4
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "C.J. Uzomah", 
+      "draftedBy": [], 
+      "fantasyPoints": 26.5, 
+      "fantasyPointsPerGame": 9.6333, 
+      "fantasyPointsPerSalary": 0.010192307692307691, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 40, 
+          "total": 33
+        }, 
+        {
+          "statId": 44, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 82, 
+          "total": 11.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 9.6333
+        }, 
+        {
+          "statId": 91, 
+          "total": 9.6333
+        }, 
+        {
+          "statId": 92, 
+          "total": 2766.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 3
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "C.J.", 
+      "gameId": 5746010, 
+      "gameStartTime": "2021-10-01T00:20:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/593305.png", 
+      "lastName": "Uzomah", 
+      "opposingTeamAbbreviation": "JAX", 
+      "opposingTeamCity": "Jacksonville", 
+      "opposingTeamName": "Jaguars", 
+      "playerDkId": 14159, 
+      "playerId": 593305, 
+      "playerStates": [], 
+      "points": 26.5, 
+      "position": "TE", 
+      "salary": 2600, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 95
+        }, 
+        {
+          "statId": 44, 
+          "total": 5
+        }, 
+        {
+          "statId": 467, 
+          "total": 6
+        }, 
+        {
+          "statId": 82, 
+          "total": 31
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 998, 
+          "total": 1
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "CIN", 
+      "teamCity": "Cincinnati", 
+      "teamId": 327, 
+      "teamName": "Bengals", 
+      "valueIcon": "fire", 
+      "weekNumber": 4
+    }, 
+    "week": 4
+  },{
+    "week": 5,
+    "contest_id": "115037490",
+    "contest_start": "Oct 07, 2021 20:20:00"
   }
 ]
