@@ -49,6 +49,6 @@ Teams on bye: Falcons, Saints, Jets, 49ers
 </figure>
 
 ##### Weekly analysis <small class="text-muted">Recap and advice</small>
-- [Week 5 Recap | NFL Fantasy Football Show](https://www.nfl.com/videos/week-5-recap-nfl-fantasy-football-show)
+- [Week 5 Recap \| NFL Fantasy Football Show](https://www.nfl.com/videos/week-5-recap-nfl-fantasy-football-show)
 - [The Jon Gruden experiment ends](https://themorninghuddle.substack.com/p/-the-jon-gruden-experiment-ends)
 - [Food For Thought: RotoGrinders NFL First Look Pod w/ Luuch & Chief - Week 6](https://rotogrinders.com/podcasts/food-for-thought-rotogrinders-nfl-first-look-pod-w-luuch-chief-week-6-3688124)
