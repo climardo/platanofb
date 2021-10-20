@@ -3286,8 +3286,705 @@
     "week": 5
   },
   {
-    "week": 6,
-    "contest_id": "115546483",
-    "contest_start": "Oct 14, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Alexander Mattison", 
+      "draftedBy": [], 
+      "fantasyPoints": 1, 
+      "fantasyPointsPerGame": 11.1, 
+      "fantasyPointsPerSalary": 0.00016129032258064516, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 40, 
+          "total": 13.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 47.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 12.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 48, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 19.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 5
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 11.1
+        }, 
+        {
+          "statId": 91, 
+          "total": 11.1
+        }, 
+        {
+          "statId": 92, 
+          "total": 6100
+        }, 
+        {
+          "statId": 467, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 996, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1010, 
+          "total": 4.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Alexander", 
+      "gameId": 5745680, 
+      "gameStartTime": "2021-10-17T17:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/944343.png", 
+      "lastName": "Mattison", 
+      "opposingTeamAbbreviation": "CAR", 
+      "opposingTeamCity": "Carolina", 
+      "opposingTeamName": "Panthers", 
+      "playerDkId": 17287, 
+      "playerId": 944343, 
+      "playerStates": [], 
+      "points": 1, 
+      "position": "RB", 
+      "salary": 6200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 10
+        }, 
+        {
+          "statId": 43, 
+          "total": 3
+        }, 
+        {
+          "statId": 81, 
+          "total": 5
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "MIN", 
+      "teamCity": "Minnesota", 
+      "teamId": 347, 
+      "teamName": "Vikings", 
+      "valueIcon": "ice", 
+      "weekNumber": 6
+    }, 
+    "contest_id": "115546483", 
+    "contest_start": "Oct 14, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "CeeDee Lamb", 
+      "draftedBy": [], 
+      "fantasyPoints": 39.1, 
+      "fantasyPointsPerGame": 20.4, 
+      "fantasyPointsPerSalary": 0.006015384615384616, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 82
+        }, 
+        {
+          "statId": 41, 
+          "total": 2
+        }, 
+        {
+          "statId": 43, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 5
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 2
+        }, 
+        {
+          "statId": 82, 
+          "total": 30.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 20.4
+        }, 
+        {
+          "statId": 91, 
+          "total": 20.4
+        }, 
+        {
+          "statId": 92, 
+          "total": 6466.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 7.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 16.3333
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.6667
+        }
+      ], 
+      "firstName": "CeeDee", 
+      "gameId": 5745734, 
+      "gameStartTime": "2021-10-17T20:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1062020.png", 
+      "lastName": "Lamb", 
+      "opposingTeamAbbreviation": "NE", 
+      "opposingTeamCity": "New England", 
+      "opposingTeamName": "Patriots", 
+      "playerDkId": 485450, 
+      "playerId": 1062020, 
+      "playerStates": [], 
+      "points": 39.1, 
+      "position": "WR", 
+      "salary": 6500, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 149
+        }, 
+        {
+          "statId": 41, 
+          "total": 2
+        }, 
+        {
+          "statId": 44, 
+          "total": 9
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 11
+        }, 
+        {
+          "statId": 43, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": 2
+        }, 
+        {
+          "statId": 82, 
+          "total": 35
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 998, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 49
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "DAL", 
+      "teamCity": "Dallas", 
+      "teamId": 331, 
+      "teamName": "Cowboys", 
+      "valueIcon": "fire", 
+      "weekNumber": 6
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 192.04, 
+        "rank": 1, 
+        "userName": "Dash7", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 173.04, 
+        "rank": 2, 
+        "userName": "rogdiaz", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 172.34, 
+        "rank": 3, 
+        "userName": "g_mendoza", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 159.54, 
+        "rank": 4, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 158.34, 
+        "rank": 5, 
+        "userName": "XplicitK", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 143.92, 
+        "rank": 6, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 141.88, 
+        "rank": 7, 
+        "userName": "jlopez0809", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 141.3, 
+        "rank": 8, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 135.86, 
+        "rank": 9, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 134.88, 
+        "rank": 10, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 132.4, 
+        "rank": 11, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 129.78, 
+        "rank": 12, 
+        "userName": "arianna29", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 126.28, 
+        "rank": 13, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 123.46, 
+        "rank": 14, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 118.38, 
+        "rank": 15, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 112.56, 
+        "rank": 16, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 104.56, 
+        "rank": 17, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "CeeDee Lamb", 
+      "draftedBy": [], 
+      "fantasyPoints": 39.1, 
+      "fantasyPointsPerGame": 20.4, 
+      "fantasyPointsPerSalary": 0.006015384615384616, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 82
+        }, 
+        {
+          "statId": 41, 
+          "total": 2
+        }, 
+        {
+          "statId": 43, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 5
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 2
+        }, 
+        {
+          "statId": 82, 
+          "total": 30.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 20.4
+        }, 
+        {
+          "statId": 91, 
+          "total": 20.4
+        }, 
+        {
+          "statId": 92, 
+          "total": 6466.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 7.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 16.3333
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.6667
+        }
+      ], 
+      "firstName": "CeeDee", 
+      "gameId": 5745734, 
+      "gameStartTime": "2021-10-17T20:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1062020.png", 
+      "lastName": "Lamb", 
+      "opposingTeamAbbreviation": "NE", 
+      "opposingTeamCity": "New England", 
+      "opposingTeamName": "Patriots", 
+      "playerDkId": 485450, 
+      "playerId": 1062020, 
+      "playerStates": [], 
+      "points": 39.1, 
+      "position": "WR", 
+      "salary": 6500, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 149
+        }, 
+        {
+          "statId": 41, 
+          "total": 2
+        }, 
+        {
+          "statId": 44, 
+          "total": 9
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 11
+        }, 
+        {
+          "statId": 43, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": 2
+        }, 
+        {
+          "statId": 82, 
+          "total": 35
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 998, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 49
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "DAL", 
+      "teamCity": "Dallas", 
+      "teamId": 331, 
+      "teamName": "Cowboys", 
+      "valueIcon": "fire", 
+      "weekNumber": 6
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "Donovan Peoples-Jones", 
+      "draftedBy": [], 
+      "fantasyPoints": 29.1, 
+      "fantasyPointsPerGame": 13.7, 
+      "fantasyPointsPerSalary": 0.008314285714285715, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 40, 
+          "total": 57
+        }, 
+        {
+          "statId": 44, 
+          "total": 3
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 82, 
+          "total": 33
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 13.7
+        }, 
+        {
+          "statId": 91, 
+          "total": 13.7
+        }, 
+        {
+          "statId": 92, 
+          "total": 3233.3333
+        }, 
+        {
+          "statId": 467, 
+          "total": 3.6667
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1011, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.6667
+        }
+      ], 
+      "firstName": "Donovan", 
+      "gameId": 5745698, 
+      "gameStartTime": "2021-10-17T20:05:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1050234.png", 
+      "lastName": "Peoples-Jones", 
+      "opposingTeamAbbreviation": "ARI", 
+      "opposingTeamCity": "Arizona", 
+      "opposingTeamName": "Cardinals", 
+      "playerDkId": 485611, 
+      "playerId": 1050234, 
+      "playerStates": [], 
+      "points": 29.1, 
+      "position": "WR", 
+      "salary": 3500, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 101
+        }, 
+        {
+          "statId": 44, 
+          "total": 4
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 5
+        }, 
+        {
+          "statId": 82, 
+          "total": 57
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 1
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "CLE", 
+      "teamCity": "Cleveland", 
+      "teamId": 329, 
+      "teamName": "Browns", 
+      "valueIcon": "fire", 
+      "weekNumber": 6
+    }, 
+    "week": 6
+  },
+  {
+    "week": 7,
+    "contest_id": "116097242",
+    "contest_start": "Oct 21, 2021 20:20:00"
   }
 ]
