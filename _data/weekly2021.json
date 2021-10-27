@@ -3983,8 +3983,766 @@
     "week": 6
   },
   {
-    "week": 7,
-    "contest_id": "116097242",
-    "contest_start": "Oct 21, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Mike Davis", 
+      "draftedBy": [], 
+      "fantasyPoints": 1, 
+      "fantasyPointsPerGame": 8.2333, 
+      "fantasyPointsPerSalary": 0.0001923076923076923, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 38, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 40, 
+          "total": 6.6667
+        }, 
+        {
+          "statId": 41, 
+          "total": 25.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 10
+        }, 
+        {
+          "statId": 44, 
+          "total": 1.3333
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 9.3333
+        }, 
+        {
+          "statId": 82, 
+          "total": 5.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 8.2333
+        }, 
+        {
+          "statId": 91, 
+          "total": 8.2333
+        }, 
+        {
+          "statId": 92, 
+          "total": 5233.3333
+        }, 
+        {
+          "statId": 467, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Mike", 
+      "gameId": 5745968, 
+      "gameStartTime": "2021-10-24T17:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/694015.png", 
+      "lastName": "Davis", 
+      "opposingTeamAbbreviation": "MIA", 
+      "opposingTeamCity": "Miami", 
+      "opposingTeamName": "Dolphins", 
+      "playerDkId": 12522, 
+      "playerId": 694015, 
+      "playerStates": [], 
+      "points": 1, 
+      "position": "RB", 
+      "salary": 5200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 10
+        }, 
+        {
+          "statId": 43, 
+          "total": 4
+        }, 
+        {
+          "statId": 81, 
+          "total": 3
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "ATL", 
+      "teamCity": "Atlanta", 
+      "teamId": 323, 
+      "teamName": "Falcons", 
+      "valueIcon": "ice", 
+      "weekNumber": 7
+    }, 
+    "contest_id": "116097242", 
+    "contest_start": "Oct 21, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "Joe Burrow", 
+      "fantasyPoints": 30.64, 
+      "fantasyPointsPerGame": 24.94, 
+      "fantasyPointsPerSalary": 0.004941935483870968, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 36, 
+          "total": 2.6667
+        }, 
+        {
+          "statId": 39, 
+          "total": 322.6667
+        }, 
+        {
+          "statId": 41, 
+          "total": 10.3333
+        }, 
+        {
+          "statId": 42, 
+          "total": 22.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 3
+        }, 
+        {
+          "statId": 46, 
+          "total": 1.3333
+        }, 
+        {
+          "statId": 47, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 70, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 71, 
+          "total": 35
+        }, 
+        {
+          "statId": 81, 
+          "total": 5
+        }, 
+        {
+          "statId": 83, 
+          "total": 68.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 24.94
+        }, 
+        {
+          "statId": 91, 
+          "total": 24.94
+        }, 
+        {
+          "statId": 92, 
+          "total": 6200
+        }, 
+        {
+          "statId": 981, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 986, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 987, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 992, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 993, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 994, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1012, 
+          "total": 38.6667
+        }, 
+        {
+          "statId": 1080, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1216, 
+          "total": 1
+        }
+      ], 
+      "firstName": "Joe", 
+      "gameId": 5746016, 
+      "gameStartTime": "2021-10-24T17:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/878785.png", 
+      "lastName": "Burrow", 
+      "opposingTeamAbbreviation": "BAL", 
+      "opposingTeamCity": "Baltimore", 
+      "opposingTeamName": "Ravens", 
+      "playerDkId": 485441, 
+      "playerId": 878785, 
+      "playerStates": [], 
+      "points": 30.64, 
+      "position": "QB", 
+      "salary": 6200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 36, 
+          "total": 3
+        }, 
+        {
+          "statId": 39, 
+          "total": 416
+        }, 
+        {
+          "statId": 46, 
+          "total": 1
+        }, 
+        {
+          "statId": 47, 
+          "total": 1
+        }, 
+        {
+          "statId": 42, 
+          "total": 23
+        }, 
+        {
+          "statId": 43, 
+          "total": 1
+        }, 
+        {
+          "statId": 71, 
+          "total": 38
+        }, 
+        {
+          "statId": 83, 
+          "total": 82
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 981, 
+          "total": 1
+        }, 
+        {
+          "statId": 986, 
+          "total": 1
+        }, 
+        {
+          "statId": 987, 
+          "total": 1
+        }, 
+        {
+          "statId": 994, 
+          "total": 1
+        }, 
+        {
+          "statId": 1012, 
+          "total": 116
+        }, 
+        {
+          "statId": 1216, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "CIN", 
+      "teamCity": "Cincinnati", 
+      "teamId": 327, 
+      "teamName": "Bengals", 
+      "valueIcon": "fire", 
+      "weekNumber": 7
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 167.04, 
+        "rank": 1, 
+        "userName": "olivadotij", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 152.96, 
+        "rank": 2, 
+        "userName": "LoLoGREEN", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 151.38, 
+        "rank": 3, 
+        "userName": "ejmesa", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 151.14, 
+        "rank": 4, 
+        "userName": "Dash7", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 147.76, 
+        "rank": 5, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 143.16, 
+        "rank": 6, 
+        "userName": "arianna29", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 141.7, 
+        "rank": 7, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 140.34, 
+        "rank": 8, 
+        "userName": "XplicitK", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 140.04, 
+        "rank": 9, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 136.28, 
+        "rank": 10, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 134.78, 
+        "rank": 11, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 132.34, 
+        "rank": 12, 
+        "userName": "jlopez0809", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 117.54, 
+        "rank": 13, 
+        "userName": "rogdiaz", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 110.86, 
+        "rank": 14, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 106.66, 
+        "rank": 15, 
+        "userName": "g_mendoza", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 106.54, 
+        "rank": 16, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 98.96, 
+        "rank": 17, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 87.04, 
+        "rank": 18, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "Cooper Kupp", 
+      "draftedBy": [
+        "LoLoGREEN", 
+        "glopez28"
+      ], 
+      "fantasyPoints": 40.6, 
+      "fantasyPointsPerGame": 31.2667, 
+      "fantasyPointsPerSalary": 0.004833333333333334, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 1.3333
+        }, 
+        {
+          "statId": 40, 
+          "total": 126
+        }, 
+        {
+          "statId": 44, 
+          "total": 8.6667
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 40.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 31.2667
+        }, 
+        {
+          "statId": 91, 
+          "total": 31.2667
+        }, 
+        {
+          "statId": 92, 
+          "total": 8066.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 11.6667
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 990, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 28.6667
+        }, 
+        {
+          "statId": 1080, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "firstName": "Cooper", 
+      "gameId": 5746028, 
+      "gameStartTime": "2021-10-24T20:05:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/698227.png", 
+      "lastName": "Kupp", 
+      "opposingTeamAbbreviation": "DET", 
+      "opposingTeamCity": "Detroit", 
+      "opposingTeamName": "Lions", 
+      "playerDkId": 13884, 
+      "playerId": 698227, 
+      "playerStates": [], 
+      "points": 40.6, 
+      "position": "WR", 
+      "salary": 8400, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 156
+        }, 
+        {
+          "statId": 44, 
+          "total": 10
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 13
+        }, 
+        {
+          "statId": 82, 
+          "total": 59
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 990, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 56
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "LAR", 
+      "teamCity": "Los Angeles", 
+      "teamId": 343, 
+      "teamName": "Rams", 
+      "valueIcon": "fire", 
+      "weekNumber": 7
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "Titans", 
+      "draftedBy": [], 
+      "fantasyPoints": 17, 
+      "fantasyPointsPerGame": 11.3333, 
+      "fantasyPointsPerSalary": 0.008095238095238095, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 52, 
+          "total": 3
+        }, 
+        {
+          "statId": 53, 
+          "total": 1
+        }, 
+        {
+          "statId": 54, 
+          "total": 1
+        }, 
+        {
+          "statId": 55, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 57, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 59, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 61, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 75, 
+          "total": 17.6667
+        }, 
+        {
+          "statId": 76, 
+          "total": 119
+        }, 
+        {
+          "statId": 77, 
+          "total": 282.6667
+        }, 
+        {
+          "statId": 78, 
+          "total": 401.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 11.3333
+        }, 
+        {
+          "statId": 91, 
+          "total": 11.3333
+        }, 
+        {
+          "statId": 92, 
+          "total": 2700
+        }, 
+        {
+          "statId": 102, 
+          "total": 30.6667
+        }, 
+        {
+          "statId": 103, 
+          "total": 222
+        }, 
+        {
+          "statId": 104, 
+          "total": 144.3333
+        }, 
+        {
+          "statId": 105, 
+          "total": 366.3333
+        }, 
+        {
+          "statId": 976, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 977, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 978, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1002, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Titans", 
+      "gameId": 5745920, 
+      "gameStartTime": "2021-10-24T17:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/336.png", 
+      "lastName": "", 
+      "opposingTeamAbbreviation": "KC", 
+      "opposingTeamCity": "Kansas City", 
+      "opposingTeamName": "Chiefs", 
+      "playerDkId": 18366, 
+      "playerId": 336, 
+      "playerState": "offense", 
+      "playerStates": [], 
+      "points": 17, 
+      "position": "DST", 
+      "salary": 2100, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 52, 
+          "total": 4
+        }, 
+        {
+          "statId": 53, 
+          "total": 1
+        }, 
+        {
+          "statId": 54, 
+          "total": 2
+        }, 
+        {
+          "statId": 57, 
+          "total": 1
+        }, 
+        {
+          "statId": 75, 
+          "total": 3
+        }, 
+        {
+          "statId": 76, 
+          "total": 77
+        }, 
+        {
+          "statId": 77, 
+          "total": 257
+        }, 
+        {
+          "statId": 78, 
+          "total": 334
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 102, 
+          "total": 27
+        }, 
+        {
+          "statId": 103, 
+          "total": 266
+        }, 
+        {
+          "statId": 104, 
+          "total": 103
+        }, 
+        {
+          "statId": 105, 
+          "total": 369
+        }, 
+        {
+          "statId": 976, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "TEN", 
+      "teamCity": "Tennessee", 
+      "teamId": 336, 
+      "teamName": "Titans", 
+      "valueIcon": "fire", 
+      "weekNumber": 7
+    }, 
+    "week": 7
+  },
+  {
+    "week": 8,
+    "contest_id": "116774704",
+    "contest_start": "Oct 28, 2021 20:20:00"
   }
 ]

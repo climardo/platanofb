@@ -21,11 +21,11 @@
   link: https://www.zellepay.com/how-it-works
   myinfo: <a href="/assets/images/carlos-limardo.vcf"><i class="fas fa-address-card fa-6x custom-purple"></i></a>
   contact: <span class="custom-purple">climardo@gmail.com</a>
-- name: Bitcoin
-  logo: /assets/images/bitcoin.svg
-  link: https://help.coinbase.com/en/coinbase/trading-and-funding/sending-or-receiving-cryptocurrency/how-do-i-send-digital-currency-to-another-wallet.html
-  myinfo: <a href="bitcoin:3GxJbZB5xzHNFY8FQPT9jrvpYmhabQqLo3" target="_blank" class="text-wrap">3GxJbZB5xzHNFY8FQPT9jrvpYmhabQqLo3</a>
-- name: Ethereum
-  logo: /assets/images/ethereum.svg
-  link: https://help.coinbase.com/en/coinbase/trading-and-funding/sending-or-receiving-cryptocurrency/how-do-i-send-digital-currency-to-another-wallet.html
-  myinfo: <a href="ethereum:0x60f658D64B4d919ec9A350eB5508Fd9fE29A3624" target="_blank" class="text-wrap">0x60f658D64B4d919ec9A350eB5508Fd9fE29A3624</a>
+- name: Strike
+  logo: /assets/images/strike.png
+  link: https://strike.me/en/faq/whatisstrike
+  myinfo: <a href="https://strike.me/geru" target="_blank" class="text-wrap">strike.me/geru</a>
+- name: Cash App
+  logo: /assets/images/cashapplogo.png
+  link: https://cash.app/help/us/en-us/1105-sending-a-payment
+  myinfo: <a href="https://cash.app/$climardo" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/cashapp.png" alt="cash.app/$climardo" /></a>
