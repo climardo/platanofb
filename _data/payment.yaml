@@ -1,31 +1,26 @@
+- name: Cash App
+  logo: /assets/images/cashapplogo.png
+  link: https://cash.app/app/PFJDGHN
+  myinfo: <a href="https://cash.app/$climardo" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/cashapp.png" alt="cash.app/$climardo" /></a>
+- name: Strike
+  logo: /assets/images/strike.png
+  link: https://invite.strike.me/9NCQRW
+  myinfo: <a href="https://strike.me/geru" target="_blank" class="text-wrap">strike.me/geru</a>
 - name: Apple Pay Cash
   logo: /assets/images/applepay.svg
   link: https://support.apple.com/en-us/HT207875
   myinfo: <a href="/assets/images/carlos-limardo.vcf"><i class="fas fa-address-card fa-6x custom-black"></i></a>
   contact: <span class="custom-black">climardo@gmail.com</span>
-# - name: Google Pay
-#   logo: /assets/images/googlepay.svg
-#   link: https://pay.google.com/about/learn/
-#   myinfo: <a href="/assets/images/carlos-limardo.vcf"><i class="fas fa-address-card fa-6x custom-green"></i></a>
-#   contact: <span class="custom-green">climardo@gmail.com</span>
-- name: PayPal
-  logo: /assets/images/paypal.svg
-  link: https://www.paypal.com/webapps/mpp/how-paypal-works/overview
-  myinfo: <a href="https://paypal.me/climardo" target="_blank"><img class="img-fluid" src="/assets/images/mypaypal.svg" alt="PayPal" /></a>
-- name: Venmo
-  logo: /assets/images/venmo.svg
-  link: https://venmo.com/about/product/
-  myinfo: <a href="https://venmo.com/code?user_id=2296666946273280558" target="_blank"><img class="img-fluid" src="/assets/images/myvenmo.svg" alt="Venmo" /></a>
 - name: Zelle
   logo: /assets/images/zelle.png
   link: https://www.zellepay.com/how-it-works
   myinfo: <a href="/assets/images/carlos-limardo.vcf"><i class="fas fa-address-card fa-6x custom-purple"></i></a>
   contact: <span class="custom-purple">climardo@gmail.com</a>
-- name: Strike
-  logo: /assets/images/strike.png
-  link: https://strike.me/en/faq/whatisstrike
-  myinfo: <a href="https://strike.me/geru" target="_blank" class="text-wrap">strike.me/geru</a>
-- name: Cash App
-  logo: /assets/images/cashapplogo.png
-  link: https://cash.app/help/us/en-us/1105-sending-a-payment
-  myinfo: <a href="https://cash.app/$climardo" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/cashapp.png" alt="cash.app/$climardo" /></a>
+- name: Venmo
+  logo: /assets/images/venmo.svg
+  link: https://venmo.com/about/product/
+  myinfo: <a href="https://venmo.com/code?user_id=2296666946273280558" target="_blank"><img class="img-fluid" src="/assets/images/myvenmo.svg" alt="Venmo" /></a>
+- name: PayPal
+  logo: /assets/images/paypal.svg
+  link: https://www.paypal.com/webapps/mpp/how-paypal-works/overview
+  myinfo: <a href="https://paypal.me/climardo" target="_blank"><img class="img-fluid" src="/assets/images/mypaypal.svg" alt="PayPal" /></a>
