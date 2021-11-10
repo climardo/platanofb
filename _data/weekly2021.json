@@ -5478,8 +5478,800 @@
     "week": 8
   },
   {
-    "week": 9,
-    "contest_id": "117382389",
-    "contest_start": "Nov 04, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Chase Edmonds", 
+      "draftedBy": [], 
+      "fantasyPoints": 0.3, 
+      "fantasyPointsPerGame": 8.7333, 
+      "fantasyPointsPerSalary": 5.660377358490566e-05, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 38, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 40, 
+          "total": 16
+        }, 
+        {
+          "statId": 41, 
+          "total": 38
+        }, 
+        {
+          "statId": 43, 
+          "total": 7.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 1.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 10
+        }, 
+        {
+          "statId": 82, 
+          "total": 10.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 8.7333
+        }, 
+        {
+          "statId": 91, 
+          "total": 8.7333
+        }, 
+        {
+          "statId": 92, 
+          "total": 5400
+        }, 
+        {
+          "statId": 467, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1080, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Chase", 
+      "gameId": 5746100, 
+      "gameStartTime": "2021-11-07T21:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/832900.png", 
+      "lastName": "Edmonds", 
+      "opposingTeamAbbreviation": "SF", 
+      "opposingTeamCity": "San Francisco", 
+      "opposingTeamName": "49ers", 
+      "playerDkId": 17682, 
+      "playerId": 832900, 
+      "playerStates": [], 
+      "points": 0.3, 
+      "position": "RB", 
+      "salary": 5300, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 3
+        }, 
+        {
+          "statId": 43, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": 3
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "ARI", 
+      "teamCity": "Arizona", 
+      "teamId": 355, 
+      "teamName": "Cardinals", 
+      "valueIcon": "ice", 
+      "weekNumber": 9
+    }, 
+    "contest_id": "117382389", 
+    "contest_start": "Nov 04, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "James Conner", 
+      "draftedBy": [], 
+      "fantasyPoints": 40.3, 
+      "fantasyPointsPerGame": 22.3, 
+      "fantasyPointsPerSalary": 0.00760377358490566, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 38, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 40, 
+          "total": 25.6667
+        }, 
+        {
+          "statId": 41, 
+          "total": 60.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 12
+        }, 
+        {
+          "statId": 44, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 20.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 15
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 22.3
+        }, 
+        {
+          "statId": 91, 
+          "total": 22.3
+        }, 
+        {
+          "statId": 92, 
+          "total": 5433.3333
+        }, 
+        {
+          "statId": 467, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 984, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "James", 
+      "gameId": 5746100, 
+      "gameStartTime": "2021-11-07T21:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/742390.png", 
+      "lastName": "Conner", 
+      "opposingTeamAbbreviation": "SF", 
+      "opposingTeamCity": "San Francisco", 
+      "opposingTeamName": "49ers", 
+      "playerDkId": 18449, 
+      "playerId": 742390, 
+      "playerStates": [], 
+      "points": 40.3, 
+      "position": "RB", 
+      "salary": 5300, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 38, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 77
+        }, 
+        {
+          "statId": 41, 
+          "total": 96
+        }, 
+        {
+          "statId": 44, 
+          "total": 5
+        }, 
+        {
+          "statId": 467, 
+          "total": 5
+        }, 
+        {
+          "statId": 43, 
+          "total": 21
+        }, 
+        {
+          "statId": 74, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": 35
+        }, 
+        {
+          "statId": 82, 
+          "total": 45
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 984, 
+          "total": 1
+        }, 
+        {
+          "statId": 995, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "ARI", 
+      "teamCity": "Arizona", 
+      "teamId": 355, 
+      "teamName": "Cardinals", 
+      "valueIcon": "fire", 
+      "weekNumber": 9
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 170.08, 
+        "rank": 1, 
+        "userName": "geedee3", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 161.34, 
+        "rank": 2, 
+        "userName": "arianna29", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 154.44, 
+        "rank": 3, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 153.78, 
+        "rank": 4, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 144.52, 
+        "rank": 5, 
+        "userName": "LoLoGREEN", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 140.3, 
+        "rank": 6, 
+        "userName": "g_mendoza", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 137.24, 
+        "rank": 7, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 133.9, 
+        "rank": 8, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 130.9, 
+        "rank": 9, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 127, 
+        "rank": 10, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 123.44, 
+        "rank": 11, 
+        "userName": "jlopez0809", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 119.6, 
+        "rank": 12, 
+        "userName": "XplicitK", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 106.18, 
+        "rank": 13, 
+        "userName": "Dash7", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 102.62, 
+        "rank": 14, 
+        "userName": "rogdiaz", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 101.8, 
+        "rank": 15, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 98.82, 
+        "rank": 16, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 74.38, 
+        "rank": 17, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 72.4, 
+        "rank": 18, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "James Conner", 
+      "draftedBy": [], 
+      "fantasyPoints": 40.3, 
+      "fantasyPointsPerGame": 22.3, 
+      "fantasyPointsPerSalary": 0.00760377358490566, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 38, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 40, 
+          "total": 25.6667
+        }, 
+        {
+          "statId": 41, 
+          "total": 60.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 12
+        }, 
+        {
+          "statId": 44, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 20.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 15
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 22.3
+        }, 
+        {
+          "statId": 91, 
+          "total": 22.3
+        }, 
+        {
+          "statId": 92, 
+          "total": 5433.3333
+        }, 
+        {
+          "statId": 467, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 984, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "James", 
+      "gameId": 5746100, 
+      "gameStartTime": "2021-11-07T21:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/742390.png", 
+      "lastName": "Conner", 
+      "opposingTeamAbbreviation": "SF", 
+      "opposingTeamCity": "San Francisco", 
+      "opposingTeamName": "49ers", 
+      "playerDkId": 18449, 
+      "playerId": 742390, 
+      "playerStates": [], 
+      "points": 40.3, 
+      "position": "RB", 
+      "salary": 5300, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 38, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 77
+        }, 
+        {
+          "statId": 41, 
+          "total": 96
+        }, 
+        {
+          "statId": 44, 
+          "total": 5
+        }, 
+        {
+          "statId": 467, 
+          "total": 5
+        }, 
+        {
+          "statId": 43, 
+          "total": 21
+        }, 
+        {
+          "statId": 74, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": 35
+        }, 
+        {
+          "statId": 82, 
+          "total": 45
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 984, 
+          "total": 1
+        }, 
+        {
+          "statId": 995, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "ARI", 
+      "teamCity": "Arizona", 
+      "teamId": 355, 
+      "teamName": "Cardinals", 
+      "valueIcon": "fire", 
+      "weekNumber": 9
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "Jaguars", 
+      "draftedBy": [], 
+      "fantasyPoints": 17, 
+      "fantasyPointsPerGame": 7.3333, 
+      "fantasyPointsPerSalary": 0.0085, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 52, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 53, 
+          "total": 1
+        }, 
+        {
+          "statId": 54, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 57, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 59, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 61, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 75, 
+          "total": 19
+        }, 
+        {
+          "statId": 76, 
+          "total": 72.6667
+        }, 
+        {
+          "statId": 77, 
+          "total": 247.6667
+        }, 
+        {
+          "statId": 78, 
+          "total": 320.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 7.3333
+        }, 
+        {
+          "statId": 91, 
+          "total": 7.3333
+        }, 
+        {
+          "statId": 92, 
+          "total": 2200
+        }, 
+        {
+          "statId": 102, 
+          "total": 13
+        }, 
+        {
+          "statId": 103, 
+          "total": 226
+        }, 
+        {
+          "statId": 104, 
+          "total": 81.6667
+        }, 
+        {
+          "statId": 105, 
+          "total": 307.6667
+        }, 
+        {
+          "statId": 975, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 976, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 977, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1002, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Jaguars", 
+      "gameId": 5745380, 
+      "gameStartTime": "2021-11-07T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/365.png", 
+      "lastName": "", 
+      "opposingTeamAbbreviation": "BUF", 
+      "opposingTeamCity": "Buffalo", 
+      "opposingTeamName": "Bills", 
+      "playerDkId": 18489, 
+      "playerId": 365, 
+      "playerState": "offense", 
+      "playerStates": [], 
+      "points": 17, 
+      "position": "DST", 
+      "salary": 2000, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 52, 
+          "total": 4
+        }, 
+        {
+          "statId": 53, 
+          "total": 2
+        }, 
+        {
+          "statId": 54, 
+          "total": 1
+        }, 
+        {
+          "statId": 57, 
+          "total": 1
+        }, 
+        {
+          "statId": 75, 
+          "total": 6
+        }, 
+        {
+          "statId": 76, 
+          "total": 72
+        }, 
+        {
+          "statId": 77, 
+          "total": 229
+        }, 
+        {
+          "statId": 78, 
+          "total": 301
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 102, 
+          "total": 9
+        }, 
+        {
+          "statId": 103, 
+          "total": 139
+        }, 
+        {
+          "statId": 104, 
+          "total": 79
+        }, 
+        {
+          "statId": 105, 
+          "total": 218
+        }, 
+        {
+          "statId": 976, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "JAX", 
+      "teamCity": "Jacksonville", 
+      "teamId": 365, 
+      "teamName": "Jaguars", 
+      "valueIcon": "fire", 
+      "weekNumber": 9
+    }, 
+    "week": 9
+  },
+  {
+    "week": 10,
+    "contest_id": "117903741",
+    "contest_start": "Nov 11, 2021 20:20:00"
   }
 ]
