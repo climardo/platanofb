@@ -6270,8 +6270,744 @@
     "week": 9
   },
   {
-    "week": 10,
-    "contest_id": "117903741",
-    "contest_start": "Nov 11, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Carlos Hyde", 
+      "draftedBy": [], 
+      "fantasyPoints": 1.4, 
+      "fantasyPointsPerGame": 7.3, 
+      "fantasyPointsPerSalary": 0.00028, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 40, 
+          "total": 15.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 34.3333
+        }, 
+        {
+          "statId": 43, 
+          "total": 10.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 2.6667
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 9
+        }, 
+        {
+          "statId": 82, 
+          "total": 5
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 7.3
+        }, 
+        {
+          "statId": 91, 
+          "total": 7.3
+        }, 
+        {
+          "statId": 92, 
+          "total": 4666.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 4
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Carlos", 
+      "gameId": 5746448, 
+      "gameStartTime": "2021-11-14T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/543825.png", 
+      "lastName": "Hyde", 
+      "opposingTeamAbbreviation": "IND", 
+      "opposingTeamCity": "Indianapolis", 
+      "opposingTeamName": "Colts", 
+      "playerDkId": 17846, 
+      "playerId": 543825, 
+      "playerStates": [], 
+      "points": 1.4, 
+      "position": "RB", 
+      "salary": 5000, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 4
+        }, 
+        {
+          "statId": 44, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 2
+        }, 
+        {
+          "statId": 43, 
+          "total": 2
+        }, 
+        {
+          "statId": 81, 
+          "total": 5
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "JAX", 
+      "teamCity": "Jacksonville", 
+      "teamId": 365, 
+      "teamName": "Jaguars", 
+      "valueIcon": "ice", 
+      "weekNumber": 10
+    }, 
+    "contest_id": "117903741", 
+    "contest_start": "Nov 11, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "Patrick Mahomes", 
+      "draftedBy": [], 
+      "fantasyPoints": 39.24, 
+      "fantasyPointsPerGame": 21.56, 
+      "fantasyPointsPerSalary": 0.00545, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 36, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 39, 
+          "total": 282.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 2.6667
+        }, 
+        {
+          "statId": 42, 
+          "total": 28
+        }, 
+        {
+          "statId": 43, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 46, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 47, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 71, 
+          "total": 45
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 83, 
+          "total": 29
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 21.56
+        }, 
+        {
+          "statId": 91, 
+          "total": 21.56
+        }, 
+        {
+          "statId": 92, 
+          "total": 7733.3333
+        }, 
+        {
+          "statId": 981, 
+          "total": 1
+        }, 
+        {
+          "statId": 986, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 987, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1012, 
+          "total": 35.3333
+        }, 
+        {
+          "statId": 1216, 
+          "total": 1
+        }
+      ], 
+      "firstName": "Patrick", 
+      "gameId": 5746664, 
+      "gameStartTime": "2021-11-15T01:20:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/839031.png", 
+      "lastName": "Mahomes", 
+      "opposingTeamAbbreviation": "LV", 
+      "opposingTeamCity": "Las Vegas", 
+      "opposingTeamName": "Raiders", 
+      "playerDkId": 11644, 
+      "playerId": 839031, 
+      "playerStates": [], 
+      "points": 39.24, 
+      "position": "QB", 
+      "salary": 7200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 36, 
+          "total": 5
+        }, 
+        {
+          "statId": 39, 
+          "total": 406
+        }, 
+        {
+          "statId": 47, 
+          "total": 1
+        }, 
+        {
+          "statId": 42, 
+          "total": 35
+        }, 
+        {
+          "statId": 71, 
+          "total": 50
+        }, 
+        {
+          "statId": 83, 
+          "total": 38
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 981, 
+          "total": 1
+        }, 
+        {
+          "statId": 986, 
+          "total": 1
+        }, 
+        {
+          "statId": 987, 
+          "total": 1
+        }, 
+        {
+          "statId": 1012, 
+          "total": 106
+        }, 
+        {
+          "statId": 1216, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "KC", 
+      "teamCity": "Kansas City", 
+      "teamId": 339, 
+      "teamName": "Chiefs", 
+      "valueIcon": "fire", 
+      "weekNumber": 10
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 147.14, 
+        "rank": 1, 
+        "userName": "arianna29", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 144.2, 
+        "rank": 2, 
+        "userName": "XplicitK", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 141.3, 
+        "rank": 3, 
+        "userName": "geedee3", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 136.4, 
+        "rank": 4, 
+        "userName": "rogdiaz", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 128.84, 
+        "rank": 5, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 127.22, 
+        "rank": 6, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 124.74, 
+        "rank": 7, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 122.04, 
+        "rank": 8, 
+        "userName": "g_mendoza", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 117.42, 
+        "rank": 9, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 117.04, 
+        "rank": 10, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 112.24, 
+        "rank": 11, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 108.6, 
+        "rank": 12, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 107, 
+        "rank": 13, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 104.54, 
+        "rank": 14, 
+        "userName": "Dash7", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 97.26, 
+        "rank": 15, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 90.54, 
+        "rank": 16, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "Patrick Mahomes", 
+      "draftedBy": [], 
+      "fantasyPoints": 39.24, 
+      "fantasyPointsPerGame": 21.56, 
+      "fantasyPointsPerSalary": 0.00545, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 36, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 39, 
+          "total": 282.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 2.6667
+        }, 
+        {
+          "statId": 42, 
+          "total": 28
+        }, 
+        {
+          "statId": 43, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 46, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 47, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 71, 
+          "total": 45
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 83, 
+          "total": 29
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 21.56
+        }, 
+        {
+          "statId": 91, 
+          "total": 21.56
+        }, 
+        {
+          "statId": 92, 
+          "total": 7733.3333
+        }, 
+        {
+          "statId": 981, 
+          "total": 1
+        }, 
+        {
+          "statId": 986, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 987, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1012, 
+          "total": 35.3333
+        }, 
+        {
+          "statId": 1216, 
+          "total": 1
+        }
+      ], 
+      "firstName": "Patrick", 
+      "gameId": 5746664, 
+      "gameStartTime": "2021-11-15T01:20:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/839031.png", 
+      "lastName": "Mahomes", 
+      "opposingTeamAbbreviation": "LV", 
+      "opposingTeamCity": "Las Vegas", 
+      "opposingTeamName": "Raiders", 
+      "playerDkId": 11644, 
+      "playerId": 839031, 
+      "playerStates": [], 
+      "points": 39.24, 
+      "position": "QB", 
+      "salary": 7200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 36, 
+          "total": 5
+        }, 
+        {
+          "statId": 39, 
+          "total": 406
+        }, 
+        {
+          "statId": 47, 
+          "total": 1
+        }, 
+        {
+          "statId": 42, 
+          "total": 35
+        }, 
+        {
+          "statId": 71, 
+          "total": 50
+        }, 
+        {
+          "statId": 83, 
+          "total": 38
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 981, 
+          "total": 1
+        }, 
+        {
+          "statId": 986, 
+          "total": 1
+        }, 
+        {
+          "statId": 987, 
+          "total": 1
+        }, 
+        {
+          "statId": 1012, 
+          "total": 106
+        }, 
+        {
+          "statId": 1216, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "KC", 
+      "teamCity": "Kansas City", 
+      "teamId": 339, 
+      "teamName": "Chiefs", 
+      "valueIcon": "fire", 
+      "weekNumber": 10
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "Cowboys", 
+      "draftedBy": [], 
+      "fantasyPoints": 23, 
+      "fantasyPointsPerGame": 9.3333, 
+      "fantasyPointsPerSalary": 0.007666666666666666, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 52, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 53, 
+          "total": 1
+        }, 
+        {
+          "statId": 55, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 57, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 59, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 61, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 64, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 75, 
+          "total": 16.3333
+        }, 
+        {
+          "statId": 76, 
+          "total": 131.3333
+        }, 
+        {
+          "statId": 77, 
+          "total": 168.3333
+        }, 
+        {
+          "statId": 78, 
+          "total": 299.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 9.3333
+        }, 
+        {
+          "statId": 91, 
+          "total": 9.3333
+        }, 
+        {
+          "statId": 92, 
+          "total": 3133.3333
+        }, 
+        {
+          "statId": 102, 
+          "total": 26.3333
+        }, 
+        {
+          "statId": 103, 
+          "total": 290
+        }, 
+        {
+          "statId": 104, 
+          "total": 90
+        }, 
+        {
+          "statId": 105, 
+          "total": 380
+        }, 
+        {
+          "statId": 975, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 977, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1001, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Cowboys", 
+      "gameId": 5746370, 
+      "gameStartTime": "2021-11-14T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/331.png", 
+      "lastName": "", 
+      "opposingTeamAbbreviation": "ATL", 
+      "opposingTeamCity": "Atlanta", 
+      "opposingTeamName": "Falcons", 
+      "playerDkId": 18336, 
+      "playerId": 331, 
+      "playerState": "offense", 
+      "playerStates": [], 
+      "points": 23, 
+      "position": "DST", 
+      "salary": 3000, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 52, 
+          "total": 2
+        }, 
+        {
+          "statId": 53, 
+          "total": 3
+        }, 
+        {
+          "statId": 55, 
+          "total": 1
+        }, 
+        {
+          "statId": 57, 
+          "total": 1
+        }, 
+        {
+          "statId": 64, 
+          "total": 1
+        }, 
+        {
+          "statId": 75, 
+          "total": 3
+        }, 
+        {
+          "statId": 76, 
+          "total": 103
+        }, 
+        {
+          "statId": 77, 
+          "total": 111
+        }, 
+        {
+          "statId": 78, 
+          "total": 214
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 102, 
+          "total": 43
+        }, 
+        {
+          "statId": 103, 
+          "total": 317
+        }, 
+        {
+          "statId": 104, 
+          "total": 114
+        }, 
+        {
+          "statId": 105, 
+          "total": 431
+        }, 
+        {
+          "statId": 975, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "DAL", 
+      "teamCity": "Dallas", 
+      "teamId": 331, 
+      "teamName": "Cowboys", 
+      "valueIcon": "fire", 
+      "weekNumber": 10
+    }, 
+    "week": 10
+  },
+  {
+    "week": 11,
+    "contest_id": "118483157",
+    "contest_start": "Nov 18, 2021 20:20:00"
   }
 ]
