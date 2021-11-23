@@ -7006,7 +7006,799 @@
     "week": 10
   },
   {
-    "week": 11,
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Trey Lance", 
+      "draftedBy": [], 
+      "fantasyPoints": 0.4, 
+      "fantasyPointsPerGame": 12.12, 
+      "fantasyPointsPerSalary": 7.407407407407407e-05, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 36, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 39, 
+          "total": 116.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 44.6667
+        }, 
+        {
+          "statId": 42, 
+          "total": 8
+        }, 
+        {
+          "statId": 43, 
+          "total": 8.6667
+        }, 
+        {
+          "statId": 46, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 51, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 71, 
+          "total": 15.6667
+        }, 
+        {
+          "statId": 81, 
+          "total": 11.6667
+        }, 
+        {
+          "statId": 83, 
+          "total": 34
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 12.12
+        }, 
+        {
+          "statId": 91, 
+          "total": 12.12
+        }, 
+        {
+          "statId": 92, 
+          "total": 5266.6667
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 994, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1216, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Trey", 
+      "gameId": 5747469, 
+      "gameStartTime": "2021-11-21T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1130975.png", 
+      "lastName": "Lance", 
+      "opposingTeamAbbreviation": "JAX", 
+      "opposingTeamCity": "Jacksonville", 
+      "opposingTeamName": "Jaguars", 
+      "playerDkId": 518128, 
+      "playerId": 1130975, 
+      "playerStates": [], 
+      "points": 0.4, 
+      "position": "QB", 
+      "salary": 5400, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 4
+        }, 
+        {
+          "statId": 43, 
+          "total": 3
+        }, 
+        {
+          "statId": 81, 
+          "total": 7
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "SF", 
+      "teamCity": "San Francisco", 
+      "teamId": 359, 
+      "teamName": "49ers", 
+      "valueIcon": "ice", 
+      "weekNumber": 11
+    }, 
+    "contest_id": "118483157", 
+    "contest_start": "Nov 18, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "Jonathan Taylor", 
+      "draftedBy": [], 
+      "fantasyPoints": 56.4, 
+      "fantasyPointsPerGame": 40.3333, 
+      "fantasyPointsPerSalary": 0.006795180722891566, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 38, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 40, 
+          "total": 19
+        }, 
+        {
+          "statId": 41, 
+          "total": 157.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 24
+        }, 
+        {
+          "statId": 44, 
+          "total": 3.6667
+        }, 
+        {
+          "statId": 48, 
+          "total": 1
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 50.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 16.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 40.3333
+        }, 
+        {
+          "statId": 91, 
+          "total": 40.3333
+        }, 
+        {
+          "statId": 92, 
+          "total": 8100
+        }, 
+        {
+          "statId": 467, 
+          "total": 4.3333
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 988, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 996, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 997, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1010, 
+          "total": 57.6667
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }
+      ], 
+      "firstName": "Jonathan", 
+      "gameId": 5745434, 
+      "gameStartTime": "2021-11-21T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1065406.png", 
+      "lastName": "Taylor", 
+      "opposingTeamAbbreviation": "BUF", 
+      "opposingTeamCity": "Buffalo", 
+      "opposingTeamName": "Bills", 
+      "playerDkId": 468700, 
+      "playerId": 1065406, 
+      "playerStates": [], 
+      "points": 56.4, 
+      "position": "RB", 
+      "salary": 8300, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 38, 
+          "total": 4
+        }, 
+        {
+          "statId": 40, 
+          "total": 19
+        }, 
+        {
+          "statId": 41, 
+          "total": 185
+        }, 
+        {
+          "statId": 44, 
+          "total": 3
+        }, 
+        {
+          "statId": 48, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 3
+        }, 
+        {
+          "statId": 43, 
+          "total": 32
+        }, 
+        {
+          "statId": 81, 
+          "total": 40
+        }, 
+        {
+          "statId": 82, 
+          "total": 23
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 988, 
+          "total": 1
+        }, 
+        {
+          "statId": 996, 
+          "total": 1
+        }, 
+        {
+          "statId": 998, 
+          "total": 1
+        }, 
+        {
+          "statId": 1010, 
+          "total": 85
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "IND", 
+      "teamCity": "Indianapolis", 
+      "teamId": 338, 
+      "teamName": "Colts", 
+      "valueIcon": "fire", 
+      "weekNumber": 11
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 149.24, 
+        "rank": 1, 
+        "userName": "XplicitK", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 146.06, 
+        "rank": 2, 
+        "userName": "hlimardo", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 141.22, 
+        "rank": 3, 
+        "userName": "jlopez0809", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 138.76, 
+        "rank": 4, 
+        "userName": "Dash7", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 137.62, 
+        "rank": 5, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 136.84, 
+        "rank": 6, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 132.22, 
+        "rank": 7, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 123.82, 
+        "rank": 8, 
+        "userName": "rogdiaz", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 122.44, 
+        "rank": 9, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 119.7, 
+        "rank": 10, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 117.54, 
+        "rank": 11, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 102, 
+        "rank": 12, 
+        "userName": "arianna29", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 97.42, 
+        "rank": 13, 
+        "userName": "g_mendoza", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 91.54, 
+        "rank": 14, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 88, 
+        "rank": 15, 
+        "userName": "LoLoGREEN", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 84.02, 
+        "rank": 16, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "Jonathan Taylor", 
+      "draftedBy": [], 
+      "fantasyPoints": 56.4, 
+      "fantasyPointsPerGame": 40.3333, 
+      "fantasyPointsPerSalary": 0.006795180722891566, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 38, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 40, 
+          "total": 19
+        }, 
+        {
+          "statId": 41, 
+          "total": 157.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 24
+        }, 
+        {
+          "statId": 44, 
+          "total": 3.6667
+        }, 
+        {
+          "statId": 48, 
+          "total": 1
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 50.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 16.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 40.3333
+        }, 
+        {
+          "statId": 91, 
+          "total": 40.3333
+        }, 
+        {
+          "statId": 92, 
+          "total": 8100
+        }, 
+        {
+          "statId": 467, 
+          "total": 4.3333
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 988, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 996, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 997, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1010, 
+          "total": 57.6667
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }
+      ], 
+      "firstName": "Jonathan", 
+      "gameId": 5745434, 
+      "gameStartTime": "2021-11-21T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1065406.png", 
+      "lastName": "Taylor", 
+      "opposingTeamAbbreviation": "BUF", 
+      "opposingTeamCity": "Buffalo", 
+      "opposingTeamName": "Bills", 
+      "playerDkId": 468700, 
+      "playerId": 1065406, 
+      "playerStates": [], 
+      "points": 56.4, 
+      "position": "RB", 
+      "salary": 8300, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 38, 
+          "total": 4
+        }, 
+        {
+          "statId": 40, 
+          "total": 19
+        }, 
+        {
+          "statId": 41, 
+          "total": 185
+        }, 
+        {
+          "statId": 44, 
+          "total": 3
+        }, 
+        {
+          "statId": 48, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 3
+        }, 
+        {
+          "statId": 43, 
+          "total": 32
+        }, 
+        {
+          "statId": 81, 
+          "total": 40
+        }, 
+        {
+          "statId": 82, 
+          "total": 23
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 988, 
+          "total": 1
+        }, 
+        {
+          "statId": 996, 
+          "total": 1
+        }, 
+        {
+          "statId": 998, 
+          "total": 1
+        }, 
+        {
+          "statId": 1010, 
+          "total": 85
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "IND", 
+      "teamCity": "Indianapolis", 
+      "teamId": 338, 
+      "teamName": "Colts", 
+      "valueIcon": "fire", 
+      "weekNumber": 11
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "Patriots", 
+      "draftedBy": [], 
+      "fantasyPoints": 28, 
+      "fantasyPointsPerGame": 19.6667, 
+      "fantasyPointsPerSalary": 0.008, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 52, 
+          "total": 3.3333
+        }, 
+        {
+          "statId": 53, 
+          "total": 2.6667
+        }, 
+        {
+          "statId": 55, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 56, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 57, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 58, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 75, 
+          "total": 4.3333
+        }, 
+        {
+          "statId": 76, 
+          "total": 72.3333
+        }, 
+        {
+          "statId": 77, 
+          "total": 135
+        }, 
+        {
+          "statId": 78, 
+          "total": 207.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 19.6667
+        }, 
+        {
+          "statId": 91, 
+          "total": 19.6667
+        }, 
+        {
+          "statId": 92, 
+          "total": 3666.6667
+        }, 
+        {
+          "statId": 102, 
+          "total": 27.3333
+        }, 
+        {
+          "statId": 103, 
+          "total": 188
+        }, 
+        {
+          "statId": 104, 
+          "total": 156.3333
+        }, 
+        {
+          "statId": 105, 
+          "total": 344.3333
+        }, 
+        {
+          "statId": 974, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 975, 
+          "total": 0.6667
+        }
+      ], 
+      "firstName": "Patriots", 
+      "gameId": 5747385, 
+      "gameStartTime": "2021-11-19T01:20:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/348.png", 
+      "lastName": "", 
+      "opposingTeamAbbreviation": "ATL", 
+      "opposingTeamCity": "Atlanta", 
+      "opposingTeamName": "Falcons", 
+      "playerDkId": 18415, 
+      "playerId": 348, 
+      "playerState": "offense", 
+      "playerStates": [], 
+      "points": 28, 
+      "position": "DST", 
+      "salary": 3500, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 52, 
+          "total": 4
+        }, 
+        {
+          "statId": 53, 
+          "total": 4
+        }, 
+        {
+          "statId": 55, 
+          "total": 1
+        }, 
+        {
+          "statId": 56, 
+          "total": 1
+        }, 
+        {
+          "statId": 76, 
+          "total": 40
+        }, 
+        {
+          "statId": 77, 
+          "total": 125
+        }, 
+        {
+          "statId": 78, 
+          "total": 165
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 102, 
+          "total": 19
+        }, 
+        {
+          "statId": 103, 
+          "total": 174
+        }, 
+        {
+          "statId": 104, 
+          "total": 134
+        }, 
+        {
+          "statId": 105, 
+          "total": 308
+        }, 
+        {
+          "statId": 974, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "NE", 
+      "teamCity": "New England", 
+      "teamId": 348, 
+      "teamName": "Patriots", 
+      "valueIcon": "fire", 
+      "weekNumber": 11
+    }, 
+    "week": 11
+  },
+  {
+    "week": 12,
     "contest_id": "118483157",
     "contest_start": "Nov 18, 2021 20:20:00"
   }

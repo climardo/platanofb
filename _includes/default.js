@@ -48,10 +48,16 @@ function hideCountdown() {
 
 document.addEventListener('load', hideCountdown());
 
-function hideRedZone() {
-    let day = new Date().getDay();
-    let redZoneLink = document.getElementById("redzone")
-    redZoneLink.classList.add("d-none")
-}
+let playersOnPage = []
+let boldItems = document.getElementsByTagName("strong")
+for (let i = 0; i < boldItems.length; i++) {
+    
+    // if boldItems[i].innerHTML in fullPlayerList.displayName (note, fullPlayerList does not exist)
+        // playersOnPage[i] = boldItems[i]
 
-document.addEventListener('load', hideRedZone());
+}
+function fptsSalary() {
+
+    // for (let i = 0; i < playersOnPage.length; i++) {
+        // playersOnPage[i].innerHTML += '( ' + fullPlayerList.player.fpts + 'fpt $' + fullPlayerList.player.salary + ')'
+}
