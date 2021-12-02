@@ -48,16 +48,16 @@ function hideCountdown() {
 
 document.addEventListener('load', hideCountdown())
 
-let playersOnPage = []
+/* let playersOnPage = []
 let boldItems = document.getElementsByTagName("strong")
 for (let i = 0; i < boldItems.length; i++) {
     
-    // if boldItems[i].innerHTML in fullPlayerList.displayName (note, fullPlayerList does not exist)
-        // playersOnPage[i] = boldItems[i]
+    if boldItems[i].innerHTML in fullPlayerList.displayName (note, fullPlayerList does not exist)
+        playersOnPage[i] = boldItems[i]
 
 }
 function fptsSalary() {
 
-    // for (let i = 0; i < playersOnPage.length; i++) {
-        // playersOnPage[i].innerHTML += '( ' + fullPlayerList.player.fpts + 'fpt $' + fullPlayerList.player.salary + ')'
-}
+    for (let i = 0; i < playersOnPage.length; i++) {
+        playersOnPage[i].innerHTML += '( ' + fullPlayerList.player.fpts + 'fpt $' + fullPlayerList.player.salary + ')'
+} */

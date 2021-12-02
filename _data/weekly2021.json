@@ -7798,8 +7798,732 @@
     "week": 11
   },
   {
-    "week": 12,
-    "contest_id": "119118426",
-    "contest_start": "Nov 25, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Chuba Hubbard", 
+      "draftedBy": [], 
+      "fantasyPoints": 0.6, 
+      "fantasyPointsPerGame": 3.1, 
+      "fantasyPointsPerSalary": 0.00011999999999999999, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 38, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 11
+        }, 
+        {
+          "statId": 43, 
+          "total": 3.6667
+        }, 
+        {
+          "statId": 81, 
+          "total": 7
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 3.1
+        }, 
+        {
+          "statId": 91, 
+          "total": 3.1
+        }, 
+        {
+          "statId": 92, 
+          "total": 5233.3333
+        }, 
+        {
+          "statId": 467, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Chuba", 
+      "gameId": 5746178, 
+      "gameStartTime": "2021-11-28T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1062047.png", 
+      "lastName": "Hubbard", 
+      "opposingTeamAbbreviation": "MIA", 
+      "opposingTeamCity": "Miami", 
+      "opposingTeamName": "Dolphins", 
+      "playerDkId": 560815, 
+      "playerId": 1062047, 
+      "playerStates": [], 
+      "points": 0.6, 
+      "position": "RB", 
+      "salary": 5000, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 6
+        }, 
+        {
+          "statId": 467, 
+          "total": 1
+        }, 
+        {
+          "statId": 43, 
+          "total": 2
+        }, 
+        {
+          "statId": 81, 
+          "total": 5
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "CAR", 
+      "teamCity": "Carolina", 
+      "teamId": 364, 
+      "teamName": "Panthers", 
+      "valueIcon": "ice", 
+      "weekNumber": 12
+    }, 
+    "contest_id": "119118426", 
+    "contest_start": "Nov 25, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "Leonard Fournette", 
+      "draftedBy": [], 
+      "fantasyPoints": 47.1, 
+      "fantasyPointsPerGame": 25.9, 
+      "fantasyPointsPerSalary": 0.006926470588235294, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 38, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 38.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 60.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 12.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 7
+        }, 
+        {
+          "statId": 48, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 14.3333
+        }, 
+        {
+          "statId": 82, 
+          "total": 12.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 25.9
+        }, 
+        {
+          "statId": 91, 
+          "total": 25.9
+        }, 
+        {
+          "statId": 92, 
+          "total": 6400
+        }, 
+        {
+          "statId": 467, 
+          "total": 7.6667
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Leonard", 
+      "gameId": 5746142, 
+      "gameStartTime": "2021-11-28T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/822013.png", 
+      "lastName": "Fournette", 
+      "opposingTeamAbbreviation": "IND", 
+      "opposingTeamCity": "Indianapolis", 
+      "opposingTeamName": "Colts", 
+      "playerDkId": 20524, 
+      "playerId": 822013, 
+      "playerStates": [], 
+      "points": 47.1, 
+      "position": "RB", 
+      "salary": 6800, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 38, 
+          "total": 3
+        }, 
+        {
+          "statId": 40, 
+          "total": 31
+        }, 
+        {
+          "statId": 41, 
+          "total": 100
+        }, 
+        {
+          "statId": 44, 
+          "total": 7
+        }, 
+        {
+          "statId": 48, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 8
+        }, 
+        {
+          "statId": 43, 
+          "total": 17
+        }, 
+        {
+          "statId": 81, 
+          "total": 28
+        }, 
+        {
+          "statId": 82, 
+          "total": 13
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 995, 
+          "total": 1
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "TB", 
+      "teamCity": "Tampa Bay", 
+      "teamId": 362, 
+      "teamName": "Buccaneers", 
+      "valueIcon": "fire", 
+      "weekNumber": 12
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 163.72, 
+        "rank": 1, 
+        "userName": "olivadotij", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 144.78, 
+        "rank": 2, 
+        "userName": "Dash7", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 134.82, 
+        "rank": 3, 
+        "userName": "arianna29", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 127.42, 
+        "rank": 4, 
+        "userName": "g_mendoza", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 126.82, 
+        "rank": 5, 
+        "userName": "jlopez0809", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 124.92, 
+        "rank": 6, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 121.6, 
+        "rank": 7, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 119.3, 
+        "rank": 8, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 112.54, 
+        "rank": 9, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 109.8, 
+        "rank": 10, 
+        "userName": "LoLoGREEN", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 109.08, 
+        "rank": 11, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 108.4, 
+        "rank": 12, 
+        "userName": "XplicitK", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 106.58, 
+        "rank": 13, 
+        "userName": "rogdiaz", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 100.08, 
+        "rank": 14, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 95.38, 
+        "rank": 15, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 87.44, 
+        "rank": 16, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 83.5, 
+        "rank": 17, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 81.98, 
+        "rank": 18, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "Leonard Fournette", 
+      "draftedBy": [], 
+      "fantasyPoints": 47.1, 
+      "fantasyPointsPerGame": 25.9, 
+      "fantasyPointsPerSalary": 0.006926470588235294, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 38, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 38.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 60.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 12.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 7
+        }, 
+        {
+          "statId": 48, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 14.3333
+        }, 
+        {
+          "statId": 82, 
+          "total": 12.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 25.9
+        }, 
+        {
+          "statId": 91, 
+          "total": 25.9
+        }, 
+        {
+          "statId": 92, 
+          "total": 6400
+        }, 
+        {
+          "statId": 467, 
+          "total": 7.6667
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Leonard", 
+      "gameId": 5746142, 
+      "gameStartTime": "2021-11-28T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/822013.png", 
+      "lastName": "Fournette", 
+      "opposingTeamAbbreviation": "IND", 
+      "opposingTeamCity": "Indianapolis", 
+      "opposingTeamName": "Colts", 
+      "playerDkId": 20524, 
+      "playerId": 822013, 
+      "playerStates": [], 
+      "points": 47.1, 
+      "position": "RB", 
+      "salary": 6800, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 38, 
+          "total": 3
+        }, 
+        {
+          "statId": 40, 
+          "total": 31
+        }, 
+        {
+          "statId": 41, 
+          "total": 100
+        }, 
+        {
+          "statId": 44, 
+          "total": 7
+        }, 
+        {
+          "statId": 48, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 8
+        }, 
+        {
+          "statId": 43, 
+          "total": 17
+        }, 
+        {
+          "statId": 81, 
+          "total": 28
+        }, 
+        {
+          "statId": 82, 
+          "total": 13
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 995, 
+          "total": 1
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "TB", 
+      "teamCity": "Tampa Bay", 
+      "teamId": 362, 
+      "teamName": "Buccaneers", 
+      "valueIcon": "fire", 
+      "weekNumber": 12
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "Dolphins", 
+      "draftedBy": [], 
+      "fantasyPoints": 23, 
+      "fantasyPointsPerGame": 15.3333, 
+      "fantasyPointsPerSalary": 0.008214285714285714, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 52, 
+          "total": 3.6667
+        }, 
+        {
+          "statId": 53, 
+          "total": 1.3333
+        }, 
+        {
+          "statId": 54, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 55, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 58, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 59, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 64, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 75, 
+          "total": 12.3333
+        }, 
+        {
+          "statId": 76, 
+          "total": 86.6667
+        }, 
+        {
+          "statId": 77, 
+          "total": 207.3333
+        }, 
+        {
+          "statId": 78, 
+          "total": 294
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 15.3333
+        }, 
+        {
+          "statId": 91, 
+          "total": 15.3333
+        }, 
+        {
+          "statId": 92, 
+          "total": 2933.3333
+        }, 
+        {
+          "statId": 102, 
+          "total": 24.3333
+        }, 
+        {
+          "statId": 103, 
+          "total": 255.6667
+        }, 
+        {
+          "statId": 104, 
+          "total": 95.3333
+        }, 
+        {
+          "statId": 105, 
+          "total": 351
+        }, 
+        {
+          "statId": 974, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 976, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1001, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Dolphins", 
+      "gameId": 5746178, 
+      "gameStartTime": "2021-11-28T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/345.png", 
+      "lastName": "", 
+      "opposingTeamAbbreviation": "CAR", 
+      "opposingTeamCity": "Carolina", 
+      "opposingTeamName": "Panthers", 
+      "playerDkId": 18401, 
+      "playerId": 345, 
+      "playerState": "offense", 
+      "playerStates": [], 
+      "points": 23, 
+      "position": "DST", 
+      "salary": 2800, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 52, 
+          "total": 5
+        }, 
+        {
+          "statId": 53, 
+          "total": 3
+        }, 
+        {
+          "statId": 55, 
+          "total": 1
+        }, 
+        {
+          "statId": 58, 
+          "total": 1
+        }, 
+        {
+          "statId": 64, 
+          "total": 1
+        }, 
+        {
+          "statId": 75, 
+          "total": 10
+        }, 
+        {
+          "statId": 76, 
+          "total": 64
+        }, 
+        {
+          "statId": 77, 
+          "total": 134
+        }, 
+        {
+          "statId": 78, 
+          "total": 198
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 102, 
+          "total": 33
+        }, 
+        {
+          "statId": 103, 
+          "total": 204
+        }, 
+        {
+          "statId": 104, 
+          "total": 111
+        }, 
+        {
+          "statId": 105, 
+          "total": 315
+        }, 
+        {
+          "statId": 974, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "MIA", 
+      "teamCity": "Miami", 
+      "teamId": 345, 
+      "teamName": "Dolphins", 
+      "valueIcon": "fire", 
+      "weekNumber": 12
+    }, 
+    "week": 12
+  },
+  {
+    "week": 13,
+    "contest_id": "119604091",
+    "contest_start": "Dec 02, 2021 20:20:00"
   }
 ]
