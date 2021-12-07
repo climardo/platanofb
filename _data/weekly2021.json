@@ -8522,8 +8522,697 @@
     "week": 12
   },
   {
-    "week": 13,
-    "contest_id": "119604091",
-    "contest_start": "Dec 02, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Kendrick Bourne", 
+      "draftedBy": [
+        "DarbyDiaz3", 
+        "pshhidk"
+      ], 
+      "fantasyPoints": 0.3, 
+      "fantasyPointsPerGame": 10.7667, 
+      "fantasyPointsPerSalary": 5.769230769230769e-05, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 40, 
+          "total": 34.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 3.3333
+        }, 
+        {
+          "statId": 43, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 3
+        }, 
+        {
+          "statId": 81, 
+          "total": 3.3333
+        }, 
+        {
+          "statId": 82, 
+          "total": 20
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 10.7667
+        }, 
+        {
+          "statId": 91, 
+          "total": 10.7667
+        }, 
+        {
+          "statId": 92, 
+          "total": 4933.3333
+        }, 
+        {
+          "statId": 467, 
+          "total": 3.3333
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Kendrick", 
+      "gameId": 5745704, 
+      "gameStartTime": "2021-12-07T01:15:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/754412.png", 
+      "lastName": "Bourne", 
+      "opposingTeamAbbreviation": "BUF", 
+      "opposingTeamCity": "Buffalo", 
+      "opposingTeamName": "Bills", 
+      "playerDkId": 19431, 
+      "playerId": 754412, 
+      "playerStates": [], 
+      "points": 0.3, 
+      "position": "WR", 
+      "salary": 5200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 3
+        }, 
+        {
+          "statId": 43, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": 3
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "NE", 
+      "teamCity": "New England", 
+      "teamId": 348, 
+      "teamName": "Patriots", 
+      "valueIcon": "ice", 
+      "weekNumber": 13
+    }, 
+    "contest_id": "119604091", 
+    "contest_start": "Dec 02, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "Diontae Johnson", 
+      "fantasyPoints": 33.5, 
+      "fantasyPointsPerGame": 26.0333, 
+      "fantasyPointsPerSalary": 0.004926470588235294, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 100.3333
+        }, 
+        {
+          "statId": 44, 
+          "total": 8
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 25.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 26.0333
+        }, 
+        {
+          "statId": 91, 
+          "total": 26.0333
+        }, 
+        {
+          "statId": 92, 
+          "total": 6466.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 12.6667
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1011, 
+          "total": 2
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "firstName": "Diontae", 
+      "gameId": 5745686, 
+      "gameStartTime": "2021-12-05T21:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/891115.png", 
+      "lastName": "Johnson", 
+      "opposingTeamAbbreviation": "BAL", 
+      "opposingTeamCity": "Baltimore", 
+      "opposingTeamName": "Ravens", 
+      "playerDkId": 18611, 
+      "playerId": 891115, 
+      "playerStates": [], 
+      "points": 33.5, 
+      "position": "WR", 
+      "salary": 6800, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 105
+        }, 
+        {
+          "statId": 44, 
+          "total": 8
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 11
+        }, 
+        {
+          "statId": 82, 
+          "total": 29
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 998, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 5
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "PIT", 
+      "teamCity": "Pittsburgh", 
+      "teamId": 356, 
+      "teamName": "Steelers", 
+      "valueIcon": "fire", 
+      "weekNumber": 13
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 175.02, 
+        "rank": 1, 
+        "userName": "JekellP", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 172.36, 
+        "rank": 2, 
+        "userName": "Dash7", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 168.82, 
+        "rank": 3, 
+        "userName": "arianna29", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 157.32, 
+        "rank": 4, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 153.18, 
+        "rank": 5, 
+        "userName": "g_mendoza", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 147.26, 
+        "rank": 6, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 146.26, 
+        "rank": 7, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 139.52, 
+        "rank": 8, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 135.32, 
+        "rank": 9, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 130.24, 
+        "rank": 10, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 128.06, 
+        "rank": 11, 
+        "userName": "rogdiaz", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 117.92, 
+        "rank": 12, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 116.42, 
+        "rank": 13, 
+        "userName": "XplicitK", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 115.7, 
+        "rank": 14, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 101.32, 
+        "rank": 15, 
+        "userName": "jlopez0809", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 98.12, 
+        "rank": 16, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "George Kittle", 
+      "draftedBy": [
+        "ejmesa"
+      ], 
+      "fantasyPoints": 42.6, 
+      "fantasyPointsPerGame": 19.4333, 
+      "fantasyPointsPerSalary": 0.007220338983050848, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 76
+        }, 
+        {
+          "statId": 41, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 44, 
+          "total": 4.6667
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 24.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 19.4333
+        }, 
+        {
+          "statId": 91, 
+          "total": 19.4333
+        }, 
+        {
+          "statId": 92, 
+          "total": 6200
+        }, 
+        {
+          "statId": 467, 
+          "total": 6
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 990, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 27
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "George", 
+      "gameId": 5745692, 
+      "gameStartTime": "2021-12-05T21:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/733672.png", 
+      "lastName": "Kittle", 
+      "opposingTeamAbbreviation": "SEA", 
+      "opposingTeamCity": "Seattle", 
+      "opposingTeamName": "Seahawks", 
+      "playerDkId": 19566, 
+      "playerId": 733672, 
+      "playerStates": [], 
+      "points": 42.6, 
+      "position": "TE", 
+      "salary": 5900, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 181
+        }, 
+        {
+          "statId": 41, 
+          "total": 5
+        }, 
+        {
+          "statId": 44, 
+          "total": 9
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 12
+        }, 
+        {
+          "statId": 43, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": 5
+        }, 
+        {
+          "statId": 82, 
+          "total": 48
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 990, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 81
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "SF", 
+      "teamCity": "San Francisco", 
+      "teamId": 359, 
+      "teamName": "49ers", 
+      "valueIcon": "fire", 
+      "weekNumber": 13
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "George Kittle", 
+      "draftedBy": [
+        "ejmesa"
+      ], 
+      "fantasyPoints": 42.6, 
+      "fantasyPointsPerGame": 19.4333, 
+      "fantasyPointsPerSalary": 0.007220338983050848, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 76
+        }, 
+        {
+          "statId": 41, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 44, 
+          "total": 4.6667
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 24.6667
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 19.4333
+        }, 
+        {
+          "statId": 91, 
+          "total": 19.4333
+        }, 
+        {
+          "statId": 92, 
+          "total": 6200
+        }, 
+        {
+          "statId": 467, 
+          "total": 6
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 990, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 27
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "George", 
+      "gameId": 5745692, 
+      "gameStartTime": "2021-12-05T21:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/733672.png", 
+      "lastName": "Kittle", 
+      "opposingTeamAbbreviation": "SEA", 
+      "opposingTeamCity": "Seattle", 
+      "opposingTeamName": "Seahawks", 
+      "playerDkId": 19566, 
+      "playerId": 733672, 
+      "playerStates": [], 
+      "points": 42.6, 
+      "position": "TE", 
+      "salary": 5900, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 181
+        }, 
+        {
+          "statId": 41, 
+          "total": 5
+        }, 
+        {
+          "statId": 44, 
+          "total": 9
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 12
+        }, 
+        {
+          "statId": 43, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": 5
+        }, 
+        {
+          "statId": 82, 
+          "total": 48
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 990, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 81
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "SF", 
+      "teamCity": "San Francisco", 
+      "teamId": 359, 
+      "teamName": "49ers", 
+      "valueIcon": "fire", 
+      "weekNumber": 13
+    }, 
+    "week": 13
+  },
+  {
+    "week": 14,
+    "contest_id": "120109573",
+    "contest_start": "Dec 09, 2021 20:20:00"
   }
 ]
