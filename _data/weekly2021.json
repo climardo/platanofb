@@ -9211,8 +9211,860 @@
     "week": 13
   },
   {
-    "week": 14,
-    "contest_id": "120109573",
-    "contest_start": "Dec 09, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "James Robinson", 
+      "draftedBy": [
+        "g_mendoza"
+      ], 
+      "fantasyPoints": 0.4, 
+      "fantasyPointsPerGame": 5.8, 
+      "fantasyPointsPerSalary": 6.896551724137931e-05, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 40, 
+          "total": 13.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 38
+        }, 
+        {
+          "statId": 43, 
+          "total": 10.3333
+        }, 
+        {
+          "statId": 44, 
+          "total": 1.3333
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 81, 
+          "total": 10
+        }, 
+        {
+          "statId": 82, 
+          "total": 12.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 5.8
+        }, 
+        {
+          "statId": 91, 
+          "total": 5.8
+        }, 
+        {
+          "statId": 92, 
+          "total": 6066.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 2.6667
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1081, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "James", 
+      "gameId": 5745812, 
+      "gameStartTime": "2021-12-12T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/943841.png", 
+      "lastName": "Robinson", 
+      "opposingTeamAbbreviation": "TEN", 
+      "opposingTeamCity": "Tennessee", 
+      "opposingTeamName": "Titans", 
+      "playerDkId": 485785, 
+      "playerId": 943841, 
+      "playerStates": [], 
+      "points": 0.4, 
+      "position": "RB", 
+      "salary": 5800, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 4
+        }, 
+        {
+          "statId": 43, 
+          "total": 6
+        }, 
+        {
+          "statId": 81, 
+          "total": 5
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 1081, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "JAX", 
+      "teamCity": "Jacksonville", 
+      "teamId": 365, 
+      "teamName": "Jaguars", 
+      "valueIcon": "ice", 
+      "weekNumber": 14
+    }, 
+    "contest_id": "120109573", 
+    "contest_start": "Dec 09, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "Dalvin Cook", 
+      "fantasyPoints": 38.2, 
+      "fantasyPointsPerGame": 25.3333, 
+      "fantasyPointsPerSalary": 0.004775000000000001, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 38, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 36.6667
+        }, 
+        {
+          "statId": 41, 
+          "total": 110
+        }, 
+        {
+          "statId": 43, 
+          "total": 19.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 3.3333
+        }, 
+        {
+          "statId": 48, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 51, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 24.3333
+        }, 
+        {
+          "statId": 82, 
+          "total": 20
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 25.3333
+        }, 
+        {
+          "statId": 91, 
+          "total": 25.3333
+        }, 
+        {
+          "statId": 92, 
+          "total": 8100
+        }, 
+        {
+          "statId": 467, 
+          "total": 4.6667
+        }, 
+        {
+          "statId": 982, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 989, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1010, 
+          "total": 35
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Dalvin", 
+      "gameId": 5745746, 
+      "gameStartTime": "2021-12-10T01:20:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/824080.png", 
+      "lastName": "Cook", 
+      "opposingTeamAbbreviation": "PIT", 
+      "opposingTeamCity": "Pittsburgh", 
+      "opposingTeamName": "Steelers", 
+      "playerDkId": 17070, 
+      "playerId": 824080, 
+      "playerStates": [], 
+      "points": 38.2, 
+      "position": "RB", 
+      "salary": 8000, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 38, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 17
+        }, 
+        {
+          "statId": 41, 
+          "total": 205
+        }, 
+        {
+          "statId": 44, 
+          "total": 1
+        }, 
+        {
+          "statId": 48, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 3
+        }, 
+        {
+          "statId": 43, 
+          "total": 27
+        }, 
+        {
+          "statId": 81, 
+          "total": 30
+        }, 
+        {
+          "statId": 82, 
+          "total": 17
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 982, 
+          "total": 1
+        }, 
+        {
+          "statId": 989, 
+          "total": 1
+        }, 
+        {
+          "statId": 995, 
+          "total": 1
+        }, 
+        {
+          "statId": 1010, 
+          "total": 105
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "MIN", 
+      "teamCity": "Minnesota", 
+      "teamId": 347, 
+      "teamName": "Vikings", 
+      "valueIcon": "fire", 
+      "weekNumber": 14
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 184.1, 
+        "rank": 1, 
+        "userName": "arianna29", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 181.9, 
+        "rank": 2, 
+        "userName": "Dash7", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 159.56, 
+        "rank": 3, 
+        "userName": "rogdiaz", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 157.94, 
+        "rank": 4, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 153.82, 
+        "rank": 5, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 151.02, 
+        "rank": 6, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 141.04, 
+        "rank": 7, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 136.64, 
+        "rank": 8, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 135.8, 
+        "rank": 9, 
+        "userName": "jlopez0809", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 129.44, 
+        "rank": 10, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 127.84, 
+        "rank": 11, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 123.84, 
+        "rank": 12, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 106.5, 
+        "rank": 13, 
+        "userName": "g_mendoza", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 100.24, 
+        "rank": 14, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 98.64, 
+        "rank": 15, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 91.94, 
+        "rank": 16, 
+        "userName": "XplicitK", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 90.42, 
+        "rank": 17, 
+        "userName": "LoLoGREEN", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 0, 
+        "rank": 18, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "Josh Allen", 
+      "draftedBy": [
+        "Halvworld", 
+        "DarbyDiaz3"
+      ], 
+      "fantasyPoints": 42.22, 
+      "fantasyPointsPerGame": 27.8733, 
+      "fantasyPointsPerSalary": 0.005412820512820513, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 36, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 38, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 39, 
+          "total": 237.6667
+        }, 
+        {
+          "statId": 41, 
+          "total": 63.6667
+        }, 
+        {
+          "statId": 42, 
+          "total": 24.6667
+        }, 
+        {
+          "statId": 43, 
+          "total": 8.6667
+        }, 
+        {
+          "statId": 46, 
+          "total": 1
+        }, 
+        {
+          "statId": 47, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 48, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 50, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 71, 
+          "total": 37.3333
+        }, 
+        {
+          "statId": 74, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 18
+        }, 
+        {
+          "statId": 83, 
+          "total": 26.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 27.8733
+        }, 
+        {
+          "statId": 91, 
+          "total": 27.8733
+        }, 
+        {
+          "statId": 92, 
+          "total": 7600
+        }, 
+        {
+          "statId": 981, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 985, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1010, 
+          "total": 3
+        }, 
+        {
+          "statId": 1012, 
+          "total": 2.6667
+        }, 
+        {
+          "statId": 1216, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 1217, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Josh", 
+      "gameId": 5745962, 
+      "gameStartTime": "2021-12-12T21:25:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/868199.png", 
+      "lastName": "Allen", 
+      "opposingTeamAbbreviation": "TB", 
+      "opposingTeamCity": "Tampa Bay", 
+      "opposingTeamName": "Buccaneers", 
+      "playerDkId": 11370, 
+      "playerId": 868199, 
+      "playerStates": [], 
+      "points": 42.22, 
+      "position": "QB", 
+      "salary": 7800, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 36, 
+          "total": 2
+        }, 
+        {
+          "statId": 38, 
+          "total": 1
+        }, 
+        {
+          "statId": 39, 
+          "total": 308
+        }, 
+        {
+          "statId": 41, 
+          "total": 109
+        }, 
+        {
+          "statId": 46, 
+          "total": 1
+        }, 
+        {
+          "statId": 47, 
+          "total": 1
+        }, 
+        {
+          "statId": 48, 
+          "total": 1
+        }, 
+        {
+          "statId": 42, 
+          "total": 36
+        }, 
+        {
+          "statId": 43, 
+          "total": 12
+        }, 
+        {
+          "statId": 71, 
+          "total": 54
+        }, 
+        {
+          "statId": 81, 
+          "total": 23
+        }, 
+        {
+          "statId": 83, 
+          "total": 25
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 981, 
+          "total": 1
+        }, 
+        {
+          "statId": 985, 
+          "total": 1
+        }, 
+        {
+          "statId": 995, 
+          "total": 1
+        }, 
+        {
+          "statId": 1010, 
+          "total": 9
+        }, 
+        {
+          "statId": 1012, 
+          "total": 8
+        }, 
+        {
+          "statId": 1216, 
+          "total": 1
+        }, 
+        {
+          "statId": 1217, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "BUF", 
+      "teamCity": "Buffalo", 
+      "teamId": 324, 
+      "teamName": "Bills", 
+      "valueIcon": "fire", 
+      "weekNumber": 14
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "Chiefs", 
+      "draftedBy": ["frank.corn"], 
+      "fantasyPoints": 24, 
+      "fantasyPointsPerGame": 18.6667, 
+      "fantasyPointsPerSalary": 0.007272727272727273, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 52, 
+          "total": 3.3333
+        }, 
+        {
+          "statId": 53, 
+          "total": 1.6667
+        }, 
+        {
+          "statId": 54, 
+          "total": 2
+        }, 
+        {
+          "statId": 55, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 58, 
+          "total": 1
+        }, 
+        {
+          "statId": 75, 
+          "total": 9
+        }, 
+        {
+          "statId": 76, 
+          "total": 93.3333
+        }, 
+        {
+          "statId": 77, 
+          "total": 230
+        }, 
+        {
+          "statId": 78, 
+          "total": 323.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 18.6667
+        }, 
+        {
+          "statId": 91, 
+          "total": 18.6667
+        }, 
+        {
+          "statId": 92, 
+          "total": 2800
+        }, 
+        {
+          "statId": 94, 
+          "total": 9
+        }, 
+        {
+          "statId": 95, 
+          "total": 230
+        }, 
+        {
+          "statId": 96, 
+          "total": 93.3333
+        }, 
+        {
+          "statId": 97, 
+          "total": 323.3333
+        }, 
+        {
+          "statId": 102, 
+          "total": 25.6667
+        }, 
+        {
+          "statId": 103, 
+          "total": 220.6667
+        }, 
+        {
+          "statId": 104, 
+          "total": 115.6667
+        }, 
+        {
+          "statId": 105, 
+          "total": 336.3333
+        }, 
+        {
+          "statId": 116, 
+          "total": 220.6667
+        }, 
+        {
+          "statId": 117, 
+          "total": 115.6667
+        }, 
+        {
+          "statId": 118, 
+          "total": 336.3333
+        }, 
+        {
+          "statId": 119, 
+          "total": 25.6667
+        }, 
+        {
+          "statId": 975, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 977, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Chiefs", 
+      "gameId": 5745842, 
+      "gameStartTime": "2021-12-12T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/339.png", 
+      "lastName": "", 
+      "opposingTeamAbbreviation": "LV", 
+      "opposingTeamCity": "Las Vegas", 
+      "opposingTeamName": "Raiders", 
+      "playerDkId": 18379, 
+      "playerId": 339, 
+      "playerState": "offense", 
+      "playerStates": [], 
+      "points": 24, 
+      "position": "DST", 
+      "salary": 3300, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 52, 
+          "total": 4
+        }, 
+        {
+          "statId": 53, 
+          "total": 1
+        }, 
+        {
+          "statId": 54, 
+          "total": 4
+        }, 
+        {
+          "statId": 55, 
+          "total": 1
+        }, 
+        {
+          "statId": 58, 
+          "total": 1
+        }, 
+        {
+          "statId": 75, 
+          "total": 9
+        }, 
+        {
+          "statId": 76, 
+          "total": 44
+        }, 
+        {
+          "statId": 77, 
+          "total": 246
+        }, 
+        {
+          "statId": 78, 
+          "total": 290
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 102, 
+          "total": 42
+        }, 
+        {
+          "statId": 103, 
+          "total": 240
+        }, 
+        {
+          "statId": 104, 
+          "total": 132
+        }, 
+        {
+          "statId": 105, 
+          "total": 372
+        }, 
+        {
+          "statId": 975, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "KC", 
+      "teamCity": "Kansas City", 
+      "teamId": 339, 
+      "teamName": "Chiefs", 
+      "valueIcon": "fire", 
+      "weekNumber": 14
+    }, 
+    "week": 14
+  },
+  {
+    "week": 15,
+    "contest_id": "120599670",
+    "contest_start": "Dec 16, 2021 20:20:00"
   }
 ]
