@@ -48,6 +48,13 @@ function hideCountdown() {
 
 document.addEventListener('load', hideCountdown())
 
+let allImages = document.getElementsByTagName('img')
+for (let i = 0; i < allImages.length; i++) {
+    if (allImages[i].className == '') {
+        allImages[i].classList.add('img-fluid')
+    }
+}
+
 /* let playersOnPage = []
 let boldItems = document.getElementsByTagName("strong")
 for (let i = 0; i < boldItems.length; i++) {
