@@ -10065,11 +10065,778 @@
   {
     "week": 15,
     "contest_id": "120599670",
-    "contest_start": "Dec 16, 2021 20:20:00"
+    "contest_start": "Dec 16, 2021 20:20:00",
+    "members": [
+      {
+        "fantasyPoints": 184.1, 
+        "rank": 1, 
+        "userName": "arianna29", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 181.9, 
+        "rank": 2, 
+        "userName": "Dash7", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 159.56, 
+        "rank": 3, 
+        "userName": "rogdiaz", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 157.94, 
+        "rank": 4, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 153.82, 
+        "rank": 5, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 151.02, 
+        "rank": 6, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 141.04, 
+        "rank": 7, 
+        "userName": "frank.corn", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 136.64, 
+        "rank": 8, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 135.8, 
+        "rank": 9, 
+        "userName": "jlopez0809", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 129.44, 
+        "rank": 10, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 127.84, 
+        "rank": 11, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 123.84, 
+        "rank": 12, 
+        "userName": "glopez28", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 106.5, 
+        "rank": 13, 
+        "userName": "g_mendoza", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 100.24, 
+        "rank": 14, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 98.64, 
+        "rank": 15, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 91.94, 
+        "rank": 16, 
+        "userName": "XplicitK", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 90.42, 
+        "rank": 17, 
+        "userName": "LoLoGREEN", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 0, 
+        "rank": 18, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }
+    ]
   },
   {
-    "week": 16,
-    "contest_id": "121126086",
-    "contest_start": "Dec 23, 2021 20:20:00"
+    "bust": {
+      "attributes": {}, 
+      "displayName": "Chuba Hubbard", 
+      "draftedBy": [], 
+      "fantasyPoints": 0.9, 
+      "fantasyPointsPerGame": 5.1, 
+      "fantasyPointsPerSalary": 0.00016666666666666666, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 38, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 40, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 41, 
+          "total": 27.3333
+        }, 
+        {
+          "statId": 43, 
+          "total": 8
+        }, 
+        {
+          "statId": 44, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 14
+        }, 
+        {
+          "statId": 82, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 5.1
+        }, 
+        {
+          "statId": 91, 
+          "total": 5.1
+        }, 
+        {
+          "statId": 92, 
+          "total": 5666.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 995, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Chuba", 
+      "gameId": 5746244, 
+      "gameStartTime": "2021-12-26T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1062047.png", 
+      "lastName": "Hubbard", 
+      "opposingTeamAbbreviation": "TB", 
+      "opposingTeamCity": "Tampa Bay", 
+      "opposingTeamName": "Buccaneers", 
+      "playerDkId": 560815, 
+      "playerId": 1062047, 
+      "playerStates": [], 
+      "points": 0.9, 
+      "position": "RB", 
+      "salary": 5400, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 41, 
+          "total": 9
+        }, 
+        {
+          "statId": 467, 
+          "total": 1
+        }, 
+        {
+          "statId": 43, 
+          "total": 6
+        }, 
+        {
+          "statId": 81, 
+          "total": 4
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "CAR", 
+      "teamCity": "Carolina", 
+      "teamId": 364, 
+      "teamName": "Panthers", 
+      "valueIcon": "ice", 
+      "weekNumber": 16
+    }, 
+    "contest_id": "121126086", 
+    "contest_start": "Dec 23, 2021 20:20:00", 
+    "draft_dodger": {
+      "attributes": {}, 
+      "displayName": "Tee Higgins", 
+      "draftedBy": [], 
+      "fantasyPoints": 46.4, 
+      "fantasyPointsPerGame": 23.3667, 
+      "fantasyPointsPerSalary": 0.007483870967741935, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 40, 
+          "total": 110.3333
+        }, 
+        {
+          "statId": 44, 
+          "total": 6.3333
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 32
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 23.3667
+        }, 
+        {
+          "statId": 91, 
+          "total": 23.3667
+        }, 
+        {
+          "statId": 92, 
+          "total": 6366.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 7.6667
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 990, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 36
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.6667
+        }
+      ], 
+      "firstName": "Tee", 
+      "gameId": 5746322, 
+      "gameStartTime": "2021-12-26T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/978579.png", 
+      "lastName": "Higgins", 
+      "opposingTeamAbbreviation": "BAL", 
+      "opposingTeamCity": "Baltimore", 
+      "opposingTeamName": "Ravens", 
+      "playerDkId": 468715, 
+      "playerId": 978579, 
+      "playerStates": [], 
+      "points": 46.4, 
+      "position": "WR", 
+      "salary": 6200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 194
+        }, 
+        {
+          "statId": 44, 
+          "total": 12
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 13
+        }, 
+        {
+          "statId": 82, 
+          "total": 52
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 990, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 94
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "CIN", 
+      "teamCity": "Cincinnati", 
+      "teamId": 327, 
+      "teamName": "Bengals", 
+      "valueIcon": "fire", 
+      "weekNumber": 16
+    }, 
+    "members": [
+      {
+        "fantasyPoints": 152.34, 
+        "rank": 1, 
+        "userName": "jlopez0809", 
+        "winningValue": 30
+      }, 
+      {
+        "fantasyPoints": 144.14, 
+        "rank": 2, 
+        "userName": "frank.corn", 
+        "winningValue": 15
+      }, 
+      {
+        "fantasyPoints": 139.94, 
+        "rank": 3, 
+        "userName": "DarbyDiaz3", 
+        "winningValue": 8
+      }, 
+      {
+        "fantasyPoints": 139.1, 
+        "rank": 4, 
+        "userName": "Dash7", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 138.6, 
+        "rank": 5, 
+        "userName": "ejmesa", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 137.14, 
+        "rank": 6, 
+        "userName": "JekellP", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 135.38, 
+        "rank": 7, 
+        "userName": "arianna29", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 135.3, 
+        "rank": 8, 
+        "userName": "climardo", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 133.9, 
+        "rank": 9, 
+        "userName": "pshhidk", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 132.22, 
+        "rank": 10, 
+        "userName": "olivadotij", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 129.64, 
+        "rank": 11, 
+        "userName": "rogdiaz", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 129.54, 
+        "rank": 12, 
+        "userName": "XplicitK", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 122, 
+        "rank": 13, 
+        "userName": "Halvworld", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 113.04, 
+        "rank": 14, 
+        "userName": "geedee3", 
+        "winningValue": 0
+      }, 
+      {
+        "fantasyPoints": 77.74, 
+        "rank": 15, 
+        "userName": "hlimardo", 
+        "winningValue": 0
+      }
+    ], 
+    "mvp": {
+      "attributes": {}, 
+      "displayName": "Tee Higgins", 
+      "draftedBy": [], 
+      "fantasyPoints": 46.4, 
+      "fantasyPointsPerGame": 23.3667, 
+      "fantasyPointsPerSalary": 0.007483870967741935, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 40, 
+          "total": 110.3333
+        }, 
+        {
+          "statId": 44, 
+          "total": 6.3333
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 82, 
+          "total": 32
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 23.3667
+        }, 
+        {
+          "statId": 91, 
+          "total": 23.3667
+        }, 
+        {
+          "statId": 92, 
+          "total": 6366.6667
+        }, 
+        {
+          "statId": 467, 
+          "total": 7.6667
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 990, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 999, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 36
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.6667
+        }
+      ], 
+      "firstName": "Tee", 
+      "gameId": 5746322, 
+      "gameStartTime": "2021-12-26T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/978579.png", 
+      "lastName": "Higgins", 
+      "opposingTeamAbbreviation": "BAL", 
+      "opposingTeamCity": "Baltimore", 
+      "opposingTeamName": "Ravens", 
+      "playerDkId": 468715, 
+      "playerId": 978579, 
+      "playerStates": [], 
+      "points": 46.4, 
+      "position": "WR", 
+      "salary": 6200, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 2
+        }, 
+        {
+          "statId": 40, 
+          "total": 194
+        }, 
+        {
+          "statId": 44, 
+          "total": 12
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 13
+        }, 
+        {
+          "statId": 82, 
+          "total": 52
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 990, 
+          "total": 1
+        }, 
+        {
+          "statId": 999, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 94
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "CIN", 
+      "teamCity": "Cincinnati", 
+      "teamId": 327, 
+      "teamName": "Bengals", 
+      "valueIcon": "fire", 
+      "weekNumber": 16
+    }, 
+    "sleeper": {
+      "attributes": {}, 
+      "displayName": "Isaiah McKenzie", 
+      "draftedBy": [], 
+      "fantasyPoints": 32.4, 
+      "fantasyPointsPerGame": 12.1333, 
+      "fantasyPointsPerSalary": 0.010799999999999999, 
+      "fantasyStatsNumGames": 3, 
+      "fantasyStatsPerGame": [
+        {
+          "statId": 37, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 40, 
+          "total": 45.6667
+        }, 
+        {
+          "statId": 41, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 43, 
+          "total": 0.6667
+        }, 
+        {
+          "statId": 44, 
+          "total": 4.3333
+        }, 
+        {
+          "statId": 49, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 81, 
+          "total": 2.3333
+        }, 
+        {
+          "statId": 82, 
+          "total": 13.3333
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 90, 
+          "total": 12.1333
+        }, 
+        {
+          "statId": 91, 
+          "total": 12.1333
+        }, 
+        {
+          "statId": 92, 
+          "total": 3000
+        }, 
+        {
+          "statId": 467, 
+          "total": 5
+        }, 
+        {
+          "statId": 983, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 998, 
+          "total": 0.3333
+        }, 
+        {
+          "statId": 1011, 
+          "total": 8.3333
+        }, 
+        {
+          "statId": 1218, 
+          "total": 0.3333
+        }
+      ], 
+      "firstName": "Isaiah", 
+      "gameId": 5746226, 
+      "gameStartTime": "2021-12-26T18:00:00.0000000Z", 
+      "gameStatus": "liveOrFinal", 
+      "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/823040.png", 
+      "lastName": "McKenzie", 
+      "opposingTeamAbbreviation": "NE", 
+      "opposingTeamCity": "New England", 
+      "opposingTeamName": "Patriots", 
+      "playerDkId": 11820, 
+      "playerId": 823040, 
+      "playerStates": [], 
+      "points": 32.4, 
+      "position": "WR", 
+      "salary": 3000, 
+      "sport": "nfl", 
+      "stats": [
+        {
+          "statId": 37, 
+          "total": 1
+        }, 
+        {
+          "statId": 40, 
+          "total": 125
+        }, 
+        {
+          "statId": 41, 
+          "total": -1
+        }, 
+        {
+          "statId": 44, 
+          "total": 11
+        }, 
+        {
+          "statId": 49, 
+          "total": 1
+        }, 
+        {
+          "statId": 467, 
+          "total": 12
+        }, 
+        {
+          "statId": 43, 
+          "total": 1
+        }, 
+        {
+          "statId": 81, 
+          "total": -1
+        }, 
+        {
+          "statId": 82, 
+          "total": 28
+        }, 
+        {
+          "statId": 84, 
+          "total": 1
+        }, 
+        {
+          "statId": 983, 
+          "total": 1
+        }, 
+        {
+          "statId": 998, 
+          "total": 1
+        }, 
+        {
+          "statId": 1011, 
+          "total": 25
+        }, 
+        {
+          "statId": 1218, 
+          "total": 1
+        }
+      ], 
+      "teamAbbreviation": "BUF", 
+      "teamCity": "Buffalo", 
+      "teamId": 324, 
+      "teamName": "Bills", 
+      "valueIcon": "fire", 
+      "weekNumber": 16
+    }, 
+    "week": 16
+  },
+  {
+    "week": 17,
+    "contest_id": "121547435",
+    "contest_start": "Jan 02, 2022 13:00:00"
   }
 ]

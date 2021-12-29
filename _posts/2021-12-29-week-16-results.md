@@ -1,18 +1,18 @@
 ---
-title: 2021 Week 1 Results
+title: 2021 Week 16 Results
 year: 2021
-week: 1
+week: 16
 layout: post
 author: climardo
-header_image: /assets/images/2021/week-1-header.jpg
+header_image: /assets/images/2021/week-16-header.jpg
 header_pos: 50% 50%
 ---
 
-First paragraph
+Words... coming soon
 
 {% include weekly-winners.html %}
 
-Second paragraph
+Last week!
 
 {% include superlatives.html %}
 
