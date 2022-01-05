@@ -10834,9 +10834,665 @@
     }, 
     "week": 16
   },
-  {
-    "week": 17,
-    "contest_id": "121547435",
-    "contest_start": "Jan 02, 2022 13:00:00"
-  }
+{
+  "bust": {
+    "attributes": {}, 
+    "displayName": "Benny Snell Jr.", 
+    "draftedBy": [], 
+    "fantasyPoints": 0.2, 
+    "fantasyPointsPerGame": 1.2667, 
+    "fantasyPointsPerSalary": 4e-05, 
+    "fantasyStatsNumGames": 3, 
+    "fantasyStatsPerGame": [
+      {
+        "statId": 40, 
+        "total": 2
+      }, 
+      {
+        "statId": 41, 
+        "total": 7.3333
+      }, 
+      {
+        "statId": 43, 
+        "total": 2
+      }, 
+      {
+        "statId": 44, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 81, 
+        "total": 3.3333
+      }, 
+      {
+        "statId": 82, 
+        "total": 2
+      }, 
+      {
+        "statId": 84, 
+        "total": 1
+      }, 
+      {
+        "statId": 90, 
+        "total": 1.2667
+      }, 
+      {
+        "statId": 91, 
+        "total": 1.2667
+      }, 
+      {
+        "statId": 92, 
+        "total": 4166.6667
+      }, 
+      {
+        "statId": 467, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 1080, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 1081, 
+        "total": 0.6667
+      }
+    ], 
+    "firstName": "Benny", 
+    "gameId": 5747403, 
+    "gameStartTime": "2022-01-04T01:15:00.0000000Z", 
+    "gameStatus": "liveOrFinal", 
+    "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/920062.png", 
+    "lastName": "Snell Jr.", 
+    "opposingTeamAbbreviation": "CLE", 
+    "opposingTeamCity": "Cleveland", 
+    "opposingTeamName": "Browns", 
+    "playerDkId": 18858, 
+    "playerId": 920062, 
+    "playerStates": [], 
+    "points": 0.2, 
+    "position": "RB", 
+    "salary": 5000, 
+    "sport": "nfl", 
+    "stats": [
+      {
+        "statId": 41, 
+        "total": 2
+      }, 
+      {
+        "statId": 43, 
+        "total": 1
+      }, 
+      {
+        "statId": 81, 
+        "total": 2
+      }, 
+      {
+        "statId": 84, 
+        "total": 1
+      }, 
+      {
+        "statId": 1080, 
+        "total": 1
+      }, 
+      {
+        "statId": 1081, 
+        "total": 1
+      }
+    ], 
+    "teamAbbreviation": "PIT", 
+    "teamCity": "Pittsburgh", 
+    "teamId": 356, 
+    "teamName": "Steelers", 
+    "valueIcon": "ice", 
+    "weekNumber": 17
+  }, 
+  "contest_id": "121547435", 
+  "contest_start": "Jan 02, 2022 13:00:00", 
+  "draft_dodger": {
+    "attributes": {}, 
+    "displayName": "Ja'Marr Chase", 
+    "draftedBy": [], 
+    "fantasyPoints": 58.6, 
+    "fantasyPointsPerGame": 27.4667, 
+    "fantasyPointsPerSalary": 0.007710526315789474, 
+    "fantasyStatsNumGames": 3, 
+    "fantasyStatsPerGame": [
+      {
+        "statId": 37, 
+        "total": 1
+      }, 
+      {
+        "statId": 40, 
+        "total": 131.3333
+      }, 
+      {
+        "statId": 44, 
+        "total": 6.3333
+      }, 
+      {
+        "statId": 49, 
+        "total": 0.6667
+      }, 
+      {
+        "statId": 82, 
+        "total": 32.3333
+      }, 
+      {
+        "statId": 84, 
+        "total": 1
+      }, 
+      {
+        "statId": 90, 
+        "total": 27.4667
+      }, 
+      {
+        "statId": 91, 
+        "total": 27.4667
+      }, 
+      {
+        "statId": 92, 
+        "total": 7266.6667
+      }, 
+      {
+        "statId": 467, 
+        "total": 8.6667
+      }, 
+      {
+        "statId": 983, 
+        "total": 0.6667
+      }, 
+      {
+        "statId": 991, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 998, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 1000, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 1011, 
+        "total": 63.6667
+      }, 
+      {
+        "statId": 1218, 
+        "total": 0.6667
+      }
+    ], 
+    "firstName": "Ja'Marr", 
+    "gameId": 5745446, 
+    "gameStartTime": "2022-01-02T18:00:00.0000000Z", 
+    "gameStatus": "liveOrFinal", 
+    "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1109979.png", 
+    "lastName": "Chase", 
+    "opposingTeamAbbreviation": "KC", 
+    "opposingTeamCity": "Kansas City", 
+    "opposingTeamName": "Chiefs", 
+    "playerDkId": 557826, 
+    "playerId": 1109979, 
+    "playerStates": [], 
+    "points": 58.6, 
+    "position": "WR", 
+    "salary": 7600, 
+    "sport": "nfl", 
+    "stats": [
+      {
+        "statId": 37, 
+        "total": 3
+      }, 
+      {
+        "statId": 40, 
+        "total": 266
+      }, 
+      {
+        "statId": 44, 
+        "total": 11
+      }, 
+      {
+        "statId": 49, 
+        "total": 1
+      }, 
+      {
+        "statId": 467, 
+        "total": 12
+      }, 
+      {
+        "statId": 82, 
+        "total": 72
+      }, 
+      {
+        "statId": 84, 
+        "total": 1
+      }, 
+      {
+        "statId": 983, 
+        "total": 1
+      }, 
+      {
+        "statId": 991, 
+        "total": 1
+      }, 
+      {
+        "statId": 1000, 
+        "total": 1
+      }, 
+      {
+        "statId": 1011, 
+        "total": 166
+      }, 
+      {
+        "statId": 1218, 
+        "total": 1
+      }
+    ], 
+    "teamAbbreviation": "CIN", 
+    "teamCity": "Cincinnati", 
+    "teamId": 327, 
+    "teamName": "Bengals", 
+    "valueIcon": "fire", 
+    "weekNumber": 17
+  }, 
+  "members": [
+    {
+      "fantasyPoints": 159.96, 
+      "rank": 1, 
+      "userName": "glopez28", 
+      "winningValue": 30
+    }, 
+    {
+      "fantasyPoints": 158.96, 
+      "rank": 2, 
+      "userName": "hlimardo", 
+      "winningValue": 15
+    }, 
+    {
+      "fantasyPoints": 154.64, 
+      "rank": 3, 
+      "userName": "ejmesa", 
+      "winningValue": 8
+    }, 
+    {
+      "fantasyPoints": 147.38, 
+      "rank": 4, 
+      "userName": "g_mendoza", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 145.64, 
+      "rank": 5, 
+      "userName": "frank.corn", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 132.56, 
+      "rank": 6, 
+      "userName": "jlopez0809", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 128.46, 
+      "rank": 7, 
+      "userName": "olivadotij", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 127.84, 
+      "rank": 8, 
+      "userName": "arianna29", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 117.98, 
+      "rank": 9, 
+      "userName": "Dash7", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 116.86, 
+      "rank": 10, 
+      "userName": "JekellP", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 112.16, 
+      "rank": 11, 
+      "userName": "XplicitK", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 104.96, 
+      "rank": 12, 
+      "userName": "pshhidk", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 98.96, 
+      "rank": 13, 
+      "userName": "geedee3", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 93.66, 
+      "rank": 14, 
+      "userName": "climardo", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 88.86, 
+      "rank": 15, 
+      "userName": "Halvworld", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 79.18, 
+      "rank": 16, 
+      "userName": "LoLoGREEN", 
+      "winningValue": 0
+    }, 
+    {
+      "fantasyPoints": 76.26, 
+      "rank": 17, 
+      "userName": "DarbyDiaz3", 
+      "winningValue": 0
+    }
+  ], 
+  "mvp": {
+    "attributes": {}, 
+    "displayName": "Ja'Marr Chase", 
+    "draftedBy": [], 
+    "fantasyPoints": 58.6, 
+    "fantasyPointsPerGame": 27.4667, 
+    "fantasyPointsPerSalary": 0.007710526315789474, 
+    "fantasyStatsNumGames": 3, 
+    "fantasyStatsPerGame": [
+      {
+        "statId": 37, 
+        "total": 1
+      }, 
+      {
+        "statId": 40, 
+        "total": 131.3333
+      }, 
+      {
+        "statId": 44, 
+        "total": 6.3333
+      }, 
+      {
+        "statId": 49, 
+        "total": 0.6667
+      }, 
+      {
+        "statId": 82, 
+        "total": 32.3333
+      }, 
+      {
+        "statId": 84, 
+        "total": 1
+      }, 
+      {
+        "statId": 90, 
+        "total": 27.4667
+      }, 
+      {
+        "statId": 91, 
+        "total": 27.4667
+      }, 
+      {
+        "statId": 92, 
+        "total": 7266.6667
+      }, 
+      {
+        "statId": 467, 
+        "total": 8.6667
+      }, 
+      {
+        "statId": 983, 
+        "total": 0.6667
+      }, 
+      {
+        "statId": 991, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 998, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 1000, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 1011, 
+        "total": 63.6667
+      }, 
+      {
+        "statId": 1218, 
+        "total": 0.6667
+      }
+    ], 
+    "firstName": "Ja'Marr", 
+    "gameId": 5745446, 
+    "gameStartTime": "2022-01-02T18:00:00.0000000Z", 
+    "gameStatus": "liveOrFinal", 
+    "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1109979.png", 
+    "lastName": "Chase", 
+    "opposingTeamAbbreviation": "KC", 
+    "opposingTeamCity": "Kansas City", 
+    "opposingTeamName": "Chiefs", 
+    "playerDkId": 557826, 
+    "playerId": 1109979, 
+    "playerStates": [], 
+    "points": 58.6, 
+    "position": "WR", 
+    "salary": 7600, 
+    "sport": "nfl", 
+    "stats": [
+      {
+        "statId": 37, 
+        "total": 3
+      }, 
+      {
+        "statId": 40, 
+        "total": 266
+      }, 
+      {
+        "statId": 44, 
+        "total": 11
+      }, 
+      {
+        "statId": 49, 
+        "total": 1
+      }, 
+      {
+        "statId": 467, 
+        "total": 12
+      }, 
+      {
+        "statId": 82, 
+        "total": 72
+      }, 
+      {
+        "statId": 84, 
+        "total": 1
+      }, 
+      {
+        "statId": 983, 
+        "total": 1
+      }, 
+      {
+        "statId": 991, 
+        "total": 1
+      }, 
+      {
+        "statId": 1000, 
+        "total": 1
+      }, 
+      {
+        "statId": 1011, 
+        "total": 166
+      }, 
+      {
+        "statId": 1218, 
+        "total": 1
+      }
+    ], 
+    "teamAbbreviation": "CIN", 
+    "teamCity": "Cincinnati", 
+    "teamId": 327, 
+    "teamName": "Bengals", 
+    "valueIcon": "fire", 
+    "weekNumber": 17
+  }, 
+  "sleeper": {
+    "attributes": {}, 
+    "displayName": "Ja'Marr Chase", 
+    "draftedBy": [], 
+    "fantasyPoints": 58.6, 
+    "fantasyPointsPerGame": 27.4667, 
+    "fantasyPointsPerSalary": 0.007710526315789474, 
+    "fantasyStatsNumGames": 3, 
+    "fantasyStatsPerGame": [
+      {
+        "statId": 37, 
+        "total": 1
+      }, 
+      {
+        "statId": 40, 
+        "total": 131.3333
+      }, 
+      {
+        "statId": 44, 
+        "total": 6.3333
+      }, 
+      {
+        "statId": 49, 
+        "total": 0.6667
+      }, 
+      {
+        "statId": 82, 
+        "total": 32.3333
+      }, 
+      {
+        "statId": 84, 
+        "total": 1
+      }, 
+      {
+        "statId": 90, 
+        "total": 27.4667
+      }, 
+      {
+        "statId": 91, 
+        "total": 27.4667
+      }, 
+      {
+        "statId": 92, 
+        "total": 7266.6667
+      }, 
+      {
+        "statId": 467, 
+        "total": 8.6667
+      }, 
+      {
+        "statId": 983, 
+        "total": 0.6667
+      }, 
+      {
+        "statId": 991, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 998, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 1000, 
+        "total": 0.3333
+      }, 
+      {
+        "statId": 1011, 
+        "total": 63.6667
+      }, 
+      {
+        "statId": 1218, 
+        "total": 0.6667
+      }
+    ], 
+    "firstName": "Ja'Marr", 
+    "gameId": 5745446, 
+    "gameStartTime": "2022-01-02T18:00:00.0000000Z", 
+    "gameStatus": "liveOrFinal", 
+    "imageUrl": "https://d327rxwuxd0q0c.cloudfront.net/m/nfl_retina/1109979.png", 
+    "lastName": "Chase", 
+    "opposingTeamAbbreviation": "KC", 
+    "opposingTeamCity": "Kansas City", 
+    "opposingTeamName": "Chiefs", 
+    "playerDkId": 557826, 
+    "playerId": 1109979, 
+    "playerStates": [], 
+    "points": 58.6, 
+    "position": "WR", 
+    "salary": 7600, 
+    "sport": "nfl", 
+    "stats": [
+      {
+        "statId": 37, 
+        "total": 3
+      }, 
+      {
+        "statId": 40, 
+        "total": 266
+      }, 
+      {
+        "statId": 44, 
+        "total": 11
+      }, 
+      {
+        "statId": 49, 
+        "total": 1
+      }, 
+      {
+        "statId": 467, 
+        "total": 12
+      }, 
+      {
+        "statId": 82, 
+        "total": 72
+      }, 
+      {
+        "statId": 84, 
+        "total": 1
+      }, 
+      {
+        "statId": 983, 
+        "total": 1
+      }, 
+      {
+        "statId": 991, 
+        "total": 1
+      }, 
+      {
+        "statId": 1000, 
+        "total": 1
+      }, 
+      {
+        "statId": 1011, 
+        "total": 166
+      }, 
+      {
+        "statId": 1218, 
+        "total": 1
+      }
+    ], 
+    "teamAbbreviation": "CIN", 
+    "teamCity": "Cincinnati", 
+    "teamId": 327, 
+    "teamName": "Bengals", 
+    "valueIcon": "fire", 
+    "weekNumber": 17
+  }, 
+  "week": 17
+}
 ]

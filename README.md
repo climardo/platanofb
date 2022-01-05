@@ -27,5 +27,5 @@ sudo apt-get install ruby-full build-essential
 - Create a script for weekly updates that will:
     - [ ] change `week` in ['/index.html'](/index.html)
     - [ ] update the contest link in [`/_data/navlinks`](/_data/navlinks)
-    - [ ] add a new week to [`/_data/weekly*.json`](/_data/weekly*.json) including `week`, `contest_id` and `contest_start` values
+    - [ ] add a new week to [`/_data/weekly*.json`](/_data/weekly*.json) including `title`, `week`, `contest_id` and `contest_start` values
     - [ ] create a new, blank post in [`_posts`]{/_posts/} using [`/example.md`](/example.md) and update `title`, `week`, and `header_image` 
