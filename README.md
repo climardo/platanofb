@@ -22,3 +22,10 @@ sudo apt-get install ruby-full build-essential
 - [Jekyll Docs](https://jekyllrb.com/docs/step-by-step/01-setup/)
 - [Liquid template language](https://shopify.github.io/liquid/basics/introduction/)
 - [Shopify Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet)
+
+# To do list 2022
+- Create a script for weekly updates that will:
+    - [ ] change `week` in ['/index.html'](/index.html)
+    - [ ] update the contest link in [`/_data/navlinks`](/_data/navlinks)
+    - [ ] add a new week to [`/_data/weekly*.json`](/_data/weekly*.json) including `week`, `contest_id` and `contest_start` values
+    - [ ] create a new, blank post in [`_posts`]{/_posts/} using [`/example.md`](/example.md) and update `title`, `week`, and `header_image` 
