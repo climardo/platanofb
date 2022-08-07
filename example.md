@@ -1,10 +1,10 @@
 ---
-title: 2021 Week 1 Results
-year: 2021
+title: 2022 Week 1 Results
+year: 2022
 week: 1
 layout: post
 author: climardo
-header_image: /assets/images/2021/week-1-header.jpg
+header_image: /assets/images/2022/week-1-header.jpg
 header_pos: 50% 50%
 ---
 
