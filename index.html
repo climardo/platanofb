@@ -1,23 +1,9 @@
 ---
 layout: default
 title: Home
-week: 1
 ---
-{% assign submit = site.data.navlinks[0] %}
-{%- for item in site.data.weekly2022 -%}
-    {%- if item.week == page.week -%}
-        {%- assign weekly = item -%}
-    {%- endif -%}
-{%- endfor -%}
-{% include timer.html week=page.week contest_start=weekly.contest_start contest_id=weekly.contest_id%}
-
-<div class="container" id="contest">
-    <div class="row justify-content-center">
-        <div class="col-md-6 text-center">
-            <a href="{{ submit.link }}" class="btn btn-lg btn-block contest-link" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ page.week }} contest <i class="fas fa-football-ball"></i></a>
-        </div>
-    </div>
-</div>
+{%- assign this_week = site.data.weekly2022.last %}
+{% include timer.html week=this_week.week contest_start=this_week.contest_start contest_id=this_week.contest_id -%}
 
 <div class="container">
     <div class="row">

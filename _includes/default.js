@@ -18,7 +18,9 @@ function hideCountdown() {
     var d = new Date()
     var day = new Date().getDay()
     try {
-        if (d > countDownDate || day < 2) {
+        if (d > countDownDate) {
+        // Uncomment line below when season starts and comment out line above
+        // if (d > countDownDate || day < 2) {
             document.getElementById("draft").classList.add("d-none")
             let contestLinks = document.getElementsByClassName("contest-link")
             for (var i = 0; i < contestLinks.length; i++) {

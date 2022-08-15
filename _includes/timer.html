@@ -28,6 +28,16 @@
         </div>
     </div>
 </div>
+
+<!-- Weekly contest button -->
+<div class="container" id="contest">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center">
+            <a href="https://www.draftkings.com/draft/contest/{{ this_week.contest_id }}" class="btn btn-lg btn-block contest-link" role="button" style="color: #FFFFFF; background: #9AC434;" onmouseover="btnChg('#7ea12a', this);" onmouseout="btnChg('#9AC434', this);">Week {{ this_week.week }} contest <i class="fas fa-football-ball"></i></a>
+        </div>
+    </div>
+</div>
+
 <script>
     // The data/time we want to countdown to
     var countDownDate = new Date("{{ include.contest_start }}").getTime();
