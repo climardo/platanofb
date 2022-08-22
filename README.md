@@ -30,4 +30,3 @@ sudo apt-get install ruby-full build-essential
         - [x] update the contest link in [`/_data/navlinks`](/_data/navlinks)
         - [x] add a new week to [`/_data/weekly*.json`](/_data/weekly*.json) including `week`, `contest_id` and `contest_start` values
         - [x] create a new, blank post in [`_posts`](/_posts/) using [`/example.md`](/example.md) and update `title`, `week`, and `header_image` 
- ] ]
