@@ -10,7 +10,7 @@ header_pos: 50% 50%
 {% raw %}
 First paragraph
 
-{% include weekly-winners.html %}
+{% include weekly-winners-2022.html %}
 
 Second paragraph
 
