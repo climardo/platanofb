@@ -1,7 +1,782 @@
 [
-  {
-    "week": 1,
-    "contest_id": "0",
-    "contest_start": "Sep 08, 2022 20:20:00"
-  }
+    {
+        "bust": {
+            "attributes": {},
+            "displayName": "Chuba Hubbard",
+            "draftedBy": [],
+            "fantasyPoints": 0.3,
+            "fantasyPointsPerGame": 10.1,
+            "fantasyPointsPerSalary": 5.555555555555555e-05,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 7
+                },
+                {
+                    "statId": 41,
+                    "total": 37.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 14.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 7.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 10.1
+                },
+                {
+                    "statId": 91,
+                    "total": 10.1
+                },
+                {
+                    "statId": 92,
+                    "total": 5166.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Chuba",
+            "gameId": 5818010,
+            "gameStartTime": "2022-09-11T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/560815.png",
+            "lastName": "Hubbard",
+            "opposingTeamAbbreviation": "CLE",
+            "opposingTeamCity": "Cleveland",
+            "opposingTeamName": "Browns",
+            "playerDkId": 560815,
+            "playerId": 1062047,
+            "playerStates": [],
+            "points": 0.3,
+            "position": "RB",
+            "salary": 5400,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 3
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "CAR",
+            "teamCity": "Carolina",
+            "teamId": 364,
+            "teamName": "Panthers",
+            "valueIcon": "ice",
+            "weekNumber": 1
+        },
+        "contest_id": "131416158",
+        "contest_start": "Sep 08, 2022 20:20:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Justin Jefferson",
+            "draftedBy": [],
+            "fantasyPoints": 42.4,
+            "fantasyPointsPerGame": 19.8333,
+            "fantasyPointsPerSalary": 0.005435897435897436,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 93.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 6.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 31.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 19.8333
+                },
+                {
+                    "statId": 91,
+                    "total": 19.8333
+                },
+                {
+                    "statId": 92,
+                    "total": 8033.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 10
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 7.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "firstName": "Justin",
+            "gameId": 5817907,
+            "gameStartTime": "2022-09-11T20:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485454.png",
+            "lastName": "Jefferson",
+            "opposingTeamAbbreviation": "GB",
+            "opposingTeamCity": "Green Bay",
+            "opposingTeamName": "Packers",
+            "playerDkId": 485454,
+            "playerId": 1069535,
+            "playerStates": [],
+            "points": 42.4,
+            "position": "WR",
+            "salary": 7800,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 184
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 11
+                },
+                {
+                    "statId": 82,
+                    "total": 64
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 1000,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 84
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIN",
+            "teamCity": "Minnesota",
+            "teamId": 347,
+            "teamName": "Vikings",
+            "valueIcon": "fire",
+            "weekNumber": 1
+        },
+        "members": [
+            {
+                "fantasyPoints": 170.42,
+                "rank": 1,
+                "userName": "arianna29",
+                "winningValue": 33
+            },
+            {
+                "fantasyPoints": 149.26,
+                "rank": 2,
+                "userName": "g_mendoza",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 148.82,
+                "rank": 3,
+                "userName": "geedee3",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 144.86,
+                "rank": 4,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 134.52,
+                "rank": 5,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 133.42,
+                "rank": 6,
+                "userName": "luisdello",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 132.36,
+                "rank": 7,
+                "userName": "MattyDel14",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 132.12,
+                "rank": 8,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 123.12,
+                "rank": 9,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 121.52,
+                "rank": 10,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 116.2,
+                "rank": 11,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 108.96,
+                "rank": 12,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 108.16,
+                "rank": 13,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 105.62,
+                "rank": 14,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 102.48,
+                "rank": 15,
+                "userName": "BrunoDiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 96.62,
+                "rank": 16,
+                "userName": "Dash7",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 81.1,
+                "rank": 17,
+                "userName": "LoLoGREEN",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 76.62,
+                "rank": 18,
+                "userName": "ejmesa",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Justin Jefferson",
+            "draftedBy": [],
+            "fantasyPoints": 42.4,
+            "fantasyPointsPerGame": 19.8333,
+            "fantasyPointsPerSalary": 0.005435897435897436,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 93.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 6.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 31.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 19.8333
+                },
+                {
+                    "statId": 91,
+                    "total": 19.8333
+                },
+                {
+                    "statId": 92,
+                    "total": 8033.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 10
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 7.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "firstName": "Justin",
+            "gameId": 5817907,
+            "gameStartTime": "2022-09-11T20:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485454.png",
+            "lastName": "Jefferson",
+            "opposingTeamAbbreviation": "GB",
+            "opposingTeamCity": "Green Bay",
+            "opposingTeamName": "Packers",
+            "playerDkId": 485454,
+            "playerId": 1069535,
+            "playerStates": [],
+            "points": 42.4,
+            "position": "WR",
+            "salary": 7800,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 184
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 11
+                },
+                {
+                    "statId": 82,
+                    "total": 64
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 1000,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 84
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIN",
+            "teamCity": "Minnesota",
+            "teamId": 347,
+            "teamName": "Vikings",
+            "valueIcon": "fire",
+            "weekNumber": 1
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Steelers",
+            "draftedBy": [],
+            "fantasyPoints": 26,
+            "fantasyPointsPerGame": 12,
+            "fantasyPointsPerSalary": 0.010833333333333334,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 52,
+                    "total": 5
+                },
+                {
+                    "statId": 53,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 54,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 55,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 58,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 59,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 62,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 75,
+                    "total": 23
+                },
+                {
+                    "statId": 76,
+                    "total": 149.3333
+                },
+                {
+                    "statId": 77,
+                    "total": 214.3333
+                },
+                {
+                    "statId": 78,
+                    "total": 363.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 12
+                },
+                {
+                    "statId": 91,
+                    "total": 12
+                },
+                {
+                    "statId": 92,
+                    "total": 2833.3333
+                },
+                {
+                    "statId": 94,
+                    "total": 23
+                },
+                {
+                    "statId": 95,
+                    "total": 214.3333
+                },
+                {
+                    "statId": 96,
+                    "total": 149.3333
+                },
+                {
+                    "statId": 97,
+                    "total": 363.6667
+                },
+                {
+                    "statId": 102,
+                    "total": 19
+                },
+                {
+                    "statId": 103,
+                    "total": 181.6667
+                },
+                {
+                    "statId": 104,
+                    "total": 108.3333
+                },
+                {
+                    "statId": 105,
+                    "total": 290
+                },
+                {
+                    "statId": 116,
+                    "total": 181.6667
+                },
+                {
+                    "statId": 117,
+                    "total": 108.3333
+                },
+                {
+                    "statId": 118,
+                    "total": 290
+                },
+                {
+                    "statId": 119,
+                    "total": 19
+                },
+                {
+                    "statId": 975,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 976,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 978,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1001,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1003,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Steelers",
+            "gameId": 5818055,
+            "gameStartTime": "2022-09-11T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "lastName": "",
+            "opposingTeamAbbreviation": "CIN",
+            "opposingTeamCity": "Cincinnati",
+            "opposingTeamName": "Bengals",
+            "playerDkId": 18456,
+            "playerId": 356,
+            "playerState": "offense",
+            "playerStates": [],
+            "points": 26,
+            "position": "DST",
+            "salary": 2400,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 52,
+                    "total": 7
+                },
+                {
+                    "statId": 53,
+                    "total": 4
+                },
+                {
+                    "statId": 54,
+                    "total": 1
+                },
+                {
+                    "statId": 55,
+                    "total": 1
+                },
+                {
+                    "statId": 59,
+                    "total": 1
+                },
+                {
+                    "statId": 64,
+                    "total": 1
+                },
+                {
+                    "statId": 75,
+                    "total": 20
+                },
+                {
+                    "statId": 76,
+                    "total": 133
+                },
+                {
+                    "statId": 77,
+                    "total": 299
+                },
+                {
+                    "statId": 78,
+                    "total": 432
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 102,
+                    "total": 17
+                },
+                {
+                    "statId": 103,
+                    "total": 192
+                },
+                {
+                    "statId": 104,
+                    "total": 75
+                },
+                {
+                    "statId": 105,
+                    "total": 267
+                },
+                {
+                    "statId": 977,
+                    "total": 1
+                },
+                {
+                    "statId": 1002,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "PIT",
+            "teamCity": "Pittsburgh",
+            "teamId": 356,
+            "teamName": "Steelers",
+            "valueIcon": "fire",
+            "weekNumber": 1
+        },
+        "week": 1
+    },
+    {
+        "week": 2,
+        "contest_id": 132015758,
+        "contest_start": "Sep 15, 2022 20:20:00"
+    }
 ]
