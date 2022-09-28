@@ -52,7 +52,7 @@ post_file.close()
 # Set contest_start by determining Thursday of current week
 start_of_week = date.today() - timedelta(days=date.today().weekday())
 thursday_of_week = start_of_week + timedelta(days=3)
-contest_start = datetime.strftime(thursday_of_week, '%b %d, %Y 20:20:00')
+contest_start = datetime.strftime(thursday_of_week, '%b %d, %Y 20:15:00')
 
 # Create data for new_content to be appended to weekly_file
 new_contest = {
