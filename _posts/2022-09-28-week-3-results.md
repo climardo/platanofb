@@ -8,7 +8,7 @@ header_image: /assets/images/2022/week-3-header.jpg
 header_pos: 50% 50%
 ---
 
-A pretty good week of mathcups in the NFL resulted in some new members joining the winner's circle this week as **JekellP** has a repeat, top performance - congratulations! **jlopez0809** was short 6.19 fpts, and although the lineup had more 🔥 players, it also had more ❄️ players too, including **Davante Adams** (14.2 fpts $8,400), the WR3 in salary terms who fell to WR34 if we're looking at fpts. **hlimardo** separated from the rest of the pack to secure a third place finish this week.  
+A pretty good week of matchups in the NFL resulted in some new members joining the winner's circle this week as **JekellP** has a repeat, top performance - congratulations! **jlopez0809** was short 6.19 fpts, and although the lineup had more 🔥 players, it also had more ❄️ players too, including **Davante Adams** (14.2 fpts $8,400), the WR3 in salary terms who fell to WR34 if we're looking at fpts. **hlimardo** separated from the rest of the pack to secure a third place finish this week.  
 
 {% include weekly-winners-2022.html %}
 
