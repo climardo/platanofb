@@ -2436,8 +2436,700 @@
         "week": 3
     },
     {
-        "week": 4,
-        "contest_id": 132985307,
-        "contest_start": "Sep 29, 2022 20:15:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Zack Moss",
+            "draftedBy": [],
+            "fantasyPoints": 0.6,
+            "fantasyPointsPerGame": 2.8333,
+            "fantasyPointsPerSalary": 0.00011999999999999999,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 2
+                },
+                {
+                    "statId": 41,
+                    "total": 23
+                },
+                {
+                    "statId": 43,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 21.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 2.8333
+                },
+                {
+                    "statId": 91,
+                    "total": 2.8333
+                },
+                {
+                    "statId": 92,
+                    "total": 4700
+                },
+                {
+                    "statId": 467,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 996,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Zack",
+            "gameId": 5818269,
+            "gameStartTime": "2022-10-02T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/477269.png",
+            "lastName": "Moss",
+            "opposingTeamAbbreviation": "BAL",
+            "opposingTeamCity": "Baltimore",
+            "opposingTeamName": "Ravens",
+            "playerDkId": 477269,
+            "playerId": 913170,
+            "playerStates": [],
+            "points": 0.6,
+            "position": "RB",
+            "salary": 5000,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 6
+                },
+                {
+                    "statId": 43,
+                    "total": 3
+                },
+                {
+                    "statId": 81,
+                    "total": 5
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "BUF",
+            "teamCity": "Buffalo",
+            "teamId": 324,
+            "teamName": "Bills",
+            "valueIcon": "ice",
+            "weekNumber": 4
+        },
+        "contest_id": "132985307",
+        "contest_start": "Sep 29, 2022 20:15:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Josh Jacobs",
+            "fantasyPoints": 37.5,
+            "fantasyPointsPerGame": 20.4333,
+            "fantasyPointsPerSalary": 0.006818181818181818,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 24.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 93
+                },
+                {
+                    "statId": 43,
+                    "total": 20
+                },
+                {
+                    "statId": 44,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 23
+                },
+                {
+                    "statId": 82,
+                    "total": 12.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 20.4333
+                },
+                {
+                    "statId": 91,
+                    "total": 20.4333
+                },
+                {
+                    "statId": 92,
+                    "total": 5566.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 4
+                },
+                {
+                    "statId": 982,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 996,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 14.6667
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "firstName": "Josh",
+            "gameId": 5818894,
+            "gameStartTime": "2022-10-02T20:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/12715.png",
+            "lastName": "Jacobs",
+            "opposingTeamAbbreviation": "DEN",
+            "opposingTeamCity": "Denver",
+            "opposingTeamName": "Broncos",
+            "playerDkId": 12715,
+            "playerId": 944416,
+            "playerStates": [],
+            "points": 37.5,
+            "position": "RB",
+            "salary": 5500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 31
+                },
+                {
+                    "statId": 41,
+                    "total": 144
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 43,
+                    "total": 28
+                },
+                {
+                    "statId": 81,
+                    "total": 43
+                },
+                {
+                    "statId": 82,
+                    "total": 12
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 996,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 44
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "LV",
+            "teamCity": "Las Vegas",
+            "teamId": 341,
+            "teamName": "Raiders",
+            "valueIcon": "fire",
+            "weekNumber": 4
+        },
+        "members": [
+            {
+                "fantasyPoints": 196.32,
+                "rank": 1,
+                "userName": "hlimardo",
+                "winningValue": 33
+            },
+            {
+                "fantasyPoints": 142.42,
+                "rank": 2,
+                "userName": "glopez28",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 139.56,
+                "rank": 3,
+                "userName": "ejmesa",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 135.28,
+                "rank": 4,
+                "userName": "g_mendoza",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 131.38,
+                "rank": 5,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 127.66,
+                "rank": 6,
+                "userName": "arianna29",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 126.84,
+                "rank": 7,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 122.2,
+                "rank": 8,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 113.98,
+                "rank": 9,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 112.12,
+                "rank": 10,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 106.66,
+                "rank": 11,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 105.82,
+                "rank": 12,
+                "userName": "Dash7",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 97.32,
+                "rank": 13,
+                "userName": "MattyDel14",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 96.42,
+                "rank": 14,
+                "userName": "geedee3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 92.88,
+                "rank": 15,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 91.88,
+                "rank": 16,
+                "userName": "BrunoDiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 91.86,
+                "rank": 17,
+                "userName": "luisdello",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 85.96,
+                "rank": 18,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "T.J. Hockenson",
+            "draftedBy": [
+                "ejmesa",
+                "arianna29"
+            ],
+            "fantasyPoints": 42.9,
+            "fantasyPointsPerGame": 19.7667,
+            "fantasyPointsPerSalary": 0.01046341463414634,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 74.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 51,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 35.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 19.7667
+                },
+                {
+                    "statId": 91,
+                    "total": 19.7667
+                },
+                {
+                    "statId": 92,
+                    "total": 4333.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 7.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 26.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "T.J.",
+            "gameId": 5818347,
+            "gameStartTime": "2022-10-02T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19265.png",
+            "lastName": "Hockenson",
+            "opposingTeamAbbreviation": "SEA",
+            "opposingTeamCity": "Seattle",
+            "opposingTeamName": "Seahawks",
+            "playerDkId": 19265,
+            "playerId": 923915,
+            "playerStates": [],
+            "points": 42.9,
+            "position": "TE",
+            "salary": 4100,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 179
+                },
+                {
+                    "statId": 44,
+                    "total": 8
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 51,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 82,
+                    "total": 81
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 1000,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 79
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "DET",
+            "teamCity": "Detroit",
+            "teamId": 334,
+            "teamName": "Lions",
+            "valueIcon": "fire",
+            "weekNumber": 4
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "T.J. Hockenson",
+            "draftedBy": [
+                "ejmesa",
+                "arianna29"
+            ],
+            "fantasyPoints": 42.9,
+            "fantasyPointsPerGame": 19.7667,
+            "fantasyPointsPerSalary": 0.01046341463414634,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 74.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 51,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 35.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 19.7667
+                },
+                {
+                    "statId": 91,
+                    "total": 19.7667
+                },
+                {
+                    "statId": 92,
+                    "total": 4333.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 7.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 26.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "T.J.",
+            "gameId": 5818347,
+            "gameStartTime": "2022-10-02T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19265.png",
+            "lastName": "Hockenson",
+            "opposingTeamAbbreviation": "SEA",
+            "opposingTeamCity": "Seattle",
+            "opposingTeamName": "Seahawks",
+            "playerDkId": 19265,
+            "playerId": 923915,
+            "playerStates": [],
+            "points": 42.9,
+            "position": "TE",
+            "salary": 4100,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 179
+                },
+                {
+                    "statId": 44,
+                    "total": 8
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 51,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 82,
+                    "total": 81
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 1000,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 79
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "DET",
+            "teamCity": "Detroit",
+            "teamId": 334,
+            "teamName": "Lions",
+            "valueIcon": "fire",
+            "weekNumber": 4
+        },
+        "week": 4
+    },
+    {
+        "week": 5,
+        "contest_id": 133476287,
+        "contest_start": "Oct 06, 2022 20:15:00"
     }
 ]
