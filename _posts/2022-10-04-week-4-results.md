@@ -17,6 +17,6 @@ Another stud from the Lions, **T.J. Hockenson** (42.9 fpts $4,100), was this wee
 {% include superlatives.html %}
 
 ##### Weekly analysis <small class="text-muted">Recap and advice</small>
-- [Link1](#)
-- [Link2](#)
-- [Link3](#)
+- [Week 4 RECAP: Injuries, RB Snaps, Team Notes](https://mayomedia.substack.com/p/week-4-recap-injuries-rb-snaps-team)
+- [Fantasy Football Week 4 Usage Report: Waiver Wire & Trade Advice](https://www.fantasypros.com/2022/10/fantasy-football-waiver-wire-trade-advice-usage-report/)
+- [Daily Fantasy Football Week 5: Early lineup picks to consider ahead of this week's NFL action](https://sports.yahoo.com/daily-fantasy-football-week-5-early-lineup-picks-to-consider-ahead-of-this-weeks-nfl-action-232321770.html)
