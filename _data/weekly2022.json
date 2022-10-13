@@ -3128,8 +3128,821 @@
         "week": 4
     },
     {
-        "week": 5,
-        "contest_id": 133476287,
-        "contest_start": "Oct 06, 2022 20:15:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Chase Edmonds",
+            "draftedBy": [
+                "rogdiaz"
+            ],
+            "fantasyPoints": 0.1,
+            "fantasyPointsPerGame": 8.6,
+            "fantasyPointsPerSalary": 1.923076923076923e-05,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 6.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 9.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 4
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 8.6
+                },
+                {
+                    "statId": 91,
+                    "total": 8.6
+                },
+                {
+                    "statId": 92,
+                    "total": 5200
+                },
+                {
+                    "statId": 467,
+                    "total": 2
+                }
+            ],
+            "firstName": "Chase",
+            "gameId": 5819302,
+            "gameStartTime": "2022-10-09T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/17682.png",
+            "lastName": "Edmonds",
+            "opposingTeamAbbreviation": "NYJ",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Jets",
+            "playerDkId": 17682,
+            "playerId": 832900,
+            "playerStates": [],
+            "points": 0.1,
+            "position": "RB",
+            "salary": 5200,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41
+                },
+                {
+                    "statId": 467
+                },
+                {
+                    "statId": 43
+                },
+                {
+                    "statId": 81
+                },
+                {
+                    "statId": 84
+                }
+            ],
+            "teamAbbreviation": "MIA",
+            "teamCity": "Miami",
+            "teamId": 345,
+            "teamName": "Dolphins",
+            "valueIcon": "ice",
+            "weekNumber": 5
+        },
+        "contest_id": "133476287",
+        "contest_start": "Oct 06, 2022 20:15:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Taysom Hill",
+            "fantasyPoints": 37.08,
+            "fantasyPointsPerGame": 15.5267,
+            "fantasyPointsPerSalary": 0.0075673469387755096,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 7.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 49
+                },
+                {
+                    "statId": 42,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 5.6667
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 28.6667
+                },
+                {
+                    "statId": 83,
+                    "total": 7.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 15.5267
+                },
+                {
+                    "statId": 91,
+                    "total": 15.5267
+                },
+                {
+                    "statId": 92,
+                    "total": 4733.3333
+                },
+                {
+                    "statId": 997,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 4
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Taysom",
+            "gameId": 5819266,
+            "gameStartTime": "2022-10-09T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/18521.png",
+            "lastName": "Hill",
+            "opposingTeamAbbreviation": "SEA",
+            "opposingTeamCity": "Seattle",
+            "opposingTeamName": "Seahawks",
+            "playerDkId": 18521,
+            "playerId": 503184,
+            "playerStates": [],
+            "points": 37.08,
+            "position": "TE",
+            "salary": 4900,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 3
+                },
+                {
+                    "statId": 39,
+                    "total": 22
+                },
+                {
+                    "statId": 41,
+                    "total": 112
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 9
+                },
+                {
+                    "statId": 71,
+                    "total": 1
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 60
+                },
+                {
+                    "statId": 83,
+                    "total": 22
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 997,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 12
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "NO",
+            "teamCity": "New Orleans",
+            "teamId": 350,
+            "teamName": "Saints",
+            "valueIcon": "fire",
+            "weekNumber": 5
+        },
+        "members": [
+            {
+                "fantasyPoints": 159.44,
+                "rank": 1,
+                "userName": "glopez28",
+                "winningValue": 33
+            },
+            {
+                "fantasyPoints": 159.36,
+                "rank": 2,
+                "userName": "Dash7",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 159.34,
+                "rank": 3,
+                "userName": "arianna29",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 140.74,
+                "rank": 4,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 133.48,
+                "rank": 5,
+                "userName": "MattyDel14",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 133.34,
+                "rank": 6,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 133.24,
+                "rank": 7,
+                "userName": "geedee3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 132.84,
+                "rank": 8,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 123.18,
+                "rank": 9,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 121.84,
+                "rank": 10,
+                "userName": "LoLoGREEN",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 115.98,
+                "rank": 11,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 113.56,
+                "rank": 12,
+                "userName": "luisdello",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 104.76,
+                "rank": 13,
+                "userName": "BrunoDiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 102.9,
+                "rank": 14,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 96.58,
+                "rank": 15,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 91.28,
+                "rank": 16,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 88.86,
+                "rank": 17,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 82.5,
+                "rank": 18,
+                "userName": "JekellP",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Josh Allen",
+            "draftedBy": [
+                "luisdello"
+            ],
+            "fantasyPoints": 39.16,
+            "fantasyPointsPerGame": 31.46,
+            "fantasyPointsPerSalary": 0.0047756097560975605,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 345.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 53
+                },
+                {
+                    "statId": 42,
+                    "total": 27
+                },
+                {
+                    "statId": 43,
+                    "total": 8
+                },
+                {
+                    "statId": 46,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 47,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 43.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 20
+                },
+                {
+                    "statId": 83,
+                    "total": 49.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 31.46
+                },
+                {
+                    "statId": 91,
+                    "total": 31.46
+                },
+                {
+                    "statId": 92,
+                    "total": 8266.6667
+                },
+                {
+                    "statId": 981,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 986,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 987,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 994,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1012,
+                    "total": 74.6667
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Josh",
+            "gameId": 5819062,
+            "gameStartTime": "2022-10-09T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/11370.png",
+            "lastName": "Allen",
+            "opposingTeamAbbreviation": "PIT",
+            "opposingTeamCity": "Pittsburgh",
+            "opposingTeamName": "Steelers",
+            "playerDkId": 11370,
+            "playerId": 868199,
+            "playerStates": [],
+            "points": 39.16,
+            "position": "QB",
+            "salary": 8200,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 4
+                },
+                {
+                    "statId": 39,
+                    "total": 424
+                },
+                {
+                    "statId": 41,
+                    "total": 42
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 20
+                },
+                {
+                    "statId": 43,
+                    "total": 5
+                },
+                {
+                    "statId": 71,
+                    "total": 31
+                },
+                {
+                    "statId": 81,
+                    "total": 21
+                },
+                {
+                    "statId": 83,
+                    "total": 98
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 986,
+                    "total": 1
+                },
+                {
+                    "statId": 987,
+                    "total": 1
+                },
+                {
+                    "statId": 994,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 124
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "BUF",
+            "teamCity": "Buffalo",
+            "teamId": 324,
+            "teamName": "Bills",
+            "valueIcon": "fire",
+            "weekNumber": 5
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Cowboys",
+            "draftedBy": [],
+            "fantasyPoints": 23,
+            "fantasyPointsPerGame": 14.3333,
+            "fantasyPointsPerSalary": 0.0092,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 52,
+                    "total": 4
+                },
+                {
+                    "statId": 53,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 54,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 55,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 58,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 59,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 64,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 75,
+                    "total": 12
+                },
+                {
+                    "statId": 76,
+                    "total": 115.6667
+                },
+                {
+                    "statId": 77,
+                    "total": 203
+                },
+                {
+                    "statId": 78,
+                    "total": 318.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 14.3333
+                },
+                {
+                    "statId": 91,
+                    "total": 14.3333
+                },
+                {
+                    "statId": 92,
+                    "total": 2900
+                },
+                {
+                    "statId": 94,
+                    "total": 12
+                },
+                {
+                    "statId": 95,
+                    "total": 203
+                },
+                {
+                    "statId": 96,
+                    "total": 115.6667
+                },
+                {
+                    "statId": 97,
+                    "total": 318.6667
+                },
+                {
+                    "statId": 102,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 103,
+                    "total": 169.3333
+                },
+                {
+                    "statId": 104,
+                    "total": 133.6667
+                },
+                {
+                    "statId": 105,
+                    "total": 303
+                },
+                {
+                    "statId": 116,
+                    "total": 169.3333
+                },
+                {
+                    "statId": 117,
+                    "total": 133.6667
+                },
+                {
+                    "statId": 118,
+                    "total": 303
+                },
+                {
+                    "statId": 119,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 975,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 976,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1001,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Cowboys",
+            "gameId": 5819731,
+            "gameStartTime": "2022-10-09T20:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "lastName": "",
+            "opposingTeamAbbreviation": "LAR",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Rams",
+            "playerDkId": 18336,
+            "playerId": 331,
+            "playerState": "offense",
+            "playerStates": [],
+            "points": 23,
+            "position": "DST",
+            "salary": 2500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 52,
+                    "total": 5
+                },
+                {
+                    "statId": 53,
+                    "total": 1
+                },
+                {
+                    "statId": 54,
+                    "total": 2
+                },
+                {
+                    "statId": 55,
+                    "total": 1
+                },
+                {
+                    "statId": 58,
+                    "total": 1
+                },
+                {
+                    "statId": 64,
+                    "total": 1
+                },
+                {
+                    "statId": 75,
+                    "total": 10
+                },
+                {
+                    "statId": 76,
+                    "total": 38
+                },
+                {
+                    "statId": 77,
+                    "total": 285
+                },
+                {
+                    "statId": 78,
+                    "total": 323
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 102,
+                    "total": 16
+                },
+                {
+                    "statId": 103,
+                    "total": 76
+                },
+                {
+                    "statId": 104,
+                    "total": 163
+                },
+                {
+                    "statId": 105,
+                    "total": 239
+                },
+                {
+                    "statId": 976,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "DAL",
+            "teamCity": "Dallas",
+            "teamId": 331,
+            "teamName": "Cowboys",
+            "valueIcon": "fire",
+            "weekNumber": 5
+        },
+        "week": 5
+    },
+    {
+        "week": 6,
+        "contest_id": 134002239,
+        "contest_start": "Oct 13, 2022 20:15:00"
     }
 ]
