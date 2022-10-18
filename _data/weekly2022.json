@@ -3941,8 +3941,666 @@
         "week": 5
     },
     {
-        "week": 6,
-        "contest_id": 134002239,
-        "contest_start": "Oct 13, 2022 20:15:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Alexander Mattison",
+            "draftedBy": [],
+            "fantasyPoints": 0.3,
+            "fantasyPointsPerGame": 5.3667,
+            "fantasyPointsPerSalary": 5.0847457627118643e-05,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 12
+                },
+                {
+                    "statId": 41,
+                    "total": 8.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 4
+                },
+                {
+                    "statId": 82,
+                    "total": 8.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 5.3667
+                },
+                {
+                    "statId": 91,
+                    "total": 5.3667
+                },
+                {
+                    "statId": 92,
+                    "total": 6333.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 1.6667
+                }
+            ],
+            "firstName": "Alexander",
+            "gameId": 5820182,
+            "gameStartTime": "2022-10-16T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/17287.png",
+            "lastName": "Mattison",
+            "opposingTeamAbbreviation": "MIA",
+            "opposingTeamCity": "Miami",
+            "opposingTeamName": "Dolphins",
+            "playerDkId": 17287,
+            "playerId": 944343,
+            "playerStates": [],
+            "points": 0.3,
+            "position": "RB",
+            "salary": 5900,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 3
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIN",
+            "teamCity": "Minnesota",
+            "teamId": 347,
+            "teamName": "Vikings",
+            "valueIcon": "ice",
+            "weekNumber": 6
+        },
+        "contest_id": "134002239",
+        "contest_start": "Oct 13, 2022 20:15:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Tyreek Hill",
+            "fantasyPoints": 32.7,
+            "fantasyPointsPerGame": 24.8667,
+            "fantasyPointsPerSalary": 0.00436,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 128
+                },
+                {
+                    "statId": 41,
+                    "total": 4
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 44,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 3
+                },
+                {
+                    "statId": 82,
+                    "total": 35
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 24.8667
+                },
+                {
+                    "statId": 91,
+                    "total": 24.8667
+                },
+                {
+                    "statId": 92,
+                    "total": 7700
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 45.6667
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Tyreek",
+            "gameId": 5820182,
+            "gameStartTime": "2022-10-16T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/11477.png",
+            "lastName": "Hill",
+            "opposingTeamAbbreviation": "MIN",
+            "opposingTeamCity": "Minnesota",
+            "opposingTeamName": "Vikings",
+            "playerDkId": 11477,
+            "playerId": 823156,
+            "playerStates": [],
+            "points": 32.7,
+            "position": "WR",
+            "salary": 7500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": 177
+                },
+                {
+                    "statId": 44,
+                    "total": 12
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 15
+                },
+                {
+                    "statId": 82,
+                    "total": 28
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 77
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIA",
+            "teamCity": "Miami",
+            "teamId": 345,
+            "teamName": "Dolphins",
+            "valueIcon": "fire",
+            "weekNumber": 6
+        },
+        "members": [
+            {
+                "fantasyPoints": 157.66,
+                "rank": 1,
+                "userName": "climardo",
+                "winningValue": 33
+            },
+            {
+                "fantasyPoints": 147.4,
+                "rank": 2,
+                "userName": "DarbyDiaz3",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 137.18,
+                "rank": 3,
+                "userName": "glopez28",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 136.58,
+                "rank": 4,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 135.98,
+                "rank": 5,
+                "userName": "arianna29",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 130.62,
+                "rank": 6,
+                "userName": "g_mendoza",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 130.32,
+                "rank": 7,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 128.78,
+                "rank": 8,
+                "userName": "MattyDel14",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 126.9,
+                "rank": 9,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 123.92,
+                "rank": 10,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 119.48,
+                "rank": 11,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 112.38,
+                "rank": 12,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 100.92,
+                "rank": 13,
+                "userName": "LoLoGREEN",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 99.66,
+                "rank": 14,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 94.22,
+                "rank": 15,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 93.58,
+                "rank": 16,
+                "userName": "geedee3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 87.42,
+                "rank": 17,
+                "userName": "luisdello",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 86.88,
+                "rank": 18,
+                "userName": "BrunoDiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 73.18,
+                "rank": 19,
+                "userName": "Dash7",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Joe Burrow",
+            "draftedBy": [
+                "DarbyDiaz3"
+            ],
+            "fantasyPoints": 35.5,
+            "fantasyPointsPerGame": 24.62,
+            "fantasyPointsPerSalary": 0.005298507462686567,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 2
+                },
+                {
+                    "statId": 38,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 39,
+                    "total": 268
+                },
+                {
+                    "statId": 41,
+                    "total": 12.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 24
+                },
+                {
+                    "statId": 43,
+                    "total": 4
+                },
+                {
+                    "statId": 46,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 34.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 9
+                },
+                {
+                    "statId": 83,
+                    "total": 50.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 24.62
+                },
+                {
+                    "statId": 91,
+                    "total": 24.62
+                },
+                {
+                    "statId": 92,
+                    "total": 6666.6667
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 992,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 993,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
+            "firstName": "Joe",
+            "gameId": 5820200,
+            "gameStartTime": "2022-10-16T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485441.png",
+            "lastName": "Burrow",
+            "opposingTeamAbbreviation": "NO",
+            "opposingTeamCity": "New Orleans",
+            "opposingTeamName": "Saints",
+            "playerDkId": 485441,
+            "playerId": 878785,
+            "playerStates": [],
+            "points": 35.5,
+            "position": "QB",
+            "salary": 6700,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 3
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 300
+                },
+                {
+                    "statId": 41,
+                    "total": 25
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 28
+                },
+                {
+                    "statId": 43,
+                    "total": 4
+                },
+                {
+                    "statId": 71,
+                    "total": 37
+                },
+                {
+                    "statId": 81,
+                    "total": 19
+                },
+                {
+                    "statId": 83,
+                    "total": 60
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 993,
+                    "total": 1
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "CIN",
+            "teamCity": "Cincinnati",
+            "teamId": 327,
+            "teamName": "Bengals",
+            "valueIcon": "fire",
+            "weekNumber": 6
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Mike Gesicki",
+            "draftedBy": [],
+            "fantasyPoints": 24.9,
+            "fantasyPointsPerGame": 11.0667,
+            "fantasyPointsPerSalary": 0.008032258064516129,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 40.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 3
+                },
+                {
+                    "statId": 82,
+                    "total": 23
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 11.0667
+                },
+                {
+                    "statId": 91,
+                    "total": 11.0667
+                },
+                {
+                    "statId": 92,
+                    "total": 3566.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Mike",
+            "gameId": 5820182,
+            "gameStartTime": "2022-10-16T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/14499.png",
+            "lastName": "Gesicki",
+            "opposingTeamAbbreviation": "MIN",
+            "opposingTeamCity": "Minnesota",
+            "opposingTeamName": "Vikings",
+            "playerDkId": 14499,
+            "playerId": 836152,
+            "playerStates": [],
+            "points": 24.9,
+            "position": "TE",
+            "salary": 3100,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 69
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 467,
+                    "total": 7
+                },
+                {
+                    "statId": 82,
+                    "total": 18
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "MIA",
+            "teamCity": "Miami",
+            "teamId": 345,
+            "teamName": "Dolphins",
+            "valueIcon": "fire",
+            "weekNumber": 6
+        },
+        "week": 6
+    },
+    {
+        "week": 7,
+        "contest_id": 134446304,
+        "contest_start": "Oct 20, 2022 20:15:00"
     }
 ]
