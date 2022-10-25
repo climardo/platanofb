@@ -4599,8 +4599,719 @@
         "week": 6
     },
     {
-        "week": 7,
-        "contest_id": 134446304,
-        "contest_start": "Oct 20, 2022 20:15:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Deon Jackson",
+            "draftedBy": [],
+            "fantasyPoints": 0.3,
+            "fantasyPointsPerGame": 13.8333,
+            "fantasyPointsPerSalary": 5.0847457627118643e-05,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 36
+                },
+                {
+                    "statId": 41,
+                    "total": 35.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 9
+                },
+                {
+                    "statId": 44,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 14.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 13.8333
+                },
+                {
+                    "statId": 91,
+                    "total": 13.8333
+                },
+                {
+                    "statId": 92,
+                    "total": 5366.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Deon",
+            "gameId": 5818227,
+            "gameStartTime": "2022-10-23T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/561348.png",
+            "lastName": "Jackson",
+            "opposingTeamAbbreviation": "TEN",
+            "opposingTeamCity": "Tennessee",
+            "opposingTeamName": "Titans",
+            "playerDkId": 561348,
+            "playerId": 1056950,
+            "playerStates": [],
+            "points": 0.3,
+            "position": "RB",
+            "salary": 5900,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 81,
+                    "total": 4
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "IND",
+            "teamCity": "Indianapolis",
+            "teamId": 338,
+            "teamName": "Colts",
+            "valueIcon": "ice",
+            "weekNumber": 7
+        },
+        "contest_id": "134446304",
+        "contest_start": "Oct 20, 2022 20:15:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Andy Dalton",
+            "fantasyPoints": 32.54,
+            "fantasyPointsPerGame": 17.9667,
+            "fantasyPointsPerSalary": 0.0063803921568627445,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 2
+                },
+                {
+                    "statId": 39,
+                    "total": 236.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 8.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 21
+                },
+                {
+                    "statId": 43,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 46,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 34.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 6.3333
+                },
+                {
+                    "statId": 83,
+                    "total": 46
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 17.9667
+                },
+                {
+                    "statId": 91,
+                    "total": 17.9667
+                },
+                {
+                    "statId": 92,
+                    "total": 5166.6667
+                },
+                {
+                    "statId": 981,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 986,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 992,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 993,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 20.3333
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
+            "firstName": "Andy",
+            "gameId": 5818125,
+            "gameStartTime": "2022-10-21T00:15:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/13492.png",
+            "lastName": "Dalton",
+            "opposingTeamAbbreviation": "ARI",
+            "opposingTeamCity": "Arizona",
+            "opposingTeamName": "Cardinals",
+            "playerDkId": 13492,
+            "playerId": 322858,
+            "playerStates": [],
+            "points": 32.54,
+            "position": "QB",
+            "salary": 5100,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 4
+                },
+                {
+                    "statId": 39,
+                    "total": 361
+                },
+                {
+                    "statId": 41,
+                    "total": 21
+                },
+                {
+                    "statId": 46,
+                    "total": 3
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 30
+                },
+                {
+                    "statId": 43,
+                    "total": 4
+                },
+                {
+                    "statId": 71,
+                    "total": 47
+                },
+                {
+                    "statId": 81,
+                    "total": 14
+                },
+                {
+                    "statId": 83,
+                    "total": 64
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 986,
+                    "total": 1
+                },
+                {
+                    "statId": 993,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 61
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "NO",
+            "teamCity": "New Orleans",
+            "teamId": 350,
+            "teamName": "Saints",
+            "valueIcon": "fire",
+            "weekNumber": 7
+        },
+        "members": [
+            {
+                "fantasyPoints": 185.54,
+                "rank": 1,
+                "userName": "jlopez0809",
+                "winningValue": 33
+            },
+            {
+                "fantasyPoints": 178.14,
+                "rank": 2,
+                "userName": "geedee3",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 166.6,
+                "rank": 3,
+                "userName": "glopez28",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 151.92,
+                "rank": 4,
+                "userName": "arianna29",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 151.58,
+                "rank": 5,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 150.6,
+                "rank": 6,
+                "userName": "g_mendoza",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 149.16,
+                "rank": 7,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 144.4,
+                "rank": 8,
+                "userName": "MattyDel14",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 134.48,
+                "rank": 9,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 132.82,
+                "rank": 10,
+                "userName": "BrunoDiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 130.38,
+                "rank": 11,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 125.3,
+                "rank": 12,
+                "userName": "Dash7",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 123.4,
+                "rank": 13,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 123,
+                "rank": 14,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 118.9,
+                "rank": 15,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 116.72,
+                "rank": 16,
+                "userName": "luisdello",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 104.12,
+                "rank": 17,
+                "userName": "olivadotij",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Joe Burrow",
+            "draftedBy": [
+                "jlopez0809",
+                "geedee3"
+            ],
+            "fantasyPoints": 42.24,
+            "fantasyPointsPerGame": 32.0067,
+            "fantasyPointsPerSalary": 0.006121739130434783,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 332.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 17
+                },
+                {
+                    "statId": 42,
+                    "total": 28.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 46,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 71,
+                    "total": 38
+                },
+                {
+                    "statId": 81,
+                    "total": 14
+                },
+                {
+                    "statId": 83,
+                    "total": 51
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 32.0067
+                },
+                {
+                    "statId": 91,
+                    "total": 32.0067
+                },
+                {
+                    "statId": 92,
+                    "total": 6700
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 986,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 987,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 993,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 60.3333
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
+            "firstName": "Joe",
+            "gameId": 5818155,
+            "gameStartTime": "2022-10-23T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485441.png",
+            "lastName": "Burrow",
+            "opposingTeamAbbreviation": "ATL",
+            "opposingTeamCity": "Atlanta",
+            "opposingTeamName": "Falcons",
+            "playerDkId": 485441,
+            "playerId": 878785,
+            "playerStates": [],
+            "points": 42.24,
+            "position": "QB",
+            "salary": 6900,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 3
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 481
+                },
+                {
+                    "statId": 41,
+                    "total": 20
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 34
+                },
+                {
+                    "statId": 43,
+                    "total": 3
+                },
+                {
+                    "statId": 71,
+                    "total": 42
+                },
+                {
+                    "statId": 81,
+                    "total": 20
+                },
+                {
+                    "statId": 83,
+                    "total": 60
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 986,
+                    "total": 1
+                },
+                {
+                    "statId": 987,
+                    "total": 1
+                },
+                {
+                    "statId": 993,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 181
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "CIN",
+            "teamCity": "Cincinnati",
+            "teamId": 327,
+            "teamName": "Bengals",
+            "valueIcon": "fire",
+            "weekNumber": 7
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Juwan Johnson",
+            "draftedBy": [],
+            "fantasyPoints": 20.2,
+            "fantasyPointsPerGame": 10.2,
+            "fantasyPointsPerSalary": 0.007481481481481481,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 28.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 16.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 10.2
+                },
+                {
+                    "statId": 91,
+                    "total": 10.2
+                },
+                {
+                    "statId": 92,
+                    "total": 2833.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Juwan",
+            "gameId": 5818125,
+            "gameStartTime": "2022-10-21T00:15:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485734.png",
+            "lastName": "Johnson",
+            "opposingTeamAbbreviation": "ARI",
+            "opposingTeamCity": "Arizona",
+            "opposingTeamName": "Cardinals",
+            "playerDkId": 485734,
+            "playerId": 884609,
+            "playerStates": [],
+            "points": 20.2,
+            "position": "TE",
+            "salary": 2700,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 32
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 467,
+                    "total": 5
+                },
+                {
+                    "statId": 82,
+                    "total": 17
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "NO",
+            "teamCity": "New Orleans",
+            "teamId": 350,
+            "teamName": "Saints",
+            "valueIcon": "fire",
+            "weekNumber": 7
+        },
+        "week": 7
+    },
+    {
+        "week": 8,
+        "contest_id": 135025240,
+        "contest_start": "Oct 27, 2022 20:15:00"
     }
 ]
