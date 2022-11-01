@@ -5310,8 +5310,769 @@
         "week": 7
     },
     {
-        "week": 8,
-        "contest_id": 135025240,
-        "contest_start": "Oct 27, 2022 20:15:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Davante Adams",
+            "draftedBy": [
+                "MattyDel14"
+            ],
+            "fantasyPoints": 1.2,
+            "fantasyPointsPerGame": 16.3667,
+            "fantasyPointsPerSalary": 0.00013953488372093022,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 74
+                },
+                {
+                    "statId": 41,
+                    "total": -0.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": -0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 25.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 16.3667
+                },
+                {
+                    "statId": 91,
+                    "total": 16.3667
+                },
+                {
+                    "statId": 92,
+                    "total": 8600
+                },
+                {
+                    "statId": 467,
+                    "total": 7
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 8
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Davante",
+            "gameId": 5818732,
+            "gameStartTime": "2022-10-30T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19493.png",
+            "lastName": "Adams",
+            "opposingTeamAbbreviation": "NO",
+            "opposingTeamCity": "New Orleans",
+            "opposingTeamName": "Saints",
+            "playerDkId": 19493,
+            "playerId": 611417,
+            "playerStates": [],
+            "points": 1.2,
+            "position": "WR",
+            "salary": 8600,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": 3
+                },
+                {
+                    "statId": 41,
+                    "total": -1
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 5
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": -1
+                },
+                {
+                    "statId": 82,
+                    "total": 3
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "LV",
+            "teamCity": "Las Vegas",
+            "teamId": 341,
+            "teamName": "Raiders",
+            "valueIcon": "ice",
+            "weekNumber": 8
+        },
+        "contest_id": "135025240",
+        "contest_start": "Oct 27, 2022 20:15:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Kyler Murray",
+            "fantasyPoints": 29.64,
+            "fantasyPointsPerGame": 22.2267,
+            "fantasyPointsPerSalary": 0.003952,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 250.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 55.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 24.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 7.6667
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 47,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 70,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 36.6667
+                },
+                {
+                    "statId": 74,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 22.3333
+                },
+                {
+                    "statId": 83,
+                    "total": 33.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 22.2267
+                },
+                {
+                    "statId": 91,
+                    "total": 22.2267
+                },
+                {
+                    "statId": 92,
+                    "total": 7400
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 996,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 8.6667
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Kyler",
+            "gameId": 5818708,
+            "gameStartTime": "2022-10-30T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/17976.png",
+            "lastName": "Murray",
+            "opposingTeamAbbreviation": "MIN",
+            "opposingTeamCity": "Minnesota",
+            "opposingTeamName": "Vikings",
+            "playerDkId": 17976,
+            "playerId": 879799,
+            "playerStates": [],
+            "points": 29.64,
+            "position": "QB",
+            "salary": 7500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 3
+                },
+                {
+                    "statId": 39,
+                    "total": 326
+                },
+                {
+                    "statId": 41,
+                    "total": 36
+                },
+                {
+                    "statId": 46,
+                    "total": 2
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 31
+                },
+                {
+                    "statId": 43,
+                    "total": 6
+                },
+                {
+                    "statId": 71,
+                    "total": 44
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 8
+                },
+                {
+                    "statId": 83,
+                    "total": 38
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 26
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "ARI",
+            "teamCity": "Arizona",
+            "teamId": 355,
+            "teamName": "Cardinals",
+            "valueIcon": "fire",
+            "weekNumber": 8
+        },
+        "members": [
+            {
+                "fantasyPoints": 195.46,
+                "rank": 1,
+                "userName": "climardo",
+                "winningValue": 33
+            },
+            {
+                "fantasyPoints": 175.94,
+                "rank": 2,
+                "userName": "JekellP",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 172.78,
+                "rank": 3,
+                "userName": "DarbyDiaz3",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 161.08,
+                "rank": 4,
+                "userName": "glopez28",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 159.58,
+                "rank": 5,
+                "userName": "arianna29",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 155.52,
+                "rank": 6,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 150.94,
+                "rank": 7,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 150.9,
+                "rank": 8,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 150.56,
+                "rank": 9,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 138.84,
+                "rank": 10,
+                "userName": "geedee3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 137.58,
+                "rank": 11,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 137.58,
+                "rank": 11,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 134.02,
+                "rank": 13,
+                "userName": "luisdello",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 130.2,
+                "rank": 14,
+                "userName": "Dash7",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 125.9,
+                "rank": 15,
+                "userName": "LoLoGREEN",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 124.94,
+                "rank": 16,
+                "userName": "MattyDel14",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 121.72,
+                "rank": 17,
+                "userName": "BrunoDiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 117.74,
+                "rank": 18,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 114.68,
+                "rank": 19,
+                "userName": "g_mendoza",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Alvin Kamara",
+            "draftedBy": [
+                "climardo",
+                "rogdiaz"
+            ],
+            "fantasyPoints": 42.8,
+            "fantasyPointsPerGame": 26.2333,
+            "fantasyPointsPerSalary": 0.006028169014084507,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 59
+                },
+                {
+                    "statId": 41,
+                    "total": 70
+                },
+                {
+                    "statId": 43,
+                    "total": 16
+                },
+                {
+                    "statId": 44,
+                    "total": 7.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 16.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 19
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 26.2333
+                },
+                {
+                    "statId": 91,
+                    "total": 26.2333
+                },
+                {
+                    "statId": 92,
+                    "total": 6900
+                },
+                {
+                    "statId": 467,
+                    "total": 9.3333
+                },
+                {
+                    "statId": 982,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Alvin",
+            "gameId": 5818732,
+            "gameStartTime": "2022-10-30T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/18573.png",
+            "lastName": "Kamara",
+            "opposingTeamAbbreviation": "LV",
+            "opposingTeamCity": "Las Vegas",
+            "opposingTeamName": "Raiders",
+            "playerDkId": 18573,
+            "playerId": 750846,
+            "playerStates": [],
+            "points": 42.8,
+            "position": "RB",
+            "salary": 7100,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 96
+                },
+                {
+                    "statId": 41,
+                    "total": 62
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 467,
+                    "total": 10
+                },
+                {
+                    "statId": 43,
+                    "total": 18
+                },
+                {
+                    "statId": 81,
+                    "total": 9
+                },
+                {
+                    "statId": 82,
+                    "total": 36
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "NO",
+            "teamCity": "New Orleans",
+            "teamId": 350,
+            "teamName": "Saints",
+            "valueIcon": "fire",
+            "weekNumber": 8
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Tyler Conklin",
+            "draftedBy": [],
+            "fantasyPoints": 25.9,
+            "fantasyPointsPerGame": 11.6,
+            "fantasyPointsPerSalary": 0.00809375,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 39
+                },
+                {
+                    "statId": 41,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 17
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 11.6
+                },
+                {
+                    "statId": 91,
+                    "total": 11.6
+                },
+                {
+                    "statId": 92,
+                    "total": 3266.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Tyler",
+            "gameId": 5818756,
+            "gameStartTime": "2022-10-30T17:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/17063.png",
+            "lastName": "Conklin",
+            "opposingTeamAbbreviation": "NE",
+            "opposingTeamCity": "New England",
+            "opposingTeamName": "Patriots",
+            "playerDkId": 17063,
+            "playerId": 861278,
+            "playerStates": [],
+            "points": 25.9,
+            "position": "TE",
+            "salary": 3200,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 79
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 467,
+                    "total": 10
+                },
+                {
+                    "statId": 82,
+                    "total": 27
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "NYJ",
+            "teamCity": "New York",
+            "teamId": 352,
+            "teamName": "Jets",
+            "valueIcon": "fire",
+            "weekNumber": 8
+        },
+        "week": 8
+    },
+    {
+        "week": 9,
+        "contest_id": 135587377,
+        "contest_start": "Nov 03, 2022 20:15:00"
     }
 ]
