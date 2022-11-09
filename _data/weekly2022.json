@@ -6071,8 +6071,764 @@
         "week": 8
     },
     {
-        "week": 9,
-        "contest_id": 135587377,
-        "contest_start": "Nov 03, 2022 20:15:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Cam Akers",
+            "draftedBy": [],
+            "fantasyPoints": 0.3,
+            "fantasyPointsPerGame": 1.6333,
+            "fantasyPointsPerSalary": 5.9999999999999995e-05,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 41,
+                    "total": 16.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 8.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 7
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 1.6333
+                },
+                {
+                    "statId": 91,
+                    "total": 1.6333
+                },
+                {
+                    "statId": 92,
+                    "total": 5366.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Cam",
+            "gameId": 5819110,
+            "gameStartTime": "2022-11-06T21:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/468530.png",
+            "lastName": "Akers",
+            "opposingTeamAbbreviation": "TB",
+            "opposingTeamCity": "Tampa Bay",
+            "opposingTeamName": "Buccaneers",
+            "playerDkId": 468530,
+            "playerId": 976251,
+            "playerStates": [],
+            "points": 0.3,
+            "position": "RB",
+            "salary": 5000,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 5
+                },
+                {
+                    "statId": 81,
+                    "total": 2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "LAR",
+            "teamCity": "Los Angeles",
+            "teamId": 343,
+            "teamName": "Rams",
+            "valueIcon": "ice",
+            "weekNumber": 9
+        },
+        "contest_id": "135587377",
+        "contest_start": "Nov 03, 2022 20:15:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "Davante Adams",
+            "fantasyPoints": 39.6,
+            "fantasyPointsPerGame": 19.4333,
+            "fantasyPointsPerSalary": 0.004888888888888889,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 81.3333
+                },
+                {
+                    "statId": 41,
+                    "total": -0.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 6.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": -0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 19
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 19.4333
+                },
+                {
+                    "statId": 91,
+                    "total": 19.4333
+                },
+                {
+                    "statId": 92,
+                    "total": 8466.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "firstName": "Davante",
+            "gameId": 5819032,
+            "gameStartTime": "2022-11-06T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19493.png",
+            "lastName": "Adams",
+            "opposingTeamAbbreviation": "JAX",
+            "opposingTeamCity": "Jacksonville",
+            "opposingTeamName": "Jaguars",
+            "playerDkId": 19493,
+            "playerId": 611417,
+            "playerStates": [],
+            "points": 39.6,
+            "position": "WR",
+            "salary": 8100,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 146
+                },
+                {
+                    "statId": 44,
+                    "total": 10
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 17
+                },
+                {
+                    "statId": 82,
+                    "total": 38
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 46
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "LV",
+            "teamCity": "Las Vegas",
+            "teamId": 341,
+            "teamName": "Raiders",
+            "valueIcon": "fire",
+            "weekNumber": 9
+        },
+        "members": [
+            {
+                "fantasyPoints": 184.82,
+                "rank": 1,
+                "userName": "rogdiaz",
+                "winningValue": 33
+            },
+            {
+                "fantasyPoints": 176.14,
+                "rank": 2,
+                "userName": "arianna29",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 156.42,
+                "rank": 3,
+                "userName": "climardo",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 136.06,
+                "rank": 4,
+                "userName": "hlimardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 135.08,
+                "rank": 5,
+                "userName": "glopez28",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 133.18,
+                "rank": 6,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 132.28,
+                "rank": 7,
+                "userName": "geedee3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 130.2,
+                "rank": 8,
+                "userName": "g_mendoza",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 129.32,
+                "rank": 9,
+                "userName": "luisdello",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 126.2,
+                "rank": 10,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 121.64,
+                "rank": 11,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 121.4,
+                "rank": 12,
+                "userName": "MattyDel14",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 116.8,
+                "rank": 13,
+                "userName": "olivadotij",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 116,
+                "rank": 14,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 102.22,
+                "rank": 15,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 99.16,
+                "rank": 16,
+                "userName": "Dash7",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 87.8,
+                "rank": 17,
+                "userName": "BrunoDiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 80,
+                "rank": 18,
+                "userName": "pshhidk",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Joe Mixon",
+            "draftedBy": [
+                "rogdiaz",
+                "g_mendoza"
+            ],
+            "fantasyPoints": 58.1,
+            "fantasyPointsPerGame": 29.7,
+            "fantasyPointsPerSalary": 0.00893846153846154,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 41
+                },
+                {
+                    "statId": 41,
+                    "total": 79.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 15.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 29.7
+                },
+                {
+                    "statId": 91,
+                    "total": 29.7
+                },
+                {
+                    "statId": 92,
+                    "total": 6733.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 5.6667
+                },
+                {
+                    "statId": 982,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 984,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1010,
+                    "total": 17.6667
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Joe",
+            "gameId": 5819002,
+            "gameStartTime": "2022-11-06T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/13893.png",
+            "lastName": "Mixon",
+            "opposingTeamAbbreviation": "CAR",
+            "opposingTeamCity": "Carolina",
+            "opposingTeamName": "Panthers",
+            "playerDkId": 13893,
+            "playerId": 820727,
+            "playerStates": [],
+            "points": 58.1,
+            "position": "RB",
+            "salary": 6500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 4
+                },
+                {
+                    "statId": 40,
+                    "total": 58
+                },
+                {
+                    "statId": 41,
+                    "total": 153
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 5
+                },
+                {
+                    "statId": 43,
+                    "total": 22
+                },
+                {
+                    "statId": 81,
+                    "total": 29
+                },
+                {
+                    "statId": 82,
+                    "total": 35
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 53
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "CIN",
+            "teamCity": "Cincinnati",
+            "teamId": 327,
+            "teamName": "Bengals",
+            "valueIcon": "fire",
+            "weekNumber": 9
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Joe Mixon",
+            "draftedBy": [
+                "rogdiaz",
+                "g_mendoza"
+            ],
+            "fantasyPoints": 58.1,
+            "fantasyPointsPerGame": 29.7,
+            "fantasyPointsPerSalary": 0.00893846153846154,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 41
+                },
+                {
+                    "statId": 41,
+                    "total": 79.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 15.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 29.7
+                },
+                {
+                    "statId": 91,
+                    "total": 29.7
+                },
+                {
+                    "statId": 92,
+                    "total": 6733.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 5.6667
+                },
+                {
+                    "statId": 982,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 984,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1010,
+                    "total": 17.6667
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Joe",
+            "gameId": 5819002,
+            "gameStartTime": "2022-11-06T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/13893.png",
+            "lastName": "Mixon",
+            "opposingTeamAbbreviation": "CAR",
+            "opposingTeamCity": "Carolina",
+            "opposingTeamName": "Panthers",
+            "playerDkId": 13893,
+            "playerId": 820727,
+            "playerStates": [],
+            "points": 58.1,
+            "position": "RB",
+            "salary": 6500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 38,
+                    "total": 4
+                },
+                {
+                    "statId": 40,
+                    "total": 58
+                },
+                {
+                    "statId": 41,
+                    "total": 153
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 5
+                },
+                {
+                    "statId": 43,
+                    "total": 22
+                },
+                {
+                    "statId": 81,
+                    "total": 29
+                },
+                {
+                    "statId": 82,
+                    "total": 35
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 984,
+                    "total": 1
+                },
+                {
+                    "statId": 988,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 53
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "CIN",
+            "teamCity": "Cincinnati",
+            "teamId": 327,
+            "teamName": "Bengals",
+            "valueIcon": "fire",
+            "weekNumber": 9
+        },
+        "week": 9
+    },
+    {
+        "week": 10,
+        "contest_id": 136090980,
+        "contest_start": "Nov 10, 2022 20:15:00"
     }
 ]
