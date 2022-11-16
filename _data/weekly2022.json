@@ -6827,8 +6827,737 @@
         "week": 9
     },
     {
-        "week": 10,
-        "contest_id": 136090980,
-        "contest_start": "Nov 10, 2022 20:15:00"
+        "bust": {
+            "attributes": {},
+            "displayName": "Taysom Hill",
+            "draftedBy": [],
+            "fantasyPoints": 0.1,
+            "fantasyPointsPerGame": 3.1667,
+            "fantasyPointsPerSalary": 2e-05,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 39,
+                    "total": 5
+                },
+                {
+                    "statId": 40,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 22.6667
+                },
+                {
+                    "statId": 42,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 6
+                },
+                {
+                    "statId": 82,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 83,
+                    "total": 5
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 3.1667
+                },
+                {
+                    "statId": 91,
+                    "total": 3.1667
+                },
+                {
+                    "statId": 92,
+                    "total": 5066.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Taysom",
+            "gameId": 5819398,
+            "gameStartTime": "2022-11-13T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/18521.png",
+            "lastName": "Hill",
+            "opposingTeamAbbreviation": "PIT",
+            "opposingTeamCity": "Pittsburgh",
+            "opposingTeamName": "Steelers",
+            "playerDkId": 18521,
+            "playerId": 503184,
+            "playerStates": [],
+            "points": 0.1,
+            "position": "TE",
+            "salary": 5000,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 3
+                },
+                {
+                    "statId": 71,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 1
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "NO",
+            "teamCity": "New Orleans",
+            "teamId": 350,
+            "teamName": "Saints",
+            "valueIcon": "ice",
+            "weekNumber": 10
+        },
+        "contest_id": "136090980",
+        "contest_start": "Nov 10, 2022 20:15:00",
+        "draft_dodger": {
+            "attributes": {},
+            "displayName": "CeeDee Lamb",
+            "fantasyPoints": 41,
+            "fantasyPointsPerGame": 23.4667,
+            "fantasyPointsPerSalary": 0.005857142857142857,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 99
+                },
+                {
+                    "statId": 41,
+                    "total": -1
+                },
+                {
+                    "statId": 43,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 6.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": -1
+                },
+                {
+                    "statId": 82,
+                    "total": 27
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 23.4667
+                },
+                {
+                    "statId": 91,
+                    "total": 23.4667
+                },
+                {
+                    "statId": 92,
+                    "total": 6933.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 9.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 16.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "firstName": "CeeDee",
+            "gameId": 5817756,
+            "gameStartTime": "2022-11-13T21:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485450.png",
+            "lastName": "Lamb",
+            "opposingTeamAbbreviation": "GB",
+            "opposingTeamCity": "Green Bay",
+            "opposingTeamName": "Packers",
+            "playerDkId": 485450,
+            "playerId": 1062020,
+            "playerStates": [],
+            "points": 41,
+            "position": "WR",
+            "salary": 7000,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 150
+                },
+                {
+                    "statId": 44,
+                    "total": 11
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 15
+                },
+                {
+                    "statId": 82,
+                    "total": 35
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 50
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "DAL",
+            "teamCity": "Dallas",
+            "teamId": 331,
+            "teamName": "Cowboys",
+            "valueIcon": "fire",
+            "weekNumber": 10
+        },
+        "members": [
+            {
+                "fantasyPoints": 157.08,
+                "rank": 1,
+                "userName": "g_mendoza",
+                "winningValue": 33
+            },
+            {
+                "fantasyPoints": 154.78,
+                "rank": 2,
+                "userName": "olivadotij",
+                "winningValue": 15
+            },
+            {
+                "fantasyPoints": 148.28,
+                "rank": 3,
+                "userName": "arianna29",
+                "winningValue": 8
+            },
+            {
+                "fantasyPoints": 148.08,
+                "rank": 4,
+                "userName": "JekellP",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 138.8,
+                "rank": 5,
+                "userName": "LoLoGREEN",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 135.1,
+                "rank": 6,
+                "userName": "jlopez0809",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 130.58,
+                "rank": 7,
+                "userName": "DarbyDiaz3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 130.38,
+                "rank": 8,
+                "userName": "geedee3",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 122.08,
+                "rank": 9,
+                "userName": "BrunoDiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 120.88,
+                "rank": 10,
+                "userName": "luisdello",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 118.74,
+                "rank": 11,
+                "userName": "pshhidk",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 118.48,
+                "rank": 12,
+                "userName": "glopez28",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 111.14,
+                "rank": 13,
+                "userName": "rogdiaz",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 110.4,
+                "rank": 14,
+                "userName": "climardo",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 101.78,
+                "rank": 15,
+                "userName": "MattyDel14",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 99.98,
+                "rank": 16,
+                "userName": "frank.corn",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 97.62,
+                "rank": 17,
+                "userName": "ejmesa",
+                "winningValue": 0
+            },
+            {
+                "fantasyPoints": 85.4,
+                "rank": 18,
+                "userName": "Dash7",
+                "winningValue": 0
+            }
+        ],
+        "mvp": {
+            "attributes": {},
+            "displayName": "Justin Fields",
+            "draftedBy": [
+                "g_mendoza",
+                "olivadotij",
+                "arianna29",
+                "JekellP",
+                "DarbyDiaz3",
+                "BrunoDiaz",
+                "luisdello",
+                "glopez28",
+                "MattyDel14",
+                "frank.corn"
+            ],
+            "fantasyPoints": 43.38,
+            "fantasyPointsPerGame": 38.38,
+            "fantasyPointsPerSalary": 0.006673846153846154,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 38,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 147
+                },
+                {
+                    "statId": 41,
+                    "total": 128.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 12
+                },
+                {
+                    "statId": 46,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 48,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 70,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 47.6667
+                },
+                {
+                    "statId": 83,
+                    "total": 34.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 38.38
+                },
+                {
+                    "statId": 91,
+                    "total": 38.38
+                },
+                {
+                    "statId": 92,
+                    "total": 5666.6667
+                },
+                {
+                    "statId": 982,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 988,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 992,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 997,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1010,
+                    "total": 41.6667
+                },
+                {
+                    "statId": 1216,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "firstName": "Justin",
+            "gameId": 5819290,
+            "gameStartTime": "2022-11-13T18:00:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/560065.png",
+            "lastName": "Fields",
+            "opposingTeamAbbreviation": "DET",
+            "opposingTeamCity": "Detroit",
+            "opposingTeamName": "Lions",
+            "playerDkId": 560065,
+            "playerId": 1110681,
+            "playerStates": [],
+            "points": 43.38,
+            "position": "QB",
+            "salary": 6500,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 2
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 39,
+                    "total": 167
+                },
+                {
+                    "statId": 41,
+                    "total": 147
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 12
+                },
+                {
+                    "statId": 43,
+                    "total": 13
+                },
+                {
+                    "statId": 71,
+                    "total": 20
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 67
+                },
+                {
+                    "statId": 83,
+                    "total": 50
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 997,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 47
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "CHI",
+            "teamCity": "Chicago",
+            "teamId": 326,
+            "teamName": "Bears",
+            "valueIcon": "fire",
+            "weekNumber": 10
+        },
+        "sleeper": {
+            "attributes": {},
+            "displayName": "Christian Watson",
+            "draftedBy": [],
+            "fantasyPoints": 35.7,
+            "fantasyPointsPerGame": 14.1,
+            "fantasyPointsPerSalary": 0.00964864864864865,
+            "fantasyStatsNumGames": 3,
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 47.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 29.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 14.1
+                },
+                {
+                    "statId": 91,
+                    "total": 14.1
+                },
+                {
+                    "statId": 92,
+                    "total": 3500
+                },
+                {
+                    "statId": 467,
+                    "total": 3.6667
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                }
+            ],
+            "firstName": "Christian",
+            "gameId": 5817756,
+            "gameStartTime": "2022-11-13T21:25:00.0000000Z",
+            "gameStatus": "liveOrFinal",
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/640851.png",
+            "lastName": "Watson",
+            "opposingTeamAbbreviation": "DAL",
+            "opposingTeamCity": "Dallas",
+            "opposingTeamName": "Cowboys",
+            "playerDkId": 640851,
+            "playerId": 1067918,
+            "playerStates": [],
+            "points": 35.7,
+            "position": "WR",
+            "salary": 3700,
+            "sport": "nfl",
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 107
+                },
+                {
+                    "statId": 44,
+                    "total": 4
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 8
+                },
+                {
+                    "statId": 82,
+                    "total": 58
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 7
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "teamAbbreviation": "GB",
+            "teamCity": "Green Bay",
+            "teamId": 335,
+            "teamName": "Packers",
+            "valueIcon": "fire",
+            "weekNumber": 10
+        },
+        "week": 10
+    },
+    {
+        "week": 11,
+        "contest_id": 136566545,
+        "contest_start": "Nov 17, 2022 20:15:00"
     }
 ]
