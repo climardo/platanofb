@@ -7558,6 +7558,103 @@
     {
         "week": 11,
         "contest_id": 136566545,
-        "contest_start": "Nov 17, 2022 20:15:00"
+        "contest_start": "Nov 17, 2022 20:15:00",
+        "members": [
+            {
+                "rank": 1,
+                "userName": "pshhidk",
+                "fantasyPoints": 150.64
+            },
+            {
+                "rank": 2,
+                "userName": "JekellP",
+                "fantasyPoints": 145.04
+            },
+            {
+                "rank": 3,
+                "userName": "g_mendoza",
+                "fantasyPoints": 137.82
+            },
+            {
+                "rank": 4,
+                "userName": "MattyDel14",
+                "fantasyPoints": 129.84
+            },
+            {
+                "rank": 5,
+                "userName": "glopez28",
+                "fantasyPoints": 128.84
+            },
+            {
+                "rank": 6,
+                "userName": "frank.corn",
+                "fantasyPoints": 125.2
+            },
+            {
+                "rank": 7,
+                "userName": "geedee3",
+                "fantasyPoints": 124.30001
+            },
+            {
+                "rank": 8,
+                "userName": "rogdiaz",
+                "fantasyPoints": 122.34
+            },
+            {
+                "rank": 9,
+                "userName": "hlimardo",
+                "fantasyPoints": 113.94
+            },
+            {
+                "rank": 10,
+                "userName": "arianna29",
+                "fantasyPoints": 113.74
+            },
+            {
+                "rank": 11,
+                "userName": "ejmesa",
+                "fantasyPoints": 112.5
+            },
+            {
+                "rank": 12,
+                "userName": "olivadotij",
+                "fantasyPoints": 107.46001
+            },
+            {
+                "rank": 13,
+                "userName": "luisdello",
+                "fantasyPoints": 105.32
+            },
+            {
+                "rank": 14,
+                "userName": "Dash7",
+                "fantasyPoints": 104.53999
+            },
+            {
+                "rank": 15,
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": 102.840004
+            },
+            {
+                "rank": 16,
+                "userName": "climardo",
+                "fantasyPoints": 98.3
+            },
+            {
+                "rank": 17,
+                "userName": "BrunoDiaz",
+                "fantasyPoints": 86.62001
+            },
+            {
+                "rank": 18,
+                "userName": "jlopez0809",
+                "fantasyPoints": 85.520004
+            }
+        ]
+    },
+    {
+        "week": 12,
+        "contest_id": 137023206,
+        "contest_start": "Nov 24, 2022 20:15:00"
     }
 ]
