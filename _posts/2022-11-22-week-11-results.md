@@ -18,17 +18,10 @@ Anyway, congratulations to **pshhidk**, first time placing and first overall for
 
 Anyway, I wish you all good luck in Week 12. And I'll leave you with some other observations I made this week:
 > Austin Hooper and Treylon Burks were actually great choices last night. Only @Gee drafted Hooper and no one drafted Burks. Each catch is a big deal for these low-salary, punt plays.
-<figure class="figure">
-    <img class="img-fluid" src="/assets/images/2022/week-11-austin-hooper.png" width="364px" alt="Austin Hooper"/>
-</figure>
-<figure class="figure">
-    <img class="img-fluid" src="/assets/images/2022/week-11-treylon-burks.png" width="364px" alt="Treylon Burks"/>
-</figure>
+{% include dk-live-screenshot.html player_name='Austin Hooper' %}
+{% include dk-live-screenshot.html player_name='Treylon Burks' %}
 
 ---
 
 > Derrick Henry had a modest performance, but was just 13 rushing yards shy of the 3 fpts bonus and 1 receiving TD away from the hat trick that Joe Mixon pulled off a few weeks ago. I'll add, he had 28 carries 😳 which is 22% above his average. And scored almost 4 fpts over his expectation. Not a bad pickup, but not the big pay off you want from $8,100 salary.
-<figure class="figure">
-    <img class="img-fluid" src="/assets/images/2022/week-11-derrick-henry.png" width="364px" alt="Derrick Henry"/>
-</figure>
-
+{% include dk-live-screenshot.html player_name='Derrick Henry' %}
