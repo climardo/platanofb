@@ -14,8 +14,6 @@ First paragraph
 
 Second paragraph
 
-{% include superlatives.html %}
-
 ##### Weekly analysis <small class="text-muted">Recap and advice</small>
 - [Link1](#)
 - [Link2](#)

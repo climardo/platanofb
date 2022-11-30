@@ -7655,6 +7655,121 @@
     {
         "week": 12,
         "contest_id": 137023206,
-        "contest_start": "Nov 24, 2022 20:15:00"
+        "contest_start": "Nov 24, 2022 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "159.06",
+                "lineup": "QB Kirk Cousins RB Jonathan Taylor RB James Conner WR DeAndre Hopkins FLEX Jakobi Meyers WR Adam Thielen WR Zay Jones TE Pat Freiermuth DST Eagles "
+            },
+            {
+                "rank": "2",
+                "userName": "geedee3",
+                "fantasyPoints": "156.92",
+                "lineup": "QB Geno Smith FLEX Austin Ekeler RB Kenneth Walker III RB Isiah Pacheco WR Christian Kirk WR Chris Godwin WR Christian Watson TE Austin Hooper DST Jaguars "
+            },
+            {
+                "rank": "3",
+                "userName": "arianna29",
+                "fantasyPoints": "150.3",
+                "lineup": "QB Joe Burrow FLEX Jeff Wilson Jr. RB Rachaad White RB Latavius Murray WR DeAndre Hopkins WR Tee Higgins WR DK Metcalf TE Foster Moreau DST Chiefs "
+            },
+            {
+                "rank": "4",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "148.2",
+                "lineup": "QB Justin Herbert RB Jeff Wilson Jr. FLEX Isiah Pacheco RB Rachaad White WR Justin Jefferson WR Brandon Aiyuk WR Keenan Allen TE Austin Hooper DST Raiders "
+            },
+            {
+                "rank": "5",
+                "userName": "Dash7",
+                "fantasyPoints": "142.28",
+                "lineup": "QB Jimmy Garoppolo RB Kenneth Walker III RB Isiah Pacheco WR Christian Kirk WR Chris Godwin WR Christian Watson FLEX Travis Kelce TE Cole Kmet DST Chiefs "
+            },
+            {
+                "rank": "6",
+                "userName": "jlopez0809",
+                "fantasyPoints": "141.3",
+                "lineup": "QB Tua Tagovailoa RB Jeff Wilson Jr. RB Samaje Perine WR Tyreek Hill WR Justin Jefferson WR Treylon Burks FLEX Skyy Moore TE David Njoku DST Jets "
+            },
+            {
+                "rank": "7",
+                "userName": "ejmesa",
+                "fantasyPoints": "133.02",
+                "lineup": "QB Geno Smith RB Kenneth Walker III RB Jeff Wilson Jr. FLEX Michael Carter WR A.J. Brown WR JuJu Smith-Schuster WR DeAndre Carter TE T.J. Hockenson DST Dolphins "
+            },
+            {
+                "rank": "8",
+                "userName": "climardo",
+                "fantasyPoints": "131.52",
+                "lineup": "QB Geno Smith RB Kenneth Walker III FLEX James Conner RB Jeff Wilson Jr. WR Jaylen Waddle WR Keenan Allen WR Terry McLaurin TE Mo Alie-Cox DST Chiefs "
+            },
+            {
+                "rank": "9",
+                "userName": "glopez28",
+                "fantasyPoints": "130.26",
+                "lineup": "QB Tua Tagovailoa RB Kenneth Walker III RB Samaje Perine FLEX Mike Evans WR Courtland Sutton WR Joshua Palmer WR Christian Watson TE Pat Freiermuth DST Dolphins "
+            },
+            {
+                "rank": "10",
+                "userName": "MattyDel14",
+                "fantasyPoints": "129.5",
+                "lineup": "QB Joe Burrow RB Miles Sanders RB Jeff Wilson Jr. WR Tee Higgins WR Christian Kirk FLEX Joshua Palmer WR Curtis Samuel TE Pat Freiermuth DST Chiefs "
+            },
+            {
+                "rank": "11",
+                "userName": "luisdello",
+                "fantasyPoints": "127.4",
+                "lineup": "QB Derek Carr RB Rhamondre Stevenson RB Isiah Pacheco WR Brandon Aiyuk FLEX Tyler Boyd WR Donovan Peoples-Jones WR Garrett Wilson TE Travis Kelce DST Jets "
+            },
+            {
+                "rank": "12",
+                "userName": "hlimardo",
+                "fantasyPoints": "123.86",
+                "lineup": "QB Tua Tagovailoa RB Jeff Wilson Jr. RB Isiah Pacheco WR Tyreek Hill WR Robert Woods WR Zay Jones FLEX Treylon Burks TE Mark Andrews DST Falcons "
+            },
+            {
+                "rank": "13",
+                "userName": "g_mendoza",
+                "fantasyPoints": "123.82",
+                "lineup": "QB Geno Smith RB Travis Etienne Jr. RB Jeff Wilson Jr. FLEX Rachaad White WR Davante Adams WR Terry McLaurin WR Garrett Wilson TE Austin Hooper DST Chiefs "
+            },
+            {
+                "rank": "14",
+                "userName": "JekellP",
+                "fantasyPoints": "118",
+                "lineup": "QB Joe Burrow RB Kenneth Walker III RB Miles Sanders WR Christian Kirk WR Michael Pittman Jr. FLEX Terry McLaurin WR Devin Duvernay TE Cole Kmet DST Bears "
+            },
+            {
+                "rank": "15",
+                "userName": "olivadotij",
+                "fantasyPoints": "109.74",
+                "lineup": "QB Trevor Lawrence RB Jonathan Taylor FLEX Isiah Pacheco RB Michael Carter WR Christian Kirk WR Demarcus Robinson WR Treylon Burks TE Mark Andrews DST Broncos "
+            },
+            {
+                "rank": "16",
+                "userName": "rogdiaz",
+                "fantasyPoints": "106.56",
+                "lineup": "QB Matt Ryan FLEX Austin Ekeler RB Jeff Wilson Jr. RB Latavius Murray WR Tyreek Hill WR Tyler Boyd WR Randall Cobb TE Pat Freiermuth DST Chiefs "
+            },
+            {
+                "rank": "17",
+                "userName": "frank.corn",
+                "fantasyPoints": "106.5",
+                "lineup": "QB Joe Burrow RB Kenneth Walker III RB Michael Carter FLEX Latavius Murray WR Jaylen Waddle WR Tyler Lockett WR Keenan Allen TE Juwan Johnson DST Steelers "
+            },
+            {
+                "rank": "18",
+                "userName": "pshhidk",
+                "fantasyPoints": "82.96",
+                "lineup": "QB Tua Tagovailoa RB Dameon Pierce RB Dontrell Hilliard WR Tyreek Hill WR Curtis Samuel WR Marquez Valdes-Scantling TE Travis Kelce FLEX David Njoku DST Patriots "
+            }
+        ]
+    },
+    {
+        "week": 13,
+        "contest_id": 137575400,
+        "contest_start": "Dec 01, 2022 20:15:00"
     }
 ]
