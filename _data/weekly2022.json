@@ -7770,6 +7770,127 @@
     {
         "week": 13,
         "contest_id": 137575400,
-        "contest_start": "Dec 01, 2022 20:15:00"
+        "contest_start": "Dec 01, 2022 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "JekellP",
+                "fantasyPoints": "157.31999",
+                "lineup": "QB Josh Allen RB Tony Pollard RB Jamaal Williams WR Christian Kirk WR Tyler Boyd FLEX Garrett Wilson WR Drake London TE Cole Kmet DST Cowboys "
+            },
+            {
+                "rank": "2",
+                "userName": "MattyDel14",
+                "fantasyPoints": "152.06",
+                "lineup": "QB Trevor Lawrence RB Nick Chubb RB Brian Robinson Jr. FLEX Christian Kirk WR Tyler Lockett WR Joshua Palmer WR Garrett Wilson TE Foster Moreau DST Cowboys "
+            },
+            {
+                "rank": "3",
+                "userName": "arianna29",
+                "fantasyPoints": "151.56",
+                "lineup": "QB Trevor Lawrence RB David Montgomery FLEX Samaje Perine RB Dameon Pierce WR Amon-Ra St. Brown WR Chris Godwin WR Christian Kirk TE Foster Moreau DST Dolphins "
+            },
+            {
+                "rank": "4",
+                "userName": "ejmesa",
+                "fantasyPoints": "147.08",
+                "lineup": "QB Geno Smith RB Rhamondre Stevenson RB David Montgomery WR A.J. Brown WR DK Metcalf WR Gabe Davis FLEX Zay Jones TE Tyler Conklin DST Giants "
+            },
+            {
+                "rank": "5",
+                "userName": "LoLoGREEN",
+                "fantasyPoints": "143.7",
+                "lineup": "QB Derek Carr RB Rhamondre Stevenson RB Cordarrelle Patterson WR Davante Adams WR Amon-Ra St. Brown WR Gabe Davis FLEX Julio Jones TE Dalton Schultz DST Giants "
+            },
+            {
+                "rank": "6",
+                "userName": "rogdiaz",
+                "fantasyPoints": "139.84001",
+                "lineup": "QB Deshaun Watson FLEX Tony Pollard RB Jamaal Williams RB Isiah Pacheco WR Amon-Ra St. Brown WR Amari Cooper WR Christian Watson TE Foster Moreau DST Packers "
+            },
+            {
+                "rank": "7",
+                "userName": "jlopez0809",
+                "fantasyPoints": "138.56",
+                "lineup": "QB Trevor Lawrence RB Kenneth Walker III RB Zonovan Knight WR Stefon Diggs WR Amon-Ra St. Brown FLEX Garrett Wilson WR Zay Jones TE Foster Moreau DST Commanders "
+            },
+            {
+                "rank": "8",
+                "userName": "frank.corn",
+                "fantasyPoints": "136.86",
+                "lineup": "QB Trevor Lawrence RB Nick Chubb RB David Montgomery FLEX D'Andre Swift WR A.J. Brown WR Donovan Peoples-Jones WR Drake London TE Tyler Conklin DST Seahawks "
+            },
+            {
+                "rank": "9",
+                "userName": "glopez28",
+                "fantasyPoints": "135.26001",
+                "lineup": "QB Trevor Lawrence FLEX Aaron Jones RB Rhamondre Stevenson RB Isiah Pacheco WR Amon-Ra St. Brown WR Christian Watson WR Zay Jones TE Dalton Schultz DST Seahawks "
+            },
+            {
+                "rank": "10",
+                "userName": "geedee3",
+                "fantasyPoints": "133.7",
+                "lineup": "QB Derek Carr RB Rhamondre Stevenson RB David Montgomery FLEX Rachaad White WR Amon-Ra St. Brown WR Chris Olave WR Amari Cooper TE Foster Moreau DST Raiders "
+            },
+            {
+                "rank": "11",
+                "userName": "g_mendoza",
+                "fantasyPoints": "133.16",
+                "lineup": "QB Trevor Lawrence RB Kenneth Walker III RB David Montgomery FLEX Dameon Pierce WR Keenan Allen WR Christian Kirk WR Garrett Wilson TE Pat Freiermuth DST Dolphins "
+            },
+            {
+                "rank": "12",
+                "userName": "olivadotij",
+                "fantasyPoints": "133.1",
+                "lineup": "QB Justin Herbert RB Nick Chubb RB Isiah Pacheco WR Tee Higgins WR Garrett Wilson FLEX Christian Watson WR George Pickens TE Greg Dulcich DST Giants "
+            },
+            {
+                "rank": "13",
+                "userName": "climardo",
+                "fantasyPoints": "121.04",
+                "lineup": "QB Joe Burrow RB Derrick Henry RB Nick Chubb WR Tee Higgins WR Garrett Wilson WR Chase Claypool FLEX Trent Sherfield TE George Kittle DST Broncos "
+            },
+            {
+                "rank": "14",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "115.159996",
+                "lineup": "QB Trevor Lawrence FLEX Nick Chubb RB Travis Etienne Jr. RB D'Andre Swift WR A.J. Brown WR Allen Lazard WR Zay Jones TE Tyler Conklin DST Giants "
+            },
+            {
+                "rank": "15",
+                "userName": "pshhidk",
+                "fantasyPoints": "114.159996",
+                "lineup": "QB Trevor Lawrence RB Nick Chubb RB Benny Snell Jr. WR Terry McLaurin WR Tyler Boyd WR Drake London FLEX Elijah Moore TE Travis Kelce DST Cowboys "
+            },
+            {
+                "rank": "16",
+                "userName": "hlimardo",
+                "fantasyPoints": "112.38",
+                "lineup": "QB Kenny Pickett FLEX Aaron Jones RB Najee Harris RB D'Andre Swift WR A.J. Brown WR Tee Higgins WR George Pickens TE Hayden Hurst DST Dolphins "
+            },
+            {
+                "rank": "17",
+                "userName": "Dash7",
+                "fantasyPoints": "105.8",
+                "lineup": "QB Jared Goff RB Leonard Fournette RB Isiah Pacheco WR Chris Godwin WR Chris Olave WR Amari Cooper FLEX Adam Thielen TE Mark Andrews DST Patriots "
+            },
+            {
+                "rank": "18",
+                "userName": "luisdello",
+                "fantasyPoints": "99.4",
+                "lineup": "QB Tua Tagovailoa RB David Montgomery RB Devin Singletary WR CeeDee Lamb FLEX Mike Evans WR Brandon Aiyuk WR Gabe Davis TE Tyler Higbee DST Jets "
+            },
+            {
+                "rank": "19",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "87.49999",
+                "lineup": "QB Justin Herbert FLEX Austin Ekeler RB Jonathan Taylor RB Tony Pollard WR Jaylen Waddle WR Nelson Agholor WR Denzel Mims TE MyCole Pruitt DST Chiefs "
+            }
+        ]
+    },
+    {
+        "week": 14,
+        "contest_id": 137991621,
+        "contest_start": "Dec 08, 2022 20:15:00"
     }
 ]
