@@ -7891,6 +7891,109 @@
     {
         "week": 14,
         "contest_id": 137991621,
-        "contest_start": "Dec 08, 2022 20:15:00"
+        "contest_start": "Dec 08, 2022 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "177.3",
+                "lineup": "QB Kirk Cousins FLEX Rhamondre Stevenson RB Miles Sanders RB Travis Homer WR Justin Jefferson WR Marquise Brown WR Adam Thielen TE Evan Engram DST Cowboys "
+            },
+            {
+                "rank": "2",
+                "userName": "glopez28",
+                "fantasyPoints": "157.3",
+                "lineup": "QB Jared Goff RB Derrick Henry RB Isiah Pacheco WR Ja'Marr Chase WR DeVonta Smith FLEX Gabe Davis WR DJ Chark Jr. TE Hunter Henry DST Cowboys "
+            },
+            {
+                "rank": "3",
+                "userName": "geedee3",
+                "fantasyPoints": "153.16",
+                "lineup": "QB Geno Smith RB Christian McCaffrey RB Derrick Henry FLEX Ezekiel Elliott WR DeVonta Smith WR Tyler Boyd WR Julio Jones TE Chig Okonkwo DST Ravens "
+            },
+            {
+                "rank": "4",
+                "userName": "Dash7",
+                "fantasyPoints": "148.1",
+                "lineup": "QB Jared Goff RB Tony Pollard RB Jerick McKinnon WR Christian Kirk WR Garrett Wilson WR Joshua Palmer FLEX Travis Kelce TE Dalton Schultz DST Steelers "
+            },
+            {
+                "rank": "5",
+                "userName": "jlopez0809",
+                "fantasyPoints": "146.9",
+                "lineup": "QB Jared Goff RB Tony Pollard RB D'Onta Foreman WR Ja'Marr Chase WR Amon-Ra St. Brown WR Garrett Wilson FLEX Adam Thielen TE Daniel Bellinger DST Dolphins "
+            },
+            {
+                "rank": "6",
+                "userName": "arianna29",
+                "fantasyPoints": "143.76",
+                "lineup": "QB Geno Smith RB Miles Sanders RB Ezekiel Elliott FLEX D'Andre Swift WR Amon-Ra St. Brown WR Tyler Lockett WR Garrett Wilson TE Chig Okonkwo DST Steelers "
+            },
+            {
+                "rank": "7",
+                "userName": "climardo",
+                "fantasyPoints": "128.66",
+                "lineup": "QB Geno Smith RB Tony Pollard RB Ezekiel Elliott WR Davante Adams WR Tyler Lockett WR Garrett Wilson FLEX DJ Chark Jr. TE Tre' McKitty DST Steelers "
+            },
+            {
+                "rank": "8",
+                "userName": "olivadotij",
+                "fantasyPoints": "124.8",
+                "lineup": "QB Kirk Cousins RB Tony Pollard RB Cam Akers FLEX Mike Boone WR Justin Jefferson WR Mack Hollins WR Demarcus Robinson TE Mark Andrews DST Seahawks "
+            },
+            {
+                "rank": "9",
+                "userName": "MattyDel14",
+                "fantasyPoints": "121.88",
+                "lineup": "QB Justin Herbert RB Ezekiel Elliott RB D'Onta Foreman FLEX Raheem Mostert WR Amon-Ra St. Brown WR Garrett Wilson WR Adam Thielen TE David Njoku DST Cardinals "
+            },
+            {
+                "rank": "10",
+                "userName": "frank.corn",
+                "fantasyPoints": "111.52",
+                "lineup": "QB Trevor Lawrence RB D'Andre Swift RB Jeff Wilson Jr. FLEX Cam Akers WR Amon-Ra St. Brown WR Tyler Lockett WR Mack Hollins TE T.J. Hockenson DST Cowboys "
+            },
+            {
+                "rank": "11",
+                "userName": "luisdello",
+                "fantasyPoints": "110.68",
+                "lineup": "QB Patrick Mahomes RB Jamaal Williams RB Isiah Pacheco WR Amon-Ra St. Brown WR Garrett Wilson WR Darius Slayton FLEX Donovan Peoples-Jones TE Tyler Higbee DST 49ers "
+            },
+            {
+                "rank": "12",
+                "userName": "JekellP",
+                "fantasyPoints": "110.08",
+                "lineup": "QB Justin Herbert RB Tony Pollard RB Cam Akers FLEX Latavius Murray WR Amon-Ra St. Brown WR Garrett Wilson WR George Pickens TE Hunter Henry DST Seahawks "
+            },
+            {
+                "rank": "13",
+                "userName": "ejmesa",
+                "fantasyPoints": "103.3",
+                "lineup": "QB Kirk Cousins RB Derrick Henry RB Rhamondre Stevenson FLEX Jeff Wilson Jr. WR Deebo Samuel WR Gabe Davis WR George Pickens TE Daniel Bellinger DST Raiders "
+            },
+            {
+                "rank": "14",
+                "userName": "rogdiaz",
+                "fantasyPoints": "100.46",
+                "lineup": "QB Dak Prescott RB Derrick Henry FLEX Tony Pollard RB Kenyan Drake WR Tee Higgins WR Michael Gallup WR Demarcus Robinson TE Dalton Schultz DST Cowboys "
+            },
+            {
+                "rank": "15",
+                "userName": "pshhidk",
+                "fantasyPoints": "87.16",
+                "lineup": "QB Dak Prescott RB Tony Pollard RB Kareem Hunt WR CeeDee Lamb WR Jakobi Meyers FLEX Zay Jones WR DeAndre Carter TE Travis Kelce DST Cowboys "
+            },
+            {
+                "rank": "16",
+                "userName": "hlimardo",
+                "fantasyPoints": "76.28",
+                "lineup": "QB Justin Herbert RB Joe Mixon RB Jeff Wilson Jr. WR Davante Adams WR Christian Kirk WR Robert Woods FLEX Marquez Valdes-Scantling TE Tyler Higbee DST Steelers "
+            }
+        ]
+    },
+    {
+        "week": 15,
+        "contest_id": 138409249,
+        "contest_start": "Dec 15, 2022 20:15:00"
     }
 ]
