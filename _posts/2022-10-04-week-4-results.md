@@ -7,6 +7,7 @@ author: climardo
 header_image: /assets/images/2022/week-4-header.jpg
 header_pos: 50% 20%
 ---
+{%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
 
 With 196.32 fpts, **hlimardo** won by more than 50 fpts! Congratulations to you, **glopez28** and **ejmesa**, the newest members to join this season's winner's circle. **hlimardo** put together quite a lineup by stacking some cheaper options from the #1 offense Lions who really paid off including **Jared Goff** (37.22 fpts $5,900), **Jamaal Williams** (26.9 fpts $6,100) and **Josh Reynolds** (21.1 fpts $4,600). Williams wasn't really a secret and made it into the lineups of 7 other members. Only **Khalil Herbert** (11.1 fpts $5,700) was more drafted this week. And somehow Goff's salary remains supressed at just $6,100 for Week 5. Choose wisely when creating your lineups! 
 

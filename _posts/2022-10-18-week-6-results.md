@@ -7,6 +7,7 @@ author: climardo
 header_image: /assets/images/2022/week-6-header.jpg
 header_pos: 50% 25%
 ---
+{%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
 
 Commisisoner Maduro has arrived! Alright, enough about me. Congratulations to this week's other winners: **DarbyDiaz3** and **glopez28**, a couple of frequent visitors to the league's top three. The **Josh Allen** (30.36 fpts $8,200) and **Stefon Diggs** (33,8 fpts $8,400) stack paid off this week, but **Joe Burrow** (35.5 fpts $6,700) and **Ja'Marr Chase** (35.2 fpts $7,700) was the better, cheaper stack that put **DarbyDiaz3** in second place. And with less 🔥 players, **glopez28** was able to claim third place thanks to **Robert Tonyan** (19 fpts $3,600), the afformentioned Chase and a committee of decent performances.  
 

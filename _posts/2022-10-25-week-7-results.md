@@ -7,6 +7,7 @@ author: climardo
 header_image: /assets/images/2022/week-7-header.jpg
 header_pos: 50% 20%
 ---
+{%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
 
 Week 7 brought us a bunch of high scoring players and return to the top 3 for **jlopez0809** (2x), **geedee3** (2x) and **glopez28** (4x!!!). At this point, **glopez28** has won more than lost. Maybe I'll stop sending reminders to submit lineups to give others a chance. A common draft pick by all three (and half of the league)? **Kenneth Walker** (31.8 fpts $5,800). Apparently a necessary pick for top 3 consideration.
 

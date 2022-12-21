@@ -7,6 +7,7 @@ author: climardo
 header_image: /assets/images/2022/week-8-header.jpg
 header_pos: 50% 20%
 ---
+{%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
 
 We're almost half way through the season now and two-thirds (12 of 19) of the members have placed in the top three at least once. Congrats this week to **Jekell P** and **DarbyDiaz3** for placing second and third, respectively. **Jekell P** was the only member to make the excellent decision to draft **D'Onta Foreman** (34.8 fpts $5,300) who was probably one of the best salary per fpts RB picks of the week (I'm too lazy for math right now to say for certain). And **DarbyDiaz3** was one of only two members to add **A.J. Brown** (42.6 fpts $7,700) - the week's top-scoring WR. I (**climardo**) drafted **Alvin Kamara** (42.8 fpts $7,100), the week's MVP, along with some other top-tier players and was able to get another first place win. 
 

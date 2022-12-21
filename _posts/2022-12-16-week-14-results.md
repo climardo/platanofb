@@ -7,6 +7,7 @@ author: climardo
 header_image: /assets/images/header.jpg
 header_pos: 50% 50%
 ---
+{%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
 
 Congrats to the Week 14 winners:
 

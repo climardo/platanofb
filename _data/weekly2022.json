@@ -7994,6 +7994,115 @@
     {
         "week": 15,
         "contest_id": 138409249,
-        "contest_start": "Dec 15, 2022 20:15:00"
+        "contest_start": "Dec 15, 2022 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "Dash7",
+                "fantasyPoints": "196.56",
+                "lineup": "QB Aaron Rodgers RB Christian McCaffrey RB Jerick McKinnon WR JuJu Smith-Schuster WR Christian Watson WR Zay Jones FLEX Noah Brown TE Travis Kelce DST Patriots "
+            },
+            {
+                "rank": "2",
+                "userName": "JekellP",
+                "fantasyPoints": "163",
+                "lineup": "QB Kirk Cousins RB Christian McCaffrey RB J.K. Dobbins FLEX Jerick McKinnon WR Keenan Allen WR Christian Watson WR Donovan Peoples-Jones TE Cole Kmet DST Panthers "
+            },
+            {
+                "rank": "3",
+                "userName": "rogdiaz",
+                "fantasyPoints": "144.04",
+                "lineup": "QB Patrick Mahomes FLEX Tony Pollard RB Alvin Kamara RB Chuba Hubbard WR Michael Pittman Jr. WR Donovan Peoples-Jones WR Van Jefferson TE George Kittle DST 49ers "
+            },
+            {
+                "rank": "4",
+                "userName": "g_mendoza",
+                "fantasyPoints": "136.78",
+                "lineup": "QB Tom Brady RB James Conner RB Isiah Pacheco FLEX Zonovan Knight WR Keenan Allen WR Chris Godwin WR Diontae Johnson TE Evan Engram DST Broncos "
+            },
+            {
+                "rank": "5",
+                "userName": "jlopez0809",
+                "fantasyPoints": "135.18",
+                "lineup": "QB Brock Purdy RB Christian McCaffrey RB Zonovan Knight WR Ja'Marr Chase WR Garrett Wilson WR Brandon Aiyuk FLEX Zay Jones TE Chig Okonkwo DST Dolphins "
+            },
+            {
+                "rank": "6",
+                "userName": "frank.corn",
+                "fantasyPoints": "131.98",
+                "lineup": "QB Brock Purdy RB Christian McCaffrey RB Isiah Pacheco WR CeeDee Lamb WR Amari Cooper WR Donovan Peoples-Jones FLEX George Kittle TE Greg Dulcich DST Vikings "
+            },
+            {
+                "rank": "7",
+                "userName": "pshhidk",
+                "fantasyPoints": "131.6",
+                "lineup": "QB Joe Burrow RB Tony Pollard RB Kenneth Gainwell WR Mike Williams WR DJ Moore WR Jahan Dotson TE Travis Kelce FLEX David Njoku DST Cowboys "
+            },
+            {
+                "rank": "8",
+                "userName": "olivadotij",
+                "fantasyPoints": "130",
+                "lineup": "QB Daniel Jones RB Christian McCaffrey RB Miles Sanders FLEX Mike Williams WR Brandon Aiyuk WR Donovan Peoples-Jones WR Zay Jones TE Dawson Knox DST Panthers "
+            },
+            {
+                "rank": "9",
+                "userName": "MattyDel14",
+                "fantasyPoints": "129.12",
+                "lineup": "QB Tyler Huntley RB Christian McCaffrey FLEX Miles Sanders RB Jerick McKinnon WR Garrett Wilson WR Michael Pittman Jr. WR Christian Watson TE David Njoku DST Broncos "
+            },
+            {
+                "rank": "10",
+                "userName": "geedee3",
+                "fantasyPoints": "123.3",
+                "lineup": "QB Kirk Cousins RB Miles Sanders RB Isiah Pacheco WR Justin Jefferson WR Garrett Wilson WR Brandon Aiyuk FLEX T.J. Hockenson TE Chig Okonkwo DST Falcons "
+            },
+            {
+                "rank": "11",
+                "userName": "climardo",
+                "fantasyPoints": "122.94",
+                "lineup": "QB Dak Prescott RB Derrick Henry RB Isiah Pacheco WR CeeDee Lamb WR Chris Olave FLEX Mike Williams WR Alec Pierce TE Chig Okonkwo DST Broncos "
+            },
+            {
+                "rank": "12",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "122",
+                "lineup": "QB Daniel Jones RB Christian McCaffrey RB Isiah Pacheco WR CeeDee Lamb WR Garrett Wilson FLEX Joshua Palmer WR Darius Slayton TE Hunter Henry DST Giants "
+            },
+            {
+                "rank": "13",
+                "userName": "luisdello",
+                "fantasyPoints": "118.2",
+                "lineup": "QB Joe Burrow RB Josh Jacobs RB Zonovan Knight WR A.J. Brown WR Garrett Wilson FLEX Adam Thielen WR Donovan Peoples-Jones TE Tyler Ott DST Rams "
+            },
+            {
+                "rank": "14",
+                "userName": "glopez28",
+                "fantasyPoints": "105.16",
+                "lineup": "QB Aaron Rodgers RB Aaron Jones RB Zonovan Knight WR A.J. Brown FLEX Jerry Jeudy WR Donovan Peoples-Jones WR DJ Chark Jr. TE David Njoku DST Chiefs "
+            },
+            {
+                "rank": "15",
+                "userName": "arianna29",
+                "fantasyPoints": "98.32",
+                "lineup": "QB Justin Herbert RB Miles Sanders RB Isiah Pacheco FLEX Brian Robinson Jr. WR Keenan Allen WR Mike Williams WR Terry McLaurin TE Chig Okonkwo DST Broncos "
+            },
+            {
+                "rank": "16",
+                "userName": "hlimardo",
+                "fantasyPoints": "93.62",
+                "lineup": "QB Justin Herbert RB Isiah Pacheco RB Brian Robinson Jr. FLEX J.K. Dobbins WR Keenan Allen WR DK Metcalf WR Christian Watson TE Pat Freiermuth DST Falcons "
+            },
+            {
+                "rank": "17",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "83.94",
+                "lineup": "QB Dak Prescott RB Isiah Pacheco RB D'Onta Foreman WR CeeDee Lamb WR Mike Williams WR Terry McLaurin FLEX Allen Lazard TE Dallas Goedert DST Buccaneers "
+            }
+        ]
+    },
+    {
+        "week": 16,
+        "contest_id": 3571595077,
+        "contest_start": "Dec 22, 2022 20:15:00"
     }
 ]

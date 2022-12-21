@@ -1,3 +1,11 @@
+{%- assign drafted_by = weekly.members | where_exp:"item", "item.lineup contains include.player_name" -%}
 <figure class="figure">
     <img class="img-fluid" src="/assets/images/{{ page.year }}/week-{{ page.week }}-{{ include.player_name | replace: ' ', '-' | escape | downcase }}.png" width="364px" alt="{{ include.player_name }}"/>
+    <figcaption class="figure-caption">{%- if drafted_by | size > 0 -%}
+        Drafted by {% for member in drafted_by -%}
+            {{ member.userName }}{% if forloop.last != true %}, {% endif %}
+        {%- endfor %}
+        {%- else -%}
+        Undrafted
+    {%- endif -%}</figcaption>
 </figure>

@@ -8,6 +8,8 @@ header_image: /assets/images/2022/week-{{ week }}-header.jpg
 header_pos: 50% 50%
 ---
 {% raw %}
+{%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
+
 First paragraph
 
 {% include weekly-winners-2022.html %}

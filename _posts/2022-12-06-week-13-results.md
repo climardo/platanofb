@@ -7,6 +7,7 @@ author: climardo
 header_image: /assets/images/2022/week-13-header.jpg
 header_pos: 50% 25%
 ---
+{%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
 
 Congratulations to **MattyDel14** for placing for the first time in his first season of Platanofb! **JekellP** and **arianna29** each made their fifth and sixth(!!) appearances in the top after placing first and third, respectively, in Week 13. The trio of **Tony Pollard** (24.6 fpts $6,500), **Garrett Wilson** (27.2 fpts $5,300) and **Cowboys** (20 fpts $3,900) lit up **JekellP**'s lineup and lead to luminous threepeat on the season. None of them were the best performers in their position, but they all did well. **MattyDel14** was the only member to draft **Tyler Lockett** (30.8 fpts $6,000) and **arianna29** was the sole **Samaje Perine** (24.5 fpts $6,000) owner. Again, congrats to you three!
 
