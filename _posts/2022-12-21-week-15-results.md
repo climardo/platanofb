@@ -8,7 +8,6 @@ header_image: /assets/images/2022/week-15-header.jpg
 header_pos: 50% 25%
 ---
 {%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
-
 Congratulations to this week's winners, all returning for a second or sixth (😳) time. Yea, SIX TIMES. **JekellP** has racked up $144 (🥇: 3, 🥈: 3) in winnings this year and there are still two weeks left. **Dash7** and **rogdiaz** have each placed first and second once this season. This week, **Dash7** torched everyone with a lineup that included high value picks of **Jerick McKinnon** (34.2 fpts $5,300), **Zay Jones** (37.9 fpts $4,900) and **Noah Brown** (22.9 fpts $3,400). 
 
 {% include dk-live-screenshot.html player_name='Jerick McKinnon' %}

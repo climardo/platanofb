@@ -8,7 +8,6 @@ header_image: /assets/images/2022/week-9-header.jpg
 header_pos: 50% 30%
 ---
 {%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
-
  Congratulations to **rogdiaz** and **arianna29** for placing first and second in Week 9. Neither member had any unique picks, but look at me (**climardo**) in third place and you will see that _unique_ players aren't always great nor necessary to get a W. Even without him in my lineup, I was excited to see **Joe Mixon** (58.1 fpts $6,500) shatter the 50 fpt mark - it's been too long since we've seen that and I was beginning to get concerned that we wouldn't see that at all this season. This is **rogdiaz** first time placing this season and he told me that it won't be his last. If you're tired of seeing the same members winning, then do whatever **rogdiaz** did and forge your wya to the top by making better choices.
 
 {% include weekly-winners-2022.html %}

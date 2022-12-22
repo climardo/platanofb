@@ -8,7 +8,6 @@ header_image: /assets/images/2022/week-12-header.jpg
 header_pos: 50% 20%
 ---
 {%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
-
 Congratulations to a new winner: **BrunoDiaz**! Everyone was wondering which players were remaining in that lineup and probably got worried when they saw **Jonathan Taylor** (18.8 fpts $7,900). Along with the help of **Pat Freiermuth** (6.9 fpts $4,000), they added enough points to put **BrunoDiaz** ahead of **geedee3** for first and second place respectively. **arianna29** also returned to the top three for a league-leading **\*FIFTH\*** time! A job well done by all of the winners.
 
 {% include weekly-winners-2022.html %}

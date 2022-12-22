@@ -8,7 +8,6 @@ header_image: /assets/images/2022/week-11-header.jpg
 header_pos: 50% 25%
 ---
 {%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
-
 Welp, I figured it would happen at some point and I guess that point was yesterday. DraftKings was hacked and as a result they bolstered their security and broke the code that I was using to generate the stuff you've been seeing in these posts like weekly winners, MVP, Sleeper, Draft Dodger and Bust. I don't think I am going to get that working again, so that's done for now. If you keep any money on DraftKings platform or if you want to be safe anyway, please update your password and don't reuse passwords.
 
 <blockquote class="twitter-tweet" data-dnt="true" data-theme="dark"><p lang="en" dir="ltr">Statement: <a href="https://t.co/HsK9Rb0OZ3">pic.twitter.com/HsK9Rb0OZ3</a></p>&mdash; DraftKings News (@DraftKingsNews) <a href="https://twitter.com/DraftKingsNews/status/1594767664832040965?ref_src=twsrc%5Etfw">November 21, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 

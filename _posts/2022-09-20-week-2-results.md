@@ -8,7 +8,6 @@ header_image: /assets/images/2022/week-2-header.jpg
 header_pos: 50% 20%
 ---
 {%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
-
 Well, damn. Six players scored over 40 fpts this week and half of them were under $7,000. **JekellP** finished in first, **g_mendoza** repeated for second place and one of our new members, **luisdello** came in third. Every one of these members drafted one 40+ fpt player and **JekellP** claimed the highest bragging rights while also having four ❄️ players in their lineup. Not sure what that says about the league, but it doesn't seem like it would be anything good. Congratulations to the aformentioned members. Now that a quarter of our members have won some money, it's time for the rest to step up and claim some prizes, too!
 
 {% include weekly-winners-2022.html %}
