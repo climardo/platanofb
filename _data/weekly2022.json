@@ -8103,6 +8103,629 @@
     {
         "week": 16,
         "contest_id": 3571595077,
-        "contest_start": "Dec 22, 2022 20:15:00"
+        "contest_start": "Dec 22, 2022 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "Dash7",
+                "fantasyPoints": "154",
+                "lineup": "QB Jared Goff RB Austin Ekeler RB Jerick McKinnon WR Chris Godwin WR Christian Watson WR Zay Jones TE George Kittle FLEX Dalton Schultz DST Chargers "
+            },
+            {
+                "rank": "2",
+                "userName": "climardo",
+                "fantasyPoints": "145.1",
+                "lineup": "QB Gardner Minshew II RB Derrick Henry RB J.K. Dobbins FLEX Rachaad White WR DK Metcalf WR JuJu Smith-Schuster WR Darius Slayton TE T.J. Hockenson DST Commanders "
+            },
+            {
+                "rank": "3",
+                "userName": "luisdello",
+                "fantasyPoints": "140.2",
+                "lineup": "QB Joe Burrow FLEX Miles Sanders RB AJ Dillon RB D'Andre Swift WR Justin Jefferson WR Diontae Johnson WR Donovan Peoples-Jones TE Tyler Higbee DST Texans "
+            },
+            {
+                "rank": "4",
+                "userName": "MattyDel14",
+                "fantasyPoints": "138.44",
+                "lineup": "QB Tom Brady RB Alvin Kamara RB Jerick McKinnon FLEX Zonovan Knight WR Amon-Ra St. Brown WR DeVonta Smith WR DJ Moore TE Chig Okonkwo DST Chargers "
+            },
+            {
+                "rank": "5",
+                "userName": "hlimardo",
+                "fantasyPoints": "136.30002",
+                "lineup": "QB Jared Goff RB Travis Etienne Jr. RB Tyler Allgeier WR Amon-Ra St. Brown WR Keenan Allen FLEX Christian Watson WR Garrett Wilson TE Darren Waller DST Texans "
+            },
+            {
+                "rank": "6",
+                "userName": "ejmesa",
+                "fantasyPoints": "133.59999",
+                "lineup": "QB Geno Smith RB Derrick Henry RB Austin Ekeler FLEX Devin Singletary WR Amari Cooper WR Darius Slayton WR Marquise Goodwin TE Evan Engram DST Dolphins "
+            },
+            {
+                "rank": "7",
+                "userName": "jlopez0809",
+                "fantasyPoints": "129.4",
+                "lineup": "QB Gardner Minshew II RB Derrick Henry RB Travis Etienne Jr. FLEX Raheem Mostert WR DK Metcalf WR Donovan Peoples-Jones WR K.J. Osborn TE George Kittle DST Jets "
+            },
+            {
+                "rank": "8",
+                "userName": "olivadotij",
+                "fantasyPoints": "127.060005",
+                "lineup": "QB Daniel Jones RB Austin Ekeler FLEX Josh Jacobs RB Royce Freeman WR Chris Godwin WR Romeo Doubs WR Isaiah Hodgins TE Darren Waller DST Jaguars "
+            },
+            {
+                "rank": "9",
+                "userName": "pshhidk",
+                "fantasyPoints": "118.40001",
+                "lineup": "QB Jared Goff RB Derrick Henry FLEX Tony Pollard RB Samaje Perine WR Keenan Allen WR George Pickens WR Marquez Valdes-Scantling TE Darren Waller DST Broncos "
+            },
+            {
+                "rank": "10",
+                "userName": "arianna29",
+                "fantasyPoints": "114.899994",
+                "lineup": "QB Geno Smith FLEX Dalvin Cook RB Jerick McKinnon RB Raheem Mostert WR DK Metcalf WR DeVonta Smith WR JuJu Smith-Schuster TE Noah Fant DST Buccaneers "
+            },
+            {
+                "rank": "11",
+                "userName": "rogdiaz",
+                "fantasyPoints": "112.3",
+                "lineup": "QB Jared Goff FLEX Derrick Henry RB AJ Dillon RB Jerick McKinnon WR Mike Williams WR Amari Cooper WR Adam Thielen TE Austin Hooper DST Titans "
+            },
+            {
+                "rank": "12",
+                "userName": "geedee3",
+                "fantasyPoints": "109.3",
+                "lineup": "QB Deshaun Watson RB Austin Ekeler RB Isiah Pacheco WR Amon-Ra St. Brown WR Chris Godwin WR Terry McLaurin TE Darren Waller FLEX Cade Otton DST Bears "
+            },
+            {
+                "rank": "13",
+                "userName": "frank.corn",
+                "fantasyPoints": "106",
+                "lineup": "QB Geno Smith RB Alvin Kamara RB Zack Moss WR DK Metcalf WR JuJu Smith-Schuster WR Darius Slayton TE Travis Kelce FLEX Darren Waller DST Bears "
+            },
+            {
+                "rank": "14",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "102.66",
+                "lineup": "QB Patrick Mahomes RB Jerick McKinnon RB J.K. Dobbins FLEX Jamaal Williams WR DK Metcalf WR Allen Lazard WR Darius Slayton TE Dallas Goedert DST Colts "
+            },
+            {
+                "rank": "15",
+                "userName": "glopez28",
+                "fantasyPoints": "101.66",
+                "lineup": "QB Daniel Jones RB Derrick Henry RB Isiah Pacheco WR Chris Godwin FLEX Mike Williams WR Darius Slayton WR Zay Jones TE Isaiah Likely DST Browns "
+            },
+            {
+                "rank": "16",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "101.479996",
+                "lineup": "QB Josh Allen RB Austin Ekeler RB Josh Jacobs WR Stefon Diggs WR Terrace Marshall Jr. WR Marvin Jones Jr. FLEX Ray-Ray McCloud III TE Jordan Akins DST Bengals "
+            },
+            {
+                "rank": "17",
+                "userName": "JekellP",
+                "fantasyPoints": "100.09999",
+                "lineup": "QB Geno Smith RB J.K. Dobbins RB Raheem Mostert FLEX Jamaal Williams WR Jerry Jeudy WR DJ Moore WR Romeo Doubs TE Travis Kelce DST Titans "
+            },
+            {
+                "rank": "18",
+                "userName": "g_mendoza",
+                "fantasyPoints": "9.6",
+                "lineup": "QB Kyler Murray RB Sony Michel RB Ke'Shawn Vaughn WR Robbie Anderson WR Scotty Miller WR Breshad Perriman TE Ko Kieft FLEX Kyle Rudolph DST Colts "
+            }
+        ],
+        "mvp": {
+            "playerId": 923915,
+            "playerDkId": 19265,
+            "firstName": "T.J.",
+            "lastName": "Hockenson",
+            "teamId": 347,
+            "position": "TE",
+            "salary": 4900,
+            "fantasyPoints": 38.9,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 109
+                },
+                {
+                    "statId": 44,
+                    "total": 13
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 16
+                },
+                {
+                    "statId": 82,
+                    "total": 16
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 9
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5818930,
+            "points": 38.9,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2022-12-24T18:00:00.0000000Z",
+            "weekNumber": 16,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19265.png",
+            "teamCity": "Minnesota",
+            "teamName": "Vikings",
+            "teamAbbreviation": "MIN",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Giants",
+            "opposingTeamAbbreviation": "NYG",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 73
+                },
+                {
+                    "statId": 44,
+                    "total": 7.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 51,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 17
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 19.9667
+                },
+                {
+                    "statId": 91,
+                    "total": 19.9667
+                },
+                {
+                    "statId": 92,
+                    "total": 5000
+                },
+                {
+                    "statId": 467,
+                    "total": 11
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 3
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 19.9667,
+            "fantasyPointsPerSalary": 0.00793877551020408,
+            "displayName": "T.J. Hockenson"
+        },
+        "bust": {
+            "playerId": 750097,
+            "playerDkId": 19435,
+            "firstName": "Matt",
+            "lastName": "Breida",
+            "teamId": 351,
+            "position": "RB",
+            "salary": 5100,
+            "fantasyPoints": 0.9,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 9
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 81,
+                    "total": 6
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5818930,
+            "points": 0.9,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2022-12-24T18:00:00.0000000Z",
+            "weekNumber": 16,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19435.png",
+            "teamCity": "New York",
+            "teamName": "Giants",
+            "teamAbbreviation": "NYG",
+            "opposingTeamCity": "Minnesota",
+            "opposingTeamName": "Vikings",
+            "opposingTeamAbbreviation": "MIN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 5
+                },
+                {
+                    "statId": 41,
+                    "total": 7
+                },
+                {
+                    "statId": 43,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 5.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 2.2
+                },
+                {
+                    "statId": 91,
+                    "total": 2.2
+                },
+                {
+                    "statId": 92,
+                    "total": 4800
+                },
+                {
+                    "statId": 467,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 2.2,
+            "fantasyPointsPerSalary": 0.00017647058823529413,
+            "displayName": "Matt Breida"
+        },
+        "sleeper": {
+            "playerId": 1284247,
+            "playerDkId": 562738,
+            "firstName": "Shane",
+            "lastName": "Zylstra",
+            "teamId": 334,
+            "position": "TE",
+            "salary": 2500,
+            "fantasyPoints": 25.6,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 26
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 82,
+                    "total": 10
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5818834,
+            "points": 25.6,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2022-12-24T18:00:00.0000000Z",
+            "weekNumber": 16,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/562738.png",
+            "teamCity": "Detroit",
+            "teamName": "Lions",
+            "teamAbbreviation": "DET",
+            "opposingTeamCity": "Carolina",
+            "opposingTeamName": "Panthers",
+            "opposingTeamAbbreviation": "CAR",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 16
+                },
+                {
+                    "statId": 44,
+                    "total": 2.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 9.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 10.2667
+                },
+                {
+                    "statId": 91,
+                    "total": 10.2667
+                },
+                {
+                    "statId": 92,
+                    "total": 2500
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 10.2667,
+            "fantasyPointsPerSalary": 0.01024,
+            "displayName": "Shane Zylstra"
+        },
+        "draft_dodger": {
+            "playerId": 976251,
+            "playerDkId": 468530,
+            "firstName": "Cam",
+            "lastName": "Akers",
+            "teamId": 343,
+            "position": "RB",
+            "salary": 5200,
+            "fantasyPoints": 37.7,
+            "stats": [
+                {
+                    "statId": 38,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 29
+                },
+                {
+                    "statId": 41,
+                    "total": 118
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 2
+                },
+                {
+                    "statId": 43,
+                    "total": 23
+                },
+                {
+                    "statId": 81,
+                    "total": 21
+                },
+                {
+                    "statId": 82,
+                    "total": 17
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 982,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 1
+                },
+                {
+                    "statId": 1010,
+                    "total": 18
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5817639,
+            "points": 37.7,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2022-12-25T21:30:00.0000000Z",
+            "weekNumber": 16,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/468530.png",
+            "teamCity": "Los Angeles",
+            "teamName": "Rams",
+            "teamAbbreviation": "LAR",
+            "opposingTeamCity": "Denver",
+            "opposingTeamName": "Broncos",
+            "opposingTeamAbbreviation": "DEN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 21.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 75
+                },
+                {
+                    "statId": 43,
+                    "total": 15.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 48,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 16.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 12
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 20.3333
+                },
+                {
+                    "statId": 91,
+                    "total": 20.3333
+                },
+                {
+                    "statId": 92,
+                    "total": 5466.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 2
+                },
+                {
+                    "statId": 982,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1010,
+                    "total": 6
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 20.3333,
+            "fantasyPointsPerSalary": 0.00725,
+            "displayName": "Cam Akers"
+        }
+    },
+    {
+        "week": 17,
+        "contest_id": 139261293,
+        "contest_start": "Dec 29, 2022 20:15:00"
     }
 ]

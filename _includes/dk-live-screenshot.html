@@ -2,7 +2,7 @@
 <figure class="figure" style="max-width: 364px;">
     <img class="img-fluid" src="/assets/images/{{ page.year }}/week-{{ page.week }}-{{ include.player_name | replace: ' ', '-' | escape | downcase }}.png" alt="{{ include.player_name }}"/>
     <figcaption class="figure-caption text-wrap">
-        {%- if drafted_by | size > 0 -%}
+        {%- if drafted_by.size > 0 -%}
             Drafted by {% for member in drafted_by -%}
                 {{ member.userName }}{% if forloop.last != true %}, {% endif %}
             {%- endfor %}

@@ -88,7 +88,7 @@ def get_draft_dodger(all_players, all_drafted):
         all_players = set_display_name(all_players)
     
     for player in all_players:
-        if not any(d['displayName'] == player['displayName'] for d in all_drafted):
+        if not any(d == player['displayName'] for d in all_drafted):
             undrafted_players.append(player)
 
     draft_dodger = max(undrafted_players, key=lambda x: x['fantasyPoints'])

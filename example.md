@@ -15,6 +15,18 @@ First paragraph
 
 Second paragraph
 
+##### MVP <small class="text-muted">Most fpts</small>
+{% include dk-live-screenshot.html player_name=weekly.mvp.displayName %}
+
+##### Sleeper <small class="text-muted">Most fpts per salary</small>
+{% include dk-live-screenshot.html player_name=weekly.sleeper.displayName %}
+
+##### Bust <small class="text-muted">Least fpts per salary >= $5000</small>
+{% include dk-live-screenshot.html player_name=weekly.bust.displayName %}
+
+##### Draft Dodger <small class="text-muted">Most fpts undrafted</small>
+{% include dk-live-screenshot.html player_name=weekly.draft_dodger.displayName %}
+
 ##### Weekly analysis <small class="text-muted">Recap and advice</small>
 - [Link1](#)
 - [Link2](#)
