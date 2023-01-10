@@ -48,12 +48,8 @@ def set_display_name(all_players):
     return all_players
 
 def get_bust(all_players):
-    # Create a list (bust_players) of dicts where salary is greater than or equal to 5000
-    try:
-        bust_players = [x for x in all_players if x.get('salary') >= 5000]
-    except:
-        all_players = set_fpts_salary(all_players)
-        bust_players = [x for x in all_players if x.get('salary') >= 5000]
+    all_players = set_fpts_salary(all_players)
+    bust_players = [x for x in all_players if x.get('salary') >= 5000]
 
     # From the previously create list, Assign the item with the lowest fantasyPointsPerSalary to bust
     bust = min(bust_players, key=lambda x: x['fantasyPointsPerSalary'])

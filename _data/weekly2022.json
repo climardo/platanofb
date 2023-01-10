@@ -8726,6 +8726,608 @@
     {
         "week": 17,
         "contest_id": 139261293,
-        "contest_start": "Dec 29, 2022 20:15:00"
+        "contest_start": "Dec 29, 2022 20:15:00",
+        "members": [],
+        "mvp": {
+            "playerId": 593587,
+            "playerDkId": 20134,
+            "firstName": "Mike",
+            "lastName": "Evans",
+            "teamId": 362,
+            "position": "WR",
+            "salary": 6500,
+            "fantasyPoints": 51.7,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 207
+                },
+                {
+                    "statId": 44,
+                    "total": 10
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 82,
+                    "total": 63
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 991,
+                    "total": 1
+                },
+                {
+                    "statId": 1000,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 107
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5819683,
+            "points": 51.7,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-01-01T18:00:00.0000000Z",
+            "weekNumber": 17,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/20134.png",
+            "teamCity": "Tampa Bay",
+            "teamName": "Buccaneers",
+            "teamAbbreviation": "TB",
+            "opposingTeamCity": "Carolina",
+            "opposingTeamName": "Panthers",
+            "opposingTeamAbbreviation": "CAR",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 106.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 34.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 23.6333
+                },
+                {
+                    "statId": 91,
+                    "total": 23.6333
+                },
+                {
+                    "statId": 92,
+                    "total": 6233.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 991,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 35.6667
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 23.6333,
+            "fantasyPointsPerSalary": 0.007953846153846155,
+            "displayName": "Mike Evans"
+        },
+        "bust": {
+            "playerId": 607047,
+            "playerDkId": 20078,
+            "firstName": "Jacoby",
+            "lastName": "Brissett",
+            "teamId": 329,
+            "position": "QB",
+            "salary": 5000,
+            "fantasyPoints": 0.2,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 2
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5819707,
+            "points": 0.2,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-01-01T18:00:00.0000000Z",
+            "weekNumber": 17,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/20078.png",
+            "teamCity": "Cleveland",
+            "teamName": "Browns",
+            "teamAbbreviation": "CLE",
+            "opposingTeamCity": "Washington",
+            "opposingTeamName": "Commanders",
+            "opposingTeamAbbreviation": "WAS",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 41,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 71,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 0.1667
+                },
+                {
+                    "statId": 91,
+                    "total": 0.1667
+                },
+                {
+                    "statId": 92,
+                    "total": 5100
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 0.1667,
+            "fantasyPointsPerSalary": 4e-05,
+            "displayName": "Jacoby Brissett"
+        },
+        "sleeper": {
+            "playerId": 335,
+            "playerDkId": 18357,
+            "firstName": "Packers",
+            "lastName": "",
+            "teamId": 335,
+            "position": "DST",
+            "salary": 2300,
+            "fantasyPoints": 23,
+            "stats": [
+                {
+                    "statId": 52,
+                    "total": 2
+                },
+                {
+                    "statId": 53,
+                    "total": 3
+                },
+                {
+                    "statId": 54,
+                    "total": 1
+                },
+                {
+                    "statId": 55,
+                    "total": 2
+                },
+                {
+                    "statId": 59,
+                    "total": 1
+                },
+                {
+                    "statId": 75,
+                    "total": 17
+                },
+                {
+                    "statId": 76,
+                    "total": 102
+                },
+                {
+                    "statId": 77,
+                    "total": 244
+                },
+                {
+                    "statId": 78,
+                    "total": 346
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 102,
+                    "total": 35
+                },
+                {
+                    "statId": 103,
+                    "total": 152
+                },
+                {
+                    "statId": 104,
+                    "total": 163
+                },
+                {
+                    "statId": 105,
+                    "total": 315
+                },
+                {
+                    "statId": 976,
+                    "total": 1
+                },
+                {
+                    "statId": 1001,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerState": "offense",
+            "playerStates": [],
+            "gameId": 5819773,
+            "points": 23,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-01-01T21:25:00.0000000Z",
+            "weekNumber": 17,
+            "imageUrl": "https://dkn.gs/sports/images/default/players/160.png",
+            "teamCity": "Green Bay",
+            "teamName": "Packers",
+            "teamAbbreviation": "GB",
+            "opposingTeamCity": "Minnesota",
+            "opposingTeamName": "Vikings",
+            "opposingTeamAbbreviation": "MIN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 52,
+                    "total": 3
+                },
+                {
+                    "statId": 53,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 54,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 55,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 58,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 59,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 75,
+                    "total": 16.3333
+                },
+                {
+                    "statId": 76,
+                    "total": 85.3333
+                },
+                {
+                    "statId": 77,
+                    "total": 207.3333
+                },
+                {
+                    "statId": 78,
+                    "total": 292.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 15
+                },
+                {
+                    "statId": 91,
+                    "total": 15
+                },
+                {
+                    "statId": 92,
+                    "total": 2900
+                },
+                {
+                    "statId": 94,
+                    "total": 16.3333
+                },
+                {
+                    "statId": 95,
+                    "total": 207.3333
+                },
+                {
+                    "statId": 96,
+                    "total": 85.3333
+                },
+                {
+                    "statId": 97,
+                    "total": 292.6667
+                },
+                {
+                    "statId": 102,
+                    "total": 28.3333
+                },
+                {
+                    "statId": 103,
+                    "total": 193.6667
+                },
+                {
+                    "statId": 104,
+                    "total": 126.6667
+                },
+                {
+                    "statId": 105,
+                    "total": 320.3333
+                },
+                {
+                    "statId": 116,
+                    "total": 193.6667
+                },
+                {
+                    "statId": 117,
+                    "total": 126.6667
+                },
+                {
+                    "statId": 118,
+                    "total": 320.3333
+                },
+                {
+                    "statId": 119,
+                    "total": 28.3333
+                },
+                {
+                    "statId": 974,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 976,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1001,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1002,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 15,
+            "fantasyPointsPerSalary": 0.01,
+            "displayName": "Packers"
+        },
+        "draft_dodger": {
+            "playerId": 593587,
+            "playerDkId": 20134,
+            "firstName": "Mike",
+            "lastName": "Evans",
+            "teamId": 362,
+            "position": "WR",
+            "salary": 6500,
+            "fantasyPoints": 51.7,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 207
+                },
+                {
+                    "statId": 44,
+                    "total": 10
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 82,
+                    "total": 63
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 991,
+                    "total": 1
+                },
+                {
+                    "statId": 1000,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 107
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5819683,
+            "points": 51.7,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-01-01T18:00:00.0000000Z",
+            "weekNumber": 17,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/20134.png",
+            "teamCity": "Tampa Bay",
+            "teamName": "Buccaneers",
+            "teamAbbreviation": "TB",
+            "opposingTeamCity": "Carolina",
+            "opposingTeamName": "Panthers",
+            "opposingTeamAbbreviation": "CAR",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 106.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 34.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 23.6333
+                },
+                {
+                    "statId": 91,
+                    "total": 23.6333
+                },
+                {
+                    "statId": 92,
+                    "total": 6233.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 991,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 35.6667
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 23.6333,
+            "fantasyPointsPerSalary": 0.007953846153846155,
+            "displayName": "Mike Evans"
+        }
     }
 ]
