@@ -23,10 +23,9 @@ sudo apt-get install ruby-full build-essential
 - [Liquid template language](https://shopify.github.io/liquid/basics/introduction/)
 - [Shopify Liquid Cheat Sheet](https://www.shopify.com/partners/shopify-cheat-sheet)
 
-# To do list 2022
-- Create a script for weekly updates that will:
-    - [x] change `week` in ['/index.html'](/index.html)
-    - [x] create a python or bash script to:
-        - [x] update the contest link in [`/_data/navlinks`](/_data/navlinks)
-        - [x] add a new week to [`/_data/weekly*.json`](/_data/weekly*.json) including `week`, `contest_id` and `contest_start` values
-        - [x] create a new, blank post in [`_posts`](/_posts/) using [`/example.md`](/example.md) and update `title`, `week`, and `header_image` 
+
+# [`new_week.py`](new_week.py) usage
+`./new_week.py 139261293 /relative/path/to/contest_standings.csv`  
+- `139261293` - The first argument is the new contest id. Generate a new contest at DraftKings to get a new contest id.
+- `contest_standings.csv` - The second argument is the relative path to the contest standings CSV which should be downloaded by visitng the previous week's contest.  
+!['Export lineups to CSV'](assets/images/export_lineups_to_csv.jpg 'Export lineups to CSV')

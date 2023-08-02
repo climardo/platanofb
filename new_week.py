@@ -6,7 +6,7 @@ from datetime import date, datetime, timedelta
 from jinja2 import Environment, FileSystemLoader
 
 # Set file names and paths
-weekly_file = "_data/weekly2022.json"
+weekly_file = "_data/weekly2023.json"
 template_file = "example.md"
 navlinks_file = "_data/navlinks.yaml"
 today = date.today().strftime('%Y-%m-%d')
@@ -119,7 +119,7 @@ start_of_week = date.today() - timedelta(days=date.today().weekday())
 thursday_of_week = start_of_week + timedelta(days=3)
 contest_start = datetime.strftime(thursday_of_week, '%b %d, %Y 20:15:00')
 
-all_players = dkextract.get_all_players(current_week, 2022)
+all_players = dkextract.get_all_players(current_week, 2023)
 all_drafted = get_all_drafted()
 
 # Create data for new_content to be appended to weekly_file

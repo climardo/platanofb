@@ -1,17 +1,17 @@
 ---
-title: 2022 Week {{ week }} Results
-year: 2022
+title: 2023 Week {{ week }} Results
+year: 2023
 week: {{ week }}
 layout: post
 author: climardo
-header_image: /assets/images/2022/week-{{ week }}-header.jpg
+header_image: /assets/images/2023/week-{{ week }}-header.jpg
 header_pos: 50% 50%
 ---
 {% raw %}
-{%- assign weekly = site.data.weekly2022 | where: "week", page.week | first -%}
+{%- assign weekly = site.data.weekly2023 | where: "week", page.week | first -%}
 First paragraph
 
-{% include weekly-winners-2022.html %}
+{% include weekly-winners-2023.html %}
 
 Second paragraph
 

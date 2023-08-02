@@ -1,11 +1,11 @@
 - name: Cash App
   logo: /assets/images/cashapplogo.png
   link: https://cash.app/app/PFJDGHN
-  myinfo: <a href="https://cash.app/$climardo" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/cashapp.png" alt="cash.app/$climardo" /></a>
-- name: Strike
-  logo: /assets/images/strike.png
-  link: https://invite.strike.me/9NCQRW
-  myinfo: <a href="https://strike.me/geru" target="_blank" class="text-wrap">strike.me/geru</a>
+  myinfo: <a href="https://cash.app/$sudocarlos" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/cashapp.png" alt="cash.app/$sudocarlos" /></a>
+- name: Bitcoin
+  logo: /assets/images/bitcoin.svg
+  link: https://btcpay.sudocarlos.com/api/v1/invoices?storeId=CVuZwroQyjRjjsgq3rBfoH6pWUzAskX9UFHPJnu5v492&currency=SATS&defaultPaymentMethod=BTC_LNURLPAY
+  myinfo: <a href="https://btcpay.sudocarlos.com/api/v1/invoices?storeId=CVuZwroQyjRjjsgq3rBfoH6pWUzAskX9UFHPJnu5v492&currency=SATS&defaultPaymentMethod=BTC_LNURLPAY" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/btcpay.svg" alt="BTCPay" /></a>
 - name: Apple Pay Cash
   logo: /assets/images/applepay.svg
   link: https://support.apple.com/en-us/HT207875
