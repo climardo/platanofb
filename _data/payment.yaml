@@ -14,8 +14,7 @@
 - name: Zelle
   logo: /assets/images/zelle.png
   link: https://www.zellepay.com/how-it-works
-  myinfo: <a href="/assets/images/carlos-limardo.vcf"><i class="fas fa-address-card fa-6x custom-purple"></i></a>
-  contact: <span class="custom-purple">climardo@gmail.com</a>
+  myinfo: <a href="https://www.zellepay.com/qr-codes/?data=eyJ0b2tlbiI6Im1vbmV5YmFnc0BpbmJveGdnLmNvbSIsIm5hbWUiOiJDQVJMT1MifQ=="><img class="img-fluid" src="/assets/images/zelle-qr.svg" alt="Zelle" /></a>
 - name: Venmo
   logo: /assets/images/venmo.svg
   link: https://venmo.com/about/product/
