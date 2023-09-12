@@ -3,5 +3,880 @@
         "week": 1,
         "contest_id": 149492368,
         "contest_start": "Sep 7, 2023 20:20:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "climardo",
+                "fantasyPoints": "156.54",
+                "lineup": "DST Raiders  FLEX Tyreek Hill QB Patrick Mahomes RB Austin Ekeler RB David Montgomery TE Noah Gray WR Mike Williams WR Jordan Addison WR Josh Reynolds"
+            },
+            {
+                "rank": "2",
+                "userName": "hlimardo",
+                "fantasyPoints": "152.64",
+                "lineup": "DST Jaguars  FLEX Rashee Rice QB Trevor Lawrence RB Travis Etienne Jr. RB James Cook TE Tyler Higbee WR Tyreek Hill WR Chris Olave WR Michael Gallup"
+            },
+            {
+                "rank": "3",
+                "userName": "JekellP",
+                "fantasyPoints": "145.62",
+                "lineup": "DST Eagles  FLEX Travis Etienne Jr. QB Jared Goff RB Aaron Jones RB Jahmyr Gibbs TE David Njoku WR Chris Olave WR Drake London WR Brandon Aiyuk"
+            },
+            {
+                "rank": "4",
+                "userName": "ismeyo",
+                "fantasyPoints": "129.72",
+                "lineup": "DST Commanders  FLEX Raheem Mostert QB Anthony Richardson RB Rachaad White RB Jamaal Williams TE Isaiah Likely WR Justin Jefferson WR Keenan Allen WR Calvin Ridley"
+            },
+            {
+                "rank": "5",
+                "userName": "luisdello",
+                "fantasyPoints": "129.54",
+                "lineup": "DST Jets  FLEX Deebo Samuel QB Trevor Lawrence RB Derrick Henry RB Jahmyr Gibbs TE Tyler Conklin WR Stefon Diggs WR Michael Thomas WR Jordan Addison"
+            },
+            {
+                "rank": "6",
+                "userName": "Dash7",
+                "fantasyPoints": "128.12",
+                "lineup": "DST Commanders  FLEX Garrett Wilson QB Jared Goff RB Raheem Mostert RB Jerick McKinnon TE Evan Engram WR Tyreek Hill WR Gabe Davis WR Michael Thomas"
+            },
+            {
+                "rank": "7",
+                "userName": "rahianr",
+                "fantasyPoints": "125.62",
+                "lineup": "DST Raiders  FLEX Kenneth Gainwell QB Justin Herbert RB J.K. Dobbins RB Brian Robinson Jr. TE Hayden Hurst WR Justin Jefferson WR Garrett Wilson WR Mike Williams"
+            },
+            {
+                "rank": "8",
+                "userName": "arianna29",
+                "fantasyPoints": "124.020004",
+                "lineup": "DST Commanders  FLEX Kenneth Walker III QB Anthony Richardson RB Miles Sanders RB Raheem Mostert TE Tyler Higbee WR Garrett Wilson WR Chris Olave WR Chris Godwin"
+            },
+            {
+                "rank": "9",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "123.04",
+                "lineup": "DST Commanders  FLEX Chris Olave QB Trevor Lawrence RB J.K. Dobbins RB Brian Robinson Jr. TE Dallas Goedert WR Calvin Ridley WR Chris Godwin WR George Pickens"
+            },
+            {
+                "rank": "10",
+                "userName": "MattyDel14",
+                "fantasyPoints": "118.53999",
+                "lineup": "DST Commanders  FLEX Mike Evans QB Trevor Lawrence RB Jahmyr Gibbs RB Javonte Williams TE Dallas Goedert WR Chris Olave WR Calvin Ridley WR Adam Thielen"
+            },
+            {
+                "rank": "11",
+                "userName": "AmesSB",
+                "fantasyPoints": "117.14",
+                "lineup": "DST Packers  FLEX Michael Thomas QB Patrick Mahomes RB Cam Akers RB Melvin Gordon III TE Evan Engram WR Amon-Ra St. Brown WR Mike Evans WR Nico Collins"
+            },
+            {
+                "rank": "12",
+                "userName": "ejmesa",
+                "fantasyPoints": "116.52",
+                "lineup": "DST Commanders  FLEX Zay Flowers QB Jared Goff RB Austin Ekeler RB Saquon Barkley TE Juwan Johnson WR Amon-Ra St. Brown WR Jahan Dotson WR Skyy Moore"
+            },
+            {
+                "rank": "13",
+                "userName": "pshhidk",
+                "fantasyPoints": "116.12",
+                "lineup": "DST Cowboys  FLEX Mecole Hardman Jr. QB Dak Prescott RB Austin Ekeler RB Clyde Edwards-Helaire TE Dallas Goedert WR CeeDee Lamb WR Deebo Samuel WR Zay Jones"
+            },
+            {
+                "rank": "14",
+                "userName": "glopez28",
+                "fantasyPoints": "110.72001",
+                "lineup": "DST Commanders  FLEX Christian Kirk QB Jared Goff RB Travis Etienne Jr. RB Miles Sanders TE Tyler Higbee WR Amon-Ra St. Brown WR Chris Olave WR Skyy Moore"
+            },
+            {
+                "rank": "15",
+                "userName": "olivadotij",
+                "fantasyPoints": "108.159996",
+                "lineup": "DST Commanders  FLEX Elijah Moore QB Daniel Jones RB Josh Jacobs RB Raheem Mostert TE Darren Waller WR Garrett Wilson WR Calvin Ridley WR Deebo Samuel"
+            },
+            {
+                "rank": "16",
+                "userName": "geedee3",
+                "fantasyPoints": "103.34",
+                "lineup": "DST Raiders  FLEX Evan Engram QB Trevor Lawrence RB David Montgomery RB Jerick McKinnon TE Hayden Hurst WR Ja'Marr Chase WR Garrett Wilson WR DeVonta Smith"
+            },
+            {
+                "rank": "17",
+                "userName": "Halvworld",
+                "fantasyPoints": "101.920006",
+                "lineup": "DST Commanders  FLEX Michael Thomas QB Justin Herbert RB Aaron Jones RB Jahmyr Gibbs TE Tyler Higbee WR Tee Higgins WR Mike Williams WR Diontae Johnson"
+            },
+            {
+                "rank": "18",
+                "userName": "LoLoGREEN",
+                "fantasyPoints": "84.560005",
+                "lineup": "DST Raiders  FLEX Zay Flowers QB Lamar Jackson RB Joe Mixon RB Isiah Pacheco TE Evan Engram WR Garrett Wilson WR Deebo Samuel WR Drake London"
+            },
+            {
+                "rank": "19",
+                "userName": "frank.corn",
+                "fantasyPoints": "84.44",
+                "lineup": "DST Commanders  FLEX Jerick McKinnon QB Patrick Mahomes RB Jahmyr Gibbs RB Jamaal Williams TE Darren Waller WR Amon-Ra St. Brown WR Kadarius Toney WR Jahan Dotson"
+            },
+            {
+                "rank": "20",
+                "userName": "g_mendoza",
+                "fantasyPoints": "81.82001",
+                "lineup": "DST Commanders  FLEX Kenneth Walker III QB Justin Herbert RB Joe Mixon RB Rachaad White TE Dallas Goedert WR Amon-Ra St. Brown WR Drake London WR Marvin Mims Jr."
+            },
+            {
+                "rank": "21",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "76.6",
+                "lineup": "DST Raiders  FLEX Isiah Pacheco QB Aaron Rodgers RB Josh Jacobs RB Dalvin Cook TE Juwan Johnson WR Garrett Wilson WR Chris Olave WR Tyler Boyd"
+            },
+            {
+                "rank": "22",
+                "userName": "rogdiaz",
+                "fantasyPoints": "49.719997",
+                "lineup": "DST Commanders  FLEX Derrick Henry QB Dak Prescott RB Dameon Pierce RB D'Andre Swift TE David Njoku WR Tee Higgins WR Christian Kirk WR Brandin Cooks"
+            }
+        ],
+        "mvp": {
+            "playerId": 823156,
+            "playerDkId": 11477,
+            "firstName": "Tyreek",
+            "lastName": "Hill",
+            "teamId": 345,
+            "position": "WR",
+            "salary": 8200,
+            "fantasyPoints": 47.5,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 215
+                },
+                {
+                    "statId": 44,
+                    "total": 11
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 15
+                },
+                {
+                    "statId": 82,
+                    "total": 47
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 2
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 991,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 115
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 215
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5939184,
+            "points": 47.5,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-09-10T20:25:00.0000000Z",
+            "weekNumber": 1,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/11477.png",
+            "teamCity": "Miami",
+            "teamName": "Dolphins",
+            "teamAbbreviation": "MIA",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Chargers",
+            "opposingTeamAbbreviation": "LAC",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 49
+                },
+                {
+                    "statId": 41,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 44,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 51,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 17.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 87,
+                    "total": 1.5
+                },
+                {
+                    "statId": 88,
+                    "total": 49
+                },
+                {
+                    "statId": 89,
+                    "total": 11.7023
+                },
+                {
+                    "statId": 90,
+                    "total": 12.1333
+                },
+                {
+                    "statId": 91,
+                    "total": 12.1333
+                },
+                {
+                    "statId": 92,
+                    "total": 8466.6667
+                },
+                {
+                    "statId": 93,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 9
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 12.1333,
+            "fantasyPointsPerSalary": 0.005792682926829268,
+            "displayName": "Tyreek Hill"
+        },
+        "bust": {
+            "playerId": 974825,
+            "playerDkId": 560529,
+            "firstName": "Kadarius",
+            "lastName": "Toney",
+            "teamId": 339,
+            "position": "WR",
+            "salary": 5100,
+            "fantasyPoints": 1,
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": 1
+                },
+                {
+                    "statId": 41,
+                    "total": -1
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 5
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": -1
+                },
+                {
+                    "statId": 82,
+                    "total": 1
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5938810,
+            "points": 1,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-09-08T00:20:00.0000000Z",
+            "weekNumber": 1,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/560529.png",
+            "teamCity": "Kansas City",
+            "teamName": "Chiefs",
+            "teamAbbreviation": "KC",
+            "opposingTeamCity": "Detroit",
+            "opposingTeamName": "Lions",
+            "opposingTeamAbbreviation": "DET",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 16.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 7.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 87,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 88,
+                    "total": 16.6667
+                },
+                {
+                    "statId": 89,
+                    "total": 7.0667
+                },
+                {
+                    "statId": 90,
+                    "total": 6.4667
+                },
+                {
+                    "statId": 91,
+                    "total": 6.4667
+                },
+                {
+                    "statId": 92,
+                    "total": 2600
+                },
+                {
+                    "statId": 93,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 6.4667,
+            "fantasyPointsPerSalary": 0.000196078431372549,
+            "displayName": "Kadarius Toney"
+        },
+        "sleeper": {
+            "playerId": 331,
+            "playerDkId": 18336,
+            "firstName": "Cowboys",
+            "lastName": "",
+            "teamId": 331,
+            "position": "DST",
+            "salary": 3600,
+            "fantasyPoints": 37,
+            "stats": [
+                {
+                    "statId": 52,
+                    "total": 7
+                },
+                {
+                    "statId": 53,
+                    "total": 2
+                },
+                {
+                    "statId": 54,
+                    "total": 1
+                },
+                {
+                    "statId": 55,
+                    "total": 2
+                },
+                {
+                    "statId": 56,
+                    "total": 1
+                },
+                {
+                    "statId": 64,
+                    "total": 1
+                },
+                {
+                    "statId": 76,
+                    "total": 108
+                },
+                {
+                    "statId": 77,
+                    "total": 63
+                },
+                {
+                    "statId": 78,
+                    "total": 171
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 102,
+                    "total": 34
+                },
+                {
+                    "statId": 103,
+                    "total": 143
+                },
+                {
+                    "statId": 104,
+                    "total": 122
+                },
+                {
+                    "statId": 105,
+                    "total": 265
+                },
+                {
+                    "statId": 974,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerState": "offense",
+            "playerStates": [],
+            "gameId": 5939256,
+            "points": 37,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-09-11T00:20:00.0000000Z",
+            "weekNumber": 1,
+            "imageUrl": "https://dkn.gs/sports/images/default/players/160.png",
+            "teamCity": "Dallas",
+            "teamName": "Cowboys",
+            "teamAbbreviation": "DAL",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Giants",
+            "opposingTeamAbbreviation": "NYG",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 52,
+                    "total": 2.3333
+                },
+                {
+                    "statId": 53,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 54,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 59,
+                    "total": 1
+                },
+                {
+                    "statId": 75,
+                    "total": 17.6667
+                },
+                {
+                    "statId": 76,
+                    "total": 105.3333
+                },
+                {
+                    "statId": 77,
+                    "total": 230.3333
+                },
+                {
+                    "statId": 78,
+                    "total": 335.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 5.3333
+                },
+                {
+                    "statId": 91,
+                    "total": 5.3333
+                },
+                {
+                    "statId": 92,
+                    "total": 3433.3333
+                },
+                {
+                    "statId": 94,
+                    "total": 17.6667
+                },
+                {
+                    "statId": 95,
+                    "total": 230.3333
+                },
+                {
+                    "statId": 96,
+                    "total": 105.3333
+                },
+                {
+                    "statId": 97,
+                    "total": 335.6667
+                },
+                {
+                    "statId": 102,
+                    "total": 16.3333
+                },
+                {
+                    "statId": 103,
+                    "total": 207
+                },
+                {
+                    "statId": 104,
+                    "total": 89.3333
+                },
+                {
+                    "statId": 105,
+                    "total": 296.3333
+                },
+                {
+                    "statId": 116,
+                    "total": 207
+                },
+                {
+                    "statId": 117,
+                    "total": 89.3333
+                },
+                {
+                    "statId": 118,
+                    "total": 296.3333
+                },
+                {
+                    "statId": 119,
+                    "total": 16.3333
+                },
+                {
+                    "statId": 976,
+                    "total": 1
+                },
+                {
+                    "statId": 1001,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1002,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 5.3333,
+            "fantasyPointsPerSalary": 0.010277777777777778,
+            "displayName": "Cowboys"
+        },
+        "draft_dodger":         {
+            "playerId": 973947,
+            "playerDkId": 468529,
+            "firstName": "Tua",
+            "lastName": "Tagovailoa",
+            "teamId": 345,
+            "position": "QB",
+            "salary": 6700,
+            "fantasyPoints": 32.14,
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 3
+                },
+                {
+                    "statId": 39,
+                    "total": 466
+                },
+                {
+                    "statId": 41,
+                    "total": 5
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 50,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 28
+                },
+                {
+                    "statId": 43,
+                    "total": 5
+                },
+                {
+                    "statId": 71,
+                    "total": 45
+                },
+                {
+                    "statId": 74,
+                    "total": 2
+                },
+                {
+                    "statId": 81,
+                    "total": 7
+                },
+                {
+                    "statId": 83,
+                    "total": 47
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 986,
+                    "total": 1
+                },
+                {
+                    "statId": 987,
+                    "total": 1
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 166
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 5
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5939184,
+            "points": 32.14,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-09-10T20:25:00.0000000Z",
+            "weekNumber": 1,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/468529.png",
+            "teamCity": "Miami",
+            "teamName": "Dolphins",
+            "teamAbbreviation": "MIA",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Chargers",
+            "opposingTeamAbbreviation": "LAC",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 229.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 11.6667
+                },
+                {
+                    "statId": 42,
+                    "total": 14.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 47,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 27.6667
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 79,
+                    "total": 83.396
+                },
+                {
+                    "statId": 81,
+                    "total": 7
+                },
+                {
+                    "statId": 83,
+                    "total": 70.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 11.6667
+                },
+                {
+                    "statId": 87,
+                    "total": 5.4443
+                },
+                {
+                    "statId": 90,
+                    "total": 15.6867
+                },
+                {
+                    "statId": 91,
+                    "total": 15.6867
+                },
+                {
+                    "statId": 92,
+                    "total": 6433.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 110,
+                    "total": 52.127
+                },
+                {
+                    "statId": 111,
+                    "total": 229.6667
+                },
+                {
+                    "statId": 112,
+                    "total": 8.4597
+                },
+                {
+                    "statId": 993,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 994,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 1216,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 15.6867,
+            "displayName": "Tua Tagovailoa"
+        }
+    },
+    {
+        "week": 2,
+        "contest_id": 150266730,
+        "contest_start": "Sep 14, 2023 20:15:00"
     }
 ]

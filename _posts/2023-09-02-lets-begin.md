@@ -9,7 +9,7 @@ header_pos: 50% 15%
 ---
 # [Week 1 contest](https://www.draftkings.com/draft/contest/149492368)
 
-There it is. That up there is te link to the first weekly contest of our league's 2023 season. As usual, it's a Thursday to Monday contest in order to cover as many games and players as possible, hopefully resulting in more varied and unique lineups. I would have started this contest sooner if this format had been available earlier, but this morning was the first time I saw it listed.
+There it is. That up there is the link to the first weekly contest of our league's 2023 season. As usual, it's a Thursday to Monday contest in order to cover as many games and players as possible, hopefully resulting in more varied and unique lineups. I would have started this contest sooner if this format had been available earlier, but this morning was the first time I saw it listed.
 
 If you prefer Sunday-only contests we can switch to that format, but I'll wait until at least one of you approaches me with this suggestion. In the past, I have ran polls to see if the league would prefer to do that and the voting-majority has always chosen Thu-Mon. Anyway, I am just excited to mess around with lineups and see what kind of team I can put together with this $50,000 salary cap and some mispriced players.
 
