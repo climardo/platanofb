@@ -8361,6 +8361,865 @@
     {
         "week": 10,
         "contest_id": 153855249,
-        "contest_start": "Nov 09, 2023 20:15:00"
+        "contest_start": "Nov 09, 2023 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "geedee3",
+                "fantasyPoints": "174.15999",
+                "lineup": "DST Jets  FLEX Noah Brown QB Geno Smith RB Jahmyr Gibbs RB Joe Mixon TE Cade Otton WR Amon-Ra St. Brown WR Garrett Wilson WR Christian Kirk"
+            },
+            {
+                "rank": "2",
+                "userName": "climardo",
+                "fantasyPoints": "168.76001",
+                "lineup": "DST Cowboys  FLEX Dalton Kincaid QB Dak Prescott RB Jonathan Taylor RB Joe Mixon TE Trey McBride WR CeeDee Lamb WR DeAndre Hopkins WR Josh Reynolds"
+            },
+            {
+                "rank": "3",
+                "userName": "g_mendoza",
+                "fantasyPoints": "153.08002",
+                "lineup": "DST Cowboys  FLEX Najee Harris QB Sam Howell RB Travis Etienne Jr. RB Rachaad White TE Cole Kmet WR Amon-Ra St. Brown WR Marquise Brown WR Noah Brown"
+            },
+            {
+                "rank": "4",
+                "userName": "Dash7",
+                "fantasyPoints": "151.46",
+                "lineup": "DST Jets  FLEX Amon-Ra St. Brown QB Will Levis RB Breece Hall RB D'Onta Foreman TE Dalton Kincaid WR CeeDee Lamb WR Rashid Shaheed WR Jaxon Smith-Njigba"
+            },
+            {
+                "rank": "5",
+                "userName": "olivadotij",
+                "fantasyPoints": "149.88",
+                "lineup": "DST Ravens  FLEX Tank Dell QB Joe Burrow RB Jonathan Taylor RB D'Onta Foreman TE Dalton Kincaid WR Mike Evans WR DeAndre Hopkins WR Jaxon Smith-Njigba"
+            },
+            {
+                "rank": "6",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "148.22",
+                "lineup": "DST Broncos  FLEX Devin Singletary QB Jared Goff RB Tony Pollard RB Javonte Williams TE Jonnu Smith WR Amon-Ra St. Brown WR Tyler Lockett WR DeAndre Hopkins"
+            },
+            {
+                "rank": "7",
+                "userName": "rahianr",
+                "fantasyPoints": "141.62001",
+                "lineup": "DST Cowboys  FLEX Taysom Hill QB Jared Goff RB Tony Pollard RB Bijan Robinson TE Sam LaPorta WR Amon-Ra St. Brown WR Noah Brown WR Trenton Irwin"
+            },
+            {
+                "rank": "8",
+                "userName": "MattyDel14",
+                "fantasyPoints": "138.18001",
+                "lineup": "DST Cowboys  FLEX Tony Pollard QB Sam Howell RB Rhamondre Stevenson RB D'Onta Foreman TE Trey McBride WR Michael Pittman Jr. WR Terry McLaurin WR Courtland Sutton"
+            },
+            {
+                "rank": "9",
+                "userName": "ismeyo",
+                "fantasyPoints": "129.51999",
+                "lineup": "DST Cardinals  FLEX Breece Hall QB Jared Goff RB Joe Mixon RB Rachaad White TE Trey McBride WR Amon-Ra St. Brown WR Calvin Ridley WR Jahan Dotson"
+            },
+            {
+                "rank": "9",
+                "userName": "hlimardo",
+                "fantasyPoints": "129.51999",
+                "lineup": "DST Steelers  FLEX Dalton Kincaid QB Jared Goff RB Jahmyr Gibbs RB Bijan Robinson TE Sam LaPorta WR Calvin Ridley WR Drake London WR Tank Dell"
+            },
+            {
+                "rank": "11",
+                "userName": "AmesSB",
+                "fantasyPoints": "126.44",
+                "lineup": "DST Cowboys  FLEX Keaton Mitchell QB C.J. Stroud RB Jonathan Taylor RB Miles Sanders TE Jake Ferguson WR Keenan Allen WR Christian Watson WR Michael Thomas"
+            },
+            {
+                "rank": "12",
+                "userName": "jlopez0809",
+                "fantasyPoints": "124.03999",
+                "lineup": "DST Lions  FLEX Diontae Johnson QB Brock Purdy RB Christian McCaffrey RB Breece Hall TE Sam LaPorta WR Jordan Addison WR Tyler Boyd WR Noah Brown"
+            },
+            {
+                "rank": "13",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "121.08",
+                "lineup": "DST Ravens  FLEX DK Metcalf QB Joe Burrow RB Joe Mixon RB Bijan Robinson TE Taysom Hill WR Jordan Addison WR Courtland Sutton WR Jauan Jennings"
+            },
+            {
+                "rank": "14",
+                "userName": "rogdiaz",
+                "fantasyPoints": "117.34",
+                "lineup": "DST Jets  FLEX Christian McCaffrey QB Brock Purdy RB Jonathan Taylor RB Joe Mixon TE Irv Smith Jr. WR Mike Evans WR Jahan Dotson WR Rashid Shaheed"
+            },
+            {
+                "rank": "15",
+                "userName": "arianna29",
+                "fantasyPoints": "116.880005",
+                "lineup": "DST Cardinals  FLEX Javonte Williams QB Josh Allen RB Rachaad White RB Najee Harris TE Dalton Kincaid WR Stefon Diggs WR Terry McLaurin WR Jaxon Smith-Njigba"
+            },
+            {
+                "rank": "16",
+                "userName": "ejmesa",
+                "fantasyPoints": "102.28001",
+                "lineup": "DST Jets  FLEX Breece Hall QB Sam Howell RB Joe Mixon RB Rico Dowdle TE Sam LaPorta WR Stefon Diggs WR Terry McLaurin WR Brandon Powell"
+            },
+            {
+                "rank": "17",
+                "userName": "pshhidk",
+                "fantasyPoints": "97.759995",
+                "lineup": "DST Cowboys  FLEX Josh Reynolds QB Geno Smith RB Tony Pollard RB Zack Moss TE Jake Ferguson WR DK Metcalf WR Chris Olave WR Diontae Johnson"
+            },
+            {
+                "rank": "18",
+                "userName": "luisdello",
+                "fantasyPoints": "97.72",
+                "lineup": "DST Lions  FLEX Travis Etienne Jr. QB Lamar Jackson RB Bijan Robinson RB Rachaad White TE Trey McBride WR Terry McLaurin WR Calvin Ridley WR George Pickens"
+            },
+            {
+                "rank": "19",
+                "userName": "frank.corn",
+                "fantasyPoints": "94.92",
+                "lineup": "DST Jets  FLEX Michael Thomas QB Jared Goff RB Bijan Robinson RB Jaylen Warren TE Evan Engram WR Stefon Diggs WR DeAndre Hopkins WR Calvin Ridley"
+            },
+            {
+                "rank": "20",
+                "userName": "LoLoGREEN",
+                "fantasyPoints": "94.45999",
+                "lineup": "DST Commanders  FLEX Marvin Mims Jr. QB Kyler Murray RB Jahmyr Gibbs RB Joe Mixon TE Logan Thomas WR Adam Thielen WR Brandon Aiyuk WR Jakobi Meyers"
+            }
+        ],
+        "mvp": {
+            "playerId": 557210,
+            "playerDkId": 19006,
+            "firstName": "Keenan",
+            "lastName": "Allen",
+            "teamId": 357,
+            "position": "WR",
+            "salary": 8800,
+            "fantasyPoints": 43.5,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 175
+                },
+                {
+                    "statId": 44,
+                    "total": 11
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 14
+                },
+                {
+                    "statId": 82,
+                    "total": 38
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 2
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 75
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 175
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5939220,
+            "points": 43.5,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-11-12T21:05:00.0000000Z",
+            "weekNumber": 10,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19006.png",
+            "teamCity": "Los Angeles",
+            "teamName": "Chargers",
+            "teamAbbreviation": "LAC",
+            "opposingTeamCity": "Detroit",
+            "opposingTeamName": "Lions",
+            "opposingTeamAbbreviation": "DET",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 107
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 29
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 107
+                },
+                {
+                    "statId": 89,
+                    "total": 11.3863
+                },
+                {
+                    "statId": 90,
+                    "total": 24.7
+                },
+                {
+                    "statId": 91,
+                    "total": 24.7
+                },
+                {
+                    "statId": 92,
+                    "total": 8600
+                },
+                {
+                    "statId": 93,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 11
+                },
+                {
+                    "statId": 528,
+                    "total": 9
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 25
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 107
+                },
+                {
+                    "statId": 1801,
+                    "total": 107
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 24.7,
+            "fantasyPointsPerSalary": 0.004943181818181818,
+            "displayName": "Keenan Allen"
+        },
+        "bust": {
+            "playerId": 913170,
+            "playerDkId": 477269,
+            "firstName": "Zack",
+            "lastName": "Moss",
+            "teamId": 338,
+            "position": "RB",
+            "salary": 5400,
+            "fantasyPoints": 0.2,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 2
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 2
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5938738,
+            "points": 0.2,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-11-12T14:30:00.0000000Z",
+            "weekNumber": 10,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/477269.png",
+            "teamCity": "Indianapolis",
+            "teamName": "Colts",
+            "teamAbbreviation": "IND",
+            "opposingTeamCity": "New England",
+            "opposingTeamName": "Patriots",
+            "opposingTeamAbbreviation": "NE",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 2.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 31.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 6.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 17
+                },
+                {
+                    "statId": 82,
+                    "total": 2.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 31.3333
+                },
+                {
+                    "statId": 87,
+                    "total": 3.9047
+                },
+                {
+                    "statId": 88,
+                    "total": 2.6667
+                },
+                {
+                    "statId": 89,
+                    "total": 2.6667
+                },
+                {
+                    "statId": 90,
+                    "total": 5.7333
+                },
+                {
+                    "statId": 91,
+                    "total": 5.7333
+                },
+                {
+                    "statId": 92,
+                    "total": 5633.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 527,
+                    "total": 6.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 996,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 34
+                },
+                {
+                    "statId": 1801,
+                    "total": 34
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 5.7333,
+            "fantasyPointsPerSalary": 3.7037037037037037e-05,
+            "displayName": "Zack Moss"
+        },
+        "sleeper": {
+            "playerId": 607864,
+            "playerDkId": 13498,
+            "firstName": "Brandin",
+            "lastName": "Cooks",
+            "teamId": 331,
+            "position": "WR",
+            "salary": 4200,
+            "fantasyPoints": 35.3,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 173
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 10
+                },
+                {
+                    "statId": 82,
+                    "total": 37
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 73
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 173
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5939250,
+            "points": 35.3,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-11-12T21:25:00.0000000Z",
+            "weekNumber": 10,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/13498.png",
+            "teamCity": "Dallas",
+            "teamName": "Cowboys",
+            "teamAbbreviation": "DAL",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Giants",
+            "opposingTeamAbbreviation": "NYG",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 76.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 1
+                },
+                {
+                    "statId": 82,
+                    "total": 23
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 1
+                },
+                {
+                    "statId": 87,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 76.3333
+                },
+                {
+                    "statId": 89,
+                    "total": 14.185
+                },
+                {
+                    "statId": 90,
+                    "total": 17.0667
+                },
+                {
+                    "statId": 91,
+                    "total": 17.0667
+                },
+                {
+                    "statId": 92,
+                    "total": 4400
+                },
+                {
+                    "statId": 93,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 5.3333
+                },
+                {
+                    "statId": 527,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1011,
+                    "total": 24.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 77.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 77.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 17.0667,
+            "fantasyPointsPerSalary": 0.008404761904761904,
+            "displayName": "Brandin Cooks"
+        },
+        "draft_dodger": {
+            "playerId": 607864,
+            "playerDkId": 13498,
+            "firstName": "Brandin",
+            "lastName": "Cooks",
+            "teamId": 331,
+            "position": "WR",
+            "salary": 4200,
+            "fantasyPoints": 35.3,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 173
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 10
+                },
+                {
+                    "statId": 82,
+                    "total": 37
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 73
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 173
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5939250,
+            "points": 35.3,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-11-12T21:25:00.0000000Z",
+            "weekNumber": 10,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/13498.png",
+            "teamCity": "Dallas",
+            "teamName": "Cowboys",
+            "teamAbbreviation": "DAL",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Giants",
+            "opposingTeamAbbreviation": "NYG",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 76.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 1
+                },
+                {
+                    "statId": 82,
+                    "total": 23
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 1
+                },
+                {
+                    "statId": 87,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 76.3333
+                },
+                {
+                    "statId": 89,
+                    "total": 14.185
+                },
+                {
+                    "statId": 90,
+                    "total": 17.0667
+                },
+                {
+                    "statId": 91,
+                    "total": 17.0667
+                },
+                {
+                    "statId": 92,
+                    "total": 4400
+                },
+                {
+                    "statId": 93,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 5.3333
+                },
+                {
+                    "statId": 527,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1011,
+                    "total": 24.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 77.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 77.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 17.0667,
+            "fantasyPointsPerSalary": 0.008404761904761904,
+            "displayName": "Brandin Cooks"
+        }
+    },
+    {
+        "week": 11,
+        "contest_id": 154264404,
+        "contest_start": "Nov 16, 2023 20:15:00"
     }
 ]
