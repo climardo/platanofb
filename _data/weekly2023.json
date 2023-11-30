@@ -10172,6 +10172,955 @@
     {
         "week": 12,
         "contest_id": 154745425,
-        "contest_start": "Nov 23, 2023 20:15:00"
+        "contest_start": "Nov 23, 2023 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "rahianr",
+                "fantasyPoints": "174.13998",
+                "lineup": "DST Patriots  FLEX Kyren Williams QB Gardner Minshew II RB Derrick Henry RB Jaylen Warren TE Evan Engram WR Tank Dell WR Michael Pittman Jr. WR Gabe Davis"
+            },
+            {
+                "rank": "2",
+                "userName": "LoLoGREEN",
+                "fantasyPoints": "158.42001",
+                "lineup": "DST Eagles  FLEX Tank Dell QB Patrick Mahomes RB Bijan Robinson RB Najee Harris TE Cole Kmet WR DJ Moore WR Rashee Rice WR George Pickens"
+            },
+            {
+                "rank": "3",
+                "userName": "g_mendoza",
+                "fantasyPoints": "156.26",
+                "lineup": "DST Patriots  FLEX Najee Harris QB Baker Mayfield RB Raheem Mostert RB Rhamondre Stevenson TE David Njoku WR Michael Pittman Jr. WR Chris Olave WR Christian Kirk"
+            },
+            {
+                "rank": "4",
+                "userName": "arianna29",
+                "fantasyPoints": "152.58",
+                "lineup": "DST Patriots  FLEX Rachaad White QB Justin Fields RB D'Andre Swift RB Kyren Williams TE Cole Kmet WR Tank Dell WR DJ Moore WR Justin Watson"
+            },
+            {
+                "rank": "5",
+                "userName": "jlopez0809",
+                "fantasyPoints": "143.90001",
+                "lineup": "DST Patriots  FLEX Breece Hall QB Joshua Dobbs RB Kyren Williams RB Rhamondre Stevenson TE Dalton Kincaid WR Garrett Wilson WR Christian Kirk WR Josh Downs"
+            },
+            {
+                "rank": "6",
+                "userName": "Halvworld",
+                "fantasyPoints": "142.26001",
+                "lineup": "DST Patriots  FLEX Garrett Wilson QB C.J. Stroud RB Joe Mixon RB Rhamondre Stevenson TE Taysom Hill WR Calvin Ridley WR Diontae Johnson WR Josh Downs"
+            },
+            {
+                "rank": "7",
+                "userName": "geedee3",
+                "fantasyPoints": "134.82",
+                "lineup": "DST Bears  FLEX Tank Dell QB Patrick Mahomes RB Travis Etienne Jr. RB James Conner TE Isaiah Likely WR Chris Olave WR Calvin Ridley WR Greg Dortch"
+            },
+            {
+                "rank": "8",
+                "userName": "ejmesa",
+                "fantasyPoints": "132.48001",
+                "lineup": "DST Patriots  FLEX Gabe Davis QB Lamar Jackson RB Jaylen Warren RB Keaton Mitchell TE Tyler Conklin WR Puka Nacua WR Michael Pittman Jr. WR Zay Flowers"
+            },
+            {
+                "rank": "9",
+                "userName": "JekellP",
+                "fantasyPoints": "132.40001",
+                "lineup": "DST Titans  FLEX Jaylen Warren QB Joshua Dobbs RB Isiah Pacheco RB Jerome Ford TE Dalton Kincaid WR Michael Pittman Jr. WR Nico Collins WR Diontae Johnson"
+            },
+            {
+                "rank": "10",
+                "userName": "frank.corn",
+                "fantasyPoints": "131.3",
+                "lineup": "DST Patriots  FLEX Derrick Henry QB Joshua Dobbs RB Kyren Williams RB Dalvin Cook TE Kyle Pitts WR Cooper Kupp WR Nico Collins WR Josh Downs"
+            },
+            {
+                "rank": "11",
+                "userName": "pshhidk",
+                "fantasyPoints": "130.70001",
+                "lineup": "DST Steelers  FLEX Najee Harris QB Joshua Dobbs RB D'Andre Swift RB Rachaad White TE David Njoku WR Michael Pittman Jr. WR DJ Moore WR Jordan Addison"
+            },
+            {
+                "rank": "12",
+                "userName": "luisdello",
+                "fantasyPoints": "130.56",
+                "lineup": "DST Dolphins  FLEX Cole Kmet QB C.J. Stroud RB Saquon Barkley RB Rachaad White TE Donald Parham Jr. WR Jaylen Waddle WR Tank Dell WR Darnell Mooney"
+            },
+            {
+                "rank": "13",
+                "userName": "AmesSB",
+                "fantasyPoints": "130.36002",
+                "lineup": "DST Vikings  FLEX Evan Engram QB C.J. Stroud RB Devin Singletary RB Javonte Williams TE Trey McBride WR Jaylen Waddle WR DeAndre Hopkins WR Diontae Johnson"
+            },
+            {
+                "rank": "14",
+                "userName": "olivadotij",
+                "fantasyPoints": "126.54001",
+                "lineup": "DST Broncos  FLEX Josh Downs QB Tommy DeVito RB Saquon Barkley RB Miles Sanders TE Trey McBride WR Stefon Diggs WR DJ Moore WR Zay Flowers"
+            },
+            {
+                "rank": "15",
+                "userName": "hlimardo",
+                "fantasyPoints": "123.72",
+                "lineup": "DST Patriots  FLEX Saquon Barkley QB Desmond Ridder RB Rachaad White RB Devin Singletary TE David Njoku WR Tank Dell WR Chris Olave WR Drake London"
+            },
+            {
+                "rank": "16",
+                "userName": "ismeyo",
+                "fantasyPoints": "123.48",
+                "lineup": "DST Giants  FLEX Jonathan Taylor QB Lamar Jackson RB Jerome Ford RB Jaylen Warren TE Isaiah Likely WR Tank Dell WR Michael Pittman Jr. WR Odell Beckham Jr."
+            },
+            {
+                "rank": "17",
+                "userName": "Dash7",
+                "fantasyPoints": "120.200005",
+                "lineup": "DST Eagles  FLEX Michael Pittman Jr. QB Joshua Dobbs RB Gus Edwards RB Jerome Ford TE David Njoku WR Tank Dell WR DJ Moore WR Christian Kirk"
+            },
+            {
+                "rank": "18",
+                "userName": "climardo",
+                "fantasyPoints": "118.96",
+                "lineup": "DST Chiefs  FLEX Jonathan Mingo QB Baker Mayfield RB Derrick Henry RB Rachaad White TE Taysom Hill WR Stefon Diggs WR Tank Dell WR Josh Downs"
+            },
+            {
+                "rank": "19",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "118.46",
+                "lineup": "DST Dolphins  FLEX Raheem Mostert QB Baker Mayfield RB Saquon Barkley RB Gus Edwards TE Jonnu Smith WR Jaylen Waddle WR Calvin Ridley WR Rondale Moore"
+            },
+            {
+                "rank": "20",
+                "userName": "glopez28",
+                "fantasyPoints": "117.159996",
+                "lineup": "DST Steelers  FLEX Khalil Herbert QB Russell Wilson RB Isiah Pacheco RB Rachaad White TE Trey McBride WR Puka Nacua WR Christian Kirk WR Courtland Sutton"
+            },
+            {
+                "rank": "21",
+                "userName": "MattyDel14",
+                "fantasyPoints": "115.66",
+                "lineup": "DST Chiefs  FLEX Rachaad White QB C.J. Stroud RB Jerome Ford RB Ty Chandler TE Dalton Kincaid WR Tank Dell WR Christian Kirk WR Demario Douglas"
+            },
+            {
+                "rank": "22",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "113.78001",
+                "lineup": "DST Giants  FLEX George Pickens QB Lamar Jackson RB Derrick Henry RB Keaton Mitchell TE Evan Engram WR Adam Thielen WR Jordan Addison WR Gabe Davis"
+            },
+            {
+                "rank": "23",
+                "userName": "rogdiaz",
+                "fantasyPoints": "87.299995",
+                "lineup": "DST Chiefs  FLEX Jonathan Taylor QB Joshua Dobbs RB Joe Mixon RB Rachaad White TE Jonnu Smith WR Mike Evans WR Adam Thielen WR Rondale Moore"
+            }
+        ],
+        "mvp": {
+            "playerId": 868199,
+            "playerDkId": 11370,
+            "firstName": "Josh",
+            "lastName": "Allen",
+            "teamId": 324,
+            "position": "QB",
+            "salary": 8100,
+            "fantasyPoints": 43.66,
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 2
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 39,
+                    "total": 339
+                },
+                {
+                    "statId": 41,
+                    "total": 81
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 29
+                },
+                {
+                    "statId": 43,
+                    "total": 9
+                },
+                {
+                    "statId": 71,
+                    "total": 51
+                },
+                {
+                    "statId": 81,
+                    "total": 19
+                },
+                {
+                    "statId": 83,
+                    "total": 31
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 2
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 985,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 39
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 81
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5940329,
+            "points": 43.66,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-11-26T21:25:00.0000000Z",
+            "weekNumber": 12,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/11370.png",
+            "teamCity": "Buffalo",
+            "teamName": "Bills",
+            "teamAbbreviation": "BUF",
+            "opposingTeamCity": "Philadelphia",
+            "opposingTeamName": "Eagles",
+            "opposingTeamAbbreviation": "PHI",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 2
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 263.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 6
+                },
+                {
+                    "statId": 46,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 70,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 79,
+                    "total": 83.1883
+                },
+                {
+                    "statId": 81,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 83,
+                    "total": 50
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 87,
+                    "total": 5.0833
+                },
+                {
+                    "statId": 90,
+                    "total": 28.18
+                },
+                {
+                    "statId": 91,
+                    "total": 28.18
+                },
+                {
+                    "statId": 92,
+                    "total": 8033.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 110,
+                    "total": 59.0183
+                },
+                {
+                    "statId": 111,
+                    "total": 263.6667
+                },
+                {
+                    "statId": 112,
+                    "total": 7.3497
+                },
+                {
+                    "statId": 519,
+                    "total": 2
+                },
+                {
+                    "statId": 520,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 522,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 527,
+                    "total": 6
+                },
+                {
+                    "statId": 981,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 985,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 994,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 13
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1797,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 1
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 28.18,
+            "fantasyPointsPerSalary": 0.005390123456790123,
+            "displayName": "Josh Allen"
+        },
+        "bust": {
+            "playerId": 733643,
+            "playerDkId": 17396,
+            "firstName": "Adam",
+            "lastName": "Thielen",
+            "teamId": 364,
+            "position": "WR",
+            "salary": 7300,
+            "fantasyPoints": 1.2,
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": 2
+                },
+                {
+                    "statId": 44,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 82,
+                    "total": 2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 2
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5940176,
+            "points": 1.2,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-11-26T18:00:00.0000000Z",
+            "weekNumber": 12,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/17396.png",
+            "teamCity": "Carolina",
+            "teamName": "Panthers",
+            "teamAbbreviation": "CAR",
+            "opposingTeamCity": "Tennessee",
+            "opposingTeamName": "Titans",
+            "opposingTeamAbbreviation": "TEN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 39.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 39.3333
+                },
+                {
+                    "statId": 89,
+                    "total": 6.0833
+                },
+                {
+                    "statId": 90,
+                    "total": 8.9333
+                },
+                {
+                    "statId": 91,
+                    "total": 8.9333
+                },
+                {
+                    "statId": 92,
+                    "total": 7500
+                },
+                {
+                    "statId": 467,
+                    "total": 8
+                },
+                {
+                    "statId": 528,
+                    "total": 5
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 39.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 39.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 8.9333,
+            "fantasyPointsPerSalary": 0.00016438356164383562,
+            "displayName": "Adam Thielen"
+        },
+        "sleeper": {
+            "playerId": 1116662,
+            "playerDkId": 560612,
+            "firstName": "Pat",
+            "lastName": "Freiermuth",
+            "teamId": 356,
+            "position": "TE",
+            "salary": 2900,
+            "fantasyPoints": 24,
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": 120
+                },
+                {
+                    "statId": 44,
+                    "total": 9
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 11
+                },
+                {
+                    "statId": 82,
+                    "total": 29
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 20
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 120
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5940128,
+            "points": 24,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-11-26T18:00:00.0000000Z",
+            "weekNumber": 12,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/560612.png",
+            "teamCity": "Pittsburgh",
+            "teamName": "Steelers",
+            "teamAbbreviation": "PIT",
+            "opposingTeamCity": "Cincinnati",
+            "opposingTeamName": "Bengals",
+            "opposingTeamAbbreviation": "CIN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 44.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 15
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 44.6667
+                },
+                {
+                    "statId": 89,
+                    "total": 7.5553
+                },
+                {
+                    "statId": 90,
+                    "total": 9.8
+                },
+                {
+                    "statId": 91,
+                    "total": 9.8
+                },
+                {
+                    "statId": 92,
+                    "total": 2933.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 5.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 6.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 44.6667
+                },
+                {
+                    "statId": 1801,
+                    "total": 44.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 9.8,
+            "fantasyPointsPerSalary": 0.008275862068965517,
+            "displayName": "Pat Freiermuth"
+        },
+        "draft_dodger": {
+            "playerId": 868199,
+            "playerDkId": 11370,
+            "firstName": "Josh",
+            "lastName": "Allen",
+            "teamId": 324,
+            "position": "QB",
+            "salary": 8100,
+            "fantasyPoints": 43.66,
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 2
+                },
+                {
+                    "statId": 38,
+                    "total": 2
+                },
+                {
+                    "statId": 39,
+                    "total": 339
+                },
+                {
+                    "statId": 41,
+                    "total": 81
+                },
+                {
+                    "statId": 46,
+                    "total": 1
+                },
+                {
+                    "statId": 47,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 29
+                },
+                {
+                    "statId": 43,
+                    "total": 9
+                },
+                {
+                    "statId": 71,
+                    "total": 51
+                },
+                {
+                    "statId": 81,
+                    "total": 19
+                },
+                {
+                    "statId": 83,
+                    "total": 31
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 2
+                },
+                {
+                    "statId": 981,
+                    "total": 1
+                },
+                {
+                    "statId": 985,
+                    "total": 1
+                },
+                {
+                    "statId": 1012,
+                    "total": 39
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 81
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5940329,
+            "points": 43.66,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-11-26T21:25:00.0000000Z",
+            "weekNumber": 12,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/11370.png",
+            "teamCity": "Buffalo",
+            "teamName": "Bills",
+            "teamAbbreviation": "BUF",
+            "opposingTeamCity": "Philadelphia",
+            "opposingTeamName": "Eagles",
+            "opposingTeamAbbreviation": "PHI",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 2
+                },
+                {
+                    "statId": 38,
+                    "total": 1
+                },
+                {
+                    "statId": 39,
+                    "total": 263.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 42,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 6
+                },
+                {
+                    "statId": 46,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 70,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 71,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 79,
+                    "total": 83.1883
+                },
+                {
+                    "statId": 81,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 83,
+                    "total": 50
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 87,
+                    "total": 5.0833
+                },
+                {
+                    "statId": 90,
+                    "total": 28.18
+                },
+                {
+                    "statId": 91,
+                    "total": 28.18
+                },
+                {
+                    "statId": 92,
+                    "total": 8033.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 110,
+                    "total": 59.0183
+                },
+                {
+                    "statId": 111,
+                    "total": 263.6667
+                },
+                {
+                    "statId": 112,
+                    "total": 7.3497
+                },
+                {
+                    "statId": 519,
+                    "total": 2
+                },
+                {
+                    "statId": 520,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 522,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 527,
+                    "total": 6
+                },
+                {
+                    "statId": 981,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 985,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 994,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 13
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1797,
+                    "total": 21.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 36.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 1
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 28.18,
+            "fantasyPointsPerSalary": 0.005390123456790123,
+            "displayName": "Josh Allen"
+        }
+    },
+    {
+        "week": 13,
+        "contest_id": 155134863,
+        "contest_start": "Nov 30, 2023 20:15:00"
     }
 ]
