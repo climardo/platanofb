@@ -11121,6 +11121,811 @@
     {
         "week": 13,
         "contest_id": 155134863,
-        "contest_start": "Nov 30, 2023 20:15:00"
+        "contest_start": "Nov 30, 2023 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "climardo",
+                "fantasyPoints": "198.36",
+                "lineup": "DST Falcons  FLEX DeVante Parker QB Brock Purdy RB Tony Pollard RB Zack Moss TE Trey McBride WR Tyreek Hill WR Deebo Samuel WR Brandin Cooks"
+            },
+            {
+                "rank": "2",
+                "userName": "g_mendoza",
+                "fantasyPoints": "156.46",
+                "lineup": "DST Falcons  FLEX Rhamondre Stevenson QB Brock Purdy RB Tony Pollard RB Zack Moss TE David Njoku WR Chris Olave WR Deebo Samuel WR Courtland Sutton"
+            },
+            {
+                "rank": "3",
+                "userName": "Dash7",
+                "fantasyPoints": "144.66",
+                "lineup": "DST Patriots  FLEX Tyreek Hill QB Jake Browning RB Joe Mixon RB Jaylen Warren TE George Kittle WR Christian Kirk WR Brandin Cooks WR Jayden Reed"
+            },
+            {
+                "rank": "4",
+                "userName": "arianna29",
+                "fantasyPoints": "140.52",
+                "lineup": "DST Patriots  FLEX Rachaad White QB Trevor Lawrence RB Najee Harris RB Zack Moss TE Evan Engram WR Tyreek Hill WR Calvin Ridley WR Jayden Reed"
+            },
+            {
+                "rank": "5",
+                "userName": "jlopez0809",
+                "fantasyPoints": "139.36",
+                "lineup": "DST Colts  FLEX Zack Moss QB Dak Prescott RB Rachaad White RB Najee Harris TE David Njoku WR CeeDee Lamb WR Calvin Ridley WR Curtis Samuel"
+            },
+            {
+                "rank": "6",
+                "userName": "olivadotij",
+                "fantasyPoints": "137",
+                "lineup": "DST Jaguars  FLEX Zack Moss QB Tua Tagovailoa RB Derrick Henry RB Antonio Gibson TE Pat Freiermuth WR Tyreek Hill WR Brandin Cooks WR Quentin Johnston"
+            },
+            {
+                "rank": "7",
+                "userName": "frank.corn",
+                "fantasyPoints": "136.76",
+                "lineup": "DST Falcons  FLEX Josh Downs QB Brock Purdy RB De'Von Achane RB Devin Singletary TE Evan Engram WR Calvin Ridley WR Brandin Cooks WR Jayden Reed"
+            },
+            {
+                "rank": "8",
+                "userName": "rahianr",
+                "fantasyPoints": "136.4",
+                "lineup": "DST Falcons  FLEX Zack Moss QB Tua Tagovailoa RB Bijan Robinson RB Jaylen Warren TE Evan Engram WR Jaylen Waddle WR Deebo Samuel WR Greg Dortch"
+            },
+            {
+                "rank": "9",
+                "userName": "luisdello",
+                "fantasyPoints": "131.26",
+                "lineup": "DST Titans  FLEX Zack Moss QB Dak Prescott RB Javonte Williams RB Najee Harris TE Pat Freiermuth WR CeeDee Lamb WR Brandon Aiyuk WR Curtis Samuel"
+            },
+            {
+                "rank": "10",
+                "userName": "rogdiaz",
+                "fantasyPoints": "130.02",
+                "lineup": "DST Falcons  FLEX Tony Pollard QB Trevor Lawrence RB Bijan Robinson RB Samaje Perine TE Travis Kelce WR Michael Pittman Jr. WR Elijah Moore WR Chris Moore"
+            },
+            {
+                "rank": "11",
+                "userName": "ejmesa",
+                "fantasyPoints": "124.78",
+                "lineup": "DST Colts  FLEX Jahmyr Gibbs QB Baker Mayfield RB Rachaad White RB Jaylen Warren TE Sam LaPorta WR Chris Godwin WR Garrett Wilson WR Brandin Cooks"
+            },
+            {
+                "rank": "12",
+                "userName": "geedee3",
+                "fantasyPoints": "124.4",
+                "lineup": "DST Chargers  FLEX Bijan Robinson QB Tua Tagovailoa RB Derrick Henry RB Jahmyr Gibbs TE Chig Okonkwo WR Josh Downs WR Brandin Cooks WR George Pickens"
+            },
+            {
+                "rank": "13",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "121.66",
+                "lineup": "DST Buccaneers  FLEX Devin Singletary QB Dak Prescott RB Tony Pollard RB Zack Moss TE Tucker Kraft WR CeeDee Lamb WR Christian Kirk WR Curtis Samuel"
+            },
+            {
+                "rank": "14",
+                "userName": "AmesSB",
+                "fantasyPoints": "117.96",
+                "lineup": "DST Chargers  FLEX George Pickens QB C.J. Stroud RB Christian McCaffrey RB Kenny McIntosh TE Kyle Pitts WR Tyler Lockett WR Christian Kirk WR Christian Watson"
+            },
+            {
+                "rank": "15",
+                "userName": "ismeyo",
+                "fantasyPoints": "110.34",
+                "lineup": "DST Patriots  FLEX Rachaad White QB Russell Wilson RB Rhamondre Stevenson RB Javonte Williams TE Juwan Johnson WR Tyreek Hill WR Terry McLaurin WR Courtland Sutton"
+            },
+            {
+                "rank": "16",
+                "userName": "pshhidk",
+                "fantasyPoints": "108.6",
+                "lineup": "DST Cowboys  FLEX Drake London QB Sam Howell RB De'Von Achane RB Jaylen Warren TE Tyler Higbee WR Ja'Marr Chase WR Terry McLaurin WR Courtland Sutton"
+            },
+            {
+                "rank": "17",
+                "userName": "MattyDel14",
+                "fantasyPoints": "108.34",
+                "lineup": "DST Buccaneers  FLEX Brandin Cooks QB Russell Wilson RB Bijan Robinson RB Zack Moss TE Pat Freiermuth WR Jaylen Waddle WR Brandon Aiyuk WR Courtland Sutton"
+            },
+            {
+                "rank": "18",
+                "userName": "JekellP",
+                "fantasyPoints": "105.8",
+                "lineup": "DST Jaguars  FLEX Dameon Pierce QB Tua Tagovailoa RB Isiah Pacheco RB Rachaad White TE Pat Freiermuth WR Christian Kirk WR Courtland Sutton WR Josh Downs"
+            },
+            {
+                "rank": "19",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "103.2",
+                "lineup": "DST Patriots  FLEX Travis Etienne Jr. QB Tua Tagovailoa RB Jaylen Warren RB Najee Harris TE Taysom Hill WR Jaylen Waddle WR Rashee Rice WR Greg Dortch"
+            },
+            {
+                "rank": "20",
+                "userName": "Halvworld",
+                "fantasyPoints": "95.44",
+                "lineup": "DST Lions  FLEX Jerry Jeudy QB Russell Wilson RB Derrick Henry RB Bijan Robinson TE Dalton Schultz WR DeVonta Smith WR Terry McLaurin WR Marquise Brown"
+            },
+            {
+                "rank": "21",
+                "userName": "hlimardo",
+                "fantasyPoints": "73.68",
+                "lineup": "DST Dolphins  FLEX Drake London QB Justin Herbert RB Christian McCaffrey RB Joshua Kelley TE Kyle Pitts WR Amon-Ra St. Brown WR Josh Reynolds WR Lynn Bowden Jr."
+            }
+        ],
+        "mvp": {
+            "playerId": 945633,
+            "playerDkId": 19923,
+            "firstName": "DK",
+            "lastName": "Metcalf",
+            "teamId": 361,
+            "position": "WR",
+            "salary": 6500,
+            "fantasyPoints": 40.4,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 134
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 8
+                },
+                {
+                    "statId": 82,
+                    "total": 73
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 1000,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 34
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 134
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5940389,
+            "points": 40.4,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-12-01T01:15:00.0000000Z",
+            "weekNumber": 13,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19923.png",
+            "teamCity": "Seattle",
+            "teamName": "Seahawks",
+            "teamAbbreviation": "SEA",
+            "opposingTeamCity": "Dallas",
+            "opposingTeamName": "Cowboys",
+            "opposingTeamAbbreviation": "DAL",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 86.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 46.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 86.6667
+                },
+                {
+                    "statId": 89,
+                    "total": 17.2667
+                },
+                {
+                    "statId": 90,
+                    "total": 22.3333
+                },
+                {
+                    "statId": 91,
+                    "total": 22.3333
+                },
+                {
+                    "statId": 92,
+                    "total": 6533.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 8.6667
+                },
+                {
+                    "statId": 528,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 11.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1800,
+                    "total": 86.6667
+                },
+                {
+                    "statId": 1801,
+                    "total": 86.6667
+                },
+                {
+                    "statId": 1802,
+                    "total": 1.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 22.3333,
+            "fantasyPointsPerSalary": 0.006215384615384615,
+            "displayName": "DK Metcalf"
+        },
+        "bust": {
+            "playerId": 790004,
+            "playerDkId": 19123,
+            "firstName": "Austin",
+            "lastName": "Ekeler",
+            "teamId": 357,
+            "position": "RB",
+            "salary": 8300,
+            "fantasyPoints": 4.7,
+            "stats": [
+                {
+                    "statId": 40,
+                    "total": 9
+                },
+                {
+                    "statId": 41,
+                    "total": 18
+                },
+                {
+                    "statId": 44,
+                    "total": 2
+                },
+                {
+                    "statId": 467,
+                    "total": 3
+                },
+                {
+                    "statId": 43,
+                    "total": 14
+                },
+                {
+                    "statId": 81,
+                    "total": 4
+                },
+                {
+                    "statId": 82,
+                    "total": 11
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 27
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5940401,
+            "points": 4.7,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-12-03T18:00:00.0000000Z",
+            "weekNumber": 13,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19123.png",
+            "teamCity": "Los Angeles",
+            "teamName": "Chargers",
+            "teamAbbreviation": "LAC",
+            "opposingTeamCity": "New England",
+            "opposingTeamName": "Patriots",
+            "opposingTeamAbbreviation": "NE",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 15.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 38
+                },
+                {
+                    "statId": 43,
+                    "total": 11.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 3
+                },
+                {
+                    "statId": 50,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 74,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 81,
+                    "total": 15.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 38
+                },
+                {
+                    "statId": 87,
+                    "total": 3.6287
+                },
+                {
+                    "statId": 88,
+                    "total": 15.6667
+                },
+                {
+                    "statId": 89,
+                    "total": 4.6333
+                },
+                {
+                    "statId": 90,
+                    "total": 7.7
+                },
+                {
+                    "statId": 91,
+                    "total": 7.7
+                },
+                {
+                    "statId": 92,
+                    "total": 8400
+                },
+                {
+                    "statId": 467,
+                    "total": 4
+                },
+                {
+                    "statId": 527,
+                    "total": 11.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 53.6667
+                },
+                {
+                    "statId": 1801,
+                    "total": 53.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 7.7,
+            "fantasyPointsPerSalary": 0.0005662650602409638,
+            "displayName": "Austin Ekeler"
+        },
+        "sleeper": {
+            "playerId": 1107027,
+            "playerDkId": 640883,
+            "firstName": "Alec",
+            "lastName": "Pierce",
+            "teamId": 338,
+            "position": "WR",
+            "salary": 3300,
+            "fantasyPoints": 22,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 100
+                },
+                {
+                    "statId": 44,
+                    "total": 3
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 6
+                },
+                {
+                    "statId": 82,
+                    "total": 55
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 100
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5940509,
+            "points": 22,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-12-03T18:00:00.0000000Z",
+            "weekNumber": 13,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/640883.png",
+            "teamCity": "Indianapolis",
+            "teamName": "Colts",
+            "teamAbbreviation": "IND",
+            "opposingTeamCity": "Tennessee",
+            "opposingTeamName": "Titans",
+            "opposingTeamAbbreviation": "TEN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 49.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 2.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 28.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 49.3333
+                },
+                {
+                    "statId": 89,
+                    "total": 20.361
+                },
+                {
+                    "statId": 90,
+                    "total": 10.6
+                },
+                {
+                    "statId": 91,
+                    "total": 10.6
+                },
+                {
+                    "statId": 92,
+                    "total": 3266.6667
+                },
+                {
+                    "statId": 93,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 2.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 49.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 49.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 10.6,
+            "fantasyPointsPerSalary": 0.006666666666666667,
+            "displayName": "Alec Pierce"
+        },
+        "draft_dodger": {
+            "playerId": 945633,
+            "playerDkId": 19923,
+            "firstName": "DK",
+            "lastName": "Metcalf",
+            "teamId": 361,
+            "position": "WR",
+            "salary": 6500,
+            "fantasyPoints": 40.4,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 134
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 8
+                },
+                {
+                    "statId": 82,
+                    "total": 73
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 1000,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 34
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 134
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 5940389,
+            "points": 40.4,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2023-12-01T01:15:00.0000000Z",
+            "weekNumber": 13,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/19923.png",
+            "teamCity": "Seattle",
+            "teamName": "Seahawks",
+            "teamAbbreviation": "SEA",
+            "opposingTeamCity": "Dallas",
+            "opposingTeamName": "Cowboys",
+            "opposingTeamAbbreviation": "DAL",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 86.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 46.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 86.6667
+                },
+                {
+                    "statId": 89,
+                    "total": 17.2667
+                },
+                {
+                    "statId": 90,
+                    "total": 22.3333
+                },
+                {
+                    "statId": 91,
+                    "total": 22.3333
+                },
+                {
+                    "statId": 92,
+                    "total": 6533.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 8.6667
+                },
+                {
+                    "statId": 528,
+                    "total": 4.6667
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 999,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1000,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1011,
+                    "total": 11.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1800,
+                    "total": 86.6667
+                },
+                {
+                    "statId": 1801,
+                    "total": 86.6667
+                },
+                {
+                    "statId": 1802,
+                    "total": 1.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 22.3333,
+            "fantasyPointsPerSalary": 0.006215384615384615,
+            "displayName": "DK Metcalf"
+        }
+    },
+    {
+        "week": 14,
+        "contest_id": 155511034,
+        "contest_start": "Dec 07, 2023 20:15:00"
     }
 ]
