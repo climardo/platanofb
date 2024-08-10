@@ -4,8 +4,8 @@
   myinfo: <a href="https://cash.app/$sudocarlos" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/cashapp.png" alt="cash.app/$sudocarlos" /></a>
 - name: Bitcoin
   logo: /assets/images/bitcoin.svg
-  link: https://btcpay.sudocarlos.com/api/v1/invoices?storeId=CVuZwroQyjRjjsgq3rBfoH6pWUzAskX9UFHPJnu5v492&checkoutDesc=platanofb.com+2023+member+fee&notifyEmail=btcpay%40sudocarlos.com&price=50&currency=USD
-  myinfo: <a href="https://btcpay.sudocarlos.com/api/v1/invoices?storeId=CVuZwroQyjRjjsgq3rBfoH6pWUzAskX9UFHPJnu5v492&checkoutDesc=platanofb.com+2023+member+fee&notifyEmail=btcpay%40sudocarlos.com&price=50&currency=USD" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/btcpay.svg" alt="BTCPay" /></a>
+  link: https://btcpay.sudocarlos.com/api/v1/invoices?storeId=CVuZwroQyjRjjsgq3rBfoH6pWUzAskX9UFHPJnu5v492&checkoutDesc=platanofb.com+2024+member+fee&notifyEmail=btcpay%40sudocarlos.com&price=50&currency=USD
+  myinfo: <a href="https://btcpay.sudocarlos.com/api/v1/invoices?storeId=CVuZwroQyjRjjsgq3rBfoH6pWUzAskX9UFHPJnu5v492&checkoutDesc=platanofb.com+2024+member+fee&notifyEmail=btcpay%40sudocarlos.com&price=50&currency=USD" target="_blank" class="text-wrap"><img class="img-fluid" src="/assets/images/btcpay.svg" alt="BTCPay" /></a>
 - name: Apple Pay Cash
   logo: /assets/images/applepay.svg
   link: https://support.apple.com/en-us/HT207875
