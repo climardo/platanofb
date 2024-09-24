@@ -1708,6 +1708,739 @@
     {
         "week": 3,
         "contest_id": 167242477,
-        "contest_start": "Sep 19, 2024 20:15:00"
+        "contest_start": "Sep 19, 2024 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "150.26",
+                "lineup": "DST Jets  FLEX Tutu Atwell QB Joe Burrow RB Breece Hall RB Zamir White TE Noah Gray WR Ja'Marr Chase WR DJ Moore WR Chris Olave"
+            },
+            {
+                "rank": "2",
+                "userName": "rahianr",
+                "fantasyPoints": "146.76",
+                "lineup": "DST Vikings  FLEX Jordan Mason QB Joe Burrow RB Alvin Kamara RB De'Von Achane TE Brenton Strange WR Ja'Marr Chase WR DeVonta Smith WR Jalen Tolbert"
+            },
+            {
+                "rank": "3",
+                "userName": "MattyDel14",
+                "fantasyPoints": "140.07999",
+                "lineup": "DST Packers  FLEX Tony Pollard QB Derek Carr RB Saquon Barkley RB Jordan Mason TE Mike Gesicki WR Amon-Ra St. Brown WR Adam Thielen WR Darnell Mooney"
+            },
+            {
+                "rank": "4",
+                "userName": "ismeyo",
+                "fantasyPoints": "129.45999",
+                "lineup": "DST Bears  FLEX Cam Akers QB Joe Burrow RB Jordan Mason RB Zach Charbonnet TE Brock Bowers WR Ja'Marr Chase WR Brandon Aiyuk WR Rashid Shaheed"
+            },
+            {
+                "rank": "5",
+                "userName": "geedee3",
+                "fantasyPoints": "123.619995",
+                "lineup": "DST Rams  FLEX Kyle Pitts QB Caleb Williams RB Jahmyr Gibbs RB David Montgomery TE Colby Parkinson WR Davante Adams WR DJ Moore WR Chris Olave"
+            },
+            {
+                "rank": "6",
+                "userName": "g_mendoza",
+                "fantasyPoints": "119.159996",
+                "lineup": "DST Buccaneers  FLEX James Cook QB Joe Burrow RB Jordan Mason RB D'Andre Swift TE Brock Bowers WR Ja'Marr Chase WR Rashid Shaheed WR Jalen Tolbert"
+            },
+            {
+                "rank": "7",
+                "userName": "ejmesa",
+                "fantasyPoints": "110.75999",
+                "lineup": "DST Raiders  FLEX Jalen Tolbert QB Joe Burrow RB Rhamondre Stevenson RB Jordan Mason TE Brock Bowers WR Ja'Marr Chase WR Khalil Shakir WR Rashid Shaheed"
+            },
+            {
+                "rank": "8",
+                "userName": "JekellP",
+                "fantasyPoints": "110.68",
+                "lineup": "DST Packers  FLEX Brian Robinson Jr. QB Kyler Murray RB Rhamondre Stevenson RB Alexander Mattison TE Dallas Goedert WR Chris Godwin WR Jameson Williams WR Rashid Shaheed"
+            },
+            {
+                "rank": "9",
+                "userName": "Dash7",
+                "fantasyPoints": "104.06",
+                "lineup": "DST Vikings  FLEX Davante Adams QB Joe Burrow RB Jordan Mason RB Brian Robinson Jr. TE Brock Bowers WR Khalil Shakir WR Jaxon Smith-Njigba WR Rashid Shaheed"
+            },
+            {
+                "rank": "10",
+                "userName": "hlimardo",
+                "fantasyPoints": "103.98",
+                "lineup": "DST Bears  FLEX Demarcus Robinson QB Kyler Murray RB Bijan Robinson RB Zach Charbonnet TE Zach Ertz WR Malik Nabers WR Calvin Ridley WR Jameson Williams"
+            },
+            {
+                "rank": "11",
+                "userName": "climardo",
+                "fantasyPoints": "102.66",
+                "lineup": "DST Buccaneers  FLEX Ray-Ray McCloud III QB Joe Burrow RB Josh Jacobs RB Jordan Mason TE Noah Gray WR CeeDee Lamb WR Malik Nabers WR Brandon Aiyuk"
+            },
+            {
+                "rank": "12",
+                "userName": "pshhidk",
+                "fantasyPoints": "89.619995",
+                "lineup": "DST Chargers  FLEX KaVontae Turpin QB Baker Mayfield RB Alvin Kamara RB Jerome Ford TE Mike Gesicki WR Davante Adams WR Chris Godwin WR Jameson Williams"
+            },
+            {
+                "rank": "13",
+                "userName": "glopez28",
+                "fantasyPoints": "86.119995",
+                "lineup": "DST Buccaneers  FLEX Kyle Pitts QB Baker Mayfield RB Rhamondre Stevenson RB Zach Charbonnet TE Hunter Henry WR Marvin Harrison Jr. WR DJ Moore WR Demarcus Robinson"
+            },
+            {
+                "rank": "14",
+                "userName": "frank.corn",
+                "fantasyPoints": "78.36",
+                "lineup": "DST Raiders  FLEX Garrett Wilson QB Jared Goff RB Jordan Mason RB Carson Steele TE Brock Bowers WR Jayden Reed WR Rashid Shaheed WR Tutu Atwell"
+            },
+            {
+                "rank": "15",
+                "userName": "olivadotij",
+                "fantasyPoints": "78.26",
+                "lineup": "DST Raiders  FLEX Brian Robinson Jr. QB Joe Burrow RB Travis Etienne Jr. RB Jordan Mason TE Brock Bowers WR Jameson Williams WR Demarcus Robinson WR Alec Pierce"
+            }
+        ],
+        "mvp": {
+            "playerId": 867009,
+            "playerDkId": 485641,
+            "firstName": "Jauan",
+            "lastName": "Jennings",
+            "teamId": 359,
+            "position": "WR",
+            "salary": 4100,
+            "fantasyPoints": 49.5,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 175
+                },
+                {
+                    "statId": 44,
+                    "total": 11
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 82,
+                    "total": 34
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 75
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 175
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6020005,
+            "points": 49.5,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-09-22T20:25:00.0000000Z",
+            "weekNumber": 3,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485641.png",
+            "teamCity": "San Francisco",
+            "teamName": "49ers",
+            "teamAbbreviation": "SF",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Rams",
+            "opposingTeamAbbreviation": "LAR",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 92
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 27
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 92
+                },
+                {
+                    "statId": 89,
+                    "total": 15.7363
+                },
+                {
+                    "statId": 90,
+                    "total": 22.2
+                },
+                {
+                    "statId": 91,
+                    "total": 22.2
+                },
+                {
+                    "statId": 92,
+                    "total": 4100
+                },
+                {
+                    "statId": 93,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 7
+                },
+                {
+                    "statId": 528,
+                    "total": 6
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 25
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1800,
+                    "total": 92
+                },
+                {
+                    "statId": 1801,
+                    "total": 92
+                },
+                {
+                    "statId": 1802,
+                    "total": 1
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 22.2,
+            "fantasyPointsPerSalary": 0.012073170731707317,
+            "displayName": "Jauan Jennings"
+        },
+        "bust": {
+            "playerId": 691536,
+            "playerDkId": 20214,
+            "firstName": "Jameis",
+            "lastName": "Winston",
+            "teamId": 329,
+            "position": "QB",
+            "salary": 5000,
+            "fantasyPoints": 0.1,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 81,
+                    "total": 1
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6019765,
+            "points": 0.1,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-09-22T17:00:00.0000000Z",
+            "weekNumber": 3,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/20214.png",
+            "teamCity": "Cleveland",
+            "teamName": "Browns",
+            "teamAbbreviation": "CLE",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Giants",
+            "opposingTeamAbbreviation": "NYG",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 41,
+                    "total": 2.5
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 81,
+                    "total": 1.5
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 2.5
+                },
+                {
+                    "statId": 87,
+                    "total": 1.25
+                },
+                {
+                    "statId": 90,
+                    "total": 0.25
+                },
+                {
+                    "statId": 91,
+                    "total": 0.25
+                },
+                {
+                    "statId": 92,
+                    "total": 5000
+                },
+                {
+                    "statId": 527,
+                    "total": 2
+                },
+                {
+                    "statId": 1800,
+                    "total": 2.5
+                },
+                {
+                    "statId": 1801,
+                    "total": 2.5
+                }
+            ],
+            "fantasyStatsNumGames": 2,
+            "fantasyPointsPerGame": 0.25,
+            "fantasyPointsPerSalary": 2e-05,
+            "displayName": "Jameis Winston"
+        },
+        "sleeper": {
+            "playerId": 867009,
+            "playerDkId": 485641,
+            "firstName": "Jauan",
+            "lastName": "Jennings",
+            "teamId": 359,
+            "position": "WR",
+            "salary": 4100,
+            "fantasyPoints": 49.5,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 175
+                },
+                {
+                    "statId": 44,
+                    "total": 11
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 82,
+                    "total": 34
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 75
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 175
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6020005,
+            "points": 49.5,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-09-22T20:25:00.0000000Z",
+            "weekNumber": 3,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485641.png",
+            "teamCity": "San Francisco",
+            "teamName": "49ers",
+            "teamAbbreviation": "SF",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Rams",
+            "opposingTeamAbbreviation": "LAR",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 92
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 27
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 92
+                },
+                {
+                    "statId": 89,
+                    "total": 15.7363
+                },
+                {
+                    "statId": 90,
+                    "total": 22.2
+                },
+                {
+                    "statId": 91,
+                    "total": 22.2
+                },
+                {
+                    "statId": 92,
+                    "total": 4100
+                },
+                {
+                    "statId": 93,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 7
+                },
+                {
+                    "statId": 528,
+                    "total": 6
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 25
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1800,
+                    "total": 92
+                },
+                {
+                    "statId": 1801,
+                    "total": 92
+                },
+                {
+                    "statId": 1802,
+                    "total": 1
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 22.2,
+            "fantasyPointsPerSalary": 0.012073170731707317,
+            "displayName": "Jauan Jennings"
+        },
+        "draft_dodger": {
+            "playerId": 867009,
+            "playerDkId": 485641,
+            "firstName": "Jauan",
+            "lastName": "Jennings",
+            "teamId": 359,
+            "position": "WR",
+            "salary": 4100,
+            "fantasyPoints": 49.5,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 175
+                },
+                {
+                    "statId": 44,
+                    "total": 11
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 82,
+                    "total": 34
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 990,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 75
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 175
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6020005,
+            "points": 49.5,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-09-22T20:25:00.0000000Z",
+            "weekNumber": 3,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485641.png",
+            "teamCity": "San Francisco",
+            "teamName": "49ers",
+            "teamAbbreviation": "SF",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Rams",
+            "opposingTeamAbbreviation": "LAR",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1
+                },
+                {
+                    "statId": 40,
+                    "total": 92
+                },
+                {
+                    "statId": 44,
+                    "total": 6
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 27
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 92
+                },
+                {
+                    "statId": 89,
+                    "total": 15.7363
+                },
+                {
+                    "statId": 90,
+                    "total": 22.2
+                },
+                {
+                    "statId": 91,
+                    "total": 22.2
+                },
+                {
+                    "statId": 92,
+                    "total": 4100
+                },
+                {
+                    "statId": 93,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 7
+                },
+                {
+                    "statId": 528,
+                    "total": 6
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 990,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 25
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1800,
+                    "total": 92
+                },
+                {
+                    "statId": 1801,
+                    "total": 92
+                },
+                {
+                    "statId": 1802,
+                    "total": 1
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 22.2,
+            "fantasyPointsPerSalary": 0.012073170731707317,
+            "displayName": "Jauan Jennings"
+        }
+    },
+    {
+        "week": 4,
+        "contest_id": 167615699,
+        "contest_start": "Sep 26, 2024 20:15:00"
     }
 ]
