@@ -147,6 +147,6 @@ write_json(completed_contest)
 write_json(new_contest)
 
 # Replace contest link with contest_id
-contest_link_regex = 'contest\/[0-9]+'
+contest_link_regex = 'contest.[0-9]+'
 new_contest_link = 'contest/' + str(contest_id)
 regex_replace(navlinks_file, contest_link_regex, new_contest_link)
