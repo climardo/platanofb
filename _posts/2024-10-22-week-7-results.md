@@ -1,7 +1,7 @@
 ---
-title: 2024 Week 6 Results
+title: 2024 Week 7 Results
 year: 2024
-week: 6
+week: 7
 layout: post
 author: climardo
 header_image: /assets/images/header.jpg

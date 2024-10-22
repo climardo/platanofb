@@ -5269,6 +5269,968 @@
     {
         "week": 7,
         "contest_id": 168695223,
-        "contest_start": "Oct 17, 2024 20:15:00"
+        "contest_start": "Oct 17, 2024 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "MattyDel14",
+                "fantasyPoints": "153.73999",
+                "lineup": "DST Bengals  FLEX Cade Otton QB Drake Maye RB Saquon Barkley RB Tank Bigsby TE Brock Bowers WR Malik Nabers WR Jordan Addison WR DeMario Douglas"
+            },
+            {
+                "rank": "2",
+                "userName": "olivadotij",
+                "fantasyPoints": "124.36",
+                "lineup": "DST Broncos  FLEX Kyle Pitts QB Daniel Jones RB De'Von Achane RB J.K. Dobbins TE Hunter Henry WR Mike Evans WR DK Metcalf WR Tee Higgins"
+            },
+            {
+                "rank": "3",
+                "userName": "g_mendoza",
+                "fantasyPoints": "118.44",
+                "lineup": "DST Broncos  FLEX J.K. Dobbins QB Drake Maye RB Austin Ekeler RB Tank Bigsby TE Kyle Pitts WR Chris Godwin WR Jameson Williams WR Ladd McConkey"
+            },
+            {
+                "rank": "4",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "116.840004",
+                "lineup": "DST Saints  FLEX Jonnu Smith QB Jayden Daniels RB Joe Mixon RB Kareem Hunt TE Tucker Kraft WR Ja'Marr Chase WR Xavier Worthy WR Kristian Wilkerson"
+            },
+            {
+                "rank": "5",
+                "userName": "climardo",
+                "fantasyPoints": "115.5",
+                "lineup": "DST Browns  FLEX Ladd McConkey QB Baker Mayfield RB Kyren Williams RB Chuba Hubbard TE Hunter Henry WR Justin Jefferson WR Christian Watson WR JuJu Smith-Schuster"
+            },
+            {
+                "rank": "6",
+                "userName": "rahianr",
+                "fantasyPoints": "110.94",
+                "lineup": "DST Broncos  FLEX Brock Bowers QB Drake Maye RB Kyren Williams RB Chuba Hubbard TE Evan Engram WR Malik Nabers WR DeMario Douglas WR JuJu Smith-Schuster"
+            },
+            {
+                "rank": "7",
+                "userName": "JekellP",
+                "fantasyPoints": "106.7",
+                "lineup": "DST Rams  FLEX Mike Evans QB Jordan Love RB Chuba Hubbard RB Alexander Mattison TE Kyle Pitts WR Jameson Williams WR Romeo Doubs WR DeMario Douglas"
+            },
+            {
+                "rank": "8",
+                "userName": "ismeyo",
+                "fantasyPoints": "104.74",
+                "lineup": "DST Giants  FLEX J.K. Dobbins QB Jayden Daniels RB Tony Pollard RB Kareem Hunt TE Cade Otton WR Drake London WR Terry McLaurin WR JuJu Smith-Schuster"
+            },
+            {
+                "rank": "9",
+                "userName": "Dash7",
+                "fantasyPoints": "100.86",
+                "lineup": "DST Vikings  FLEX Saquon Barkley QB Justin Herbert RB Austin Ekeler RB Antonio Gibson TE Cade Otton WR Zay Flowers WR Tank Dell WR Tutu Atwell"
+            },
+            {
+                "rank": "10",
+                "userName": "frank.corn",
+                "fantasyPoints": "87.56",
+                "lineup": "DST Jets  FLEX DeMario Douglas QB Justin Herbert RB Raheem Mostert RB Tank Bigsby TE Evan Engram WR Chris Godwin WR Tank Dell WR Amari Cooper"
+            },
+            {
+                "rank": "11",
+                "userName": "geedee3",
+                "fantasyPoints": "84.1",
+                "lineup": "DST Rams  FLEX Jaylen Waddle QB Jordan Love RB Chuba Hubbard RB Tyler Allgeier TE Connor Heyward WR Stefon Diggs WR Zay Flowers WR Tee Higgins"
+            },
+            {
+                "rank": "12",
+                "userName": "pshhidk",
+                "fantasyPoints": "82.14",
+                "lineup": "DST Commanders  FLEX Ladd McConkey QB Jayden Daniels RB Rhamondre Stevenson RB Kimani Vidal TE Noah Fant WR Ja'Marr Chase WR Terry McLaurin WR Courtland Sutton"
+            },
+            {
+                "rank": "13",
+                "userName": "ejmesa",
+                "fantasyPoints": "76.659996",
+                "lineup": "DST Giants  FLEX J.K. Dobbins QB Daniel Jones RB Kyren Williams RB Tony Pollard TE Erick All Jr. WR Malik Nabers WR Drake London WR Noah Brown"
+            }
+        ],
+        "mvp": {
+            "playerId": 877745,
+            "playerDkId": 17173,
+            "firstName": "Lamar",
+            "lastName": "Jackson",
+            "teamId": 366,
+            "position": "QB",
+            "salary": 8000,
+            "fantasyPoints": 35.44,
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 5
+                },
+                {
+                    "statId": 39,
+                    "total": 281
+                },
+                {
+                    "statId": 41,
+                    "total": 52
+                },
+                {
+                    "statId": 50,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 17
+                },
+                {
+                    "statId": 43,
+                    "total": 9
+                },
+                {
+                    "statId": 71,
+                    "total": 22
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 17
+                },
+                {
+                    "statId": 83,
+                    "total": 59
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 985,
+                    "total": 1
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 52
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6019909,
+            "points": 35.44,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-10-22T00:15:00.0000000Z",
+            "weekNumber": 7,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/17173.png",
+            "teamCity": "Baltimore",
+            "teamName": "Ravens",
+            "teamAbbreviation": "BAL",
+            "opposingTeamCity": "Tampa Bay",
+            "opposingTeamName": "Buccaneers",
+            "opposingTeamAbbreviation": "TB",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 317.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 49
+                },
+                {
+                    "statId": 42,
+                    "total": 21
+                },
+                {
+                    "statId": 43,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 46,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 50,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 71,
+                    "total": 30
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 79,
+                    "total": 130.9427
+                },
+                {
+                    "statId": 81,
+                    "total": 22.6667
+                },
+                {
+                    "statId": 83,
+                    "total": 52.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 49
+                },
+                {
+                    "statId": 87,
+                    "total": 4.6657
+                },
+                {
+                    "statId": 90,
+                    "total": 31.9267
+                },
+                {
+                    "statId": 91,
+                    "total": 31.9267
+                },
+                {
+                    "statId": 92,
+                    "total": 7766.6667
+                },
+                {
+                    "statId": 93,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 110,
+                    "total": 72.0337
+                },
+                {
+                    "statId": 111,
+                    "total": 317.3333
+                },
+                {
+                    "statId": 112,
+                    "total": 11.1607
+                },
+                {
+                    "statId": 519,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 520,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 522,
+                    "total": 30
+                },
+                {
+                    "statId": 527,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 981,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 985,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1797,
+                    "total": 21
+                },
+                {
+                    "statId": 1800,
+                    "total": 49
+                },
+                {
+                    "statId": 1801,
+                    "total": 49
+                },
+                {
+                    "statId": 1837,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 31.9267,
+            "fantasyPointsPerSalary": 0.00443,
+            "displayName": "Lamar Jackson"
+        },
+        "bust": {
+            "playerId": 1108998,
+            "playerDkId": 641002,
+            "firstName": "Dameon",
+            "lastName": "Pierce",
+            "teamId": 325,
+            "position": "RB",
+            "salary": 5400,
+            "fantasyPoints": 0.2,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 2
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 81,
+                    "total": 2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 2
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6019783,
+            "points": 0.2,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-10-20T17:00:00.0000000Z",
+            "weekNumber": 7,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/641002.png",
+            "teamCity": "Houston",
+            "teamName": "Texans",
+            "teamAbbreviation": "HOU",
+            "opposingTeamCity": "Green Bay",
+            "opposingTeamName": "Packers",
+            "opposingTeamAbbreviation": "GB",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 31.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 21.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 31.3333
+                },
+                {
+                    "statId": 87,
+                    "total": 5.2777
+                },
+                {
+                    "statId": 88,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 89,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 90,
+                    "total": 5.5
+                },
+                {
+                    "statId": 91,
+                    "total": 5.5
+                },
+                {
+                    "statId": 92,
+                    "total": 4966.6667
+                },
+                {
+                    "statId": 93,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 527,
+                    "total": 4.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 996,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 31.6667
+                },
+                {
+                    "statId": 1801,
+                    "total": 31.6667
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1837,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 5.5,
+            "fantasyPointsPerSalary": 3.7037037037037037e-05,
+            "displayName": "Dameon Pierce"
+        },
+        "sleeper": {
+            "playerId": 332,
+            "playerDkId": 18342,
+            "firstName": "Broncos",
+            "lastName": "",
+            "teamId": 332,
+            "position": "DST",
+            "salary": 3000,
+            "fantasyPoints": 20,
+            "stats": [
+                {
+                    "statId": 52,
+                    "total": 6
+                },
+                {
+                    "statId": 54,
+                    "total": 2
+                },
+                {
+                    "statId": 55,
+                    "total": 1
+                },
+                {
+                    "statId": 58,
+                    "total": 1
+                },
+                {
+                    "statId": 75,
+                    "total": 10
+                },
+                {
+                    "statId": 76,
+                    "total": 97
+                },
+                {
+                    "statId": 77,
+                    "total": 174
+                },
+                {
+                    "statId": 78,
+                    "total": 271
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 102,
+                    "total": 27
+                },
+                {
+                    "statId": 103,
+                    "total": 164
+                },
+                {
+                    "statId": 104,
+                    "total": 225
+                },
+                {
+                    "statId": 105,
+                    "total": 389
+                },
+                {
+                    "statId": 975,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerState": "offense",
+            "playerStates": [],
+            "gameId": 6019723,
+            "points": 20,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-10-18T00:15:00.0000000Z",
+            "weekNumber": 7,
+            "imageUrl": "https://dkn.gs/sports/images/default/players/160.png",
+            "teamCity": "Denver",
+            "teamName": "Broncos",
+            "teamAbbreviation": "DEN",
+            "opposingTeamCity": "New Orleans",
+            "opposingTeamName": "Saints",
+            "opposingTeamAbbreviation": "NO",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 52,
+                    "total": 4
+                },
+                {
+                    "statId": 53,
+                    "total": 1
+                },
+                {
+                    "statId": 54,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 55,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 58,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 59,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 60,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 75,
+                    "total": 17
+                },
+                {
+                    "statId": 76,
+                    "total": 113.3333
+                },
+                {
+                    "statId": 77,
+                    "total": 203.6667
+                },
+                {
+                    "statId": 78,
+                    "total": 317
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 90,
+                    "total": 13
+                },
+                {
+                    "statId": 91,
+                    "total": 13
+                },
+                {
+                    "statId": 92,
+                    "total": 3033.3333
+                },
+                {
+                    "statId": 94,
+                    "total": 17
+                },
+                {
+                    "statId": 95,
+                    "total": 203.6667
+                },
+                {
+                    "statId": 96,
+                    "total": 113.3333
+                },
+                {
+                    "statId": 97,
+                    "total": 317
+                },
+                {
+                    "statId": 102,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 103,
+                    "total": 183.3333
+                },
+                {
+                    "statId": 104,
+                    "total": 148
+                },
+                {
+                    "statId": 105,
+                    "total": 331.3333
+                },
+                {
+                    "statId": 116,
+                    "total": 183.3333
+                },
+                {
+                    "statId": 117,
+                    "total": 148
+                },
+                {
+                    "statId": 118,
+                    "total": 331.3333
+                },
+                {
+                    "statId": 119,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 975,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 976,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1002,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 13,
+            "fantasyPointsPerSalary": 0.006666666666666667,
+            "displayName": "Broncos"
+        },
+        "draft_dodger": {
+            "playerId": 877745,
+            "playerDkId": 17173,
+            "firstName": "Lamar",
+            "lastName": "Jackson",
+            "teamId": 366,
+            "position": "QB",
+            "salary": 8000,
+            "fantasyPoints": 35.44,
+            "stats": [
+                {
+                    "statId": 36,
+                    "total": 5
+                },
+                {
+                    "statId": 39,
+                    "total": 281
+                },
+                {
+                    "statId": 41,
+                    "total": 52
+                },
+                {
+                    "statId": 50,
+                    "total": 1
+                },
+                {
+                    "statId": 42,
+                    "total": 17
+                },
+                {
+                    "statId": 43,
+                    "total": 9
+                },
+                {
+                    "statId": 71,
+                    "total": 22
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 17
+                },
+                {
+                    "statId": 83,
+                    "total": 59
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 985,
+                    "total": 1
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 52
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6019909,
+            "points": 35.44,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-10-22T00:15:00.0000000Z",
+            "weekNumber": 7,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/17173.png",
+            "teamCity": "Baltimore",
+            "teamName": "Ravens",
+            "teamAbbreviation": "BAL",
+            "opposingTeamCity": "Tampa Bay",
+            "opposingTeamName": "Buccaneers",
+            "opposingTeamAbbreviation": "TB",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 36,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 39,
+                    "total": 317.3333
+                },
+                {
+                    "statId": 41,
+                    "total": 49
+                },
+                {
+                    "statId": 42,
+                    "total": 21
+                },
+                {
+                    "statId": 43,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 46,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 47,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 50,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 71,
+                    "total": 30
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 79,
+                    "total": 130.9427
+                },
+                {
+                    "statId": 81,
+                    "total": 22.6667
+                },
+                {
+                    "statId": 83,
+                    "total": 52.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 49
+                },
+                {
+                    "statId": 87,
+                    "total": 4.6657
+                },
+                {
+                    "statId": 90,
+                    "total": 31.9267
+                },
+                {
+                    "statId": 91,
+                    "total": 31.9267
+                },
+                {
+                    "statId": 92,
+                    "total": 7766.6667
+                },
+                {
+                    "statId": 93,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 110,
+                    "total": 72.0337
+                },
+                {
+                    "statId": 111,
+                    "total": 317.3333
+                },
+                {
+                    "statId": 112,
+                    "total": 11.1607
+                },
+                {
+                    "statId": 519,
+                    "total": 3.3333
+                },
+                {
+                    "statId": 520,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 522,
+                    "total": 30
+                },
+                {
+                    "statId": 527,
+                    "total": 10.6667
+                },
+                {
+                    "statId": 981,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 985,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 992,
+                    "total": 1
+                },
+                {
+                    "statId": 995,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1012,
+                    "total": 23.6667
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1216,
+                    "total": 1
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1797,
+                    "total": 21
+                },
+                {
+                    "statId": 1800,
+                    "total": 49
+                },
+                {
+                    "statId": 1801,
+                    "total": 49
+                },
+                {
+                    "statId": 1837,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 31.9267,
+            "fantasyPointsPerSalary": 0.00443,
+            "displayName": "Lamar Jackson"
+        }
+    },
+    {
+        "week": 8,
+        "contest_id": 169036416,
+        "contest_start": "Oct 24, 2024 20:15:00"
     }
 ]

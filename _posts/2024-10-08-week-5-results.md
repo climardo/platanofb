@@ -4,7 +4,7 @@ year: 2024
 week: 5
 layout: post
 author: climardo
-header_image: /assets/images/2024/week-5-header.jpg
+header_image: /assets/images/header.jpg
 header_pos: 50% 50%
 ---
 
