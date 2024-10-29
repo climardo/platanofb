@@ -6231,6 +6231,843 @@
     {
         "week": 8,
         "contest_id": 169036416,
-        "contest_start": "Oct 24, 2024 20:15:00"
+        "contest_start": "Oct 24, 2024 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "glopez28",
+                "fantasyPoints": "188.45999",
+                "lineup": "DST Chiefs  FLEX Kareem Hunt QB Jameis Winston RB Derrick Henry RB De'Von Achane TE Cade Otton WR Malik Nabers WR Marvin Harrison Jr. WR Cedric Tillman"
+            },
+            {
+                "rank": "2",
+                "userName": "ismeyo",
+                "fantasyPoints": "182.86002",
+                "lineup": "DST 49ers  FLEX De'Von Achane QB Bo Nix RB Breece Hall RB Bijan Robinson TE Cade Otton WR Ja'Marr Chase WR Jaylen Waddle WR Cedric Tillman"
+            },
+            {
+                "rank": "3",
+                "userName": "g_mendoza",
+                "fantasyPoints": "147.8",
+                "lineup": "DST Chargers  FLEX Javonte Williams QB Brock Purdy RB Breece Hall RB Kareem Hunt TE Kyle Pitts WR Tyreek Hill WR Romeo Doubs WR Cedric Tillman"
+            },
+            {
+                "rank": "4",
+                "userName": "MattyDel14",
+                "fantasyPoints": "147.54001",
+                "lineup": "DST Broncos  FLEX Kareem Hunt QB Kirk Cousins RB Joe Mixon RB Breece Hall TE Tucker Kraft WR Drake London WR Jalen McMillan WR Cedric Tillman"
+            },
+            {
+                "rank": "5",
+                "userName": "rahianr",
+                "fantasyPoints": "142.14",
+                "lineup": "DST Chargers  FLEX Javonte Williams QB Jordan Love RB Joe Mixon RB Kareem Hunt TE Tucker Kraft WR Darnell Mooney WR Romeo Doubs WR Cedric Tillman"
+            },
+            {
+                "rank": "6",
+                "userName": "ejmesa",
+                "fantasyPoints": "140.08",
+                "lineup": "DST Chiefs  FLEX DJ Moore QB Patrick Mahomes RB Bijan Robinson RB Josh Jacobs TE Cade Otton WR Stefon Diggs WR Troy Franklin WR Ricky Pearsall"
+            },
+            {
+                "rank": "7",
+                "userName": "olivadotij",
+                "fantasyPoints": "139.64",
+                "lineup": "DST Packers  FLEX D'Andre Swift QB Kirk Cousins RB Aaron Jones RB Javonte Williams TE Cade Otton WR Davante Adams WR Tyreek Hill WR Ricky Pearsall"
+            },
+            {
+                "rank": "8",
+                "userName": "climardo",
+                "fantasyPoints": "138.86",
+                "lineup": "DST Cowboys  FLEX Josh Jacobs QB Bo Nix RB Kareem Hunt RB Javonte Williams TE Cade Otton WR Tyreek Hill WR Tank Dell WR Amari Cooper"
+            },
+            {
+                "rank": "9",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": "132.54001",
+                "lineup": "DST Rams  FLEX Sterling Shepard QB Jordan Love RB Bijan Robinson RB James Cook TE Dalton Kincaid WR DeVonta Smith WR Khalil Shakir WR Jalen Nailor"
+            },
+            {
+                "rank": "10",
+                "userName": "geedee3",
+                "fantasyPoints": "126.520004",
+                "lineup": "DST Broncos  FLEX Josh Jacobs QB Trevor Lawrence RB Derrick Henry RB J.K. Dobbins TE Nick Vannett WR Terry McLaurin WR Keenan Allen WR Sterling Shepard"
+            },
+            {
+                "rank": "11",
+                "userName": "hlimardo",
+                "fantasyPoints": "126.18001",
+                "lineup": "DST Packers  FLEX Sterling Shepard QB Bo Nix RB Derrick Henry RB Breece Hall TE Kyle Pitts WR Drake London WR Courtland Sutton WR Rome Odunze"
+            },
+            {
+                "rank": "12",
+                "userName": "Dash7",
+                "fantasyPoints": "119.740005",
+                "lineup": "DST 49ers  FLEX Bijan Robinson QB Kirk Cousins RB Javonte Williams RB Rachaad White TE Cole Kmet WR Davante Adams WR Keon Coleman WR Rashod Bateman"
+            },
+            {
+                "rank": "13",
+                "userName": "AmesSB",
+                "fantasyPoints": "118.38",
+                "lineup": "DST Lions  FLEX N'Keal Harry QB Patrick Mahomes RB Kareem Hunt RB Ameer Abdullah TE Travis Kelce WR Justin Jefferson WR Jaxon Smith-Njigba WR Jalen Tolbert"
+            },
+            {
+                "rank": "14",
+                "userName": "pshhidk",
+                "fantasyPoints": "117.119995",
+                "lineup": "DST Broncos  FLEX George Pickens QB Russell Wilson RB Joe Mixon RB Kareem Hunt TE Cade Otton WR Jameson Williams WR Romeo Doubs WR DeAndre Hopkins"
+            },
+            {
+                "rank": "15",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": "58",
+                "lineup": "DST Patriots  FLEX Amari Cooper QB Anthony Richardson RB Jordan Mason RB Rico Dowdle TE Evan Engram WR DJ Moore WR Jaylen Waddle WR Jerry Jeudy"
+            }
+        ],
+        "mvp": {
+            "playerId": 1062020,
+            "playerDkId": 485450,
+            "firstName": "CeeDee",
+            "lastName": "Lamb",
+            "teamId": 331,
+            "position": "WR",
+            "salary": 8600,
+            "fantasyPoints": 42.6,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 146
+                },
+                {
+                    "statId": 44,
+                    "total": 13
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 17
+                },
+                {
+                    "statId": 82,
+                    "total": 29
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 2
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 46
+                },
+                {
+                    "statId": 1080,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 146
+                },
+                {
+                    "statId": 1837,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6019243,
+            "points": 42.6,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-10-28T00:20:00.0000000Z",
+            "weekNumber": 8,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485450.png",
+            "teamCity": "Dallas",
+            "teamName": "Cowboys",
+            "teamAbbreviation": "DAL",
+            "opposingTeamCity": "San Francisco",
+            "opposingTeamName": "49ers",
+            "opposingTeamAbbreviation": "SF",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 99
+                },
+                {
+                    "statId": 41,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 8.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 27.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 87,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 88,
+                    "total": 99
+                },
+                {
+                    "statId": 89,
+                    "total": 12.115
+                },
+                {
+                    "statId": 90,
+                    "total": 23.3667
+                },
+                {
+                    "statId": 91,
+                    "total": 23.3667
+                },
+                {
+                    "statId": 92,
+                    "total": 8666.6667
+                },
+                {
+                    "statId": 93,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 13.3333
+                },
+                {
+                    "statId": 527,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 528,
+                    "total": 8.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 100.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 100.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1837,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 23.3667,
+            "fantasyPointsPerSalary": 0.004953488372093024,
+            "displayName": "CeeDee Lamb"
+        },
+        "bust": {
+            "playerId": 1107826,
+            "playerDkId": 485498,
+            "firstName": "Antonio",
+            "lastName": "Gibson",
+            "teamId": 348,
+            "position": "RB",
+            "salary": 5400,
+            "fantasyPoints": 0.6,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 6
+                },
+                {
+                    "statId": 43,
+                    "total": 5
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": 2
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 6
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6018991,
+            "points": 0.6,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-10-27T17:00:00.0000000Z",
+            "weekNumber": 8,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485498.png",
+            "teamCity": "New England",
+            "teamName": "Patriots",
+            "teamAbbreviation": "NE",
+            "opposingTeamCity": "New York",
+            "opposingTeamName": "Jets",
+            "opposingTeamAbbreviation": "NYJ",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 40,
+                    "total": 11
+                },
+                {
+                    "statId": 41,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 7
+                },
+                {
+                    "statId": 44,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 4
+                },
+                {
+                    "statId": 82,
+                    "total": 7
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 87,
+                    "total": 1.3317
+                },
+                {
+                    "statId": 88,
+                    "total": 11
+                },
+                {
+                    "statId": 89,
+                    "total": 5.6667
+                },
+                {
+                    "statId": 90,
+                    "total": 3.4
+                },
+                {
+                    "statId": 91,
+                    "total": 3.4
+                },
+                {
+                    "statId": 92,
+                    "total": 5433.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 527,
+                    "total": 7
+                },
+                {
+                    "statId": 528,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 1800,
+                    "total": 20.6667
+                },
+                {
+                    "statId": 1801,
+                    "total": 20.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 3.4,
+            "fantasyPointsPerSalary": 0.0001111111111111111,
+            "displayName": "Antonio Gibson"
+        },
+        "sleeper": {
+            "playerId": 1124664,
+            "playerDkId": 706549,
+            "firstName": "Cedric",
+            "lastName": "Tillman",
+            "teamId": 329,
+            "position": "WR",
+            "salary": 3300,
+            "fantasyPoints": 28.9,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 99
+                },
+                {
+                    "statId": 44,
+                    "total": 7
+                },
+                {
+                    "statId": 467,
+                    "total": 9
+                },
+                {
+                    "statId": 82,
+                    "total": 38
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 2
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 99
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6018859,
+            "points": 28.9,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-10-27T17:00:00.0000000Z",
+            "weekNumber": 8,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/706549.png",
+            "teamCity": "Cleveland",
+            "teamName": "Browns",
+            "teamAbbreviation": "CLE",
+            "opposingTeamCity": "Baltimore",
+            "opposingTeamName": "Ravens",
+            "opposingTeamAbbreviation": "BAL",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 60
+                },
+                {
+                    "statId": 41,
+                    "total": -1.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 51,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": -1.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 21
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": -1.6667
+                },
+                {
+                    "statId": 87,
+                    "total": -1.6667
+                },
+                {
+                    "statId": 88,
+                    "total": 60
+                },
+                {
+                    "statId": 89,
+                    "total": 8.0893
+                },
+                {
+                    "statId": 90,
+                    "total": 15.5
+                },
+                {
+                    "statId": 91,
+                    "total": 15.5
+                },
+                {
+                    "statId": 92,
+                    "total": 3100
+                },
+                {
+                    "statId": 93,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 7
+                },
+                {
+                    "statId": 527,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 5
+                },
+                {
+                    "statId": 983,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 998,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1800,
+                    "total": 58.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 58.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 15.5,
+            "fantasyPointsPerSalary": 0.008757575757575757,
+            "displayName": "Cedric Tillman"
+        },
+        "draft_dodger": {
+            "playerId": 1062020,
+            "playerDkId": 485450,
+            "firstName": "CeeDee",
+            "lastName": "Lamb",
+            "teamId": 331,
+            "position": "WR",
+            "salary": 8600,
+            "fantasyPoints": 42.6,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 146
+                },
+                {
+                    "statId": 44,
+                    "total": 13
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 17
+                },
+                {
+                    "statId": 82,
+                    "total": 29
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 2
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 46
+                },
+                {
+                    "statId": 1080,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 146
+                },
+                {
+                    "statId": 1837,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6019243,
+            "points": 42.6,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-10-28T00:20:00.0000000Z",
+            "weekNumber": 8,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/485450.png",
+            "teamCity": "Dallas",
+            "teamName": "Cowboys",
+            "teamAbbreviation": "DAL",
+            "opposingTeamCity": "San Francisco",
+            "opposingTeamName": "49ers",
+            "opposingTeamAbbreviation": "SF",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 99
+                },
+                {
+                    "statId": 41,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 44,
+                    "total": 8.3333
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 27.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 87,
+                    "total": 1.3333
+                },
+                {
+                    "statId": 88,
+                    "total": 99
+                },
+                {
+                    "statId": 89,
+                    "total": 12.115
+                },
+                {
+                    "statId": 90,
+                    "total": 23.3667
+                },
+                {
+                    "statId": 91,
+                    "total": 23.3667
+                },
+                {
+                    "statId": 92,
+                    "total": 8666.6667
+                },
+                {
+                    "statId": 93,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 13.3333
+                },
+                {
+                    "statId": 527,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 528,
+                    "total": 8.3333
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 15.3333
+                },
+                {
+                    "statId": 1080,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 100.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 100.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1837,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 23.3667,
+            "fantasyPointsPerSalary": 0.004953488372093024,
+            "displayName": "CeeDee Lamb"
+        }
+    },
+    {
+        "week": 9,
+        "contest_id": 169450804,
+        "contest_start": "Oct 31, 2024 20:15:00"
     }
 ]
