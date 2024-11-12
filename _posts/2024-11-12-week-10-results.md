@@ -1,7 +1,7 @@
 ---
-title: 2024 Week 9 Results
+title: 2024 Week 10 Results
 year: 2024
-week: 9
+week: 10
 layout: post
 author: climardo
 header_image: /assets/images/header.jpg
