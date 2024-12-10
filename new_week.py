@@ -50,7 +50,7 @@ def csv_to_json(csv_file=csv_file):
                 member = {
                     "rank": row['Rank'],
                     "userName": row['EntryName'],
-                    "fantasyPoints": row['Points'],
+                    "fantasyPoints": round(float(row['Points']), 2),
                     "lineup": row['Lineup']
                 }
                 # Add the new dict to the array
