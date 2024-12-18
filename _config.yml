@@ -1,2 +1,7 @@
 incremental: true
 force_polling: true
+plugins:
+- jekykll-feed
+title: Platanofb Fantasy Football League
+description: Where bragging rights are earned
+author: Commissioner Maduro
