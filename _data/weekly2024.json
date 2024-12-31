@@ -14335,6 +14335,830 @@
     {
         "week": 17,
         "contest_id": 172185691,
-        "contest_start": "Dec 26, 2024 20:15:00"
+        "contest_start": "Dec 26, 2024 20:15:00",
+        "members": [
+            {
+                "rank": "1",
+                "userName": "rahianr",
+                "fantasyPoints": 177.38,
+                "lineup": "DST Browns  FLEX Breece Hall QB Brock Purdy RB Jonathan Taylor RB Ameer Abdullah TE Chig Okonkwo WR Brian Thomas Jr. WR Jauan Jennings WR Adam Thielen"
+            },
+            {
+                "rank": "2",
+                "userName": "g_mendoza",
+                "fantasyPoints": 174.28,
+                "lineup": "DST Raiders  FLEX Bucky Irving QB Brock Purdy RB Jahmyr Gibbs RB Zach Charbonnet TE Chig Okonkwo WR Jauan Jennings WR Adam Thielen WR Jalen Coker"
+            },
+            {
+                "rank": "3",
+                "userName": "MattyDel14",
+                "fantasyPoints": 165.06,
+                "lineup": "DST Eagles  FLEX Adam Thielen QB Baker Mayfield RB Zach Charbonnet RB Tyjae Spears TE Tucker Kraft WR Mike Evans WR Keenan Allen WR Deebo Samuel Sr."
+            },
+            {
+                "rank": "4",
+                "userName": "DarbyDiaz3",
+                "fantasyPoints": 160.76,
+                "lineup": "DST Jaguars  FLEX Tyjae Spears QB Baker Mayfield RB Aaron Jones Sr. RB D'Andre Swift TE Tucker Kraft WR Mike Evans WR Deebo Samuel Sr. WR Adam Thielen"
+            },
+            {
+                "rank": "5",
+                "userName": "ismeyo",
+                "fantasyPoints": 160.48,
+                "lineup": "DST Raiders  FLEX Jahmyr Gibbs QB Jayden Daniels RB Tyjae Spears RB Ameer Abdullah TE Chig Okonkwo WR Terry McLaurin WR Jauan Jennings WR Olamide Zaccheaus"
+            },
+            {
+                "rank": "6",
+                "userName": "climardo",
+                "fantasyPoints": 148.1,
+                "lineup": "DST Raiders  FLEX Jalen McMillan QB Joe Flacco RB Jahmyr Gibbs RB Bucky Irving TE Chig Okonkwo WR Terry McLaurin WR Jordan Addison WR Josh Downs"
+            },
+            {
+                "rank": "7",
+                "userName": "hlimardo",
+                "fantasyPoints": 130.02,
+                "lineup": "DST Colts  FLEX Sam LaPorta QB Bryce Young RB Jonathan Taylor RB Tyjae Spears TE Noah Fant WR Terry McLaurin WR Ladd McConkey WR Marvin Harrison Jr."
+            },
+            {
+                "rank": "8",
+                "userName": "BrunoDiaz",
+                "fantasyPoints": 122.78,
+                "lineup": "DST Colts  FLEX Cooper Kupp QB Jayden Daniels RB Jonathan Taylor RB Zach Charbonnet TE Tucker Kraft WR Mike Evans WR Andrei Iosivas WR Luke McCaffrey"
+            },
+            {
+                "rank": "9",
+                "userName": "geedee3",
+                "fantasyPoints": 112.68,
+                "lineup": "DST Jets  FLEX Jonathan Taylor QB Jayden Daniels RB Kyren Williams RB Rachaad White TE Tommy Tremble WR Tyreek Hill WR DK Metcalf WR K.J. Osborn"
+            },
+            {
+                "rank": "10",
+                "userName": "olivadotij",
+                "fantasyPoints": 107.98,
+                "lineup": "DST Raiders  FLEX Jakobi Meyers QB Cooper Rush RB Aaron Jones Sr. RB Tyrone Tracy Jr. TE Austin Hooper WR Mike Evans WR Terry McLaurin WR Jauan Jennings"
+            },
+            {
+                "rank": "11",
+                "userName": "pshhidk",
+                "fantasyPoints": 96.0,
+                "lineup": "DST Colts  FLEX Jalen Tolbert QB Anthony Richardson RB Jahmyr Gibbs RB Jonathan Taylor TE Dalton Kincaid WR Courtland Sutton WR Josh Downs WR Tim Patrick"
+            },
+            {
+                "rank": "12",
+                "userName": "Dash7",
+                "fantasyPoints": 88.16,
+                "lineup": "DST Cowboys  FLEX Courtland Sutton QB Matthew Stafford RB Bucky Irving RB Tyjae Spears TE Sam LaPorta WR Terry McLaurin WR Jayden Reed WR Darnell Mooney"
+            },
+            {
+                "rank": "13",
+                "userName": "glopez28",
+                "fantasyPoints": 83.06,
+                "lineup": "DST Colts  FLEX Zach Charbonnet QB Matthew Stafford RB Chuba Hubbard RB Bucky Irving TE Hunter Henry WR Brian Thomas Jr. WR Jauan Jennings WR Ray-Ray McCloud III"
+            }
+        ],
+        "mvp": {
+            "playerId": 978579,
+            "playerDkId": 468715,
+            "firstName": "Tee",
+            "lastName": "Higgins",
+            "teamId": 327,
+            "position": "WR",
+            "salary": 6900,
+            "fantasyPoints": 44.1,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 131
+                },
+                {
+                    "statId": 44,
+                    "total": 11
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 50,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 82,
+                    "total": 31
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 31
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 131
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6020071,
+            "points": 44.1,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-12-28T21:30:00.0000000Z",
+            "weekNumber": 17,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/468715.png",
+            "teamCity": "Cincinnati",
+            "teamName": "Bengals",
+            "teamAbbreviation": "CIN",
+            "opposingTeamCity": "Denver",
+            "opposingTeamName": "Broncos",
+            "opposingTeamAbbreviation": "DEN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 92.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 8
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 30
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 92.3333
+                },
+                {
+                    "statId": 89,
+                    "total": 12.253
+                },
+                {
+                    "statId": 90,
+                    "total": 27.9
+                },
+                {
+                    "statId": 91,
+                    "total": 27.9
+                },
+                {
+                    "statId": 92,
+                    "total": 6833.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 8
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 92.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 92.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 1.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 27.9,
+            "fantasyPointsPerSalary": 0.006391304347826087,
+            "displayName": "Tee Higgins"
+        },
+        "bust": {
+            "playerId": 1174682,
+            "playerDkId": 560810,
+            "firstName": "Rhamondre",
+            "lastName": "Stevenson",
+            "teamId": 348,
+            "position": "RB",
+            "salary": 5700,
+            "fantasyPoints": 0.1,
+            "stats": [
+                {
+                    "statId": 41,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 1
+                },
+                {
+                    "statId": 43,
+                    "total": 2
+                },
+                {
+                    "statId": 81,
+                    "total": 5
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 1
+                }
+            ],
+            "valueIcon": "ice",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6020095,
+            "points": 0.1,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-12-28T18:00:00.0000000Z",
+            "weekNumber": 17,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/560810.png",
+            "teamCity": "New England",
+            "teamName": "Patriots",
+            "teamAbbreviation": "NE",
+            "opposingTeamCity": "Los Angeles",
+            "opposingTeamName": "Chargers",
+            "opposingTeamAbbreviation": "LAC",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 38,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 40,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 43.3333
+                },
+                {
+                    "statId": 43,
+                    "total": 9
+                },
+                {
+                    "statId": 44,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 11.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 43.3333
+                },
+                {
+                    "statId": 87,
+                    "total": 3.6027
+                },
+                {
+                    "statId": 88,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 89,
+                    "total": 9.6667
+                },
+                {
+                    "statId": 90,
+                    "total": 7.6333
+                },
+                {
+                    "statId": 91,
+                    "total": 7.6333
+                },
+                {
+                    "statId": 92,
+                    "total": 5833.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 467,
+                    "total": 1
+                },
+                {
+                    "statId": 527,
+                    "total": 9
+                },
+                {
+                    "statId": 528,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1217,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1800,
+                    "total": 53
+                },
+                {
+                    "statId": 1801,
+                    "total": 53
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.3333
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 7.6333,
+            "fantasyPointsPerSalary": 1.754385964912281e-05,
+            "displayName": "Rhamondre Stevenson"
+        },
+        "sleeper": {
+            "playerId": 1213799,
+            "playerDkId": 706541,
+            "firstName": "Marvin",
+            "lastName": "Mims Jr.",
+            "teamId": 332,
+            "position": "WR",
+            "salary": 3900,
+            "fantasyPoints": 33.2,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 2
+                },
+                {
+                    "statId": 40,
+                    "total": 103
+                },
+                {
+                    "statId": 41,
+                    "total": -1
+                },
+                {
+                    "statId": 44,
+                    "total": 8
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 8
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 81,
+                    "total": -1
+                },
+                {
+                    "statId": 82,
+                    "total": 51
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 2
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 999,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 3
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 102
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6020071,
+            "points": 33.2,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-12-28T21:30:00.0000000Z",
+            "weekNumber": 17,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/706541.png",
+            "teamCity": "Denver",
+            "teamName": "Broncos",
+            "teamAbbreviation": "DEN",
+            "opposingTeamCity": "Cincinnati",
+            "opposingTeamName": "Bengals",
+            "opposingTeamAbbreviation": "CIN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 61.6667
+                },
+                {
+                    "statId": 41,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 43,
+                    "total": 1
+                },
+                {
+                    "statId": 44,
+                    "total": 5
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 81,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 82,
+                    "total": 38.3333
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 86,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 87,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 88,
+                    "total": 61.6667
+                },
+                {
+                    "statId": 89,
+                    "total": 12.8473
+                },
+                {
+                    "statId": 90,
+                    "total": 16.2333
+                },
+                {
+                    "statId": 91,
+                    "total": 16.2333
+                },
+                {
+                    "statId": 92,
+                    "total": 3933.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 5.6667
+                },
+                {
+                    "statId": 527,
+                    "total": 1
+                },
+                {
+                    "statId": 528,
+                    "total": 5
+                },
+                {
+                    "statId": 983,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 999,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1011,
+                    "total": 1
+                },
+                {
+                    "statId": 1218,
+                    "total": 0.6667
+                },
+                {
+                    "statId": 1800,
+                    "total": 62.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 62.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 0.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 16.2333,
+            "fantasyPointsPerSalary": 0.008512820512820514,
+            "displayName": "Marvin Mims Jr."
+        },
+        "draft_dodger": {
+            "playerId": 978579,
+            "playerDkId": 468715,
+            "firstName": "Tee",
+            "lastName": "Higgins",
+            "teamId": 327,
+            "position": "WR",
+            "salary": 6900,
+            "fantasyPoints": 44.1,
+            "stats": [
+                {
+                    "statId": 37,
+                    "total": 3
+                },
+                {
+                    "statId": 40,
+                    "total": 131
+                },
+                {
+                    "statId": 44,
+                    "total": 11
+                },
+                {
+                    "statId": 49,
+                    "total": 1
+                },
+                {
+                    "statId": 50,
+                    "total": 1
+                },
+                {
+                    "statId": 467,
+                    "total": 12
+                },
+                {
+                    "statId": 74,
+                    "total": 1
+                },
+                {
+                    "statId": 82,
+                    "total": 31
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 93,
+                    "total": 3
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 31
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 131
+                }
+            ],
+            "valueIcon": "fire",
+            "attributes": {},
+            "playerStates": [],
+            "gameId": 6020071,
+            "points": 44.1,
+            "sport": "nfl",
+            "gameStatus": "liveOrFinal",
+            "gameStartTime": "2024-12-28T21:30:00.0000000Z",
+            "weekNumber": 17,
+            "imageUrl": "https://dkn.gs/sports/images/nfl/players/160/468715.png",
+            "teamCity": "Cincinnati",
+            "teamName": "Bengals",
+            "teamAbbreviation": "CIN",
+            "opposingTeamCity": "Denver",
+            "opposingTeamName": "Broncos",
+            "opposingTeamAbbreviation": "DEN",
+            "fantasyStatsPerGame": [
+                {
+                    "statId": 37,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 40,
+                    "total": 92.3333
+                },
+                {
+                    "statId": 44,
+                    "total": 8
+                },
+                {
+                    "statId": 49,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 50,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 74,
+                    "total": 0.3333
+                },
+                {
+                    "statId": 82,
+                    "total": 30
+                },
+                {
+                    "statId": 84,
+                    "total": 1
+                },
+                {
+                    "statId": 88,
+                    "total": 92.3333
+                },
+                {
+                    "statId": 89,
+                    "total": 12.253
+                },
+                {
+                    "statId": 90,
+                    "total": 27.9
+                },
+                {
+                    "statId": 91,
+                    "total": 27.9
+                },
+                {
+                    "statId": 92,
+                    "total": 6833.3333
+                },
+                {
+                    "statId": 93,
+                    "total": 1.6667
+                },
+                {
+                    "statId": 467,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 528,
+                    "total": 8
+                },
+                {
+                    "statId": 983,
+                    "total": 1
+                },
+                {
+                    "statId": 998,
+                    "total": 1
+                },
+                {
+                    "statId": 1011,
+                    "total": 10.3333
+                },
+                {
+                    "statId": 1218,
+                    "total": 1
+                },
+                {
+                    "statId": 1800,
+                    "total": 92.3333
+                },
+                {
+                    "statId": 1801,
+                    "total": 92.3333
+                },
+                {
+                    "statId": 1802,
+                    "total": 1.6667
+                }
+            ],
+            "fantasyStatsNumGames": 3,
+            "fantasyPointsPerGame": 27.9,
+            "fantasyPointsPerSalary": 0.006391304347826087,
+            "displayName": "Tee Higgins"
+        }
     }
 ]
