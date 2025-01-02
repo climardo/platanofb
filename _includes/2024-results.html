@@ -1,6 +1,7 @@
 <div class="container">
 	<h3>2024 Contests</h3>
 {% for week in site.data.weekly2024 %}
+    {% assign week_index = forloop.index %}
     {% if week.members %}
         {% assign oddeven = week.week | modulo:2 %}
         {% if oddeven == 1 %}
@@ -9,8 +10,26 @@
                 <div class="col">
                     <h5><a href="https://www.draftkings.com/contest/gamecenter/{{week.contest_id}}" target="_blank">Week {{ week.week }}</a></h5>
                     <ol>
-                        {% for member in week.members limit:3 %}
-                        <li><b>{{ member.userName }}</b> <small class="text-muted">{{ member.fantasyPoints }} fpts</small></li>
+                        {% for member in week.members limit: 3 %}
+                            {% assign member_index = forloop.index %}
+                            {% assign earned_total = 0 %}
+                            {% for inner_week in site.data.weekly2024 limit: week_index %}
+                                {% for inner_member in inner_week.members %}
+                                    {% if inner_member.userName == member.userName %}
+                                        {% case inner_member.rank %}
+                                            {% when '1' %}
+                                            {% assign earned_total = earned_total | plus: 34 %}
+                                            {% when '2' %}
+                                            {% assign earned_total = earned_total | plus: 14 %}
+                                            {% when '3' %}
+                                            {% assign earned_total = earned_total | plus: 8 %}
+                                            {% else %}
+                                            {% assign earned_total = earned_total | plus: 0 %}
+                                        {% endcase %}
+                                    {% endif %}
+                                {% endfor %}
+                            {% endfor %}
+                            <li><b>{{ member.userName }}</b> <small class="text-muted">{{ member.fantasyPoints }} fpts, ${{ earned_total }}</small></li>
                         {% endfor %}
                     </ol>
                 </div>
